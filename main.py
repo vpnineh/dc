@@ -51,8 +51,8 @@ class AppConfig:
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
-    REMOTE_TELEGRAM_CHANNELS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/telegram-channel.json"
-    REMOTE_SUBSCRIPTION_LINKS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/subscription_links.json"
+    REMOTE_TELEGRAM_CHANNELS_URL = "https://raw.githubusercontent.com/vpnineh/dc/refs/heads/main/data/telegram-channel.json"
+    REMOTE_SUBSCRIPTION_LINKS_URL = "https://raw.githubusercontent.com/vpnineh/dc/refs/heads/main/data/subscription_links.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 

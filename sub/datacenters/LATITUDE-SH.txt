@@ -1,0 +1,1 @@
+vless://fe2bad2c-a7a8-43c6-9042-e37cb049fa62@mx1.connecton.surf:443?type=ws&security=tls&path=/vless#MX 🇲🇽 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 45.134.9.98

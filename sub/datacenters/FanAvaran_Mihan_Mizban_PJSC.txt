@@ -1,1 +1,0 @@
-vless://b55883a8-96ce-4586-9e19-533044842b23@85.133.202.69:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.69

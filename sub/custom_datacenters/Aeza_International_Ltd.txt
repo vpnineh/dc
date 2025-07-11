@@ -1,1 +1,2 @@
 vless://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Aeza International Ltd ┇ 62.60.178.63
+vless://0658d669-cf10-469e-a932-6d2144d58d48@62.60.176.30:48356?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.176.30

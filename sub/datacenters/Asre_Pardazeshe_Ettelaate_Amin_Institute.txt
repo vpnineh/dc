@@ -1,2 +1,2 @@
-vless://e2fbf3d5-c6bc-475f-8159-91d049c8065c@ge4-ir.shahinstore1.com:94?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.229.204.140
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.77
+vless://e2fbf3d5-c6bc-475f-8159-91d049c8065c@ge4-ir.shahinstore1.com:94?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.229.204.140

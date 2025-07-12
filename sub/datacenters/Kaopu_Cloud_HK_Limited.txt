@@ -1,2 +1,0 @@
-vless://a9a195f1-d09e-4923-8fd2-402a412d8130@bg-vip.digitalldns.net:8080?type=tcp&security=none&path=/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.247.99
-vless://a9a195f1-d09e-4923-8fd2-402a412d8130@usa-vip.digitalldns.net:8080?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.46.245

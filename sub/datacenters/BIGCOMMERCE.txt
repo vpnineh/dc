@@ -1,1 +1,2 @@
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.20
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.200.160.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.254

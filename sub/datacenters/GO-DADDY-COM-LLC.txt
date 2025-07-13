@@ -1,2 +1,2 @@
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.153.138.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.177
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@160.153.1.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.77
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.153.138.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.138.177

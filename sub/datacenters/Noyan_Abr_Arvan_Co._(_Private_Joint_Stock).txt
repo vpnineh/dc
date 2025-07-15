@@ -1,1 +1,1 @@
-vless://389134b2-25d4-4caf-88a7-25841f97b1a9@officiallythestateofpalestine.digitall-id.com:8080?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 188.121.120.86
+vless://389134b2-25d4-4caf-88a7-25841f97b1a9@officiallythestateofpalestine.digitall-id.com:8080?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.231.183.70

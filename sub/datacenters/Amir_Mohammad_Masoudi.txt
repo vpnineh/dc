@@ -1,1 +1,0 @@
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.243.51.67

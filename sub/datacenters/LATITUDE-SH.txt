@@ -1,2 +1,1 @@
-vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - LATITUDE-SH ┇ 172.111.146.64
 vless://fe2bad2c-a7a8-43c6-9042-e37cb049fa62@mx1.connecton.surf:443?type=ws&security=tls&path=/vless#MX 🇲🇽 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 45.134.9.98

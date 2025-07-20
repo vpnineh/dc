@@ -1,1 +1,1 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@69.84.182.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 69.84.182.29
+vless://17034eef-9472-45cc-bca5-a71f90e36244@198.62.62.162:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 198.62.62.162

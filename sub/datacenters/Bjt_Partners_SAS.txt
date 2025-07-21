@@ -1,1 +1,1 @@
-vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?type=httpupgrade&security=none&path=/XRAYVPNHTTPUPGRADE#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Bjt Partners SAS ┇ 185.16.110.5
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?type=httpupgrade&security=none&path=/XRAYVPNHTTPUPGRADE#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Bjt Partners SAS ┇ 185.16.110.6

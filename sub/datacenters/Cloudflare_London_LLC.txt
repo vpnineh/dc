@@ -1,4 +1,5 @@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 94.140.0.109
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?type=httpupgrade&security=none&path=/XRAYVPNHTTPUPGRADE#CY 🇨🇾 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 154.92.9.9
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.131.6.87:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr#NL 🇳🇱 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.131.6.87
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.107.101:8080?type=ws&security=none&path=/GV3NuHE1UyFgA5M5/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed=2560#RU 🇷🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.148.107.101
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@147.185.161.164:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2#US 🇺🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 147.185.161.164

@@ -1,5 +1,2 @@
-vless://c4a65401-26fc-4ff8-9150-1d0296dd1e85@uae-vip.digitalldns.net:8080?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.220
 vless://a3eb922b-6f90-40ed-849d-715074bc31cd@officiallythestateofpalestine.digitall-id.com:8080?type=tcp&security=none&path=/#LU 🇱🇺 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.56.148
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
-vless://c4a65401-26fc-4ff8-9150-1d0296dd1e85@tr-vip.digitalldns.net:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.56
-vless://c4a65401-26fc-4ff8-9150-1d0296dd1e85@usa-vip.digitalldns.net:8080?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 162.216.231.101

@@ -1,2 +1,1 @@
 vless://b6e8ccd3-aa5d-4a7a-98ec-79d2938ebf16@172.236.241.237:2321?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.236.241.237
-vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@45.33.26.170:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 45.33.26.170

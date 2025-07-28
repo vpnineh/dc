@@ -1,2 +1,2 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.29:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.29
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.29
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.29:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.29

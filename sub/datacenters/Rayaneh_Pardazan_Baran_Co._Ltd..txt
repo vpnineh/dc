@@ -1,1 +1,1 @@
-vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?type=httpupgrade&security=none&path=/XRAYVPNHTTPUPGRADE#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Rayaneh Pardazan Baran Co. Ltd. ┇ 37.32.126.240
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?type=httpupgrade&security=none&path=/XRAYVPNHTTPUPGRADE#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Rayaneh Pardazan Baran Co. Ltd. ┇ 37.32.126.236

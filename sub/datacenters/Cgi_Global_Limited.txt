@@ -1,2 +1,2 @@
-vless://a20b98fa-b807-4847-a6c4-e54b72391221@or.looksvpn.okreza151m.ir:9901?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.97.169
 vless://a20b98fa-b807-4847-a6c4-e54b72391221@france2.okreza151m.ir:6719?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 95.182.97.169
+vless://a20b98fa-b807-4847-a6c4-e54b72391221@or.looksvpn.okreza151m.ir:9901?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.97.169

@@ -1,1 +1,0 @@
-vless://640934db-a21c-4e58-b8a8-c2fcbe594b1b@tnl15.radnikmax.ir:8098?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.116.64

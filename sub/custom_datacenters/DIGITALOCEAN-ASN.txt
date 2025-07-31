@@ -1,1 +1,5 @@
 vless://81ed7265-be10-498b-c96f-46789e81ac88@104.248.105.52:45877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 104.248.105.52
+vless://5f3b254e-f114-4ae2-8294-33f760833114@msx.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#GB 🇬🇧 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 134.122.99.181
+vless://5f3b254e-f114-4ae2-8294-33f760833114@mx.soft98speedtest.ir:2053?type=ws&security=none&path=/scer#NL 🇳🇱 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 188.166.1.35
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBESUdJVEFMT0NFQU4tQVNOIFx1MjUwNyAxNTcuMjQ1LjgzLjU3IiwiYWRkIjoiY2cxYzA3LndhaW1hb2dsb2JhbGRpcmVjdC5jYyIsInBvcnQiOjQ0MywiaWQiOiI2ZmM4NGZkMi0wNDQyLTQwNWYtYmFhNy02ZGFmNjZiODFhMTAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJ0bHMiOiJ0bHMifQ
+vless://5f3b254e-f114-4ae2-8294-33f760833114@mw.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#US 🇺🇸 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 204.48.23.47

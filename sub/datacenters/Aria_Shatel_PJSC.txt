@@ -1,2 +1,0 @@
-vless://5f3b254e-f114-4ae2-8294-33f760833114@tunell-rezidental.az9x99.ir:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.176.171
-vless://5f3b254e-f114-4ae2-8294-33f760833114@tunell-star.fastsoft98.ir:2010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.176.171

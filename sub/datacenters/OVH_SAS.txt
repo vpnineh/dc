@@ -1,2 +1,2 @@
-vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?type=ws&security=none&path=/vless/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.75.161.60
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?type=ws&security=none&path=/vless/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.68.189.39
+vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?type=ws&security=none&path=/vless/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.75.161.60

@@ -1,6 +1,6 @@
 vless://6f490b72-5aae-4601-a147-4d32945d403e@germanic-speakingpeoples.digitalldns.net:8080?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 202.78.163.147
 vless://6f490b72-5aae-4601-a147-4d32945d403e@finlandiyacumhuriyeti.digitalldns.net:8080?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.17.60
-vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
 vless://6f490b72-5aae-4601-a147-4d32945d403e@netherlandsisafounding.digitalldns.net:8080?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.80
+vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
 vless://6f490b72-5aae-4601-a147-4d32945d403e@theukisaconstitutional.digitalldns.net:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.250
 vless://6f490b72-5aae-4601-a147-4d32945d403e@locatedinnorthamerica.digitalldns.net:8080?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.28.137.178

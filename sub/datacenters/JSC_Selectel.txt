@@ -1,1 +1,1 @@
-vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 212.41.11.152
+vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 212.41.8.198

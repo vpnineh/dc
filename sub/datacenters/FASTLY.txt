@@ -1,3 +1,3 @@
 vless://yutlQRef@151.101.242.172:80?type=xhttp&security=none&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.242.172
 vless://c40d81ec-bd3f-4714-8cb2-9788414700d9@xn--rdekors-q1a.dk:443?type=ws&security=tls&sni=xn--rdekors-q1a.dk&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.130.133
-vless://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?type=ws&security=tls&path=/asl.mo.live.skornorth.com.zula.ir?ed=2048&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.202.133
+vless://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?type=ws&security=tls&path=/asl.mo.live.skornorth.com.zula.ir?ed=2048&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.30.133

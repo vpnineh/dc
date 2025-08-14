@@ -1,2 +1,1 @@
-vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@panbehnet.cinemapluss.ir:20321?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.178.19
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWV6YSBJbnRlcm5hdGlvbmFsIEx0ZCBcdTI1MDcgNjIuNjAuMTUyLjE3MCIsImFkZCI6IjYyLjYwLjE1Mi4xNzAiLCJwb3J0IjoyMDA4NiwiaWQiOiJkYmQ5YmVlYy00NTE5LTRhN2MtYjU5Yi0xZWE5MjUyZTNmNGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
+vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.178.19

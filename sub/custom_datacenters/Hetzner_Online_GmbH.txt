@@ -1,6 +1,7 @@
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.216.235:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.216.235
 vless://3d6687ef-de9f-4f66-9fd3-c8bf38826b3e@188.245.108.31:80?type=ws&security=none&path=/11921/wsgoogle#DE 🇩🇪 ┇ VLESS-WS-NTLS - Hetzner Online GmbH ┇ 188.245.108.31
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.214.30:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.214.30
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?type=xhttp&security=none&path=/awd/?@i10VPN?ed=2048#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Hetzner Online GmbH ┇ 91.99.3.72
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.169.188
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?type=xhttp&security=none&path=/sef#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Hetzner Online GmbH ┇ 91.99.11.112
 vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.136.208
 vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.117.223
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.214.30:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.214.30

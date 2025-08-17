@@ -1,7 +1,4 @@
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@d-iran-e.digitalldns.net:8080?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 202.78.163.147
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@u-iran-k.digitalldns.net:8080?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.107.159.182
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@n-iran-l.digitalldns.net:8080?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.80
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
 vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@t-iran-r.digitalldns.net:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.119
-vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.161.120
 vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@u-iran-s-a.digitalldns.net:8080?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 176.126.122.153
+vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.161.120

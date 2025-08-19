@@ -1,1 +1,1 @@
-vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.178.19
+vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@panbehnet.cinemapluss.ir:20321?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.178.19

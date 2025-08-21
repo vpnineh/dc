@@ -2,5 +2,6 @@ vless://a4f7b0c3-172e-4aa2-b8b9-9be08c68e43e@subfive.iranfreedomserver.com:20340
 vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.117.223
 vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?type=xhttp&security=none&path=/sef#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Hetzner Online GmbH ┇ 91.99.11.112
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.216.235:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.216.235
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.214.30:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.214.30
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?type=xhttp&security=none&path=/awd/?@i10VPN?ed=2048#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Hetzner Online GmbH ┇ 91.99.3.72
 vless://bbf2d5c3-cab5-445d-a9dc-fb4555ddaa79@helsinki-iran.digitalldns.net:8080?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.108.240.33

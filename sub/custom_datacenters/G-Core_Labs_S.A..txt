@@ -1,2 +1,3 @@
+vless://59f50a39-75be-43e6-9cb1-89d6a6aa4e1d@n-iran-l.digitalldns.net:8080?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.80
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.161.120

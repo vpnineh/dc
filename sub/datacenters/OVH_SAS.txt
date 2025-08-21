@@ -1,10 +1,11 @@
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 148.113.180.24
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 54.37.205.0
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 135.125.182.74
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.182:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 15.204.31.182
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.46:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 51.81.153.46
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.28.103:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 15.204.28.103
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.30.240:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 15.204.30.240
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.46:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 51.81.153.46
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.57:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 15.204.217.57
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.229:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 147.135.76.229
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.30.240:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 15.204.30.240
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.77.156:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 147.135.77.156
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@135.148.232.166:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 135.148.232.166
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.182:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 15.204.31.182
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.229:443?type=xhttp&security=none&path=/sef#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 147.135.76.229

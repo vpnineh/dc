@@ -1,2 +1,1 @@
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=lease-15.access.name.ng#GB 🇬🇧 ┇ VLESS-WS-TLS - Leaseweb UK Limited ┇ 104.17.148.22
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.17.147.22:8443?type=ws&security=tls&path=/&sni=lease-15.access.name.ng#GB 🇬🇧 ┇ VLESS-WS-TLS - Leaseweb UK Limited ┇ 104.17.147.22
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=lease-15.access.name.ng#GB 🇬🇧 ┇ VLESS-WS-TLS - Leaseweb UK Limited ┇ 104.17.147.22

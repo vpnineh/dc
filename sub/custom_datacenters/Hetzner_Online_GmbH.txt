@@ -1,2 +1,0 @@
-vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@tunell-ge.dsadsadads.ir:2087?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.56.163
-vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@rezidental.az9x99.ir:2053?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.56.163

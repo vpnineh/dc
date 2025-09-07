@@ -1,0 +1,1 @@
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&security=tls&path=/eJsVXFVZ6iavNx1EFxOyH861WH&sni=net2026.zanddynastyofpersia.org&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 95.179.160.22

@@ -1,0 +1,1 @@
+vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.236.36.134

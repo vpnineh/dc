@@ -1,0 +1,1 @@
+vless://abcdf5d9-d08a-4d23-8e63-dee8d85c76cc@lessless.duckdns.org:443?type=ws&security=tls&path=/getupdates#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC Baxet ┇ 195.133.11.229

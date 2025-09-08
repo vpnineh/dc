@@ -1,0 +1,2 @@
+vless://9f84ed30-e67b-45bb-983f-089c0f7541f7@in-sep4th.wimax.cc:443?type=ws&security=tls&path=/cat-photos/calico&sni=in-sep4th.wimax.cc#JP 🇯🇵 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.235.196.102
+vless://4c266060-28aa-4fd4-8286-86127e16b260@172.234.192.79:2321?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.234.192.79

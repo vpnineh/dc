@@ -1,6 +1,6 @@
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80?type=ws&security=none&path=/Telegram@V2ray_Alpha/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.80.111.147
-vless://7960071e-15ff-48d7-87cd-4b638650ba52@185.193.31.194:80?type=ws&security=none&path=/eyJqdW5rIjoiSUIxa2JUbkZjTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560#GB 🇬🇧 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.193.31.194
 vless://d6fef375-9809-5556-9687-dc0a4ccd521f@91.193.58.20:80?type=ws&security=none&path=/@TMCUSTOMIZE#GB 🇬🇧 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.193.58.20
+vless://7960071e-15ff-48d7-87cd-4b638650ba52@185.193.31.194:80?type=ws&security=none&path=/eyJqdW5rIjoiSUIxa2JUbkZjTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560#GB 🇬🇧 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.193.31.194
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80?type=ws&security=none&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot#GB 🇬🇧 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 102.177.189.28
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.127:8880?type=ws&security=none&path=/Telegram🇨🇳#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.127
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.67.3:8880?type=httpupgrade&security=none&path=/#LT 🇱🇹 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 88.216.67.3

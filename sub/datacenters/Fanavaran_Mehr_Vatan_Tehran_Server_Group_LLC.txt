@@ -1,3 +1,3 @@
-vless://92566454-6674-448a-849b-923daacfec25@sv3.abarhostco2.top:51343?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.107.83
-vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.137.12
 vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@gertu.topvmmarket.shop:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.223.14
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.137.12
+vless://92566454-6674-448a-849b-923daacfec25@sv3.abarhostco2.top:51343?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.107.83

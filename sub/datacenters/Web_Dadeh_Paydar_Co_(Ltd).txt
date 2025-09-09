@@ -1,2 +1,2 @@
-vless://d2275c3e-5aea-4083-a886-c330f22d5e21@base.apkfa.com:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.42
 vless://da72e3be-704c-4693-a8e2-9794d04633c4@hs.radmannetwork.shop:24951?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 5.159.49.24
+vless://d2275c3e-5aea-4083-a886-c330f22d5e21@base.apkfa.com:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.37

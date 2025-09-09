@@ -1,2 +1,2 @@
-vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?type=ws&security=tls&path=/vlessws&sni=v2ray.codefyinc.com#US 🇺🇸 ┇ VLESS-WS-TLS - NL-811-40021 ┇ 209.126.84.189
 vless://f300338b-c2e3-46dd-9d3f-d54c010dc989@vall.codefyinc.com:8443?type=ws&security=tls&path=/vlessws&sni=vall.codefyinc.com#US 🇺🇸 ┇ VLESS-WS-TLS - NL-811-40021 ┇ 154.53.40.110
+vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?type=ws&security=tls&path=/vlessws&sni=v2ray.codefyinc.com#US 🇺🇸 ┇ VLESS-WS-TLS - NL-811-40021 ┇ 209.126.84.189

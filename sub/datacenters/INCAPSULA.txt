@@ -1,3 +1,3 @@
-vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@server.turboo-server.com.co:80?type=ws&security=none&path=/--ping--www.speedtest.net#US 🇺🇸 ┇ VLESS-WS-NTLS - INCAPSULA ┇ 45.60.31.53
-vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&security=none&path=/ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - INCAPSULA ┇ 45.60.20.30
+vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@turboo-server.sadafspace.com:80?type=ws&security=none&path=/--ping--www.speedtest.net#US 🇺🇸 ┇ VLESS-WS-NTLS - INCAPSULA ┇ 45.60.31.53
 vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@server.turbooo-server.com:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - INCAPSULA ┇ 45.60.45.100
+vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&security=none&path=/ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - INCAPSULA ┇ 45.60.20.30

@@ -1,0 +1,1 @@
+vless://00c7cd9c-b4ab-42c9-8c2f-48c183eb5997@iranserver.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 185.116.161.5

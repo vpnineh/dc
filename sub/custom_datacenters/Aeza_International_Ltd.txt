@@ -1,1 +1,3 @@
 vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=de04.abvpn.ru#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 109.237.99.132
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Aeza International Ltd ┇ 109.120.138.47
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142

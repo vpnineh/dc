@@ -1,7 +1,7 @@
-vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 165.227.149.23
-vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.99.252.219
 vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 157.230.103.19
+vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.99.252.219
 vless://3638ee37-de5b-4a01-9c06-4e34ab96a094@64.226.117.34:46970?type=ws&security=none&path=/@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel#DE 🇩🇪 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 64.226.117.34
+vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 165.227.149.23
 vless://6c8f15df-cd15-4002-abfd-3902ceffb5b9@holn.xmonys.com:625?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.195.209
 vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?type=ws&security=none&path=/FREE By Tharuwa (0767597317)#SG 🇸🇬 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 165.22.240.200
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 159.89.45.81

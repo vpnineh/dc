@@ -1,2 +1,1 @@
-vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?type=ws&security=none&path=/#BG 🇧🇬 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 89.44.197.77
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12

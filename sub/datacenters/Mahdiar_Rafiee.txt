@@ -1,1 +1,0 @@
-vless://47f30c49-88ca-4483-9f4a-a360dab7dee7@185.211.57.210:2080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 185.211.57.210

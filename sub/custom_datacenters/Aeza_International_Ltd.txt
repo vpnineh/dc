@@ -1,3 +1,1 @@
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Aeza International Ltd ┇ 109.120.138.47
 vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.52.155
-vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?type=ws&security=none&path=/54567/mvfkvk#NL 🇳🇱 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 138.124.52.155

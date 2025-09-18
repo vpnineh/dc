@@ -1,2 +1,1 @@
-vless://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 78.38.53.81
 vless://640934db-a21c-4e58-b8a8-c2fcbe594b1b@tnl15.radnikmax.ir:8098?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.116.64

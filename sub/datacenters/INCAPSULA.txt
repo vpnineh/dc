@@ -1,1 +1,0 @@
-vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@turboo-server.aftabz.com:80?type=ws&security=none&path=/--ping--www.speedtest.net#US 🇺🇸 ┇ VLESS-WS-NTLS - INCAPSULA ┇ 45.60.45.100

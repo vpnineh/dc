@@ -1,1 +1,2 @@
 vless://b16ad07c-23ce-441e-bd3f-d7e4de6ff833@164.90.200.212:21724?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 164.90.200.212
+vless://f95d8e71-9d31-4d04-8cfc-bacf2030c90b@128.199.48.57:39889?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 128.199.48.57

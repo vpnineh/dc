@@ -1,2 +1,2 @@
-vless://83aa562c-8a5d-47d6-8d13-cc3a25860d93@164.92.131.181:80?type=ws&security=none&path=/uyiohws#DE 🇩🇪 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 164.92.131.181
 vless://bc9a43a8-8110-4a80-a76b-5194b9a29438@159.89.29.63:80?type=ws&security=none&path=/mlmpdws#DE 🇩🇪 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 159.89.29.63
+vless://83aa562c-8a5d-47d6-8d13-cc3a25860d93@164.92.131.181:80?type=ws&security=none&path=/uyiohws#DE 🇩🇪 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 164.92.131.181

@@ -1,3 +1,3 @@
 vless://fa9b5095-8907-48ba-a99d-a740effe291f@51.15.94.38:80?type=ws&security=none&path=/utyevws#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.15.94.38
-vless://d21bd875-8089-49ed-9617-0ef64ba94132@51.158.233.152:80?type=ws&security=none&path=/yegllws#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.158.233.152
 vless://5b3feb91-2249-4f09-8077-709b3d1aab07@51.158.238.118:80?type=ws&security=none&path=/obmacws#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.158.238.118
+vless://d21bd875-8089-49ed-9617-0ef64ba94132@51.158.233.152:80?type=ws&security=none&path=/yegllws#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.158.233.152

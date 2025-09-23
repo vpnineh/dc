@@ -1,0 +1,1 @@
+vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?type=ws&security=none&path=/&sni=dl5-uae4-cdn.fastfilecdn.org#AE 🇦🇪 ┇ VLESS-WS-NTLS - HZ Hosting Ltd ┇ 185.253.116.79

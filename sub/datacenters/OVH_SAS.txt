@@ -1,21 +1,18 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPVkggU0FTIFx1MjUwNyAxNDguMTEzLjE3Ni4xODciLCJhZGQiOiJqYW1la2sub3JnIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMifQ
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 15.235.41.93
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPVkggU0FTIFx1MjUwNyA1Ny4xMjkuMjUuMjIiLCJhZGQiOiI1Ny4xMjkuMjUuMjIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 57.129.94.164
-vless://0a708abd-79b3-420d-a564-e8a1ff580f83@141.227.134.153:25365?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.134.153
-vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 57.128.163.127
-vless://9e55dc25-81b3-455c-898c-1fcdd90e55f0@141.227.170.209:34219?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.170.209
 vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 51.38.220.51
-vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 5.196.236.33
-vless://859e3599-42c2-4e7e-8f8e-f96b764db26f@152.228.242.123:27236?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 152.228.242.123
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 141.94.174.9
-vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.178.165
-vless://2360666f-c997-476e-b9d0-6406c41e7ee5@152.228.213.209:15341?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 152.228.213.209
-vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?type=ws&security=none&path=/vless/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.38.232.101
-vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 51.83.112.164
 vless://ba1fc4fe-c5a5-4ad3-b4e2-f02ecffd992e@141.227.176.48:10227?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.176.48
 vless://930989fd-61dd-4d18-a895-e48892acb32e@54.36.112.160:25365?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 54.36.112.160
-vless://72c17850-c1a8-4915-a437-45de2645a6e1@51.89.230.180:25365?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 51.89.230.180
+vless://859e3599-42c2-4e7e-8f8e-f96b764db26f@152.228.242.123:27236?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 152.228.242.123
+vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 57.128.163.127
+vless://9e55dc25-81b3-455c-898c-1fcdd90e55f0@141.227.170.209:34219?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.170.209
+vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 51.83.112.164
+vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 5.196.236.33
+vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?type=ws&security=none&path=/vless/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.38.232.101
+vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.178.165
+vless://0a708abd-79b3-420d-a564-e8a1ff580f83@141.227.134.153:25365?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 141.227.134.153
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 51.89.116.123
-vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 51.83.251.98
+vless://72c17850-c1a8-4915-a437-45de2645a6e1@51.89.230.180:25365?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 51.89.230.180
 vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?type=ws&security=none&path=/vless/#PL 🇵🇱 ┇ VLESS-WS-NTLS - OVH SAS ┇ 57.128.198.152
+vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 51.83.251.98

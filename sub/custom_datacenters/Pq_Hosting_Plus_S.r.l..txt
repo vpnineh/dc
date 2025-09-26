@@ -1,11 +1,11 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 94.131.118.142
-vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?type=ws&security=tls&path=/yohyowws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 195.42.233.13
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?type=ws&security=tls&path=/qnbufdws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 185.234.64.228
-vless://0788b95c-7a0c-48b3-8a82-d7e07d52baf1@195.42.233.4:443?type=ws&security=tls&path=/nkhnudws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 195.42.233.4
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?type=ws&security=tls&path=/teqalfws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 194.4.49.229
 vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?type=ws&security=tls&path=/cnqazsws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 194.4.49.222
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?type=ws&security=tls&path=/holhclws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 185.242.87.162
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 94.131.118.142
+vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?type=ws&security=tls&path=/yohyowws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 195.42.233.13
+vless://0788b95c-7a0c-48b3-8a82-d7e07d52baf1@195.42.233.4:443?type=ws&security=tls&path=/nkhnudws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 195.42.233.4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 94.131.13.163
 vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?type=ws&security=tls&path=/inqabcws#MY 🇲🇾 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.128.54.15
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.91
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.199
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.91

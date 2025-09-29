@@ -1,0 +1,1 @@
+vless://e390c1ee-dffd-4a5d-82f5-a4a9a8ee4e80@69.84.182.90:8880?type=httpupgrade&security=none#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - HMS-ASN ┇ 69.84.182.90

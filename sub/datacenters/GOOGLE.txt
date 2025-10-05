@@ -1,2 +1,2 @@
-vless://5501f384-03b9-4dda-8d4c-4904e3fd7361@direct-jde6zos4zet26b15zzd1.appcity-download.ir:22238?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=ib18X4doEoBT6sBZC4OW3PWMWJpVuyth0YlGaZ8CGF8&sid=8fa8#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 138.199.206.184
 vless://e838a567-5198-4fed-b759-63ef81558680@direct-jde6zos4zet26b15zzd1.appcity-download.ir:31232?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=PWN1zcRzjvYUxDigvf_MDTyVyewVPm-Vn84yoHw4GWI&sid=c329#US 🇺🇸 ┇ VLESS-GRPC-RLT - GOOGLE ┇ 138.199.206.184
+vless://5501f384-03b9-4dda-8d4c-4904e3fd7361@direct-jde6zos4zet26b15zzd1.appcity-download.ir:22238?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=ib18X4doEoBT6sBZC4OW3PWMWJpVuyth0YlGaZ8CGF8&sid=8fa8#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 138.199.206.184

@@ -1,2 +1,0 @@
-vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@jone1.fast-turbooserver.com:8880?type=ws&security=none&path=/Turboo-Server#FI 🇫🇮 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 5.22.221.234
-vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@jone.fast-turbooserver.com:8443?type=ws&security=none&path=/Turboo-Server#SG 🇸🇬 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 95.111.204.150

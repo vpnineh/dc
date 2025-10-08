@@ -1,1 +1,0 @@
-vless://04fd4bb7-f66f-e29a-89d7-df99ae4008d9@networknim.cam:19000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.93.72

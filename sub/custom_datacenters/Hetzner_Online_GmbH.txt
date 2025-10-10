@@ -1,2 +1,0 @@
-vless://6569356c-b32a-4685-bb3e-aaf9742f1cd9@injamyghost-de.my-teamspeak.ir:2095?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 49.12.227.242
-vless://6569356c-b32a-4685-bb3e-aaf9742f1cd9@mahan.mo-chephosting.ir:2093?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 88.99.85.24

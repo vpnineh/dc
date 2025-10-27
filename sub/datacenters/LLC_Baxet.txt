@@ -1,0 +1,1 @@
+vless://ab3bee31-6d56-4a50-8a84-70e114352783@knowledgemap.ubntddns.com:443?type=ws&security=tls&path=/getupdates#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC Baxet ┇ 195.133.11.229

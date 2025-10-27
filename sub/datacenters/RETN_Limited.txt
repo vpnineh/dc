@@ -1,2 +1,0 @@
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.64
-vless://e28c47f0-d2bd-47c2-a443-2d3c05cee0ee@gorsee.store:12026?type=tcp&security=tls&sni=gorsee.store#LV 🇱🇻 ┇ VLESS-TCP-TLS - RETN Limited ┇ 45.130.215.125

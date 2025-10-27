@@ -1,1 +1,0 @@
-vless://97bd2fd8-7c89-4350-93d6-a7556d00e8ad@vpn-srv-5.circlevpn.net:2052?type=tcp&security=tls#AU 🇦🇺 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 13.211.229.231

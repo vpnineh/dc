@@ -1,1 +1,0 @@
-vless://8080748c-8053-4c25-88cc-9f9633ee3b3e@us1.projecthope.ir:2053?type=grpc&security=tls#US 🇺🇸 ┇ VLESS-GRPC-TLS - AS-COLOCROSSING ┇ 23.94.206.70

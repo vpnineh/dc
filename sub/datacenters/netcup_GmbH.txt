@@ -1,1 +1,0 @@
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.52.242:80?type=ws&security=none&path=/news#US 🇺🇸 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 152.53.52.242

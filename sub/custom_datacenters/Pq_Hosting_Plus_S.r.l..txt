@@ -1,13 +1,13 @@
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAzNy4yMjEuMTI1LjY4IiwiYWRkIjoiZGUzLmNvbm5lY3Rvbi5zdXJmIiwicG9ydCI6NDQzLCJpZCI6IjViYmM3OTc2LTJlZDItNDlhYi1iZjlhLWZiMWYzYjNiZDdlMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImRlMy5jb25uZWN0b24uc3VyZiIsInBhdGgiOiJ2bWVzcyIsInRscyI6InRscyIsInNuaSI6ImRlMy5jb25uZWN0b24uc3VyZiJ9
 vless://5bbc7976-2ed2-49ab-bf9a-fb1f3b3bd7e0@de3.connecton.surf:443?type=ws&security=tls&path=/vless#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 37.221.125.68
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.231.205.167
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.234.64.228
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.153.183.185
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 195.42.233.146
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.234.64.228
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.4:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.138.164.4
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.138.164.11
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 146.19.230.248
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.231.205.167
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 146.19.230.254
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.140.167.49
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 146.19.230.248
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.138.164.11
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.4:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.138.164.4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 146.19.230.249
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.65

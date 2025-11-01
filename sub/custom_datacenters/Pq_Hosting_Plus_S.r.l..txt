@@ -5,5 +5,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?type=grpc&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.12.142.55
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.120.178.93
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.100
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.119
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.100

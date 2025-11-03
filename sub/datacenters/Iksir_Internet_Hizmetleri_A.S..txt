@@ -1,1 +1,0 @@
-vless://e8cdcc21-ecee-41d5-bb6a-012a73edb10c@185.123.101.95:44178?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Iksir Internet Hizmetleri A.S. ┇ 185.123.101.95

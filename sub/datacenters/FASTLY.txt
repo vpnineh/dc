@@ -1,2 +1,2 @@
+vless://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?type=ws&security=tls&path=/asl.mo.live.skornorth.com.zula.ir?ed=2048&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.78.133
 vless://c40d81ec-bd3f-4714-8cb2-9788414700d9@xn--rdekors-q1a.dk:443?type=ws&security=tls&sni=xn--rdekors-q1a.dk&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.130.133
-vless://f9b1af5f-330b-4c8f-a3bc-d4c929152ba6@live.skornorth.com:443?type=ws&security=tls&path=/?ed=1024&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.90.133

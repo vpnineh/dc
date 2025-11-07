@@ -1,1 +1,1 @@
-vless://9e32844a-cfe8-4f27-80c2-fc4f1a0e386f@free.vpn.luna-marzban.ir:15510?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.241.210
+vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?type=ws&security=none&path=/linkws?ed=2560#FI 🇫🇮 ┇ VLESS-WS-NTLS - Hetzner Online GmbH ┇ 157.180.123.25

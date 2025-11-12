@@ -7,5 +7,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.211:8880?type=grpc&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.97:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.97
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.216
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.251:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.251
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.34
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.251:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.236.232.251

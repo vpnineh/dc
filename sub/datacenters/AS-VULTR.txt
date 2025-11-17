@@ -1,2 +1,2 @@
-vless://9fe35a3f-219d-4a34-a9b8-774965855108@208.76.222.38:80?type=ws&security=none&path=/sBrHdws#ES 🇪🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 208.76.222.38
 vless://5faa5491-e818-4327-9034-b67eae6daedd@208.85.23.243:80?type=ws&security=none&path=/yWxDbws#ES 🇪🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 208.85.23.243
+vless://9fe35a3f-219d-4a34-a9b8-774965855108@208.76.222.38:80?type=ws&security=none&path=/sBrHdws#ES 🇪🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 208.76.222.38

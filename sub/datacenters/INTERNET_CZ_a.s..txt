@@ -1,0 +1,2 @@
+vless://36cc13fe-1bc0-462d-a8f6-9830c943966a@194.182.79.240:22734?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.240
+vless://9a72a732-2073-40d9-b014-c1895cadd0c6@194.182.79.236:24563?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.236

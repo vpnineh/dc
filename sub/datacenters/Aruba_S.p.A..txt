@@ -1,1 +1,0 @@
-vless://67e897e9-a85c-4409-ccef-9d0ee8fb83c9@80.211.249.229:52897?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 80.211.249.229

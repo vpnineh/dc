@@ -1,2 +1,1 @@
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 137.74.53.176
 vless://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?type=ws&security=none&path=/vless/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.38.237.113

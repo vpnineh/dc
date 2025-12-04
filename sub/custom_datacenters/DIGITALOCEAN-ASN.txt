@@ -1,3 +1,2 @@
 vless://01d5b4ef-e590-47d1-aff9-81ec4059055c@134.122.76.78:443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - DIGITALOCEAN-ASN ┇ 134.122.76.78
-vless://01d5b4ef-e590-47d1-aff9-81ec4059055c@164.90.181.87:443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - DIGITALOCEAN-ASN ┇ 164.90.181.87
 vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?type=ws&security=none&path=/FREE By Tharuwa (0767597317)#SG 🇸🇬 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 152.42.242.115

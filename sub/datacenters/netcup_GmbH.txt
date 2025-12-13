@@ -1,1 +1,1 @@
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?type=tcp&security=reality&sni=at.ultima.foundation&fp=edge&flow=xtls-rprx-vision&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.44.251
+vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?type=tcp&security=reality&sni=at.ultima.foundation&fp=edge&flow=xtls-rprx-vision&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.45.244

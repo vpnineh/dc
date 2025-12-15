@@ -1,4 +1,2 @@
 vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?type=ws&security=none&path=/linkws?ed=2560#CA 🇨🇦 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.79.29.17
-vless://c5922c33-3e61-4e78-97c0-c98dfc5f5ed1@57.129.95.37:443?type=xhttp&security=none&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 57.129.95.37
 vless://109282ee-8e89-4879-8d94-cfefe654d625@135.125.143.200:443?type=xhttp&security=none&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 135.125.143.200
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPVkggU0FTIFx1MjUwNyAxNS4yMDQuOS4xMDIiLCJhZGQiOiIyMDI1MTExOC55aXhpYW5sZWQuY29tIiwicG9ydCI6MTgxMTUsImlkIjoiNjU3OGM0ODktMjhkMi00ZjEyLThjMmYtOWYyZDg3ODk2MjZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hhcHB5IiwidGxzIjoidGxzIn0

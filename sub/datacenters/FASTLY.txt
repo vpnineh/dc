@@ -1,5 +1,4 @@
-vless://8d48ecf2-d4e2-435a-a387-ba5992f0765a@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.169.242
+vless://d8732149-4810-43be-b095-f1754debfd98@vcfgdsf.fastnew199.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
 vless://c832565c-4f1b-45ac-b9b4-3635f3a86104@151.101.25.242:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.25.242
-vless://f9b1af5f-330b-4c8f-a3bc-d4c929152ba6@live.skornorth.com:443?type=ws&security=tls&path=/?ed=1024&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.78.133
+vless://f9b1af5f-330b-4c8f-a3bc-d4c929152ba6@live.skornorth.com:443?type=ws&security=tls&path=/?ed=1024&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.30.133
 vless://c40d81ec-bd3f-4714-8cb2-9788414700d9@xn--rdekors-q1a.dk:443?type=ws&security=tls&sni=xn--rdekors-q1a.dk&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.130.133
-vless://d8732149-4810-43be-b095-f1754debfd98@vcfgdsf.fastnew199.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.193.242

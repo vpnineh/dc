@@ -1,3 +1,4 @@
 vless://f36fe051-6901-4ef6-a7be-4f515da33c94@51.77.111.215:443?type=xhttp&security=none&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 51.77.111.215
 vless://e8bd1601-d897-4dba-8b24-838752a6ec47@57.128.160.231:443?type=xhttp&security=none&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 57.128.160.231
+vless://109282ee-8e89-4879-8d94-cfefe654d625@135.125.143.200:443?type=xhttp&security=none&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 135.125.143.200
 vless://26d8dc70-467e-4071-933d-4c8c8941328f@51.89.230.46:443?type=xhttp&security=none&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree#GB 🇬🇧 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 51.89.230.46

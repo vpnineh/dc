@@ -1,6 +1,6 @@
-vless://065d1400-aaa3-4b3f-8ca2-3cd0e68abde3@trtw.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.242
+vless://065d1400-aaa3-4b3f-8ca2-3cd0e68abde3@trta.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.242
 vless://d8732149-4810-43be-b095-f1754debfd98@vcfgdsf.fastnew199.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#SE 🇸🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.173.242
-vless://bd3a470a-18cc-4bf7-a7d5-e8b111a6834a@151.101.169.242:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.169.242
 vless://c40d81ec-bd3f-4714-8cb2-9788414700d9@xn--rdekors-q1a.dk:443?type=ws&security=tls&sni=xn--rdekors-q1a.dk&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.130.133
-vless://f9b1af5f-330b-4c8f-a3bc-d4c929152ba6@live.skornorth.com:443?type=ws&security=tls&path=/?ed=1024&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.78.133
-vless://02d87d00-c769-48d8-91cb-bd05e2f62980@151.101.25.242:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.25.242
+vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.25.242
+vless://f9b1af5f-330b-4c8f-a3bc-d4c929152ba6@live.skornorth.com:443?type=ws&security=tls&path=/?ed=1024&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.162.133
+vless://065d1400-aaa3-4b3f-8ca2-3cd0e68abde3@151.101.169.242:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.169.242

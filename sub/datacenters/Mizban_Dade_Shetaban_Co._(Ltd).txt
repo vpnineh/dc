@@ -1,1 +1,1 @@
-vless://d1623c84-541c-4c49-aea7-0e19b9fe0307@s1.tun.cloudnsas.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 87.107.190.70
+vless://d1623c84-541c-4c49-aea7-0e19b9fe0307@s1.tun.cloudnsas.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 87.107.190.75

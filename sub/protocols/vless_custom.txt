@@ -1,8 +1,8 @@
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.99.210.212
+vless://2045bbcd-0135-4e85-baf1-8c5a17fc77c8@85.209.154.10:443?type=ws&security=tls&path=/sqqpucws#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 85.209.154.10
 vless://5bbc7976-2ed2-49ab-bf9a-fb1f3b3bd7e0@de3.connecton.surf:443?type=ws&security=tls&path=/vless#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 37.221.125.68
 vless://9647bcf6-dfe5-40a4-89b5-c56d4b3d9a9a@94.131.110.133:443?type=ws&security=tls&path=/ktqdgews#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 94.131.110.133
-vless://2045bbcd-0135-4e85-baf1-8c5a17fc77c8@85.209.154.10:443?type=ws&security=tls&path=/sqqpucws#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 85.209.154.10
 vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.221.37
-vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?type=ws&security=tls&path=/vless#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 94.131.118.187
 vless://2fa35078-6354-4ffb-ab08-ee39524ed6a8@94.232.247.61:443?type=ws&security=tls&path=/xmaxddws#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 94.232.247.61
+vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?type=ws&security=tls&path=/vless#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 94.131.118.187
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12

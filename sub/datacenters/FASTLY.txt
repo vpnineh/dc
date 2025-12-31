@@ -1,5 +1,6 @@
-vless://d8732149-4810-43be-b095-f1754debfd98@vcfgdsf.fastnew199.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
 vless://b5d5a99a-9f6b-4591-a160-3029cb8ebc48@ip.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66?ed=2650#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.242
-vless://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?type=ws&security=tls&path=/asl.mo.live.skornorth.com.zula.ir?ed=2048&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.78.133
-vless://ed3c782a-577b-4bd1-8c1d-894b29f0dc6c@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.25.242
+vless://d8732149-4810-43be-b095-f1754debfd98@vcfgdsf.fastnew199.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#SE 🇸🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.173.242
 vless://c40d81ec-bd3f-4714-8cb2-9788414700d9@xn--rdekors-q1a.dk:443?type=ws&security=tls&sni=xn--rdekors-q1a.dk&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.130.133
+vless://ed3c782a-577b-4bd1-8c1d-894b29f0dc6c@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.169.242
+vless://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?type=ws&security=tls&path=/asl.mo.live.skornorth.com.zula.ir?ed=2048&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.30.133
+vless://a1a0cb28-2cdd-4fb5-beb6-ce13735567a0@151.101.25.242:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.25.242

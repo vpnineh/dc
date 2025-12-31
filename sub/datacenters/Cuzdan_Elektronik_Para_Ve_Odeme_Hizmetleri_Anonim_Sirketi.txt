@@ -1,1 +1,1 @@
-vless://24dfda32-36c7-485d-b229-a2e20fce0462@dl5-tr4-cdn.cloud-files-uploader.com:2052?type=ws&security=none&path=/&fp=firefox#TR 🇹🇷 ┇ VLESS-WS-NTLS - Cuzdan Elektronik Para Ve Odeme Hizmetleri Anonim Sirketi ┇ 46.31.79.34
+vless://24dfda32-36c7-485d-b229-a2e20fce0462@dl5-tr4-cdn.cloud-files-uploader.com:2052?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Cuzdan Elektronik Para Ve Odeme Hizmetleri Anonim Sirketi ┇ 46.31.79.34

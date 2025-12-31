@@ -1,2 +1,2 @@
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.14.104
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.4.20
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.14.104

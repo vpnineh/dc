@@ -1,11 +1,11 @@
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?type=tcp&security=none#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.106
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.58:443?type=ws&security=tls&path=/hormoz#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 185.235.241.58
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.99:443?type=ws&security=tls&path=/hormoz#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 185.235.241.99
 vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443?type=ws&security=tls&path=/#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 37.221.125.172
 vless://5bbc7976-2ed2-49ab-bf9a-fb1f3b3bd7e0@de3.connecton.surf:443?type=ws&security=tls&path=/vless#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 37.221.125.68
-vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.221.37
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.58:443?type=ws&security=tls&path=/hormoz#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 185.235.241.58
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.99:443?type=ws&security=tls&path=/hormoz#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 185.235.241.99
 vless://82f73aee-8d26-4d45-80f9-c4c1f97f922a@fiand-vipbig12oolpfon.mongral.ir:7936?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 37.27.182.31
 vless://19ed6898-8249-4af7-9b31-5cf0e13b4e59@65.109.198.23:53330?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Hetzner Online GmbH ┇ 65.109.198.23
+vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.221.37
 vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@fr1.tunnely.ru:443?type=tcp&security=reality&sni=fr1.tunnely.ru&fp=chrome&flow=xtls-rprx-vision&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#FR 🇫🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 45.95.233.245
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?type=ws&security=tls&path=/vless#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 94.131.118.187
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12

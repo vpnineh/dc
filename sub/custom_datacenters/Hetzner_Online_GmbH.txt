@@ -1,3 +1,3 @@
-vless://82f73aee-8d26-4d45-80f9-c4c1f97f922a@fiand-vipbig12oolpfon.mongral.ir:7936?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 37.27.182.31
 vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.221.37
+vless://82f73aee-8d26-4d45-80f9-c4c1f97f922a@fiand-vipbig12oolpfon.mongral.ir:7936?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 37.27.182.31
 vless://19ed6898-8249-4af7-9b31-5cf0e13b4e59@65.109.198.23:53330?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Hetzner Online GmbH ┇ 65.109.198.23

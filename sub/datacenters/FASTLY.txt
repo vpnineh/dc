@@ -1,6 +1,6 @@
 vless://d8732149-4810-43be-b095-f1754debfd98@vcfgdsf.fastnew199.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://125ea501-6bbe-453a-ab42-352789be8154@fast.farsidutch.nl:80?type=xhttp&security=none&path=/GaMeOpTiMiZeR?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.184.1
-vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.25.242
+vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.169.242
+vless://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?type=ws&security=tls&path=/asl.mo.live.skornorth.com.zula.ir?ed=2048&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.30.133
+vless://fbbd87c3-170b-4249-8139-aa6b23ad5133@151.101.25.242:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.25.242
+vless://125ea501-6bbe-453a-ab42-352789be8154@fast.555vpn.nl:80?type=xhttp&security=none&path=/GaMeOpTiMiZeR?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.184.1
 vless://c40d81ec-bd3f-4714-8cb2-9788414700d9@xn--rdekors-q1a.dk:443?type=ws&security=tls&sni=xn--rdekors-q1a.dk&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.130.133
-vless://f9b1af5f-330b-4c8f-a3bc-d4c929152ba6@live.skornorth.com:443?type=ws&security=tls&path=/?ed=1024&sni=live.skornorth.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.30.133
-vless://a9244690-a82e-4a7c-e257-14f20f9c02b7@usaa.fastlynew.hosting-ip.com:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.169.242

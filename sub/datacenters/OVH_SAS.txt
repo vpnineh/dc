@@ -1,10 +1,9 @@
-vless://67569251-d1e9-4e89-9012-49400453916b@51.68.26.124:51931?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 51.68.26.124
-vless://4c6a8514-a3ff-46c6-960b-d06599cb5cac@145.239.29.93:48218?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 145.239.29.93
 vless://410f2b87-928f-44c1-8968-421392e4a55b@57.131.17.115:44827?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 57.131.17.115
+vless://67569251-d1e9-4e89-9012-49400453916b@51.68.26.124:51931?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 51.68.26.124
 vless://c07c29af-dada-427c-8f28-15b7200a6c08@51.68.93.212:10125?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 51.68.93.212
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=none&path=/http#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 162.19.228.119
+vless://4c6a8514-a3ff-46c6-960b-d06599cb5cac@145.239.29.93:48218?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 145.239.29.93
 vless://66222cfb-3fe3-41d4-8e44-9a5edc53ce5d@198.244.141.25:25378?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 198.244.141.25
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?type=ws&security=none&path=/vless/#GB 🇬🇧 ┇ VLESS-WS-NTLS - OVH SAS ┇ 57.129.132.223
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.14.104
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.4.20
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.127:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.4.127
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.4.20

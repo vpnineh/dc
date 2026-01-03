@@ -1,8 +1,8 @@
-vless://e7425444-41e1-40ca-9390-d10a2429e6df@143.110.170.20:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 143.110.170.20
-vless://c518738c-b5b1-41f2-ad7f-b6ca22677188@165.227.239.219:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 165.227.239.219
-vless://72b36a89-a5bb-4c96-8cab-d0f560880ad6@138.68.160.230:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 138.68.160.230
-vless://672038e8-b7e2-4afc-82fe-3300838e63cd@167.71.128.209:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.71.128.209
 vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 188.166.150.79
 vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.185.253
-vless://c5674c36-eaba-4b62-99b8-e86e149ecd0a@139.59.184.9:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.184.9
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.167.252
+vless://c518738c-b5b1-41f2-ad7f-b6ca22677188@165.227.239.219:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 165.227.239.219
+vless://672038e8-b7e2-4afc-82fe-3300838e63cd@167.71.128.209:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.71.128.209
+vless://c5674c36-eaba-4b62-99b8-e86e149ecd0a@139.59.184.9:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.184.9
+vless://72b36a89-a5bb-4c96-8cab-d0f560880ad6@138.68.160.230:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 138.68.160.230
+vless://e7425444-41e1-40ca-9390-d10a2429e6df@143.110.170.20:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 143.110.170.20

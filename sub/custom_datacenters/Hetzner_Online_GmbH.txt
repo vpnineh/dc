@@ -1,1 +1,1 @@
-vless://722490e5-0cb0-4387-a6f7-da148349ed73@yoyo-fl.bing-net.com:9031?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.221.37
+vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.221.37

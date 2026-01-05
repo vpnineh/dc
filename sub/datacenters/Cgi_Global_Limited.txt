@@ -1,1 +1,2 @@
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?type=tcp&security=reality&sni=vkru.outlinekeys.net&fp=chrome&flow=xtls-rprx-vision&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY#FI 🇫🇮 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 185.92.183.112
+vless://18ae56d1-a55a-4c61-9d97-e0efb643ac9b@makan.mo-chephosting.ir:2095?type=tcp&security=none&path=/path#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.68.204

@@ -1,1 +1,0 @@
-vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?type=tcp&security=reality&sni=pn8rackapp.breaknet2.eu&fp=chrome&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&sid=86f206ece9dc61c7#FR 🇫🇷 ┇ VLESS-TCP-RLT - velia.net Internetdienste GmbH ┇ 193.42.63.120

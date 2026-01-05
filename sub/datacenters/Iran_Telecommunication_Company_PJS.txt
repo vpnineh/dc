@@ -1,1 +1,0 @@
-vless://bf07d861-c7c7-49ff-8d20-ae1953dccd40@tnl34.vipradvin.ir:7050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.116.57

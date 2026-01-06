@@ -1,2 +1,1 @@
 vless://8cca65d5-8230-4ddb-c9a3-88ac1e11a5a1@45.76.85.180:24514?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - AS-VULTR ┇ 45.76.85.180
-vless://04094c6c-98ee-43b2-f311-37b0389169c5@95.179.166.68:57766?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - AS-VULTR ┇ 95.179.166.68

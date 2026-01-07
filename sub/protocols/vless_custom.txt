@@ -1,7 +1,11 @@
-vless://nasnet@nasnet-146198073-direct.iranpress.co:443?type=tcp&security=tls&sni=nasnet-146198073-direct.iranpress.co&fp=chrome&flow=xtls-rprx-vision#BG 🇧🇬 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 146.19.80.73
-vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.173.252:41647?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.107.173.252
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-146198073-direct.iranpress.co:443?type=tcp&security=tls&sni=nasnet-146198073-direct.iranpress.co&flow=xtls-rprx-vision#BG 🇧🇬 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 146.19.80.73
+vless://e1628f52-dcbd-417c-90cc-e9266b28ea38@pq-brazil1.09vpn.com:8443?type=ws&security=tls&path=/vless/&sni=pq-brazil1.09vpn.com#BR 🇧🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.4.88
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.172.11:41647?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.107.172.11
+vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.130.214:41647?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.107.130.214
+vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.107.148.79
+vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.173.252:41647?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.107.173.252
 vless://5bbc7976-2ed2-49ab-bf9a-fb1f3b3bd7e0@de3.connecton.surf:443?type=ws&security=tls&path=/vless#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 37.221.125.68
-vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.221.37
+vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?type=grpc&security=none#FI 🇫🇮 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 65.109.178.83
+vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - Hetzner Online GmbH ┇ 65.108.231.185
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?type=ws&security=tls&path=/vless#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 94.131.118.187
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12

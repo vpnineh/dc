@@ -1,3 +1,7 @@
+vless://0341d8f2-99e0-4f6c-af0a-345ac26815cf@ab.fxgoldensignals.com:51269?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.99.218.107
+vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.218.107
+vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@ab.fxgoldensignals.com:36454?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.218.107
 vless://5bbc7976-2ed2-49ab-bf9a-fb1f3b3bd7e0@de3.connecton.surf:443?type=ws&security=tls&path=/vless#DE 🇩🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 37.221.125.68
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?type=ws&security=tls&path=/vless#FR 🇫🇷 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 94.131.118.187
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@5.180.30.83:443?type=ws&security=tls&path=/hormoz#GB 🇬🇧 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 5.180.30.83
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12

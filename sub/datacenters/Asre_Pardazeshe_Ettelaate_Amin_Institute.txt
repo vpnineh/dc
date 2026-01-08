@@ -1,4 +1,0 @@
-vless://367077c8-ebe4-4777-a32c-13911a5cb755@fast.lucypro.ir:2095?type=tcp&security=none&path=/path#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.43
-vless://367077c8-ebe4-4777-a32c-13911a5cb755@makan.mo-chephosting.ir:2095?type=tcp&security=none&path=/path#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.222.136
-vless://367077c8-ebe4-4777-a32c-13911a5cb755@usa.lucypro.ir:2095?type=tcp&security=none&path=/path#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.204
-vless://367077c8-ebe4-4777-a32c-13911a5cb755@injamyghost-de.my-teamspeak.ir:2095?type=tcp&security=none&path=/path#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.222.53

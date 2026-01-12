@@ -1,6 +1,6 @@
 vless://d4795cd9-cd7b-4cea-edfb-20cdcca5837b@doprax.fxgoldensignals.com:50904?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.254.161
-vless://14fe2c89-af11-4b7d-cc08-9641f0f2d8ee@doprax.fxgoldensignals.com:58153?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.107.254.161
-vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Hetzner Online GmbH ┇ 91.107.254.161
-vless://35dda669-cc6d-4553-ba8f-3979b06ab69c@ab.fxgoldensignals.com:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.218.107
+vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.218.107
 vless://0341d8f2-99e0-4f6c-af0a-345ac26815cf@ab.fxgoldensignals.com:51269?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.99.218.107
+vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Hetzner Online GmbH ┇ 91.107.254.161
+vless://14fe2c89-af11-4b7d-cc08-9641f0f2d8ee@doprax.fxgoldensignals.com:58153?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Hetzner Online GmbH ┇ 91.107.254.161
 vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@ab.fxgoldensignals.com:36454?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.218.107

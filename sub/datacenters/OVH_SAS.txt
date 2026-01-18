@@ -1,3 +1,2 @@
 vless://d8472822-8b6a-47b5-b555-a1587e684327@vps-e7fa62be.vps.ovh.ca:2052?type=ws&security=none&path=/#CA 🇨🇦 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.222.137.109
 vless://d8472822-8b6a-47b5-b555-a1587e684327@ip4.ip-54-38-3.eu:2052?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 54.38.3.4
-vless://45b5a27a-32b8-4b5b-94ff-d2970ae347d0@51.89.137.7:443?type=xhttp&security=none&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree#GB 🇬🇧 ┇ VLESS-XHTTP-NTLS - OVH SAS ┇ 51.89.137.7

@@ -1,8 +1,8 @@
-vless://e166a804-cf1a-4d28-9f28-6eafe5dc3ccf@25.25.25.73:2053?type=httpupgrade&security=tls&path=/speedtest.net/zirakomamle.com?ed=2048&fp=chrome#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-TLS - Cloudflare London, LLC ┇ 25.25.25.73
+vless://115051f1-fc3c-48bf-9e99-829d3881f044@api-saronet.zirakomamle.com:2083?type=grpc&security=tls&fp=firefox#GB 🇬🇧 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 25.26.27.28
+vless://5e182110-8d13-4aa4-abf6-f3081628e1d0@api-saronet.zirakomamle.com:2082?type=httpupgrade&security=none&path=/speedtest.net/zirakomamle.com?ed=2560#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 25.26.27.28
+vless://3f719b1c-433e-4b41-95e4-837a4a6a0f9a@api-saronet.zirakomamle.com:2052?type=httpupgrade&security=none&path=/speedtest.net/zirakomamle.com?ed=2048#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 25.26.27.28
 vless://e166a804-cf1a-4d28-9f28-6eafe5dc3ccf@25.25.25.2:2053?type=httpupgrade&security=tls&path=/speedtest.net/zirakomamle.com?Ed=2048&fp=chrome#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-TLS - Cloudflare London, LLC ┇ 25.25.25.2
-vless://cd4137e5-fe40-4a3c-a23f-cd7892505a38@api-saronet.sarhadpirani.ir:2082?type=ws&security=none&path=/speedtest.net/zirakomamle.com?ed=2048#GB 🇬🇧 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 25.26.27.158
+vless://e67fee9c-7bac-4d7b-bc49-36d16fc4d968@api-saronet.zirakomamle.com:2053?type=ws&security=tls&path=/speedtest.net/ziRakOmaMle.coM?ed=2048&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 25.26.27.28
+vless://e166a804-cf1a-4d28-9f28-6eafe5dc3ccf@25.25.25.73:2053?type=httpupgrade&security=tls&path=/speedtest.net/zirakomamle.com?ed=2048&fp=chrome#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-TLS - Cloudflare London, LLC ┇ 25.25.25.73
 vless://1fd841a6-2567-4704-a076-dd0d0b699e8a@25.25.25.3:2083?type=grpc&security=tls&fp=firefox#GB 🇬🇧 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 25.25.25.3
-vless://cb522244-ff63-4883-ae1f-87d883fb2da7@25.26.27.28:2052?type=httpupgrade&security=none&path=/api/status/?ed=2560#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 25.26.27.28
-vless://33e741c2-f69d-49c4-8e05-87feabf0cc8a@25.26.27.28:2082?type=ws&security=none&path=/?ed=2048#GB 🇬🇧 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 25.26.27.28
-vless://26e8aa9e-bac9-4e93-9ecd-60888a08ce72@api-saronet.sarhadpirani.ir:2052?type=httpupgrade&security=none&path=/speedtest.net/node-game.ir?ed=2048#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 25.26.27.158
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.107.101:8080?type=ws&security=none&path=/GV3NuHE1UyFgA5M5/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed=2560#RU 🇷🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.148.107.101

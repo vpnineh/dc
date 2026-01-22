@@ -1,0 +1,1 @@
+vless://51a412a2-e8a4-44be-b56d-5940ecd61608@api.zirakomamle.com:2052?type=httpupgrade&security=none&path=/api/status/?ed=2048#AT 🇦🇹 ┇ VLESS-HTTPUPGRADE-NTLS - LEVEL3 ┇ 8.6.112.0

@@ -1,0 +1,1 @@
+vless://367077c8-ebe4-4777-a32c-13911a5cb755@injamyghost-de.my-teamspeak.ir:2095?type=tcp&security=none&path=/path#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.13.226.250

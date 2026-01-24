@@ -1,0 +1,1 @@
+vless://85571fb3-6d15-49b0-e1d6-cf8b6dbd623e@23.81.34.138:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 23.81.34.138

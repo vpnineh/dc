@@ -1,1 +1,0 @@
-vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@france.novaads.shop:42541?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.114.134

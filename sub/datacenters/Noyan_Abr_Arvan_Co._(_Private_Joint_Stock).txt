@@ -1,2 +1,1 @@
-vless://0d622f9e-2fbb-4db0-91a7-f367105fde8b@m-fr.megv2.com:17161?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.152.183.124
 vless://087d8602-503b-4091-9f05-44c20792083c@185.143.233.235:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.233.235

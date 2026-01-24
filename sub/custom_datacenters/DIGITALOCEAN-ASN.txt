@@ -1,0 +1,2 @@
+vless://ce136796-8369-4afc-da15-d3577f3bdc55@chatgpt.com:443?type=ws&security=tls&path=/api/v1/chat&sni=x1.x-smm.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - DIGITALOCEAN-ASN ┇ 104.18.32.47
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?type=ws&security=none&path=/FREE By Tharuwa (0767597317)#SG 🇸🇬 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 167.172.83.42

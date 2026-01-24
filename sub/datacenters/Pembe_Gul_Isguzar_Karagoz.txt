@@ -1,0 +1,1 @@
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Pembe Gul Isguzar Karagoz ┇ 45.81.113.60

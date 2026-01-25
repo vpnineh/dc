@@ -1,1 +1,1 @@
-vless://65b59b8a-02cd-4319-a4cd-9c58f32f2628@all.golnar-clod.ir:2052?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - WEEBLY ┇ 199.34.228.138
+vless://51a412a2-e8a4-44be-b56d-5940ecd61608@api.zirakomamle.com:2052?type=httpupgrade&security=none&path=/api/status/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - WEEBLY ┇ 199.34.228.54

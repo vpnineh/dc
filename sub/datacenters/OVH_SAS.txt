@@ -1,6 +1,5 @@
-vless://d8472822-8b6a-47b5-b555-a1587e684327@vps-e7fa62be.vps.ovh.ca:2052?type=ws&security=none&path=/#CA 🇨🇦 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.222.137.109
-vless://d8472822-8b6a-47b5-b555-a1587e684327@ip4.ip-54-38-3.eu:2052?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 54.38.3.4
 vless://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@51.38.30.155:2082?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.38.30.155
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=none&path=/http#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 162.19.228.119
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.4.20
+vless://d8472822-8b6a-47b5-b555-a1587e684327@ip4.ip-54-38-3.eu:2052?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - OVH SAS ┇ 54.38.3.4
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.14.104
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 40.160.4.20

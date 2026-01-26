@@ -1,4 +1,2 @@
 vless://cd4137e5-fe40-4a3c-a23f-cd7892505a38@api-saronet.sarhadpirani.ir:2082?type=ws&security=none&path=/speedtest.net/zirakomamle.com#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.54
 vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?type=httpupgrade&security=none&path=/api/status/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - WEEBLY ┇ 199.34.228.54
-vless://e67fee9c-7bac-4d7b-bc49-36d16fc4d968@api-saronet.zirakomamle.com:2053?type=ws&security=tls&path=/speedtest.net/ziRakOmaMle.coM#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.54
-vless://115051f1-fc3c-48bf-9e99-829d3881f044@api-saronet.zirakomamle.com:2083?type=grpc&security=tls#US 🇺🇸 ┇ VLESS-GRPC-TLS - WEEBLY ┇ 199.34.228.54

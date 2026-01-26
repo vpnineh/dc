@@ -1,0 +1,2 @@
+vless://cd4137e5-fe40-4a3c-a23f-cd7892505a38@api-saronet.sarhadpirani.ir:2082?type=ws&security=none&path=/speedtest.net/zirakomamle.com#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.8
+vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?type=httpupgrade&security=none&path=/api/status/#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Bjt Partners SAS ┇ 185.16.110.8

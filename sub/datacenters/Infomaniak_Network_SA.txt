@@ -1,1 +1,1 @@
-vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.230.175:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.230.175
+vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 195.15.202.129

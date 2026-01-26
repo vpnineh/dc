@@ -1,1 +1,0 @@
-vless://367077c8-ebe4-4777-a32c-13911a5cb755@a-lf-0.okamii.ir:2095?type=tcp&security=none&path=/path#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Zaymer PJSC ┇ 45.67.215.233

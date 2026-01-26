@@ -1,2 +1,1 @@
 vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NOTION ┇ 208.103.161.8
-vless://51a412a2-e8a4-44be-b56d-5940ecd61608@api.zirakomamle.com:2052?type=httpupgrade&security=none&path=/api/status/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NOTION ┇ 208.103.161.6

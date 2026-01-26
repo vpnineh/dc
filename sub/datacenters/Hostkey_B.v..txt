@@ -1,1 +1,1 @@
-vless://e67fee9c-7bac-4d7b-bc49-36d16fc4d968@api-saronet.zirakomamle.com:2053?type=ws&security=tls&path=/speedtest.net/ziRakOmaMle.coM#NL 🇳🇱 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 146.0.77.19
+vless://e67fee9c-7bac-4d7b-bc49-36d16fc4d968@api-saronet.zirakomamle.com:2053?type=ws&security=tls&path=/speedtest.net/ziRakOmaMle.coM#NL 🇳🇱 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 146.0.77.33

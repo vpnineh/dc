@@ -1,2 +1,2 @@
-vless://367077c8-ebe4-4777-a32c-13911a5cb755@usa.lucypro.ir:2095?type=tcp&security=none&path=/path#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.43
+vless://367077c8-ebe4-4777-a32c-13911a5cb755@frankfurtmain.mamadgholi.com.co:2095?type=tcp&security=none&path=/path#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.43
 vless://65b59b8a-02cd-4319-a4cd-9c58f32f2628@all.golnar-clod.ir:2052?type=xhttp&security=none&path=/#KZ 🇰🇿 ┇ VLESS-XHTTP-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.174

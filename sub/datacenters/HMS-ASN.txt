@@ -1,1 +1,1 @@
-vless://367077c8-ebe4-4777-a32c-13911a5cb755@injamyghost-de.my-teamspeak.ir:2095?type=tcp&security=none&path=/path#US 🇺🇸 ┇ VLESS-TCP-NTLS - HMS-ASN ┇ 69.84.182.21
+vless://367077c8-ebe4-4777-a32c-13911a5cb755@frankfurtmain.mamadgholi.com.co:2095?type=tcp&security=none&path=/path#US 🇺🇸 ┇ VLESS-TCP-NTLS - HMS-ASN ┇ 69.84.182.21

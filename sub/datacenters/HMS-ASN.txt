@@ -1,2 +1,1 @@
 vless://367077c8-ebe4-4777-a32c-13911a5cb755@fast.lucypro.ir:2095?type=tcp&security=none&path=/path#US 🇺🇸 ┇ VLESS-TCP-NTLS - HMS-ASN ┇ 69.84.182.21
-vless://33edb913-abb6-4e54-8112-752a767e91c3@dir1.serviceali.ir:8880?type=xhttp&security=none&path=/cloudapi#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - HMS-ASN ┇ 198.62.62.242

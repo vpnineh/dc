@@ -1,4 +1,4 @@
 vless://65b59b8a-02cd-4319-a4cd-9c58f32f2628@all.golnar-clod.ir:2052?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - BIGCOMMERCE ┇ 63.141.128.18
-vless://367077c8-ebe4-4777-a32c-13911a5cb755@a-lf-0.okamii.ir:2095?type=tcp&security=none&path=/path#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 192.200.160.17
 vless://33edb913-abb6-4e54-8112-752a767e91c3@ipts.spancloud.sbs:8880?type=xhttp&security=none&path=/cloudapi#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - BIGCOMMERCE ┇ 63.141.128.3
+vless://367077c8-ebe4-4777-a32c-13911a5cb755@a-lf-0.okamii.ir:2095?type=tcp&security=none&path=/path#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 192.200.160.17
 vless://33edb913-abb6-4e54-8112-752a767e91c3@dir1.serviceali.ir:8880?type=xhttp&security=none&path=/cloudapi#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - BIGCOMMERCE ┇ 192.200.160.14

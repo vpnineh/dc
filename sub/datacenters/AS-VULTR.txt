@@ -1,1 +1,1 @@
-vless://42961e67-c3e0-4b84-8d71-1ff20bdcedae@india.novaads.shop:42537?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 65.20.71.254
+vless://33edb913-abb6-4e54-8112-752a767e91c3@india.novaads.shop:42537?type=tcp&security=none&path=/#IN 🇮🇳 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 65.20.71.254

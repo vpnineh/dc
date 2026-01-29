@@ -1,2 +1,1 @@
-vless://33edb913-abb6-4e54-8112-752a767e91c3@ipts.spancloud.sbs:8880?type=xhttp&security=none&path=/cloudapi#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - BIGCOMMERCE ┇ 63.141.128.3
 vless://65b59b8a-02cd-4319-a4cd-9c58f32f2628@all.golnar-clod.ir:2052?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - BIGCOMMERCE ┇ 63.141.128.18

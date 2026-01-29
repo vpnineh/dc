@@ -1,2 +1,1 @@
 vless://7508df45-196f-436c-a0f0-d11918566456@62.60.229.31:8880?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 62.60.229.31
-vless://33edb913-abb6-4e54-8112-752a767e91c3@france2.aparat-movies-download.ir:42541?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.148.140

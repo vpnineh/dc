@@ -1,2 +1,2 @@
+vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NOTION ┇ 208.103.161.8
 vless://367077c8-ebe4-4777-a32c-13911a5cb755@my.server-teamspeak.ir:2095?type=tcp&security=none&path=/path#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.4
-vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NOTION ┇ 208.103.161.118

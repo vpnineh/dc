@@ -1,4 +1,4 @@
 vless://33edb913-abb6-4e54-8112-752a767e91c3@ae2.aparat-movies-download.ir:42539?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.204
 vless://33edb913-abb6-4e54-8112-752a767e91c3@ae.aparat-movies-download.ir:42539?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.67
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?type=tcp&security=none#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.106
-vless://9e359081-3763-450d-9979-9463f964c166@amir.ovh:80?type=httpupgrade&security=none&path=/AzV2ry#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
+vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&security=none&path=/admintwebnandmci/wild/?ed=2048#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12

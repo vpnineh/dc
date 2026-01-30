@@ -1,3 +1,3 @@
-vless://44d7c8d2-8965-43a0-b1eb-73a56cebdff1@england.iranesfahan.com:1002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.132.148
+vless://44d7c8d2-8965-43a0-b1eb-73a56cebdff1@singapore.iranesfahan.com:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.132.56
+vless://44d7c8d2-8965-43a0-b1eb-73a56cebdff1@england.iranesfahan.com:1002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.252
 vless://44d7c8d2-8965-43a0-b1eb-73a56cebdff1@portugal.iranesfahan.com:1001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.114
-vless://44d7c8d2-8965-43a0-b1eb-73a56cebdff1@singapore.iranesfahan.com:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.134.214

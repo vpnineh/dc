@@ -1,2 +1,0 @@
-vless://8758dd52-1cde-4aff-bdb0-7572ee22f6db@109.122.253.90:9000?type=http&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Respina Networks & Beyond PJSC ┇ 109.122.253.90
-vless://8c36be94-bb82-401f-a6a8-2558732501c2@109.122.253.85:9000?type=http&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Respina Networks & Beyond PJSC ┇ 109.122.253.85

@@ -1,1 +1,2 @@
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn23.suio.me:443?type=tcp&security=tls&sni=plcdn23.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.61
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?type=tcp&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.178.168

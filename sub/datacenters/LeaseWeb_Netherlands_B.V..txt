@@ -1,5 +1,6 @@
 vless://115051f1-fc3c-48bf-9e99-829d3881f044@api-saronet.zirakomamle.com:2083?type=grpc&security=tls#NL 🇳🇱 ┇ VLESS-GRPC-TLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
+vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?type=httpupgrade&security=none&path=/api/status/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.126
+vless://e67fee9c-7bac-4d7b-bc49-36d16fc4d968@api-saronet.zirakomamle.com:2053?type=ws&security=tls&path=/speedtest.net/ziRakOmaMle.coM#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
+vless://cd4137e5-fe40-4a3c-a23f-cd7892505a38@api-saronet.sarhadpirani.ir:2082?type=ws&security=none&path=/speedtest.net/zirakomamle.com#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.126
 vless://3f719b1c-433e-4b41-95e4-837a4a6a0f9a@api-saronet.zirakomamle.com:2052?type=httpupgrade&security=none&path=/speedtest.net/zirakomamle.com#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
 vless://5e182110-8d13-4aa4-abf6-f3081628e1d0@api-saronet.zirakomamle.com:2082?type=httpupgrade&security=none&path=/speedtest.net/zirakomamle.com#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
-vless://e67fee9c-7bac-4d7b-bc49-36d16fc4d968@api-saronet.zirakomamle.com:2053?type=ws&security=tls&path=/speedtest.net/ziRakOmaMle.coM#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
-vless://51a412a2-e8a4-44be-b56d-5940ecd61608@api.zirakomamle.com:2052?type=httpupgrade&security=none&path=/api/status/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.126

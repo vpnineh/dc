@@ -1,5 +1,5 @@
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@ficdn21.suio.me:443?type=tcp&security=tls&path=/&sni=ficdn21.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.110.108.244
 vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&security=none&path=/login/azaronline.com/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 213.176.65.192
-vless://a571b94c-a9f3-407a-a8ef-da608dab5472@kurd-fr.tawana.online:46248?type=tcp&security=false&path=/&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 46.226.167.138
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@secdn13.suio.me:443?type=tcp&security=tls&path=/&sni=secdn13.suio.me#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 91.184.240.121
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn11.suio.me:443?type=tcp&security=tls&path=/&sni=secdn11.suio.me&fp=chrome#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.221.137.39
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@ficdn21.suio.me:443?type=tcp&security=tls&sni=ficdn21.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.110.108.244
+vless://a571b94c-a9f3-407a-a8ef-da608dab5472@kurd-fr.tawana.online:46248?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 46.226.167.138
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn11.suio.me:443?type=tcp&security=tls&sni=secdn11.suio.me#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.221.137.39
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@secdn13.suio.me:443?type=tcp&security=tls&sni=secdn13.suio.me#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 91.184.240.121

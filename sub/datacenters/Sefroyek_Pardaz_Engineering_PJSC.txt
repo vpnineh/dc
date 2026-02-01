@@ -1,3 +1,3 @@
-vless://16fe2ff8-e88b-44bf-bf68-16c8d243ab86@sr3.naxilo.fun:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.169.113
 vless://27e79fb7-c39b-4984-a7ed-4309207569fd@sr1.naxilo.fun:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.169.98
 vless://e7304c37-26dd-40ef-8cd5-921161063bac@sr61.bexra.fun:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 78.110.123.39
+vless://16fe2ff8-e88b-44bf-bf68-16c8d243ab86@sr3.naxilo.fun:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.169.113

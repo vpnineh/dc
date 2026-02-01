@@ -1,1 +1,1 @@
-vless://b734e360-db57-4703-9afa-d25db7307f2b@154.16.16.82:41097?type=tcp&security=none&fp=random#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 154.16.16.82
+vless://b734e360-db57-4703-9afa-d25db7307f2b@154.16.16.82:41097?type=tcp&security=none&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 154.16.16.82

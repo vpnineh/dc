@@ -1,0 +1,1 @@
+vless://29f89c05-7a9b-49b4-8fa0-59e0b857cbbf@193.228.168.138:8844?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.138

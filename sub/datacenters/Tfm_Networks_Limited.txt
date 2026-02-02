@@ -1,0 +1,1 @@
+vless://%40SEGVPN@85.234.69.163:10100?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Tfm Networks Limited ┇ 85.234.69.163

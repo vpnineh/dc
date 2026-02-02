@@ -1,6 +1,5 @@
-vless://c6e12b13-894b-4168-a6b1-51691fec4b80@new.torprospeed.ir:213?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.232.60
-vless://b607b1e7-e832-4d68-9b91-fd2b3beb17a5@tunnel5.prodnsspeed10.ir:214?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.152.242
 vless://0b701f31-493b-4021-bbfd-a17c87f0bc24@sv4.tsdata5.top:50004?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.106.214
-vless://36fee0c2-9195-4924-a01c-e8c18899c712@94.182.131.22:43585?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.131.22
-vless://5202614f-afb6-4155-84e8-0d3e290aba6b@iran.legendperm.ir:8087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.234.203
+vless://79857d40-6c94-483c-9fe3-5630f58cbd74@new.torprospeed.ir:213?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.232.60
 vless://a15ecaa3-1f71-491a-83db-faa289d50486@free2.lithub.ir:200?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.104.178
+vless://5202614f-afb6-4155-84e8-0d3e290aba6b@iran.legendperm.ir:8087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.234.203
+vless://74e024dc-c512-486c-9872-09785216e615@tunnel1.torprospeed.ir:214?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.152.242

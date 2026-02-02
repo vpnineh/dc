@@ -1,2 +1,0 @@
-vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?type=tcp&security=none&path=/?ed=2080#US 🇺🇸 ┇ VLESS-TCP-NTLS - CARRIER-AMER ┇ 161.145.150.23
-vless://41127caf-a83c-44ea-b876-9d5392702544@ert-2.v-sub.site:8080?type=httpupgrade&security=none&path=/?ed=80#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - CARRIER-AMER ┇ 161.145.150.23

@@ -1,4 +1,4 @@
-vless://33a57acf-163f-4cdd-8b23-cc52a58f2362@xhero.kharabetam.de:2053?type=tcp&security=none&path=/IfUknowThenUKnow#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.1
-vless://0a229011-1db0-4dd5-916e-e18c668b4e9e@cdn4.eswap.ir:2087?type=tcp&security=none&path=/kos#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.10
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCSUdDT01NRVJDRSBcdTI1MDcgMTkyLjIwMC4xNjAuMjE0IiwiYWRkIjoiMTkyLjIwMC4xNjAuMjE0IiwicG9ydCI6NDQzLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
+vless://33a57acf-163f-4cdd-8b23-cc52a58f2362@xhero.kharabetam.de:2053?type=tcp&security=none&path=/IfUknowThenUKnow#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.1
 vless://1f00970a-14c1-40d0-9c06-43f513975be1@nx.cloud1.hosting-ip.zulagaming.icu:2052?type=ws&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.16
+vless://0a229011-1db0-4dd5-916e-e18c668b4e9e@cdn4.eswap.ir:2087?type=tcp&security=none&path=/kos#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.10

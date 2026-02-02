@@ -1,2 +1,2 @@
-vless://5afbca1a-910a-4021-b6f9-b5be5fc4202b@zarin8i.alireza031.pw:50666?type=ws&security=false&path=/ZARIN8&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.32.71
 vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.163
+vless://5afbca1a-910a-4021-b6f9-b5be5fc4202b@zarin8i.alireza031.pw:50666?type=ws&security=none&path=/ZARIN8#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.32.71

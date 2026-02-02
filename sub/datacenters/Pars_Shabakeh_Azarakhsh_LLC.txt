@@ -1,1 +1,1 @@
-vless://6d2427e1-9c6b-4cac-9576-ec47d0000bb3@ir.ssudi.org:2087?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 81.12.53.205
+vless://3f8101c9-2e3a-4c4c-9a10-2eb6f0b35196@netherlands3.tun.kalbod-team.ir:2010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.107.165.159

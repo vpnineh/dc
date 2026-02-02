@@ -1,3 +1,3 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUTJIT0xESU5HUyBcdTI1MDcgMTkyLjAuNjMuMTE5IiwiYWRkIjoiMTkyLjAuNjMuMTE5IiwicG9ydCI6ODAsImlkIjoiZjcyODJmOGUtZDBhZS00ZGViLTk1MTQtZWQ0OTlhM2U2ZWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii9hcGkwMSJ9
-vless://41127caf-a83c-44ea-b876-9d5392702544@ert-2.v-sub.site:8080?type=httpupgrade&security=none&path=/?ed=80#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Q2HOLDINGS ┇ 192.0.63.0
 vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?type=tcp&security=none&path=/?ed=2080#US 🇺🇸 ┇ VLESS-TCP-NTLS - Q2HOLDINGS ┇ 192.0.63.0
+vless://41127caf-a83c-44ea-b876-9d5392702544@ert-2.v-sub.site:8080?type=httpupgrade&security=none&path=/?ed=80#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Q2HOLDINGS ┇ 192.0.63.0

@@ -1,3 +1,5 @@
 vless://91d233a2-08a8-4006-ac8b-597fb41ea2bb@panke1.dadasoratmolayi.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 81.12.35.155
+vless://eff2f67d-563d-4db6-b848-819c03efd2f9@hesam.xv98.ir:2095?type=ws&security=none&path=/-wst?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 109.122.255.51
+vless://711ade89-28bd-4791-81cd-259f4e1304b9@e7f08cf35d69fe0c.supervip.viperping.ir:2086?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 81.12.33.67
 vless://13d64902-fdb2-47e9-a280-a41d1611b036@1conf.top:3333?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.250.75
 vless://15361bc0-5559-4155-b911-0a97aafebe38@digi9.ez0535.com:15883?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 89.44.242.70

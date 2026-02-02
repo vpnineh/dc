@@ -1,1 +1,1 @@
-vless://26261ae0-ac60-83a4-b512-aab3c900313d@tun.zeepo.ir:880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parmin Cloud Computing LLC ┇ 212.80.24.130
+vless://bd661e52-e402-47a1-a88e-fb34df68ba2c@connect.cleverbot.top:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parmin Cloud Computing LLC ┇ 212.80.24.83

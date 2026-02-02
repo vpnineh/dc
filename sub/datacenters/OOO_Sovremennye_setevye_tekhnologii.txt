@@ -1,1 +1,1 @@
-vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?type=ws&security=false&path=/getWorkerUpdates&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-NTLS - OOO Sovremennye setevye tekhnologii ┇ 195.209.81.144
+vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?type=ws&security=false&path=/getWorkerUpdates&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-NTLS - OOO Sovremennye setevye tekhnologii ┇ 195.209.81.182

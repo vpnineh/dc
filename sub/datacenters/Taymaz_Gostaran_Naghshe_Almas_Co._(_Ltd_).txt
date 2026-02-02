@@ -1,0 +1,1 @@
+vless://94eb21e8-b3c3-48f4-8e22-b25e12af6265@mika.newdesigne.ir:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.108

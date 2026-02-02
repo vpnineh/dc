@@ -1,0 +1,1 @@
+vless://adb6f254-727e-46c3-a99e-00db460c0e9a@kapak.primenet4.shop:12525?type=ws&security=false&path=/admin&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.216.125

@@ -1,6 +1,7 @@
-vless://acdb42c2-bdc7-4092-adf0-dccafec899fc@mr33.digitalcity2.fun:38234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.239
-vless://81a522b0-9bdc-40ee-b0c6-1ba511671d4a@avocado.x724.net:80?type=ws&security=none&path=/x724?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.154.240
-vless://5155ec49-a7ec-4228-b8df-768b4e4c498d@193.151.143.4:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.143.4
+vless://c94366ac-080e-4ccf-9f80-866dd4976656@amazon-uk.149-253-122-109.up109122253149.i3drenders.com:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.143.4
 vless://4384c615-09e3-49f2-8e76-8aebc0ee0a47@s2.3erveronline.com:43615?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.35
 vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.138.148
+vless://acdb42c2-bdc7-4092-adf0-dccafec899fc@mr33.digitalcity2.fun:38234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.239
 vless://3b74c38a-07b7-4503-a1d6-bb6aa0b9489a@price.gallerydabaghi.com:443?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Asre Dadeha Asiatech ┇ 193.151.147.66
+vless://97d13a67-3d09-4e86-b206-6a0969ef2d00@direct.safeconfig.ir:48043?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.132.124
+vless://81a522b0-9bdc-40ee-b0c6-1ba511671d4a@avocado.x724.net:80?type=ws&security=none&path=/x724?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.154.240

@@ -1,4 +1,7 @@
-vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&security=none&path=/login/azaronline.com/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 213.176.65.192
+vless://dc923edf-9962-4817-bd51-f43f696c5fbc@oodplkgju.vjdkem.mmejdus.ksmajww.cncjskwisuxjs.infinityofconnectedminds.com:9030?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 45.144.54.113
+vless://dc923edf-9962-4817-bd51-f43f696c5fbc@oodplkgju.vjdkem.mmejdus.ksmajww.cncjskwisuxjs.infinityofconnectedminds.com:3090?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 45.144.54.113
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@ficdn21.suio.me:443?type=tcp&security=tls&path=/&sni=ficdn21.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.110.108.244
+vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&security=none&path=/login/azaronline.com/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 213.176.65.192
+vless://cb382caf-61f7-4cd8-9642-11e85720b071@104.17.162.123:443?type=httpupgrade&security=tls&path=/wss8000?ed=2560&sni=UUKLIMITED.xuispeedms.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 104.17.162.123
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@secdn13.suio.me:443?type=tcp&security=tls&path=/&sni=secdn13.suio.me&fp=chrome#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 91.184.240.121
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn11.suio.me:443?type=tcp&security=tls&path=/&sni=secdn11.suio.me&fp=chrome#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.221.137.39

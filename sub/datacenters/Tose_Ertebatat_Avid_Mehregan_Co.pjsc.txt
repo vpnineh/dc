@@ -1,2 +1,1 @@
-vless://d9e4c168-ccdb-4f10-9748-8ddfe4470578@solu.gafe-lorbad.ir:26480?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.192
 vless://18e51cda-ae14-4eb2-b0dc-97b9ee9cea30@sv2f.pmme6.top:42443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.70

@@ -1,2 +1,3 @@
-vless://c0542180-090e-44c0-943d-d69ec67634ea@tr1.googel-arana.online:1005?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.216.14
 vless://e958946d-0b4c-4fb0-a694-39b7f87bcf43@new.configyous.site:12385?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.234.223
+vless://c0542180-090e-44c0-943d-d69ec67634ea@tr1.googel-arana.online:1005?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.216.14
+vless://3697dfdc-5b8f-4c46-b8b3-6975445fdf29@o3.tun.nodegozar.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.14

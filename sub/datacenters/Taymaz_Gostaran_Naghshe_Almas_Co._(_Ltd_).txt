@@ -1,1 +1,2 @@
 vless://5e62f072-30bb-4f52-8c59-883af315a407@fast.rizping.ir:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.197
+vless://6fa48141-9f95-4776-90e2-e4cdad59847c@mika.newdesigne.ir:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.108

@@ -1,2 +1,1 @@
 vless://e17bc97a-fc76-44e8-841a-89f3f0d8a198@de.ezhikvpn.xyz:2055?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.239.125.135
-vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@79.137.192.51:8028?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 79.137.192.51

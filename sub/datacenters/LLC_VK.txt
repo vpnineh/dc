@@ -1,2 +1,0 @@
-vless://557a0638-0981-4176-a8bc-13dbf588291d@37.139.32.212:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 37.139.32.212
-vless://4dcfab42-4703-07d0-b56d-0965380a532e@morgentop.ru:52006?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 89.208.228.167

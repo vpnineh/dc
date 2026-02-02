@@ -1,0 +1,1 @@
+vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?type=tcp&security=none&path=/?ed=2080#US 🇺🇸 ┇ VLESS-TCP-NTLS - C2HOSTING-01 ┇ 74.122.168.1

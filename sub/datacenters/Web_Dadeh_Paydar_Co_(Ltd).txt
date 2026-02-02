@@ -1,1 +1,2 @@
-vless://c8464a6a-e1dc-457f-98cf-9dd7631db6d3@fileuploader.sahandi81.ir:3444?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.206.171.183
+vless://78908ee6-5d1b-4957-8adb-19f8dbc9683e@ir1.server11net.ir:3000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 81.30.108.198
+vless://a585f675-568b-4256-88e7-79dc488ee03f@fileuploader.sahandi81.ir:3444?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.206.171.183

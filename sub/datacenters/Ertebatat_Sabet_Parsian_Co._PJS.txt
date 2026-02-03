@@ -1,0 +1,1 @@
+vless://b4f1d147-2827-4d5b-87f2-29db353d9c5e@tr1.clubban.ir:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ertebatat Sabet Parsian Co. PJS ┇ 87.248.142.189

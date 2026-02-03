@@ -1,5 +1,5 @@
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn4.suio.me:443?type=tcp&security=tls&path=/&sni=ficdn4.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.53.98
-vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@ficdn2.suio.me:443?type=tcp&security=tls&sni=ficdn2.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.52.229
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn3.suio.me:443?type=tcp&security=tls&path=/&sni=ficdn3.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.53.94
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn15.suio.me:443?type=tcp&security=tls&path=/&sni=ficdn15.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.53.118
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn3.suio.me:443?type=tcp&security=tls&path=/&sni=ficdn3.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.53.94
+vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@ficdn2.suio.me:443?type=tcp&security=tls&sni=ficdn2.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.52.229
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn9.suio.me:443?type=tcp&security=tls&path=/&sni=ficdn9.suio.me&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.52.197

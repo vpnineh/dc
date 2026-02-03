@@ -1,0 +1,1 @@
+vless://f0f7551e-32f2-420f-a1bd-6d3d77e096a6@fr.1picofile.co.uk:8443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Freakhosting ┇ 109.176.229.97

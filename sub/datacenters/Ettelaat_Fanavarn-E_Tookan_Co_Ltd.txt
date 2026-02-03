@@ -1,2 +1,2 @@
-vless://c3e9cc01-de74-44d8-a52c-ce3d0f3ffd6c@tunf.digishopcenter.ir:4500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 193.111.236.237
 vless://7ce46e1c-79b3-4865-8852-e40a632aa40f@wr.timberdown.sbs:1788?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 91.186.193.14
+vless://c3e9cc01-de74-44d8-a52c-ce3d0f3ffd6c@tunf.digishopcenter.ir:4500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 193.111.236.237

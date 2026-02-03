@@ -1,1 +1,1 @@
-vless://0b6fa5a1-1413-4ebe-9e4f-92f2fe4a739c@37.32.42.34:50128?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.34
+vless://af486d7c-32aa-407f-889c-6b17ce08c6a5@37.32.42.34:50128?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.34

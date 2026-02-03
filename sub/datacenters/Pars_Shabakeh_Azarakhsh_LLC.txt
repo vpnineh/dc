@@ -1,2 +1,2 @@
-vless://994df7cf-5c54-47e6-aa9e-f0cf79c0b9d9@sky.online.class.mate.rooming.gamesiland.org:14469?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 81.12.53.205
+vless://7c0a1ceb-7297-45d2-81b3-dac44b49023c@gameaccountstore.top:14469?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 81.12.53.205
 vless://ca9b4add-cc2f-4e67-bd7f-f6bc6be07995@87.107.54.72:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.107.54.72

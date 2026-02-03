@@ -1,2 +1,0 @@
-vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@decdn10.suio.me:443?type=tcp&security=tls&path=/&sni=decdn10.suio.me&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.154
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@decdn11.suio.me:443?type=tcp&security=tls&path=/&sni=decdn11.suio.me&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.187

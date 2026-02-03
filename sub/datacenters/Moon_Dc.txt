@@ -1,0 +1,1 @@
+vless://d33d0c37-a910-4c38-82e9-327f01e9d5cc@config.parsazix1613.site:443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Moon Dc ┇ 45.89.223.150

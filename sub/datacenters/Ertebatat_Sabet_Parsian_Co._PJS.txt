@@ -1,2 +1,0 @@
-vless://3df2fe3f-e5eb-4e01-bd23-5b60b3d408e8@tunnelasia.arvixshop.ir:2091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ertebatat Sabet Parsian Co. PJS ┇ 87.248.142.146
-vless://3df2fe3f-e5eb-4e01-bd23-5b60b3d408e8@tunnelasia.arvixshop.ir:2090?type=tcp&security=none&path=/path#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ertebatat Sabet Parsian Co. PJS ┇ 87.248.142.146

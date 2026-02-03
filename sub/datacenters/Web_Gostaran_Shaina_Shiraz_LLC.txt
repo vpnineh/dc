@@ -1,1 +1,2 @@
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?type=tcp&security=none&fp=random#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.32
 vless://3b12e953-96f0-40da-ac32-3038dadf20f7@185.113.10.198:10468?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 185.113.10.198

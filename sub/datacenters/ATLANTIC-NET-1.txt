@@ -1,1 +1,0 @@
-vless://6ddfbe8a-a7eb-430e-b998-f2ce1784e655@usa.novaads.shop:42537?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - ATLANTIC-NET-1 ┇ 208.117.82.118

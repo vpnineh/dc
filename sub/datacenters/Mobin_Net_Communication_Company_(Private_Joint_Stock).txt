@@ -1,1 +1,1 @@
-vless://f657435d-4c1d-49dc-96fa-de06e5635255@92.114.24.80:44387?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.80
+vless://f657435d-4c1d-49dc-96fa-de06e5635255@92.114.24.80:44387?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.80

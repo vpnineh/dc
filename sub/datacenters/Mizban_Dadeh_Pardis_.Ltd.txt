@@ -1,1 +1,0 @@
-vless://3cb149ed-8ed4-4d27-9389-cef2a6c4ee3f@nv7.napsternet6.com:17017?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.66

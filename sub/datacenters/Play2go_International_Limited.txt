@@ -1,0 +1,1 @@
+vless://f3f6f19f-c68a-462c-a534-9b388663fffa@fl.mcqueenconnection.ru:443?type=tcp&security=reality&path=/&sni=fl.mcqueenconnection.ru&fp=chrome&flow=xtls-rprx-vision&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&sid=3396f304f579d51f#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 31.13.208.3

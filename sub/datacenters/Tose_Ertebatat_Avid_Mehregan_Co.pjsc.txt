@@ -1,6 +1,6 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvc2UgRXJ0ZWJhdGF0IEF2aWQgTWVocmVnYW4gQ28ucGpzYyBcdTI1MDcgODUuMTMzLjE5NS4xMjMiLCJhZGQiOiJ0aXRhbi5qYWhhbnNvbmljLnNicyIsInBvcnQiOjQ0MywiaWQiOiI1NDQ0MDAyNi04NjM0LTRiOWYtOGFlNS1hMmM1MWY5YzU4ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://18e51cda-ae14-4eb2-b0dc-97b9ee9cea30@sv2f.pmme6.top:42443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.70
 vless://debf4e52-4f0b-4710-a44f-32463c004ed5@tun-gr.net-plus.ir:8002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.19
 vless://5621e674-5d26-4389-bf28-bf7cc29cfad6@87.236.38.209:640?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.209
-vless://602fd58c-3748-4a9b-83ef-1160738aa35e@tuu.musichubmel.ir:3039?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.209
 vless://b86c998e-c285-40ff-9a8a-492d29c5d4f0@tnl1.lalash.my:58753?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 178.239.144.150
-vless://18e51cda-ae14-4eb2-b0dc-97b9ee9cea30@sv2f.pmme6.top:42443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.70
+vless://debf4e52-4f0b-4710-a44f-32463c004ed5@tun-ae.net-plus.ir:8006?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.19
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvc2UgRXJ0ZWJhdGF0IEF2aWQgTWVocmVnYW4gQ28ucGpzYyBcdTI1MDcgODUuMTMzLjE5NS4xMjMiLCJhZGQiOiJ0aXRhbi5qYWhhbnNvbmljLnNicyIsInBvcnQiOjQ0MywiaWQiOiI1NDQ0MDAyNi04NjM0LTRiOWYtOGFlNS1hMmM1MWY5YzU4ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9

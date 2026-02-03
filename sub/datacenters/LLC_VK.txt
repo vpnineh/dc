@@ -1,0 +1,4 @@
+vless://d4d031ec-0ba6-486a-aa0c-dce2b7cb8933@212.111.84.187:443?type=tcp&security=none&flow=xtls-rprx-vision#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - LLC VK ┇ 212.111.84.187
+vless://d4d031ec-0ba6-486a-aa0c-dce2b7cb8933@212.111.84.187:8443?type=tcp&security=reality#KZ 🇰🇿 ┇ VLESS-TCP-RLT - LLC VK ┇ 212.111.84.187
+vless://557a0638-0981-4176-a8bc-13dbf588291d@37.139.32.212:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 37.139.32.212
+vless://4dcfab42-4703-07d0-b56d-0965380a532e@morgentop.ru:52006?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 109.120.191.231

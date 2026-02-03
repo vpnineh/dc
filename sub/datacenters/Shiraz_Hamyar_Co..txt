@@ -1,0 +1,1 @@
+vless://3f92efc3-9efb-47d1-a9d4-07ae5eef2b75@s2.cdnfile.sbs:1080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shiraz Hamyar Co. ┇ 178.173.148.144

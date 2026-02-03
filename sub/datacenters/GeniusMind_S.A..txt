@@ -1,8 +1,8 @@
+vless://af78695a-b8b8-4f1f-a706-8b6493980378@sw.irwebsrv.com:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.75
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.li.f2zone.ir:50334?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.7
 vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.kr.f2zone.ir:47880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.230
+vless://bcf406c1-349f-5c05-0cd6-ddfd08f64e88@tun.sap-rehan.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.219.17
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.230
 vless://af78695a-b8b8-4f1f-a706-8b6493980378@web.giftiranstore.com:8448?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.157
 vless://af78695a-b8b8-4f1f-a706-8b6493980378@nl.giftiranstore.com:8448?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.159
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.de.f2gate.ir:31665?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.110
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.230
-vless://af78695a-b8b8-4f1f-a706-8b6493980378@sw.irwebsrv.com:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.75
-vless://bcf406c1-349f-5c05-0cd6-ddfd08f64e88@tun.sap-rehan.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.219.13
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.li.f2zone.ir:50334?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.7
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.de.f2gate.ir:31665?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.106

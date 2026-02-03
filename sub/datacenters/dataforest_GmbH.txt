@@ -1,1 +1,0 @@
-vless://join-shavid-argotaz@193.42.11.77:80?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - dataforest GmbH ┇ 193.42.11.77

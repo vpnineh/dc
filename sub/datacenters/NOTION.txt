@@ -1,2 +1,0 @@
-vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?type=ws&security=tls&path=/Telegram@V2rayAlpha/?ed=2560&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NOTION ┇ 208.103.161.43
-vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?type=tcp&security=none&path=/?ed=2080#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.43

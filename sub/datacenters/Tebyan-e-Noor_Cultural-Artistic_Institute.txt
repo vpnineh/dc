@@ -1,2 +1,2 @@
-vless://295ca87a-d815-420d-9e4b-99cb1df05023@webfont.huntexfont.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.89
-vless://279ae00c-c08d-4b88-a381-c3008f874cea@filestore.huntexfont.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.45
+vless://295ca87a-d815-420d-9e4b-99cb1df05023@webfont.huntexfont.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.56
+vless://279ae00c-c08d-4b88-a381-c3008f874cea@filestore.huntexfont.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.196

@@ -1,0 +1,1 @@
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv30.outlinekeys.com:443?type=tcp&security=reality&sni=srv30.outlinekeys.com&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 87.120.165.22

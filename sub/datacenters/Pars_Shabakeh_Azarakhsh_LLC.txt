@@ -1,2 +1,0 @@
-vless://397e537d-fc07-4e0b-89eb-8505d3a5be55@87.248.156.94:42020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.156.94
-vless://ccf2e610-d9ff-4d63-a87a-0879e2955de6@sky.online.class.mate.rooming.gamesiland.org:14469?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 81.12.53.205

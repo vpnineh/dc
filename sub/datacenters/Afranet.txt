@@ -1,2 +1,2 @@
-vless://8c0dad47-6724-4ab3-b9fc-87f2f791e2e1@demo.teloxy.my.id:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.188.77
 vless://0f523f7f-d795-446b-ad45-797c1700e28e@dach.cloudflare.com.snaap.irazzkiiranhob.pleasecheckout.blaackgame.ir:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.51.27
+vless://8c0dad47-6724-4ab3-b9fc-87f2f791e2e1@demo.teloxy.my.id:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.188.77

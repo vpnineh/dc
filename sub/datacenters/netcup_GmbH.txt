@@ -1,3 +1,2 @@
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 37.120.184.180
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@37.120.172.115:22955?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 37.120.172.115
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?type=ws&security=false&path=/news&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 37.120.184.180
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.33.43

@@ -1,6 +1,7 @@
+vless://9af2dfc2-c7ad-425f-a534-7a1fada8f4e9@my.golam.mehromahtel.com:15000?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.181
 vless://b4943f3c-7a04-402a-942d-7439a30cda88@217.60.236.146:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.146
+vless://6defe33d-da9a-423e-a52d-c54df046033a@s12.ihigkgloybfhygkih.pw:443?type=tcp&security=tls&sni=s12.ihigkgloybfhygkih.pw#AE 🇦🇪 ┇ VLESS-TCP-TLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.91
 vless://ec01f463-c425-4e37-8c65-cf89df758e8c@server32.telgame.ir:25480?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.180
 vless://1408e7de-a086-41e9-997d-06612883f3ae@s2.ihigkgloybfhygkih.pw:8443?type=tcp&security=tls&sni=s2.ihigkgloybfhygkih.pw#AE 🇦🇪 ┇ VLESS-TCP-TLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.91
-vless://9af2dfc2-c7ad-425f-a534-7a1fada8f4e9@my.golam.mehromahtel.com:15000?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.181
+vless://f4d4b43f-8953-4226-b6b3-7de219d5fed7@vip.warzonmobile.xyz:8081?type=ws&security=none&path=/ws#AE 🇦🇪 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.91
 vless://2dafc3ec-b609-4173-bf29-4bd833d43b09@217.60.236.240:8443?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.240
-vless://6defe33d-da9a-423e-a52d-c54df046033a@s12.ihigkgloybfhygkih.pw:443?type=tcp&security=tls&sni=s12.ihigkgloybfhygkih.pw#AE 🇦🇪 ┇ VLESS-TCP-TLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.91

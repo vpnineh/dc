@@ -1,2 +1,1 @@
 vless://10c07345-baa2-4631-8d4d-9d4fe866deb4@vip.nanotitab.com:57896?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.149
-vless://5c23b857-8194-4204-868b-9c70c17fbf6c@gr.easyv.ir:8081?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.34

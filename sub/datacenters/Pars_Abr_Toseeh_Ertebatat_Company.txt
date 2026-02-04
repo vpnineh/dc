@@ -1,14 +1,14 @@
-vless://6066c76a-d4ca-4023-b21b-7404e795bafc@www.devpirate.baby:26944?type=tcp&security=tls&sni=www.devpirate.baby&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Pars Abr Toseeh Ertebatat Company ┇ 81.12.35.46
-vless://60da4ad1-511f-4bbb-93e5-7a8393097b51@hesam.xv98.ir:2095?type=ws&security=none&path=/-wst?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 109.122.255.51
-vless://9b36bf3f-c34c-595c-b175-42eddf438f21@musicafricabepersianall.com:25834?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.225.1
-vless://43a0c5ea-e214-42f3-983a-ca746b31a89a@panelmah13.gamegh2.ir:1452?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 178.239.145.179
-vless://debf4e52-4f0b-4710-a44f-32463c004ed5@tun-nl.net-plus.ir:8004?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 109.122.255.56
-vless://757a1965-1fe9-7fe3-7453-de870ea1d3e8@1conf.top:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.250.75
-vless://9b3d1d60-27b2-e8fe-a566-2233916a9d8b@1conf.top:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.250.75
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgODUuMTMzLjIyMS40MiIsImFkZCI6Ijg1LjEzMy4yMjEuNDIiLCJwb3J0Ijo0NDMsImlkIjoiZmEwMDYzYTktNDk0MC00N2ViLTg2OTQtYTg4YzUyYzg5NWQ5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://e1d34867-f469-4389-a6b7-a05e19afee42@hesam.xv98.ir:608?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 109.122.255.51
-vless://3556cc68-7a07-44fa-add6-c3fb8cedebd7@109.122.255.83:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 109.122.255.83
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgODEuMTIuMzMuMTYxIiwiYWRkIjoiODEuMTIuMzMuMTYxIiwicG9ydCI6MTAxNiwiaWQiOiJmZWRkMzZhNy05YjQxLTQwMmYtYjFiZi1jMjg2NTk3M2NlNDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://debf4e52-4f0b-4710-a44f-32463c004ed5@tun-nl.net-plus.ir:8004?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 109.122.255.56
 vless://7e733218-d0ff-4466-8159-fac7ef8aba30@digi14.ez0535.com:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 178.239.145.234
+vless://9b3d1d60-27b2-e8fe-a566-2233916a9d8b@1conf.top:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.250.75
+vless://4b21d2c9-635e-416e-94d7-f6f7968d5414@185.215.231.118:11565?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 185.215.231.118
+vless://9b36bf3f-c34c-595c-b175-42eddf438f21@musicafricabepersianall.com:25834?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.225.1
+vless://60da4ad1-511f-4bbb-93e5-7a8393097b51@hesam.xv98.ir:2095?type=ws&security=none&path=/-wst?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 109.122.255.51
+vless://43a0c5ea-e214-42f3-983a-ca746b31a89a@panelmah13.gamegh2.ir:1452?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 178.239.145.179
+vless://757a1965-1fe9-7fe3-7453-de870ea1d3e8@1conf.top:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.250.75
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgODUuMTMzLjIyMS40MiIsImFkZCI6Ijg1LjEzMy4yMjEuNDIiLCJwb3J0Ijo0NDMsImlkIjoiZmEwMDYzYTktNDk0MC00N2ViLTg2OTQtYTg4YzUyYzg5NWQ5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://7086c20b-1c8c-44cd-d705-c81897bc0580@85.133.250.140:3005?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.250.140
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgODEuMTIuMzMuMTYxIiwiYWRkIjoiODEuMTIuMzMuMTYxIiwicG9ydCI6MTAxNiwiaWQiOiJmZWRkMzZhNy05YjQxLTQwMmYtYjFiZi1jMjg2NTk3M2NlNDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://fca17b97-6868-410f-9179-71979be2cea1@85.133.221.191:1433?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.191
-vless://296f8276-ebcc-4bb8-863d-777a6e6adada@185.215.231.118:11565?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 185.215.231.118
+vless://3556cc68-7a07-44fa-add6-c3fb8cedebd7@109.122.255.83:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 109.122.255.83

@@ -1,2 +1,1 @@
 vless://acdb42c2-bdc7-4092-adf0-dccafec899fc@mr33.digitalcity2.fun:38234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.188
-vless://3bcb928b-447e-418e-8077-2f66509bada9@mr29.digitalcity2.fun:43732?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.190

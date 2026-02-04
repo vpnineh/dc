@@ -1,0 +1,1 @@
+vless://327bc96a-b1f5-4349-9a7e-fc01491bf9fa@2.144.21.52:8080?type=ws&security=none&path=wchat/api/v1/8000/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.52

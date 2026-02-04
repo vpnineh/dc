@@ -1,1 +1,2 @@
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@dostupbypass1.suio.me:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 95.163.182.178
 vless://8def6a24-8bd8-4e7d-82ec-938412cae499@37.139.42.234:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 37.139.42.234

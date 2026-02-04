@@ -1,1 +1,2 @@
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@vkru.outlinekeys.net:443?type=tcp&security=reality&sni=vkru.outlinekeys.net&fp=chrome&flow=xtls-rprx-vision&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY#FI 🇫🇮 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 185.92.183.112
+vless://30dd5974-780c-4743-b88a-12a4450bd2a3@fr.cdn.stun.su:443?type=tcp&security=reality&sni=fr.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=8LWgKu6h8cXgOAixKaKPdGponKkAeQaq-IszDEQ4ojM&sid=2f5ce2df83a89d2f#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 95.182.97.115

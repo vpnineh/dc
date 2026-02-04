@@ -1,1 +1,1 @@
-vless://6ab34a7b-a953-492a-91fb-399c3a6a5c35@sr4.cloud-files-uploader.com:80?type=ws&security=none&path=/&fp=firefox#DE 🇩🇪 ┇ VLESS-WS-NTLS - 23M GmbH ┇ 62.113.200.46
+vless://6ab34a7b-a953-492a-91fb-399c3a6a5c35@sr4.cloud-files-uploader.com:80?type=ws&security=none&path=/&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - 23M GmbH ┇ 62.113.200.46

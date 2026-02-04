@@ -1,1 +1,0 @@
-vless://11af1c47-865a-47c6-92ff-118013655d78@lord.kokopit.info:8080?type=ws&security=none&path=/?ed#XX 🏳️ ┇ VLESS-WS-NTLS - Squiz Pty Ltd ┇ 2.58.104.11

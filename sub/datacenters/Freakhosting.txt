@@ -1,0 +1,2 @@
+vless://88a2ab52-a960-48ec-b278-ca8b9729ed97@fr.asreabi.ir:8443?type=tcp&security=tls&sni=fr.asreabi.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Freakhosting ┇ 109.176.229.97
+vless://ad39e228-35a9-4629-a16a-d66a97654225@150.241.230.85:52554?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - Freakhosting ┇ 150.241.230.85

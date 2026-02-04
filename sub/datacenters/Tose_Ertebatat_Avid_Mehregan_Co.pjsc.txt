@@ -1,7 +1,6 @@
-vless://d027f2eb-3eea-4d84-8c67-73133136cacd@grdt.dtsantoor.com:40786?type=tcp&security=tls&sni=grdt.dtsantoor.com&fp=firefox#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.11
-vless://5621e674-5d26-4389-bf28-bf7cc29cfad6@87.236.38.209:640?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.209
 vless://18e51cda-ae14-4eb2-b0dc-97b9ee9cea30@sv2f.pmme6.top:42443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.70
-vless://debf4e52-4f0b-4710-a44f-32463c004ed5@tun-ae.net-plus.ir:8006?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.19
-vless://debf4e52-4f0b-4710-a44f-32463c004ed5@tun-gr.net-plus.ir:8002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.19
-vless://602fd58c-3748-4a9b-83ef-1160738aa35e@tuu.musichubmel.ir:3039?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.209
-vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 91.234.39.247
+vless://5621e674-5d26-4389-bf28-bf7cc29cfad6@87.236.38.209:640?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.209
+vless://59480731-5c54-4177-a783-cba2578f3b2c@tttt1.hennessypro.site:4001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 91.234.39.247
+vless://11c66cd1-fd59-409d-8898-a303ec94d1d0@sr100.cloud-files-uploader.com:2082?type=ws&security=none&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.145
+vless://3c63b998-514c-4c51-a652-19da5bf267a2@st2.pmme.top:20443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.68
+vless://d027f2eb-3eea-4d84-8c67-73133136cacd@grdt.dtsantoor.com:40786?type=tcp&security=tls&sni=grdt.dtsantoor.com&fp=firefox#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.11

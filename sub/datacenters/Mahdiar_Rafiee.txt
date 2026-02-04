@@ -1,1 +1,1 @@
-vless://5e62f072-30bb-4f52-8c59-883af315a407@fast.rizping.ir:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 185.211.58.72
+vless://a6dcd9d4-80ce-45ae-a21d-d2ef6c5136ba@fast.rizping.ir:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 185.211.58.72

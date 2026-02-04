@@ -1,1 +1,2 @@
 vless://40ecece1-edd9-4543-99c7-529ee594135d@0ru84.tcpdoor.net:443?type=tcp&security=reality&path=/&sni=0ru84.tcpdoor.net&fp=chrome&pbk=RHUQAGJ_MYNKsZt2XO_DATEm1cQh0Rdpz83DTCGSKl0&sid=740d6f2e#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 217.198.12.6
+vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 194.87.118.19

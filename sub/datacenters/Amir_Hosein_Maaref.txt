@@ -1,5 +1,5 @@
-vless://bc6225be-b162-4299-bc06-e3e3c9a40edb@dot1.usertak.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.198
-vless://07ee34e6-d847-458e-9cc1-b7a64f4c7600@jak.usertak.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.196
 vless://da01f33b-929a-4b33-b09a-f030064a26ba@tr1.googel-arana.online:1005?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.216.14
+vless://07ee34e6-d847-458e-9cc1-b7a64f4c7600@jak.usertak.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.196
 vless://da01f33b-929a-4b33-b09a-f030064a26ba@fl1.googel-arana.online:1003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.215.230.110
 vless://da01f33b-929a-4b33-b09a-f030064a26ba@de2.googel-arana.online:1002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.216.13
+vless://bc6225be-b162-4299-bc06-e3e3c9a40edb@dot1.usertak.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.198

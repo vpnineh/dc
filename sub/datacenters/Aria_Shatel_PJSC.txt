@@ -1,8 +1,9 @@
-vless://b278c7b5-73fa-476a-b546-993be5d0073f@94.183.164.33:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.164.33
+vless://fb8f7fe7-0326-4dd1-949c-200e1ca8956d@sv2n.tsteamzd.top:10002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.159.66
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4xNDkuMTAwIiwiYWRkIjoidHVuLm15ZXh0cmFvcmRpbmFyeS5pciIsInBvcnQiOjM5MTEsImlkIjoiNTYwMThiOTYtY2RhOC00YTkzLWE1MTUtM2M2NjExN2NkMDcwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://5209951c-fe52-450c-891c-b92c9984d77b@red1.iran-ont.co.uk:4553?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 185.110.244.196
 vless://2900a45d-74c5-4d4b-a860-d0dae69c8ffa@ir2.webira.net:19204?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.173.46
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4xNDkuMTAwIiwiYWRkIjoidHVuLm15ZXh0cmFvcmRpbmFyeS5pciIsInBvcnQiOjM5MTEsImlkIjoiNTNiZTg3NDYtOGFjZC00MWQ3LTg0YTEtN2Y2NTgxZjAzZmQxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://b278c7b5-73fa-476a-b546-993be5d0073f@94.183.164.33:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.164.33
 vless://67b708f0-d007-4e56-b22e-e0d44c8eb73b@metrix.taklady.com:46341?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.167.57
 vless://59991236-1342-4a97-80ab-3d9b69126811@1alz.telpermi.ir:5050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.103.97
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi4yMjguNDAiLCJhZGQiOiJzMy5mYXN0bHk0d2FyZHMuY29tIiwicG9ydCI6MjA4OSwiaWQiOiJmYjQ3MWZkYi1kOTAzLTQ1MDgtOGIwYS1lZjg3NzJkYThlNzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://f3bb1194-f2ad-4a45-b222-a6d9e6a37181@t.aiteamplus.ir:47061?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.167.55
 vless://b58d5012-addd-4f99-80a0-4e38c6103d36@s24.namasha.top:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.163.78

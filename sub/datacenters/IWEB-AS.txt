@@ -1,1 +1,2 @@
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?type=ws&security=none&path=/39427/Nextlife#CA 🇨🇦 ┇ VLESS-WS-NTLS - IWEB-AS ┇ 198.50.119.86
+vless://3209ec50-2909-4972-83cb-93349f9d94fd@ca.asbndx.com:443?type=tcp&security=reality&sni=ca.asbndx.com&fp=chrome&flow=xtls-rprx-vision&pbk=Nbo573uk1nUiarXxtqQKPr0HGE9WerLF_eHHMsRrnEI&sid=0f4dacf62221e05f#CA 🇨🇦 ┇ VLESS-TCP-RLT - IWEB-AS ┇ 198.50.117.43

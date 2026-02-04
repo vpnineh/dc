@@ -1,7 +1,5 @@
-vless://4795f65c-feb0-42ac-b5ac-27a815284ebf@85.133.228.105:10388?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.105
-vless://849ecd78-5205-4feb-996b-2002f5e32bbd@tnl2.lalash.my:58753?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.241.229
-vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.214
-vless://f31164d1-28e2-40ee-9db8-ba0a6683725e@ir2.beta1.lowfamila.site:3623?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.47.198.189
+vless://5a945214-cff9-46a9-b9dc-28a124a7dfea@85.133.228.105:10388?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.105
+vless://6af19a20-48c6-4b3a-8e11-d4e700384580@ams.bestlive.ir:443?type=ws&security=none&path=/media.steampowered.com?ed=443#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.164
 vless://aab679f9-f437-498a-836b-c8137264666a@mf1.elyvip.com:40552?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.192.233
 vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.74
-vless://6af19a20-48c6-4b3a-8e11-d4e700384580@ams.bestlive.ir:443?type=ws&security=none&path=/media.steampowered.com?ed=443#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.164
+vless://1308796e-36dc-4384-8700-be499e8868cd@ir.wellhishere.com:8888?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.173

@@ -1,0 +1,1 @@
+vless://3209ec50-2909-4972-83cb-93349f9d94fd@kz.asbndx.com:443?type=tcp&security=reality&sni=kz.asbndx.com&fp=chrome&flow=xtls-rprx-vision&pbk=QXhMRZ1pg7uP2uM7wydWyJXFCV6kKuap1Uau0P3_yA0&sid=2f4dacf62222e05f#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 91.224.74.158

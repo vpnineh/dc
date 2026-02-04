@@ -1,0 +1,1 @@
+vless://ef17644a-cfba-4a64-a8db-8535b2d113ac@m.galangedan.com:1005?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - PUREVOLTAGE-INC ┇ 193.233.230.95

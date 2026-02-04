@@ -1,0 +1,1 @@
+vless://fdf5628a-bc17-4ade-a362-a127ddaa9d36@195.238.240.205:116?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.205

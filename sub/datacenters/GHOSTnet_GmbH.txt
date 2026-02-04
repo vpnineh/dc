@@ -1,2 +1,1 @@
-vless://34dae96c-1a41-434f-94b6-5507c3a6d318@dlc-nl1.persianpinggame.ir:8881?type=ws&security=false&path=/&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - GHOSTnet GmbH ┇ 5.231.105.93
-vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@5.231.105.93:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - GHOSTnet GmbH ┇ 5.231.105.93
+vless://99d620d4-8cb4-4129-a3e3-183939766124@dlc-fi1.persianpinggame.ir:8881?type=ws&security=false&path=/&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - GHOSTnet GmbH ┇ 5.231.105.93

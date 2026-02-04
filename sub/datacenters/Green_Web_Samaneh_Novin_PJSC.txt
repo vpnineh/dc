@@ -1,1 +1,0 @@
-vless://102b2850-5c6e-4ec8-a0db-e4165c3b572d@s30777.asancall.cloud:8443?type=ws&security=none&path=/ws/apps/emofid#IR 🇮🇷 ┇ VLESS-WS-NTLS - Green Web Samaneh Novin PJSC ┇ 185.213.164.154

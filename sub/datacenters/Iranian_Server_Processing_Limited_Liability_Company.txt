@@ -1,3 +1,2 @@
 vless://2dafc3ec-b609-4173-bf29-4bd833d43b09@217.60.236.239:443?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.239
 vless://1408e7de-a086-41e9-997d-06612883f3ae@s2.ihigkgloybfhygkih.pw:8443?type=tcp&security=tls&sni=s2.ihigkgloybfhygkih.pw#AE 🇦🇪 ┇ VLESS-TCP-TLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.91
-vless://c2ec2137-b04c-49f2-99d8-209ba906ff57@tun.grootvip.eu:55808?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.45

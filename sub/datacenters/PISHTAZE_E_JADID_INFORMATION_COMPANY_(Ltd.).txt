@@ -1,2 +1,1 @@
 vless://25aa5ef6-3eac-467f-9e26-1b18502f37dc@servers.xvon.in:80?type=ws&security=tls&path=/&sni=servers.xvon.in&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.23
-vless://1f16665f-bde8-4324-9721-3ff56f481511@178.21.161.94:56189?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.94

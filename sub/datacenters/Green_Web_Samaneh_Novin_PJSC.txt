@@ -1,0 +1,1 @@
+vless://54f60ae2-4034-48af-9e71-2d83b504bc33@rodaras.smartchart.ir:2051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 193.141.126.90

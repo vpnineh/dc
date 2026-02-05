@@ -1,2 +1,2 @@
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.159
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.159
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUFBMSUVEVUstQ0xPVUQtMDQgXHUyNTA3IDIxNy4xNjMuNzYuMTQ3IiwiYWRkIjoiMjE3LjE2My43Ni4xNDciLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0

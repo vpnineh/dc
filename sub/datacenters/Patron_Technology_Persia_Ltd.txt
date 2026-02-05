@@ -1,1 +1,0 @@
-vless://412fad58-78b2-476d-c35e-11dc647ff378@185.231.113.107:1996?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.107

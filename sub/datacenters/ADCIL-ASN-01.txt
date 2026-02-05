@@ -1,5 +1,5 @@
+vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@application-ads-gateway.gocdn.ir:85?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - ADCIL-ASN-01 ┇ 144.31.212.30
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?type=tcp&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.178.168
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn17.suio.me:443?type=tcp&security=tls&path=/&sni=secdn17.suio.me&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 193.23.200.153
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn18.suio.me:443?type=tcp&security=tls&path=/&sni=secdn18.suio.me&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 193.23.200.51
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@plcdn11.suio.me:443?type=tcp&security=tls&sni=plcdn11.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.1.125
-vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@application-ads-gateway.gocdn.ir:85?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - ADCIL-ASN-01 ┇ 144.31.212.30
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn17.suio.me:443?type=tcp&security=tls&path=/&sni=secdn17.suio.me&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 193.23.200.153
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?type=tcp&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.178.168

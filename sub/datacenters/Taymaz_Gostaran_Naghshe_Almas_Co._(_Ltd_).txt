@@ -1,4 +1,1 @@
-vless://2a652321-6f5d-4e58-8c00-40296041de4d@ge03bot.zoro03.shop:47560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.194
-vless://f11691d7-ada3-4a56-adee-d8b5dc22c2b8@finbot.yagami03.click:47541?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.226
 vless://8e2a5442-a116-4d55-9e49-4cfd83d123bb@mika.newdesigne.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.108
-vless://8f25c591-26cd-48b1-99ff-3fd11ec30e40@panel-germany-1.newsubcenter.com:1001?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.98

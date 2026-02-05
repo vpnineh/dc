@@ -1,1 +1,0 @@
-vless://7b5fec7a-c221-4054-835e-cc4620fff2ad@185.228.59.54:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.54

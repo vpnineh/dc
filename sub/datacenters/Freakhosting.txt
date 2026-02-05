@@ -1,3 +1,2 @@
-vless://64670147-6d2d-458a-8c20-baca66b82e54@ge.it-programer.ir:8443?type=tcp&security=reality&sni=ge.it-programer.ir&fp=chrome&flow=xtls-rprx-vision&pbk=6g65kNZcYXGJAd8xUyinXVFA_H51i_mqAIq13mvnTCo&sid=7ca84973be0c0315#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 207.244.199.34
 vless://3c63b998-514c-4c51-a652-19da5bf267a2@st2.pmme.top:20443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Freakhosting ┇ 46.37.123.235
-vless://2d11d0c4-45d2-4c20-b667-22b5142211cc@st3.pmme.top:21443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Freakhosting ┇ 82.27.2.40
+vless://64670147-6d2d-458a-8c20-baca66b82e54@ge.it-programer.ir:8443?type=tcp&security=reality&sni=ge.it-programer.ir&fp=chrome&flow=xtls-rprx-vision&pbk=6g65kNZcYXGJAd8xUyinXVFA_H51i_mqAIq13mvnTCo&sid=7ca84973be0c0315#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 31.56.39.62

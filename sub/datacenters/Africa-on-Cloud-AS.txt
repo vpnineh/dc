@@ -1,1 +1,0 @@
-vless://daa3174b-9de5-4f93-a7d7-c03fbf4c553d@2app.star-direct.ir:443?type=tcp&security=none&path=/#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.148

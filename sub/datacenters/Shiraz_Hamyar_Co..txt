@@ -1,2 +1,2 @@
-vless://026d3137-54d8-4d7b-90d8-a006b60f717e@178.173.148.142:55057?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shiraz Hamyar Co. ┇ 178.173.148.142
 vless://b019587c-cb3a-43b9-84bc-8b464d26cafd@178.173.148.60:19000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shiraz Hamyar Co. ┇ 178.173.148.60
+vless://026d3137-54d8-4d7b-90d8-a006b60f717e@178.173.148.142:55057?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shiraz Hamyar Co. ┇ 178.173.148.142

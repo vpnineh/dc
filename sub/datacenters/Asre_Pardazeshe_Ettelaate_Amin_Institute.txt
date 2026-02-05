@@ -1,2 +1,2 @@
-vless://bf476df0-ec0d-49ab-8098-c12b8351b5bf@cn.tun.cloaknet.ir:211?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.81
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDYyLjYwLjE5Ny4yMDQiLCJhZGQiOiJ0aXRhbi5qYWhhbnNvbmljLnNicyIsInBvcnQiOjQ0MywiaWQiOiI1NDQ0MDAyNi04NjM0LTRiOWYtOGFlNS1hMmM1MWY5YzU4ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://2a652321-6f5d-4e58-8c00-40296041de4d@fin02bot.joyboy03.shop:47562?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.245

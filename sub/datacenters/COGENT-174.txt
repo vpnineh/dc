@@ -1,2 +1,1 @@
-vless://1b4e9322-5205-4dce-b94a-5a0714f8b269@s9.digitalbax.net:17340?type=ws&security=none&path=/#LT 🇱🇹 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 88.214.53.180
 vless://rootface-hacker@38.244.26.120:80?type=tcp&security=none&path=//𒉭𓆩@rootface𒆜𒉭#US 🇺🇸 ┇ VLESS-TCP-NTLS - COGENT-174 ┇ 38.244.26.120

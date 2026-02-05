@@ -1,6 +1,4 @@
-vless://fc1fd4a0-d8b2-4f05-98d9-f2936b3b6a97@pol2.creativelife.monster:37962?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.192
-vless://c236f68e-3dea-475b-9916-6293b4926391@melli.zedping11.blog:10000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.242
-vless://2a652321-6f5d-4e58-8c00-40296041de4d@fin02bot.joyboy03.shop:47562?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.245
-vless://bf476df0-ec0d-49ab-8098-c12b8351b5bf@cn.tun.cloaknet.ir:211?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.81
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDIxMi44MC4yMC43MiIsImFkZCI6IjIxMi44MC4yMC43MiIsInBvcnQiOjgwODAsImlkIjoiYWY0MTlkYzYtYWU1My00NzFjLTg1ZDktYTc3MGU3ZjZhZjE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://b39af306-2967-4b68-931e-f78a8065678e@pol2.creativelife.monster:49873?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.192
+vless://bf476df0-ec0d-49ab-8098-c12b8351b5bf@cn.tun.cloaknet.ir:211?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.81
+vless://6b68a1c8-79b0-49f3-916d-497d1c37e6fb@pol2.creativelife.monster:49873?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.192
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDg5LjQyLjEzNi4xOTkiLCJhZGQiOiJnb2xkNi5nb2xkc3BlZWQub3JnIiwicG9ydCI6NDA5NzMsImlkIjoiYTc5MTg1MDEtOTI0NS00MmY1LTkzOTMtZjZlODRiZGE5NDk3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ

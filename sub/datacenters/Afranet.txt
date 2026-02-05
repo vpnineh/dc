@@ -1,2 +1,1 @@
 vless://8bad9f6a-c450-4175-a1d1-6fadb9d37eb0@m4.blu20.fun:414?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.194.252
-vless://bf22e8e8-dbdb-4db0-9c74-24a21b33d864@iran2.iran98.shop:5588?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.194.17

@@ -1,1 +1,0 @@
-vless://6291cd3f-28a1-4288-80be-88267c9c10f0@185.232.152.92:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.92

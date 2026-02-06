@@ -1,2 +1,2 @@
 vless://rootface-@pwn1337-telegram@::ffff:9872:c066:80?type=tcp&security=none&path=/𒉭𓆩@rootface𒆜𒉭#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ ::ffff:9872:c066
-vless://9c42819a-67a6-4742-9c6d-64900ba62160@fl-2.bot-iphone.ru:8443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 194.180.189.230
+vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?type=tcp&security=reality#SI 🇸🇮 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 92.60.78.221

@@ -1,0 +1,1 @@
+vless://2f586e80-3662-40b3-9a59-c08ccc21724f@voip.khakshouri.ir:54666?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=Js0Hw5KkfZEFlWL8GiQ1UCN6wO1v2WIZQAHzNod1d3w&sid=56faac#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 46.225.86.169

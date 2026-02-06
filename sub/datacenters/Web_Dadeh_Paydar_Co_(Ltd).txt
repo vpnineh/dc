@@ -1,0 +1,1 @@
+vless://1e27e3e0-2683-407f-9f65-58838ff59c2b@sv4.namavash-new.ir:42555?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.0.59

@@ -1,2 +1,1 @@
 vless://6aa0631d-ee2e-4b1b-97af-7fb547658169@tr1.clubban.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ertebatat Sabet Parsian Co. PJS ┇ 87.248.142.138
-vless://6aa0631d-ee2e-4b1b-97af-7fb547658169@fi1.clubban.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ertebatat Sabet Parsian Co. PJS ┇ 87.248.142.189

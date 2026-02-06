@@ -1,2 +1,1 @@
-vless://93100196-7f5a-496e-9b74-2d02f134b2bb@31.129.55.179:8080?type=ws&security=none&path=/upload#RU 🇷🇺 ┇ VLESS-WS-NTLS - JSC Selectel ┇ 31.129.55.179
 vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443?type=httpupgrade&security=tls&sni=ru.cheburnetnastalgia1998.com#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-TLS - JSC Selectel ┇ 94.26.229.23

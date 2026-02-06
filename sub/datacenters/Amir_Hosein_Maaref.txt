@@ -1,2 +1,2 @@
-vless://07ee34e6-d847-458e-9cc1-b7a64f4c7600@jak.usertak.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.196
 vless://20b6c2cd-9d77-42d2-9a72-c81fd8b2f18e@yas.usertak.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.230
+vless://07ee34e6-d847-458e-9cc1-b7a64f4c7600@jak.usertak.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.196

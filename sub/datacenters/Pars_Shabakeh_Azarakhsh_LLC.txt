@@ -1,2 +1,1 @@
 vless://57d0af01-4ccb-413a-9233-de7e901388e3@iran.ahmadmomeni.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.152.180
-vless://708fbed7-6ab9-4cfc-b0ab-5a73a6bb17d9@87.248.155.187:2526?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.155.187

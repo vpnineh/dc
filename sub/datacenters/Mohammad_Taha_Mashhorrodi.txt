@@ -1,1 +1,0 @@
-vless://b237c49d-dd22-402f-b5da-9f3c111f11a3@46.38.142.31:53264?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.31

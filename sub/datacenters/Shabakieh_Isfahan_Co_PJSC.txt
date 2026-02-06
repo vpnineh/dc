@@ -1,4 +1,3 @@
 vless://703bdfdf-6480-4317-a643-8a4093296eb5@tg4.basevip4.best:2088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.131
 vless://4068d913-4ffe-4e2a-a572-bef65fea5c7b@81.12.92.48:48331?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.48
-vless://c48c2734-f8d5-43e7-88a3-cc535d9703a4@81.12.92.234:46955?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.234
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNoYWJha2llaCBJc2ZhaGFuIENvIFBKU0MgXHUyNTA3IDg1LjEzMy4xNjEuMTY3IiwiYWRkIjoiODUuMTMzLjE2MS4xNjciLCJwb3J0Ijo4MDgwLCJpZCI6ImFmNDE5ZGM2LWFlNTMtNDcxYy04NWQ5LWE3NzBlN2Y2YWYxNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0

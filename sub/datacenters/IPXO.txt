@@ -1,1 +1,2 @@
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.232.131
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.236.203:8443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - IPXO ┇ 143.20.236.203

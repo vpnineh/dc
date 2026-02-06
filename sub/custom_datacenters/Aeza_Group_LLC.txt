@@ -1,1 +1,2 @@
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@mskhost.outlinekeys.net:443?type=tcp&security=reality&sni=mskhost.outlinekeys.net&fp=chrome&flow=xtls-rprx-vision&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.239.124.88
+vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@rus6.mutee.com.tr:2082?type=ws&security=none&path=/api/stream?ed=2080#RU 🇷🇺 ┇ VLESS-WS-NTLS - Aeza Group LLC ┇ 85.192.30.77

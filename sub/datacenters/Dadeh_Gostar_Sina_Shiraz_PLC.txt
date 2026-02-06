@@ -1,0 +1,1 @@
+vless://bd07aa51-2984-4eaa-a49d-e03fb8d2e998@tnd1.xher0.de:10910?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.243

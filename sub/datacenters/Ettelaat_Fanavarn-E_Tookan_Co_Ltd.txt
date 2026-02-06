@@ -1,1 +1,1 @@
-vless://046c59aa-59b0-435d-a0bf-8c6e6ea38efb@194.59.215.144:1499?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 194.59.215.144
+vless://046c59aa-59b0-435d-a0bf-8c6e6ea38efb@direct.multiapvps.ir:1499?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 194.59.215.144

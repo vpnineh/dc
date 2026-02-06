@@ -1,2 +1,2 @@
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@plcdn11.suio.me:443?type=tcp&security=tls&sni=plcdn11.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.1.125
 vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@application-ads-gateway.gocdn.ir:85?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - ADCIL-ASN-01 ┇ 144.31.212.30
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@plcdn11.suio.me:443?type=tcp&security=tls&sni=plcdn11.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.1.125

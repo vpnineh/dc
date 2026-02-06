@@ -1,0 +1,2 @@
+vless://0292e6d7-2c8c-4404-b980-04a0b8365028@trbot.zoro03.shop:47536?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.202
+vless://dd936ba9-81bc-445b-89d3-6d993745d56c@109.122.251.152:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.152

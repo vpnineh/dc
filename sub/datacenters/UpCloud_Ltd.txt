@@ -1,1 +1,1 @@
-vless://1ae8fb92-9275-4dee-bbd5-459a4562e6fa@srv.gamewebdash.store:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 83.136.254.155
+vless://d60a17cb-0ee3-46f9-97c7-c6352f63bb01@srv.gamewebdash.store:443?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 83.136.254.155

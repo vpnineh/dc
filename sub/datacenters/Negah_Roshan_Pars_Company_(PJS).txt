@@ -1,0 +1,1 @@
+vless://a85f0c4c-2b9d-4d7d-b1f7-7fc55421cd02@92.119.58.47:882?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 92.119.58.47

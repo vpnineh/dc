@@ -1,4 +1,5 @@
-vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?type=tcp&security=none&fp=random#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.32
-vless://a2474679-c763-4d34-a8a3-ce62d90619a7@ns2.peymon.online:443?type=tcp&security=none&path=/&sni=ns2.peymon.online#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 195.234.80.120
 vless://3b12e953-96f0-40da-ac32-3038dadf20f7@185.113.10.198:10468?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 185.113.10.198
 vless://acda7cb1-54f5-4852-b296-5dbe49261f19@85.133.200.76:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.76
+vless://a2474679-c763-4d34-a8a3-ce62d90619a7@ns2.peymon.online:443?type=tcp&security=none&path=/&sni=ns2.peymon.online#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 195.234.80.120
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?type=tcp&security=none&fp=random#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.32
+vless://aaeb41cd-5136-47a1-a4c8-1403f8c489b1@fnvip2.therevenant.shop:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.145

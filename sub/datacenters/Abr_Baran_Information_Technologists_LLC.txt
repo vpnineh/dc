@@ -1,1 +1,1 @@
-vless://4adf2f05-a009-4dba-8690-71ae72bfb409@dl6.hidata.online:7001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 62.60.141.7
+vless://846752e1-0f4f-472d-8e31-c4505716ed22@baran.iranikshow.ir:2088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 62.60.146.59

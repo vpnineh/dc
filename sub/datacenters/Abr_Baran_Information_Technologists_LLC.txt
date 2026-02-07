@@ -1,1 +1,2 @@
-vless://846752e1-0f4f-472d-8e31-c4505716ed22@baran.iranikshow.ir:2088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 62.60.146.59
+vless://415fc742-7ee7-49a7-a6cb-6cfcf65386a6@myket.blue.mobilecofeealii.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 62.60.141.195
+vless://846752e1-0f4f-472d-8e31-c4505716ed22@baran.iranikshow.ir:2088?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 62.60.146.59

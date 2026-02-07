@@ -1,2 +1,1 @@
 vless://3209ec50-2909-4972-83cb-93349f9d94fd@kz.asbndx.com:443?type=tcp&security=reality&sni=kz.asbndx.com&fp=chrome&flow=xtls-rprx-vision&pbk=QXhMRZ1pg7uP2uM7wydWyJXFCV6kKuap1Uau0P3_yA0&sid=2f4dacf62222e05f#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 91.224.74.158
-vless://ca911bd2-e08f-42d8-aefb-3117494d3367@srv25.outlinekeys.com:443?type=tcp&security=reality&sni=srv25.outlinekeys.com&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.51.23

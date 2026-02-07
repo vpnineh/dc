@@ -1,1 +1,0 @@
-vless://d943638e-f326-42ab-a8ca-a632f9757fe1@178.215.238.193:2056?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 178.215.238.193

@@ -1,1 +1,0 @@
-vless://4952d31f-94ab-4ece-8566-2697a9272a5d@ru.vpber.store:443?type=tcp&security=reality&sni=ru.vpber.store&fp=chrome&flow=xtls-rprx-vision&pbk=fhacrLdXUT3a0PjnL5EVARAmGiNBn_0ysfCJfL3n_gQ&sid=4be4130078ebed0a#RU 🇷🇺 ┇ VLESS-TCP-RLT - First Server Limited ┇ 185.189.13.79

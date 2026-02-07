@@ -1,0 +1,1 @@
+vless://f4ef0882-dd80-45a5-ad3f-222f5387c4dc@212.147.228.205:25551?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - ServeCentric Ltd. ┇ 212.147.228.205

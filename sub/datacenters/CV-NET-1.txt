@@ -1,2 +1,0 @@
-vless://56e626c8-6396-4f81-a20f-3a84bc71164a@fox3.wizard2shop.org:2083?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - CV-NET-1 ┇ 74.119.99.141
-vless://2f380b9d-36f3-4c71-9150-3b4fe5782136@aafc22.lizardshop.org:2095?type=httpupgrade&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - CV-NET-1 ┇ 74.119.99.120

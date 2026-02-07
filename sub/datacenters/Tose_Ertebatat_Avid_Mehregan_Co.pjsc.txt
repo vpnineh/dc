@@ -1,0 +1,2 @@
+vless://567bb0c3-c179-48da-9189-84fc389b423d@ir1tun.ufou008.com:5429?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.30
+vless://ae9fe333-94dd-4e9c-838b-793593a0fe0d@87.236.38.79:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.79

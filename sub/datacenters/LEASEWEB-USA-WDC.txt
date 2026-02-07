@@ -1,2 +1,2 @@
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@decdn1.suio.me:443?type=tcp&security=tls&sni=decdn1.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - LEASEWEB-USA-WDC ┇ 80.253.251.64
 vless://df62ed8f-de05-f3e8-a1db-5ff070fda3fd@ai.boostplayer.goodofwar.4b3app.com:2096?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - LEASEWEB-USA-WDC ┇ 195.66.25.172
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@decdn1.suio.me:443?type=tcp&security=tls&sni=decdn1.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - LEASEWEB-USA-WDC ┇ 80.253.251.64

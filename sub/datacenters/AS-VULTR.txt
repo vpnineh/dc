@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.248.186.10:8443?type=tcp&security=none&path=/?ed=2560&Telegram🇨🇳+@app_bedal#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 192.248.186.10
+vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?type=ws&security=tls&path=/1ab3537d&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.84.125

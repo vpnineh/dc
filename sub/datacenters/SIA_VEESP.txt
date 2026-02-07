@@ -1,1 +1,2 @@
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
+vless://c2b64b65-3563-4caf-ad71-26f427e6da52@94.158.218.63:80?type=ws&security=none#LV 🇱🇻 ┇ VLESS-WS-NTLS - SIA VEESP ┇ 94.158.218.63

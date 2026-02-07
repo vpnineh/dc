@@ -1,1 +1,2 @@
 vless://c94ce211-cfc9-435d-9b7c-59b437d22079@m.darksali.ir:8082?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.155.71
+vless://ce95f9e1-98e9-43a9-87fa-85fdf63392c1@test.clashroyalirani.ir:8585?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.155.97

@@ -1,2 +1,3 @@
 vless://a6690136-c109-45e6-be13-a45f7cb9eb2a@78.40.194.14:19465?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 78.40.194.14
+vless://83fcd827-fa11-460f-9cb2-e2ffe088c4c1@srv2.outlinekeys.com:1080?type=tcp&security=reality&sni=srv2.outlinekeys.com&fp=chrome&flow=xtls-rprx-vision&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 77.246.100.169
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.103.205:443?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 91.84.103.205

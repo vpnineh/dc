@@ -1,2 +1,2 @@
 vless://7a2c1bfc-77ec-4a0d-bd32-d70f721bce0c@st2.pmme.top:20443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.68
-vless://5621e674-5d26-4389-bf28-bf7cc29cfad6@87.236.38.209:640?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.209
+vless://eca8a780-cb05-41b3-8401-b4779ece69f2@firan.dtgoldservices.com:8443?type=tcp&security=tls&sni=firan.dtgoldservices.com#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.13

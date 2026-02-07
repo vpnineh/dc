@@ -1,2 +1,2 @@
-vless://91a63529-f1f5-40a7-bbf0-18ea99978955@tn9.radmardmax.ir:7559?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 91.239.214.6
 vless://97e1f8a9-387f-49e4-bf40-039b05059fab@85.9.104.80:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.80
+vless://dbfefd9c-f9bf-41fa-9681-ba4622800a8e@tn9.radmardmax.ir:7559?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 91.239.214.6

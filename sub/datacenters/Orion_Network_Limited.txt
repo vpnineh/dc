@@ -1,0 +1,1 @@
+vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?type=grpc&security=tls&sni=nodec.azurka.org&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - Orion Network Limited ┇ 196.196.249.55

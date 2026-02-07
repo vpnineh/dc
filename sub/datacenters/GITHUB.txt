@@ -1,1 +1,1 @@
-vless://59f0b4bf-3451-49d3-a5bd-5f661991646a@91.107.251.197:2053?type=tcp&security=reality&sni=api.github.com&fp=chrome&flow=xtls-rprx-vision&pbk=jSCI0jJZXzjM3t-Vk2wziC3t8np-XOfCT17RqM-5Mww&sid=e20c6e5a89d963fa#US 🇺🇸 ┇ VLESS-TCP-RLT - GITHUB ┇ 91.107.251.197
+vless://f8ffc1ce-b7fd-4234-bebc-486f78c49099@91.107.251.197:2053?type=tcp&security=reality&sni=api.github.com&fp=chrome&flow=xtls-rprx-vision&pbk=jSCI0jJZXzjM3t-Vk2wziC3t8np-XOfCT17RqM-5Mww&sid=e20c6e5a89d963fa#US 🇺🇸 ┇ VLESS-TCP-RLT - GITHUB ┇ 91.107.251.197

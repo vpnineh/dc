@@ -1,0 +1,2 @@
+vless://da89e5d8-5478-41a7-b707-ab60dae5b054@tunnel-br.vtuix.ir:4547?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Dadehaye Mabna PJSC ┇ 31.184.166.157
+vless://da89e5d8-5478-41a7-b707-ab60dae5b054@tunnel-br.vtuix.ir:3421?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Dadehaye Mabna PJSC ┇ 31.184.166.157

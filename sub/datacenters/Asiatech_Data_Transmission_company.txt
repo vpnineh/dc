@@ -1,7 +1,6 @@
-vless://fe62193e-44c1-4f15-9151-cc43c9690f89@hc1.site.asan-ps.ir:1067?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.91
-vless://fe62193e-44c1-4f15-9151-cc43c9690f89@hb1.site.asan-ps.ir:1043?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.91
-vless://fe62193e-44c1-4f15-9151-cc43c9690f89@h1.site.asan-ps.ir:1024?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.106
-vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@193.134.100.165:1133?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.165
+vless://66b72310-563d-4e0a-bafa-53706e1f4161@hc1.site.asan-ps.ir:1067?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.91
 vless://b1d420ee-1046-4f8e-a012-6e592b9379c4@dl.de.saas-clouding.ir:2056?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.96
+vless://907958e6-1f17-4b5a-999d-7ab03d47ff00@hb1.site.asan-ps.ir:1043?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.91
 vless://fe62193e-44c1-4f15-9151-cc43c9690f89@hb2.site.asan-ps.ir:1043?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.106
 vless://fe62193e-44c1-4f15-9151-cc43c9690f89@hk2.site.asan-ps.ir:6684?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.91
+vless://fe62193e-44c1-4f15-9151-cc43c9690f89@h1.site.asan-ps.ir:1024?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.106

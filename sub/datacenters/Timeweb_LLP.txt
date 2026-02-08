@@ -1,1 +1,1 @@
-vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?type=tcp&security=none&path=@CHANGE_IP1#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Timeweb, LLP ┇ 77.73.132.193
+vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?type=httpupgrade&security=none&path=@CHANGE_IP1#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Timeweb, LLP ┇ 77.73.132.193

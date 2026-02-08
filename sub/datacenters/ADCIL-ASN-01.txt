@@ -1,4 +1,2 @@
-vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@application-ads-gateway.gocdn.ir:85?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - ADCIL-ASN-01 ┇ 144.31.212.30
 vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.0.58
-vless://e6ec1d89-17fc-4de7-af89-81cd51022526@pl.griffon-guard.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.248.152
-vless://7ccaae6a-8903-46c0-8de1-2b7dd5f3c1fb@144.31.198.228:56328?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.198.228
+vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@application-ads-gateway.gocdn.ir:85?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - ADCIL-ASN-01 ┇ 144.31.212.30

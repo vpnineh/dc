@@ -1,3 +1,4 @@
+vless://624bd6ee-fce8-4dbc-9133-8b9ce94c1e87@v2shop-dubai1.bing-net.com:3038?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.22
 vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyA1LjE4OC4zMy4xNzIiLCJhZGQiOiI1LjE4OC4zMy4xNzIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
 vless://ab5404ac-a004-4d28-8fbb-00db7c54d472@93.114.98.149:81?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.149

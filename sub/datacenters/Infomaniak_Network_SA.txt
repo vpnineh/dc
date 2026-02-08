@@ -1,1 +1,1 @@
-vless://e1827088-9a84-4c56-b971-de87e377698b@83.228.230.48:2056?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.230.48
+vless://63902ed7-9f1b-431b-9690-27589a60b819@83.228.230.48:2056?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.230.48

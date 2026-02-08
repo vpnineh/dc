@@ -1,0 +1,1 @@
+vless://6a3f4da1-687a-4bde-9943-df057315857c@193.163.203.36:10001?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=aBNzDaD-NL93hiwCTKg4paOppKc1RNAICxBjHFJrOy8&sid=9c9bb63c#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 193.163.203.36

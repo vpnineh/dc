@@ -1,0 +1,1 @@
+vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?type=ws&security=tls&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Serv.host Group Ltd ┇ 193.163.203.36

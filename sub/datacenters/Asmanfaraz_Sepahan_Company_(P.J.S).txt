@@ -1,0 +1,1 @@
+vless://13cd5e8d-e150-4ed7-bb1d-eb3fee38f0ea@93.126.19.40:54625?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.40

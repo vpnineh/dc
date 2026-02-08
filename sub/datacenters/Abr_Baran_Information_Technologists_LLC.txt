@@ -1,1 +1,1 @@
-vless://846752e1-0f4f-472d-8e31-c4505716ed22@baran.iranikshow.ir:2088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 62.60.146.59
+vless://b2ca47b5-d8c1-4303-b2db-701f2ab2db00@support-for-teachers.ir.new19server.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 194.107.116.134

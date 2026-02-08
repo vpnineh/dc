@@ -1,4 +1,2 @@
-vless://ca293d74-5432-46f4-95e5-d1b644032401@german2.activevps2.in:22015?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.48
-vless://703bdfdf-6480-4317-a643-8a4093296eb5@tg4.basevip4.best:2088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.56
-vless://ce5ed6ee-6ad1-4b04-8ddb-34c523836715@german4.activevps4.com:44015?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.23
 vless://e26a76bc-12ea-4be9-b0c1-5171438b4ca4@german5.activevps55.com:55015?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.67
+vless://cea8f529-9b08-4137-81dd-588ed1c5c0bd@german4.activevps4.com:44015?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.23

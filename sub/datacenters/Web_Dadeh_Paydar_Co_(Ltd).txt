@@ -1,2 +1,0 @@
-vless://8dc2e6be-d1e8-4b2f-872a-9303718ce091@193.24.120.156:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.120.156
-vless://40f5695a-d3b9-458a-bb55-9fb144ae9570@193.24.120.156:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.120.156

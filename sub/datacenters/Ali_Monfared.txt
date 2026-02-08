@@ -1,3 +1,1 @@
-vless://aad0bbf5-fa18-4e65-b3eb-5961343606df@nl.node.walkerpubg.ir:3002?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.162
-vless://aad0bbf5-fa18-4e65-b3eb-5961343606df@ukr.node.walkerpubg.ir:80?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.157
-vless://aad0bbf5-fa18-4e65-b3eb-5961343606df@fr.node.walkerpubg.ir:80?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.135
+vless://5cc1e11b-b047-a562-8929-89fd7547386d@ukr.node.walkerpubg.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.157

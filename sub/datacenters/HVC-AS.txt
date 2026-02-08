@@ -1,0 +1,1 @@
+vless://c72ad53d-02e9-45a8-bb28-cee88f384fdd@95.135.60.13:4646?type=xhttp&security=none&path=/@bitnetvpn#UA 🇺🇦 ┇ VLESS-XHTTP-NTLS - HVC-AS ┇ 95.135.60.13

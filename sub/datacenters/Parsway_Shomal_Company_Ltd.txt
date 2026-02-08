@@ -1,1 +1,0 @@
-vless://3bf97509-bce0-46ba-b9ce-d4208e0ce136@sv1.fasdata.top:7320?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsway Shomal Company Ltd ┇ 213.176.120.15

@@ -1,0 +1,1 @@
+vless://1dd94d15-8f73-4152-814b-d74cd11c54c9@146.185.208.206:4443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&sid=5f22#RU 🇷🇺 ┇ VLESS-TCP-RLT - Perekrestok-2000 LLC ┇ 146.185.208.206

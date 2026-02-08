@@ -1,1 +1,0 @@
-vless://cd0aba07-3b28-48a2-8cbb-49be72420089@185.247.185.6:5443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 185.247.185.6

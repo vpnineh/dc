@@ -1,2 +1,1 @@
-vless://ae73ff30-076a-470b-b8ed-d470a89c0187@sub.netlinr.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.107.146.202
-vless://fd8997df-5aac-499c-a2e2-2ce3d0217a0e@87.248.155.187:2526?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.155.187
+vless://95c7b369-8b59-45fe-889e-46b2f174d40b@87.248.155.187:2526?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.155.187

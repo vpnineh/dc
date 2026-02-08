@@ -1,1 +1,0 @@
-vless://c2b64b65-3563-4caf-ad71-26f427e6da52@185.198.235.139:80?type=ws&security=none#IT 🇮🇹 ┇ VLESS-WS-NTLS - ASNET ┇ 185.198.235.139

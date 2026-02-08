@@ -1,1 +1,0 @@
-vless://d4ba7c4b-110a-46da-8387-956b6dc2b141@iran2.zebraservice.site:90?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.239

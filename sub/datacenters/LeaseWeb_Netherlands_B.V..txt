@@ -1,5 +1,4 @@
-vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.239
+vless://7255b3ba-7484-493f-adaa-0bd7ff6eb3ed@ip.hamrahto.com:2082?type=ws&security=none&path=/api/stream#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.162.13
-vless://48490509-9672-4ddb-b44f-bbfd7560d614@89.149.242.24:1990?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - LeaseWeb Netherlands B.V. ┇ 89.149.242.24
+vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.239
 vless://0225e1ba-569e-4b65-a2f8-92fe863c5a76@ip.hamrahto.com:2095?type=httpupgrade&security=none#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://fb47c96a-c59f-4551-b687-ba9305419abc@ip.hamrahto.com:2082?type=ws&security=none&path=/api/stream?ed=2080#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160

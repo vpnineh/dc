@@ -1,0 +1,1 @@
+vless://671c0340-77dc-402f-8bc1-60558bc46540@de-05.anotherboring.top:443?type=tcp&security=reality&sni=de-05.anotherboring.top&fp=chrome&flow=xtls-rprx-vision&pbk=ilirquLZWLZKAKHq6A80AT-ixdR4Nho6vmOfSPF3iS4&sid=9d21bea37f7da010#SE 🇸🇪 ┇ VLESS-TCP-RLT - Closed Joint Stock Company AbkhazMedia ┇ 194.87.77.46

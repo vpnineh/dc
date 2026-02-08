@@ -1,0 +1,1 @@
+vless://416fede1-b6ef-40b8-a781-5023545fec0d@185.226.93.36:4444?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.36

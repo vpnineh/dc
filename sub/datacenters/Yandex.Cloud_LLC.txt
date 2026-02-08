@@ -1,1 +1,1 @@
-vless://1e26d9dd-0925-44b4-b013-3bd7d23df500@51.250.39.136:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.39.136
+vless://08d6280b-90c8-41e1-a809-3132cfb706f5@130.193.59.133:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 130.193.59.133

@@ -1,3 +1,5 @@
 vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&security=none&path=/login/azaronline.com/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 213.176.65.192
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.45.43.58:2053?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 147.45.43.58
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.192.60.51:8443?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 85.192.60.51
 vless://16feccc2-1eeb-4428-b7de-544091d82beb@re.alphanet01.com:51847?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 85.192.26.88
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDc3LjExMC45Ny4xMTQiLCJhZGQiOiJmYXJ6YWQudmlwZ3NtdGVhbS5pbmZvIiwicG9ydCI6MzM5NTMsImlkIjoiM2RiMDc3NDUtNGJhNS00NjYzLThlYjQtYzc3OTZkNjdlOWU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9

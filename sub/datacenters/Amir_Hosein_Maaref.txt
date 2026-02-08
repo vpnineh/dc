@@ -1,2 +1,1 @@
-vless://7b7ff23d-2137-4c17-ad92-36b88dfc3804@92.114.50.193:47255?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.193
 vless://f50407c6-f465-4a6b-8a28-bbef97c4b308@85.133.253.205:4558?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.205

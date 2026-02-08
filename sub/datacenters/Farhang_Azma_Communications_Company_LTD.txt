@@ -1,0 +1,4 @@
+vless://d63d2e7b-846c-4ec3-ad68-09c25ddb59cc@but.i.love.i5connect.javidshah.sbs:2097?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Farhang Azma Communications Company LTD ┇ 212.16.68.34
+vless://d63d2e7b-846c-4ec3-ad68-09c25ddb59cc@part2.i5connect.tlg.javidshah.sbs:2098?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Farhang Azma Communications Company LTD ┇ 212.16.68.34
+vless://d63d2e7b-846c-4ec3-ad68-09c25ddb59cc@part3.i5connect.tlg.javidshah.sbs:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Farhang Azma Communications Company LTD ┇ 212.16.68.34
+vless://d63d2e7b-846c-4ec3-ad68-09c25ddb59cc@i5connect.tlg.javidshah.sbs:2099?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Farhang Azma Communications Company LTD ┇ 212.16.68.34

@@ -1,1 +1,0 @@
-vless://d63d2e7b-846c-4ec3-ad68-09c25ddb59cc@anathaone.javidshah.sbs:9531?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.237

@@ -1,1 +1,1 @@
-vless://ff2cd5ea-ae20-49e2-8a93-c0f90eb1e3d8@alpha.wenllies.com:443?type=xhttp&security=reality&sni=alpha.wenllies.com&fp=random&pbk=k9GRzeVJLhJDOKS89ul7uB9f6n3Cf6bg7XmR1T1OY0E&sid=57a8f480c6fbcb2e#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Okb Progress LLC ┇ 185.236.20.200
+vless://ff2cd5ea-ae20-49e2-8a93-c0f90eb1e3d8@alpha.wenllies.com:443?type=xhttp&security=reality&sni=alpha.wenllies.com&fp=chrome&pbk=k9GRzeVJLhJDOKS89ul7uB9f6n3Cf6bg7XmR1T1OY0E&sid=57a8f480c6fbcb2e#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Okb Progress LLC ┇ 185.236.20.200

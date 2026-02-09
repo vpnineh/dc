@@ -1,3 +1,2 @@
 vless://8bad9f6a-c450-4175-a1d1-6fadb9d37eb0@m4.blu20.fun:414?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.194.252
-vless://0f523f7f-d795-446b-ad45-797c1700e28e@dach.cloudflare.com.snaap.irazzkiiranhob.pleasecheckout.blaackgame.ir:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.51.27
 vless://5470fc8f-ec3a-4e43-88df-ecc3a1a898f4@nova2.abzarsanat.sbs:12666?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 81.90.147.226

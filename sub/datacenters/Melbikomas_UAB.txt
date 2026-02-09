@@ -1,1 +1,0 @@
-vless://3b70bf25-7d9b-4e42-8718-71c72f8b721c@ywwq.izumii.ir:2091?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Melbikomas UAB ┇ 185.35.221.149

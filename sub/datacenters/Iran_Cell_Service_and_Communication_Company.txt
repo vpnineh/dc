@@ -1,1 +1,0 @@
-vless://cb5e557d-4c73-46df-94c1-a65eb8caffcc@2.144.6.94:45471?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.94

@@ -1,2 +1,2 @@
-vless://e7701e97-d7e4-4a02-a03e-8b6557a74e56@91.107.251.197:80?type=tcp&security=reality&sni=fonts.gstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=h0YJsB_NtW6zhwPGxlZa-XqwpkjAL9b4Gt-9O2pwt3Y&sid=e105c6101ee98e#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 91.107.251.197
 vless://1f240c57-1812-4360-9f2a-e883402cd5e5@91.107.251.197:703?type=tcp&security=reality&sni=ajax.googleapis.com&fp=chrome&flow=xtls-rprx-vision&pbk=b5wubydI-7hg7pZzvMVIuc4kaghXqK8DXwTtW3PgpCE&sid=17e1da509bd4#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 91.107.251.197
+vless://e7701e97-d7e4-4a02-a03e-8b6557a74e56@91.107.251.197:80?type=tcp&security=reality&sni=fonts.gstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=h0YJsB_NtW6zhwPGxlZa-XqwpkjAL9b4Gt-9O2pwt3Y&sid=e105c6101ee98e#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 91.107.251.197

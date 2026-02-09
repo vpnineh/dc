@@ -1,2 +1,1 @@
-vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 194.87.118.19
 vless://cd0aba07-3b28-48a2-8cbb-49be72420089@185.247.185.6:5443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 185.247.185.6

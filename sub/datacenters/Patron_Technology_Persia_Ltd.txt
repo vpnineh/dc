@@ -1,0 +1,1 @@
+vless://1e80ce9f-a949-4813-be48-ab88d803c955@floyd.heisblack.lol:2088?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.237

@@ -1,2 +1,1 @@
-vless://703bdfdf-6480-4317-a643-8a4093296eb5@193.228.169.56:2088?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.56
 vless://ce5ed6ee-6ad1-4b04-8ddb-34c523836715@german4.activevps4.com:44015?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.23

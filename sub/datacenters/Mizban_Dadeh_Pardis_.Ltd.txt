@@ -1,3 +1,3 @@
 vless://48d2bb99-4c0e-4835-9179-0b4a224b25ef@nv2.napsternet22.com:12012?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.202
-vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.26
 vless://703bdfdf-6480-4317-a643-8a4093296eb5@193.228.169.56:2088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.169.56
+vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.26

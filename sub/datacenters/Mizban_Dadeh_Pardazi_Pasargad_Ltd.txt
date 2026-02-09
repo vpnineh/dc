@@ -1,1 +1,0 @@
-vless://b07560e0-c960-4f23-a267-f3c877f334e3@178.239.146.241:500?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.241

@@ -1,2 +1,3 @@
-vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.162.13
 vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.239
+vless://8969302b-3f97-463c-922f-135e0231eed1@45.130.125.160:443?type=tcp&security=tls&path=8969302b-3f97-463c-922f-135e0231eed1-vx#NL 🇳🇱 ┇ VLESS-TCP-TLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.162.13

@@ -1,3 +1,2 @@
-vless://d57fd975-5ff1-4911-a14a-6538996d93cd@ru.asbndx.com:443?type=tcp&security=reality&sni=ru.asbndx.com&fp=qq&flow=xtls-rprx-vision&pbk=jm1tsCkTKsXunYTjcdHLu_whRQRkZWlWdGbSFDVyREw&sid=0f4dacf89993e20f#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 83.166.252.181
-vless://62320388-4694-4d21-82f0-757722eb3b77@vk-de.asbndx.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 5.188.143.13
-vless://895f94cb-5567-4731-bc2c-2f89a54bafe4@87.239.111.227:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 87.239.111.227
+vless://62320388-4694-4d21-82f0-757722eb3b77@vk-de.asbndx.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 5.188.143.111
+vless://d57fd975-5ff1-4911-a14a-6538996d93cd@ru.asbndx.com:443?type=tcp&security=reality&sni=ru.asbndx.com&fp=qq&flow=xtls-rprx-vision&pbk=jm1tsCkTKsXunYTjcdHLu_whRQRkZWlWdGbSFDVyREw&sid=0f4dacf89993e20f#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 83.166.252.90

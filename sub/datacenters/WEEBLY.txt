@@ -1,1 +1,1 @@
-vless://35196b2c-f313-44d5-b819-b03323beeb86@aafc3.lizardshop.org:2095?type=tcp&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.228.77
+vless://35196b2c-f313-44d5-b819-b03323beeb86@aafc3.lizardshop.org:2095?type=httpupgrade&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - WEEBLY ┇ 199.34.228.77

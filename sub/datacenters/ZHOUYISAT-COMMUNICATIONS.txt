@@ -1,1 +1,1 @@
-vless://f74d98a4-9198-4f78-b921-47d4f4950953@de3.teleport.lat:443?type=tcp&security=tls&sni=de3.teleport.lat&fp=chrome&flow=xtls-rprx-vision#ES 🇪🇸 ┇ VLESS-TCP-TLS - ZHOUYISAT-COMMUNICATIONS ┇ 185.236.26.58
+vless://f74d98a4-9198-4f78-b921-47d4f4950953@de3.teleport.lat:443?type=tcp&security=tls&sni=de3.teleport.lat&flow=xtls-rprx-vision#ES 🇪🇸 ┇ VLESS-TCP-TLS - ZHOUYISAT-COMMUNICATIONS ┇ 185.236.26.58

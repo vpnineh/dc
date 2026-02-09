@@ -1,2 +1,2 @@
-vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@ru2.ultima.foundation:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.74.168
+vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@ru2.ultima.foundation:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.189.167.178
 vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443?type=httpupgrade&security=tls&path=/&sni=ru.cheburnetnastalgia1998.com#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-TLS - JSC Selectel ┇ 94.26.229.23

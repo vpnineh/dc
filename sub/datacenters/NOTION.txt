@@ -1,1 +1,1 @@
-vless://2f380b9d-36f3-4c71-9150-3b4fe5782136@aafc22.lizardshop.org:2095?type=httpupgrade&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NOTION ┇ 208.103.161.17
+vless://2f380b9d-36f3-4c71-9150-3b4fe5782136@aafc22.lizardshop.org:2095?type=tcp&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.17

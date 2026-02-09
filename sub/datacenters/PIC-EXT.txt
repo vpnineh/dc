@@ -1,0 +1,1 @@
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@130.250.137.196:2053?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - PIC-EXT ┇ 130.250.137.196

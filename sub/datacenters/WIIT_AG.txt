@@ -1,0 +1,1 @@
+vless://4af37467-bf79-4630-98d5-73e7dad60e90@ak2.vpnfreedom.tech:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 93.186.201.45

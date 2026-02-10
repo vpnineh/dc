@@ -1,1 +1,1 @@
-vless://6e44b298-a091-4433-af5e-c89afd438c98@us-4.hwowst.ru:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HOSTKEY-USA ┇ 80.209.243.103
+vless://6e44b298-a091-4433-af5e-c89afd438c98@us-4.hwowst.ru:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - HOSTKEY-USA ┇ 80.209.243.103

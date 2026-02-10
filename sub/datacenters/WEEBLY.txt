@@ -1,2 +1,1 @@
 vless://35196b2c-f313-44d5-b819-b03323beeb86@aafc3.lizardshop.org:2095?type=tcp&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.228.77
-vless://acdeb840-7828-4134-a71e-7fd27316e9c6@cppq3.azangooo.ir:2053?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.228.77

@@ -1,1 +1,1 @@
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@digitalocean.com:2053?type=ws&security=tls&path=/&sni=foucse1.goooooooozoooo.sbs&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - PETROSKY ┇ 104.19.173.68
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@digitalocean.com:2053?type=ws&security=tls&path=/&sni=foucse1.goooooooozoooo.sbs&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - PETROSKY ┇ 104.19.174.68

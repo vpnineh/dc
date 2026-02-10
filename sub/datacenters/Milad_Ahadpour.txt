@@ -1,2 +1,1 @@
-vless://692f8f75-b1fc-4fe3-b1f2-cb75ea70b1c4@iraq5.nazminan.site:21185?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 85.133.224.221
 vless://174ba1c4-e694-472f-8f1b-1140752338f5@ultrawide.zaros.tech:12003?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Milad Ahadpour ┇ 85.133.224.196

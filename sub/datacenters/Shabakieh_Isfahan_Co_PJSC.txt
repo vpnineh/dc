@@ -1,1 +1,0 @@
-vless://75ebee4a-6e57-4aea-bacc-c215566c5901@81.12.92.71:7880?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.71

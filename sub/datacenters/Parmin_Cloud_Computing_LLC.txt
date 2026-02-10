@@ -1,1 +1,1 @@
-vless://cb5e557d-4c73-46df-94c1-a65eb8caffcc@grn.mobileemdad.top:45471?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parmin Cloud Computing LLC ┇ 212.80.24.122
+vless://d1f69de0-513f-4ac4-9151-5613f0331a92@grn.mobileemdad.top:45471?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parmin Cloud Computing LLC ┇ 212.80.24.122

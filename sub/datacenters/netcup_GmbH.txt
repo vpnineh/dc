@@ -1,4 +1,5 @@
-vless://319cf3c5-0b6a-4118-88cd-c2f814d6d26f@aurout.denditop.site:443?type=tcp&security=reality&sni=aurout.denditop.site&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.51.186
-vless://e804e80a-e413-436e-8e3c-8cce9ef657b9@at.asbndx.com:443?type=tcp&security=reality&sni=at.asbndx.com&fp=qq&flow=xtls-rprx-vision&pbk=hfJagZHzXLZaHqiyy59ZwnPFytw9WUMu1RGh29o3aVE&sid=2f4dacf62222e15f#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.44.42
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 37.120.184.180
+vless://319cf3c5-0b6a-4118-88cd-c2f814d6d26f@aurout.denditop.site:443?type=tcp&security=reality&sni=aurout.denditop.site&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.51.162
+vless://e804e80a-e413-436e-8e3c-8cce9ef657b9@at.asbndx.com:443?type=tcp&security=reality&sni=at.asbndx.com&fp=chrome&flow=xtls-rprx-vision&pbk=hfJagZHzXLZaHqiyy59ZwnPFytw9WUMu1RGh29o3aVE&sid=2f4dacf62222e15f#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.44.42
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.33.43
+vless://aec54bed-2384-4b85-8372-432597aa5518@37.120.167.164:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 37.120.167.164
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 37.120.184.180

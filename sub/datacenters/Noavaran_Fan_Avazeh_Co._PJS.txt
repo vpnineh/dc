@@ -1,1 +1,0 @@
-vless://2fdd3f08-dc50-457d-8ad9-6886e8599a2f@5.75.205.170:80?type=tcp&security=reality&sni=digikala.com&fp=chrome&flow=xtls-rprx-vision&pbk=XP9vEIYGZBn-a1gbN0Jg2MiEAX21U3178dDZWnUyZEk&sid=1e684f47#IR 🇮🇷 ┇ VLESS-TCP-RLT - Noavaran Fan Avazeh Co. PJS ┇ 5.75.205.170

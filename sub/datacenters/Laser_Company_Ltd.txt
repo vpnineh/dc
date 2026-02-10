@@ -1,1 +1,0 @@
-vless://29405686-b7b7-4e13-8161-cf41a857297e@194.31.108.195:1180?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 194.31.108.195

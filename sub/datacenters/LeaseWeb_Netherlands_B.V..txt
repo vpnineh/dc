@@ -1,1 +1,2 @@
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.162.13
+vless://48490509-9672-4ddb-b44f-bbfd7560d614@89.149.242.24:1990?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - LeaseWeb Netherlands B.V. ┇ 89.149.242.24

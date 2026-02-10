@@ -1,1 +1,0 @@
-vless://8b407843-0113-4c26-9895-93629b96282e@85.133.200.246:1608?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.246

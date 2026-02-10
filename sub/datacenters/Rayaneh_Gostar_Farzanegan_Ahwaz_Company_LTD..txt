@@ -1,2 +1,2 @@
-vless://14200d5b-fc96-4ed1-94ad-1f133297866f@finp.rjwarehousing.ir:9982?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 91.108.145.141
 vless://76e2a322-1c23-4c91-b2e1-40944d23fc48@iran87.nootkasound7.com:556?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 91.108.145.180
+vless://14200d5b-fc96-4ed1-94ad-1f133297866f@finp.rjwarehousing.ir:9982?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 91.108.145.141

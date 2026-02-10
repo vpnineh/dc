@@ -1,3 +1,3 @@
-vless://7647e29a-63dc-4d59-83bf-56bc61c00b7d@tel.mythictunnel.1.hogea.space:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.131.30
 vless://4fc97f92-d43e-44c5-8427-1e0ea708ef56@37.202.226.200:703?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.200
+vless://7647e29a-63dc-4d59-83bf-56bc61c00b7d@tel.mythictunnel.1.hogea.space:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.131.30
 vless://6ee16703-e23c-4247-b3fb-a5547e549089@37.202.226.46:20263?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.46

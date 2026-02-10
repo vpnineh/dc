@@ -1,2 +1,2 @@
-vless://620f8560-8e40-4229-a988-970528c0b620@usa50.openbypass.org:443?type=tcp&security=tls&sni=usa50.openbypass.org&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 5.253.30.90
-vless://93741b49-1a11-4882-b02f-10fb78bf0d22@usa69.openbypass.org:443?type=tcp&security=tls&sni=usa69.openbypass.org&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 5.253.30.181
+vless://620f8560-8e40-4229-a988-970528c0b620@usa50.openbypass.org:443?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 5.253.30.90
+vless://93741b49-1a11-4882-b02f-10fb78bf0d22@usa69.openbypass.org:443?type=tcp&security=tls&sni=usa69.openbypass.org&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 5.253.30.199

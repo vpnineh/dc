@@ -1,0 +1,1 @@
+vless://3d3aac85-cd57-4fc8-938f-78f745701f36@kavosiprotocol.shop:2096?type=ws&security=tls&path=/&sni=kavosiprotocol.shop&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Pars Shabakeh Azarakhsh LLC ┇ 87.107.146.159

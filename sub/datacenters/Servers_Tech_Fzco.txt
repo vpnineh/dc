@@ -1,4 +1,4 @@
 vless://a6690136-c109-45e6-be13-a45f7cb9eb2a@78.40.194.14:19465?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 78.40.194.14
-vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?type=ws&security=none&path=/getWorkerUpdates#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 146.103.99.25
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?type=ws&security=none&path=/getWorkerUpdates#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 146.103.102.82
 vless://83fcd827-fa11-460f-9cb2-e2ffe088c4c1@srv2.outlinekeys.com:1080?type=tcp&security=reality&sni=srv2.outlinekeys.com&fp=chrome&flow=xtls-rprx-vision&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 77.246.100.169
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?type=ws&security=none&path=/getWorkerUpdates#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 146.103.102.82
+vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 146.103.99.25

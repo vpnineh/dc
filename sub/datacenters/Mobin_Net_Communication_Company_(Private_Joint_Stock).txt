@@ -1,2 +1,2 @@
-vless://1599461e-9615-47d0-bb18-3bae4795ab68@musiciraniafc2.ir:42156?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.150
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vYmluIE5ldCBDb21tdW5pY2F0aW9uIENvbXBhbnkgKFByaXZhdGUgSm9pbnQgU3RvY2spIFx1MjUwNyA5Mi4xMTQuMjQuMTAxIiwiYWRkIjoiZGwubWdsaW51eC5pciIsInBvcnQiOjIwOTMsImlkIjoiMTQ0MTU2OTMtOGFhZS00YTAyLWRkNTEtMzMyZmZlMGQwNDBiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://1599461e-9615-47d0-bb18-3bae4795ab68@musiciraniafc2.ir:42156?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.150

@@ -1,2 +1,0 @@
-vless://a8b11692-4d33-40a4-9ad8-13ac4032b9eb@market.chepschasb.shop:8443?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=BUjLNIFp1xPnpPuFKe7E035bvC2v85suKe3DuU_zVkA&sid=d7b32685ce664e36#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO-BF1 ┇ 89.167.62.149
-vless://6675a5cc-f541-46dd-b6bb-94c4a0a4505e@46.225.87.167:8443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=tYCKcYojOp_n2dPJsoKZKc5bpGsPewSPX78KBKfV9Ws&sid=f0196561eb1e6f#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 46.225.87.167

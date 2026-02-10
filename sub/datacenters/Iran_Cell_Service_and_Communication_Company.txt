@@ -1,3 +1,0 @@
-vless://11e518c7-e2ed-4ad2-bc92-adebfc1d3810@mtn2.gill-offroad.ir:23412?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.22.246
-vless://11e518c7-e2ed-4ad2-bc92-adebfc1d3810@mtn.gill-offroad.ir:43412?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.245
-vless://cb5e557d-4c73-46df-94c1-a65eb8caffcc@2.144.6.94:45471?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.94

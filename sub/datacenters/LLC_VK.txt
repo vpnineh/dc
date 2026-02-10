@@ -1,3 +1,0 @@
-vless://d57fd975-5ff1-4911-a14a-6538996d93cd@ru.asbndx.com:443?type=tcp&security=reality&sni=ru.asbndx.com&fp=chrome&flow=xtls-rprx-vision&pbk=jm1tsCkTKsXunYTjcdHLu_whRQRkZWlWdGbSFDVyREw&sid=0f4dacf89993e20f#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 83.166.252.90
-vless://895f94cb-5567-4731-bc2c-2f89a54bafe4@87.239.111.227:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 87.239.111.227
-vless://8c7961bd-2a58-4a02-8f8f-a37d2122eeaf@87.239.107.214:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 87.239.107.214

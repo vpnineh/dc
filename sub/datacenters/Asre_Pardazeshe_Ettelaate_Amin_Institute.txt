@@ -1,3 +1,3 @@
-vless://52bbba8a-cba7-41de-a0c8-5d66663ca8f3@pol2.creativelife.monster:37962?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.192
-vless://0fda272b-7c6d-4322-9e21-64c0aece5e34@pol2.creativelife.monster:49873?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.192
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNyZSBQYXJkYXplc2hlIEV0dGVsYWF0ZSBBbWluIEluc3RpdHV0ZSBcdTI1MDcgNjIuNjAuMTk2LjUzIiwiYWRkIjoiZm9yY2UxMi5nb2xkc3BlZWQub3JnIiwicG9ydCI6NDA4NzIsImlkIjoiYmY5NTE3MDgtOWY3NS00N2E3LTg2NDktM2FiMGE3ZDJjYzE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://52bbba8a-cba7-41de-a0c8-5d66663ca8f3@pol2.creativelife.monster:37962?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.192
+vless://4f2be6f4-ca47-438e-8fb6-caa16e29938f@pol2.creativelife.monster:49873?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.192

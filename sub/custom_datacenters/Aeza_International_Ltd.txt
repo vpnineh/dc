@@ -1,6 +1,6 @@
 vless://e9e389d2-49d0-40a3-9a5e-02444aae5d8a@138.124.61.108:28877?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.61.108
 vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&security=none&path=/login/azaronline.com/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 213.176.65.192
-vless://a8525634-0dbf-4045-849d-51a64a7dba8b@reza.alphanet01.com:51349?type=ws&security=none&path=@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,#NL 🇳🇱 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 85.192.26.88
+vless://ae13cc17-d059-467f-b43e-b943f064b809@dethree.farsnews.abrdns.com:8008?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.156.129
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.118.9
-vless://cf1b548b-4ab0-43fe-b000-330d42ec2a95@62.60.159.133:13179?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.159.133
 vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.159.133
+vless://cf1b548b-4ab0-43fe-b000-330d42ec2a95@62.60.159.133:13179?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.159.133

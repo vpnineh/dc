@@ -1,1 +1,2 @@
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 213.67.213.29
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 217.208.221.195
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlbGlhIENvbXBhbnkgQUIgXHUyNTA3IDIxNy4yMDguMjIxLjE5NSIsImFkZCI6ImRkLm9wZW5hY2Nlc3Nub2RlLmNvbSIsInBvcnQiOjUwMiwiaWQiOiIzMTcwMWI1ZC1jYTk1LTkyZjktZDY4NC1kYWUzNzA2MTYxZWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvQEphdmlkbmFtYW5JcmFuL0phdmlkLVNIQUgtS2luZ1JlemFQYWhsYXZpLyJ9

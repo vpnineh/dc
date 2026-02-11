@@ -1,0 +1,1 @@
+vless://71df66c6-d869-423d-9ac2-0526975f37fc@46.225.102.247:4450?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=t6kDFCpSm2a9LtbOP1gb2gi6Aa5-N_IO4J8tnjWeCyg#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 46.225.102.247

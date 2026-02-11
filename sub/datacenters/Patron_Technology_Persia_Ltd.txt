@@ -1,2 +1,2 @@
-vless://99c66c7d-d124-4573-b82a-b972e04c5138@185.231.113.179:55010?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.179
 vless://efd09bef-f9b5-46ff-b03b-22844e01ee8a@185.231.113.237:2098?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.237
+vless://99c66c7d-d124-4573-b82a-b972e04c5138@185.231.113.179:55010?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.179

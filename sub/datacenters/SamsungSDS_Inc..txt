@@ -1,0 +1,1 @@
+vless://3d3aac85-cd57-4fc8-938f-78f745701f36@kavosiprotocol.shop:2053?type=tcp&security=reality&sni=samsung.com&fp=chrome&pbk=xalxI64M2xfxq7Skn0Ocp8w2o-30ErW_tXPTCGka0zo&sid=c02c0fd8#KR 🇰🇷 ┇ VLESS-TCP-RLT - SamsungSDS Inc. ┇ 87.107.146.159

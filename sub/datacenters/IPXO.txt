@@ -1,2 +1,1 @@
-vless://e97ed05a-4bb6-4bbd-9c1d-02f71e645d4c@drts.taynno.com:7072?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.233.129
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.232.131

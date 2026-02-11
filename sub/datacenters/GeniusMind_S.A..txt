@@ -1,1 +1,1 @@
-vless://f6494a5d-d3a6-4de1-9328-c7d0356297cd@showip.mobileemdad.top:9560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.34
+vless://f18ed3e2-bb56-47dc-8402-4f291902a80c@showip.mobileemdad.top:9560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.34

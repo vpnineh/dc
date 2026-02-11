@@ -1,6 +1,6 @@
-vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o3.tun.vortextun.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.216
-vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o5.tun.vortextun.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.146
-vless://19cab0e7-f0b6-4e0d-b3eb-c7a717c12eb6@site.btctim.com:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.54
-vless://4209e3a8-360d-4508-9ac6-1f381c7da47d@gold.btctim.com:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.112
 vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o2.tun.vortextun.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.20
 vless://80eb19fe-bfed-403d-bd98-cdb96f492245@89.47.202.192:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.192
+vless://0101e328-2b21-40a9-90d3-1e96f0919be9@curt234.curtvpy.ir:2375?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.201.169
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o3.tun.vortextun.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.216
+vless://4209e3a8-360d-4508-9ac6-1f381c7da47d@gold.btctim.com:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.112
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o5.tun.vortextun.com:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.146

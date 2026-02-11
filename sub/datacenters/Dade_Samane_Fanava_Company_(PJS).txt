@@ -1,6 +1,6 @@
-vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@ger1.wizshop2.com:8085?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.37.33
-vless://419f78d3-1017-4df7-a4bf-eeeb929e20a7@78.157.38.242:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.38.242
 vless://81425907-7721-4d6e-bd7e-4c2df08e9754@safest.silentbreath.ir:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.37.202
-vless://968186b8-e898-4abf-9588-edd8dcf6b518@dl.fmmusiciran.com:15212?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.204
-vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@78.157.32.99:18044?type=ws&security=none&path=/ALMAS1#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.32.99
+vless://419f78d3-1017-4df7-a4bf-eeeb929e20a7@78.157.38.242:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.38.242
 vless://c1bbc714-c653-4352-9890-15a3b9355d39@download.musicdownlodirani7.com:53196?type=tcp&security=none&path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.195
+vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@ger1.wizshop2.com:8085?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.37.33
+vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@78.157.32.99:18044?type=ws&security=none&path=/ALMAS1#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.32.99
+vless://968186b8-e898-4abf-9588-edd8dcf6b518@dl.fmmusiciran.com:15212?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.204

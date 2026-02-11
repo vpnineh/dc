@@ -1,3 +1,3 @@
+vless://6e3d0d72-61d5-42c7-bb01-da2baee6540b@185.208.79.219:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.208.79.219
 vless://a0011204-1bd7-489b-b120-eeeab41b6e59@m1.designister.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.212.216
 vless://ec95205b-50b4-496c-891f-5e8087089c4f@62.60.214.57:2087?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.214.57
-vless://6e3d0d72-61d5-42c7-bb01-da2baee6540b@185.208.79.219:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.208.79.219

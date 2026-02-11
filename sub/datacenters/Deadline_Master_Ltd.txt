@@ -1,1 +1,0 @@
-vless://123d4832-db2b-4376-be63-f60858cc328e@tr-1.bot-iphone.ru:8443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Deadline Master Ltd ┇ 82.26.94.126

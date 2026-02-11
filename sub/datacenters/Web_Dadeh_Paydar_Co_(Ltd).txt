@@ -1,1 +1,2 @@
 vless://5470fc8f-ec3a-4e43-88df-ecc3a1a898f4@nova2.abzarsanat.sbs:12666?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.0.116
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBXZWIgRGFkZWggUGF5ZGFyIENvIChMdGQpIFx1MjUwNyA5MS4yMDYuMTcxLjEwNSIsImFkZCI6ImRhaWx5LnBvdXlhMi5pciIsInBvcnQiOjYwMjQsImlkIjoiOGMyYjhlOGYtNWM0OC00NmQ4LWI5NjEtMTE1YmZiYjkyZGM0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4ifQ

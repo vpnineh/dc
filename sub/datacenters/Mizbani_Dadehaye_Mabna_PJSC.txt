@@ -1,0 +1,1 @@
+vless://eeefedd3-ae75-4306-a773-07be3331db22@a20.api-tel.ir:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Dadehaye Mabna PJSC ┇ 31.184.166.242

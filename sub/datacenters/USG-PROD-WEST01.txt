@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.35:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.72.35
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.247:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.73.247
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.35:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.72.35

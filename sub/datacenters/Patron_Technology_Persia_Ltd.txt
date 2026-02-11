@@ -1,2 +1,1 @@
-vless://11875419-c06b-465e-ba3f-ebff2545c0f5@but.honey.i.luv.i5.javidshah.sbs:2098?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.237
 vless://99c66c7d-d124-4573-b82a-b972e04c5138@185.231.113.179:55010?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.179

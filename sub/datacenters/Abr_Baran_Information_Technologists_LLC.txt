@@ -1,1 +1,1 @@
-vless://9b481dc9-67cf-40e0-8cf7-af310e19fde5@1.vipragaamin.ir:22405?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 62.60.141.6
+vless://e5e5a7ea-ebda-4f6d-acd5-01f1035e87e8@l.darksali.ir:8082?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Abr Baran Information Technologists LLC ┇ 62.60.146.50

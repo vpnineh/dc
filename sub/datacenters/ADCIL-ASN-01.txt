@@ -1,2 +1,1 @@
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@144.31.0.177:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.0.177
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@144.31.90.200:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - ADCIL-ASN-01 ┇ 144.31.90.200

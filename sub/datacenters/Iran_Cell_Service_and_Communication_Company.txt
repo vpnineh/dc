@@ -1,2 +1,3 @@
-vless://ee21ae6f-cbe6-4b79-8852-047de0c1735c@w2-flare2.ir:443?type=tcp&security=tls&sni=w2-flare2.ir#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.20.190
 vless://5d140452-3488-4ca1-a9f1-4011a4edc701@n1.oranicvip.ir:23320?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.136
+vless://52db8b49-d138-4e7a-bf47-161ea49a774b@2.144.22.253:10001?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.22.253
+vless://308975b2-0c44-4bbc-be41-62b2f6fccfe3@amir.behnamweb.fun:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.22.213

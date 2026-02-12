@@ -1,1 +1,0 @@
-vless://5fcc1d72-683c-4639-806a-1172eecd7452@46.225.66.56:4450?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=t6kDFCpSm2a9LtbOP1gb2gi6Aa5-N_IO4J8tnjWeCyg#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 46.225.66.56

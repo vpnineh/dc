@@ -1,5 +1,5 @@
-vless://9fd700f5-62a7-4762-9c64-5aa954c2681a@blog.techemg.ir:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.131.233
-vless://6ee16703-e23c-4247-b3fb-a5547e549089@37.202.226.46:20263?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.46
+vless://dea19004-2722-4b93-b708-be2afb24ab3a@girls1.taynno.com:1083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.180
+vless://9fd700f5-62a7-4762-9c64-5aa954c2681a@blog.techemg.ir:8080?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.131.233
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbmF2YXJhbiBNZWhyIFZhdGFuIFRlaHJhbiBTZXJ2ZXIgR3JvdXAgTExDIFx1MjUwNyAzNy4yMDIuMjM3LjUzIiwiYWRkIjoidXMucGluZ29vby5vcmciLCJwb3J0Ijo4MCwiaWQiOiI5MTg2ZGJkZS00ZjQ3LTRjYmItYTdjMC1lZWVhN2VjMDZkZDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://9af2dfc2-c7ad-425f-a534-7a1fada8f4e9@my.golam.mehromahtel.com:15000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.239.164
-vless://dea19004-2722-4b93-b708-be2afb24ab3a@girls1.taynno.com:1083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.180
+vless://6ee16703-e23c-4247-b3fb-a5547e549089@37.202.226.46:20263?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.46

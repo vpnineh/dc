@@ -1,1 +1,1 @@
-vless://75ebee4a-6e57-4aea-bacc-c215566c5901@sonic.shabroo.com:7880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.71
+vless://c8e0b50b-6c86-453a-9a3b-72c5ce679e73@sonic.shabroo.com:7880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.71

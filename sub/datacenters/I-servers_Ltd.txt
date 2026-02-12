@@ -1,0 +1,1 @@
+vless://b95a5e81-dc9e-4704-b57c-ef4ff5b541ac@cdn2.aiserver.pro:443?type=tcp&security=tls&sni=cdn2.aiserver.pro&fp=firefox#GB 🇬🇧 ┇ VLESS-TCP-TLS - I-servers Ltd ┇ 45.43.75.89

@@ -1,4 +1,4 @@
+vless://0fda272b-7c6d-4322-9e21-64c0aece5e34@pol2.creativelife.monster:49873?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.128
 vless://c72394e4-cca9-4e1d-9887-54ace82923b2@185.142.157.28:2003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.142.157.28
 vless://622f8aef-a130-4e20-9158-c4ff0521a806@pol2.creativelife.monster:37962?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.128
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?type=ws&security=none&path=/IVApi/UK/3#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.255.24
-vless://4f2be6f4-ca47-438e-8fb6-caa16e29938f@pol2.creativelife.monster:49873?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.128

@@ -1,0 +1,1 @@
+vless://d37303d1-e7c0-45dc-8128-1e17d3db31d4@srv121.towersflowerss.com:443?type=tcp&security=reality&sni=srv121.towersflowerss.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0#SG 🇸🇬 ┇ VLESS-TCP-RLT - Verasel, Inc. ┇ 176.98.183.25

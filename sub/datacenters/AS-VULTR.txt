@@ -1,4 +1,3 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgNDUuNzYuMTI3LjE4OSIsImFkZCI6IjQ1Ljc2LjEyNy4xODkiLCJwb3J0Ijo0NDMsImlkIjoiN2ZjNjc2NGEtNmNiYS00NTk5LTk1ZDctYWM3NjE3YjdkYjBhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcmF5IiwidGxzIjoidGxzIn0
 vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?type=xhttp&security=none&path=/@bitnetvpn#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 77.81.81.17
 vless://bfedf612-da3f-4a50-a9e0-c8f776281525@vpsayebx.samanidempire.org:443?type=ws&security=tls&path=/d53e10ff#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 192.248.185.2
-vless://50c80500-421f-45ef-aa4a-43df212ea324@instxrpt.samanidempire.org:443?type=ws&security=tls&path=/5a7200cd#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 192.248.180.137

@@ -1,4 +1,4 @@
+vless://fca17b97-6868-410f-9179-71979be2cea1@85.133.221.191:1433?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.191
+vless://e0135cf1-7174-47b7-bf8d-2c4ddb618a97@85.133.221.155:4102?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.155
 vless://e9af1f6d-98b0-4b08-8f0d-d54a7251e462@i.maxpn.top:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.250.210
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgODEuMTIuMzMuMTgwIiwiYWRkIjoiODEuMTIuMzMuMTgwIiwicG9ydCI6MjAyNCwiaWQiOiJjOTJiNzc0Ny00MjIyLTRhYTAtOGM5MS01NzUzYjhjNzU5ZjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvYXBpL3JlZ2lzdGVyL25ldy9uYW1lL2Rhdi9yZXNwb25zZS9jbVYwYVhKbFpDQm9aV3hzYnlCb2IzY2dZWEpsSUhsdmRTQjBhR2x6SUdseklHMTVJRzVsZHlCb1pXRmtaWElnZCJ9
-vless://e0135cf1-7174-47b7-bf8d-2c4ddb618a97@85.133.221.155:4102?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.155
-vless://fca17b97-6868-410f-9179-71979be2cea1@85.133.221.191:1433?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.191

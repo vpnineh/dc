@@ -1,0 +1,1 @@
+vless://852a209c-112f-4aa9-861e-881d7475880f@parsnetir.ir.ir.bitava.org:49751?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - ChronoSat GmbH ┇ 91.199.14.2

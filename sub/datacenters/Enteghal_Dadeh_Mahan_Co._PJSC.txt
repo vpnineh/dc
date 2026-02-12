@@ -1,0 +1,1 @@
+vless://d81e2565-b257-461b-9287-9cbe886e0640@tunnel.viphosseinomn.top:9090?type=ws&security=none&path=/connect#IR 🇮🇷 ┇ VLESS-WS-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.142

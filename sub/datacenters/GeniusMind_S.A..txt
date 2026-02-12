@@ -1,2 +1,2 @@
-vless://05ffa80c-4403-4fbd-8997-8de80e49fe02@zone.fia.fx2hub.ir:28643?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.106
 vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.230
+vless://05ffa80c-4403-4fbd-8997-8de80e49fe02@zone.fia.fx2hub.ir:28643?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.106

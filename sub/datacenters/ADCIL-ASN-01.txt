@@ -1,1 +1,2 @@
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@144.31.90.200:443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - ADCIL-ASN-01 ┇ 144.31.90.200
+vless://b183589d-5e32-4141-a39a-6cb747964c67@pl2.jugsenkeys4pays.su:443?type=tcp&security=reality&sni=pl2.jugsenkeys4pays.su&flow=xtls-rprx-vision&pbk=C7H4Nh55F4B8iHaVHWY6VK562RI6p_t8H7lrX_O8SnQ#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.4.4

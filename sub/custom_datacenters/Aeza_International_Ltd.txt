@@ -1,3 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDc5LjEzNy4yMDMuMjkiLCJhZGQiOiI3OS4xMzcuMjAzLjI5IiwicG9ydCI6ODA4MCwiaWQiOiI5ODE5Y2JmOC0zZmMyLTRjOWUtOTU1MC0xMWU2MTZiYjA0YWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvQGFzcm5vdmluX2lyIn0
 vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@fi.connectv.net:443?type=tcp&security=reality&sni=fi.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.37.119
 vless://9a717e62-bb4e-59c6-a458-95b18873a6c0@pristytools.com.pristytools.com:2087?type=ws&security=tls&path=/#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.156.204
+vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.118.9

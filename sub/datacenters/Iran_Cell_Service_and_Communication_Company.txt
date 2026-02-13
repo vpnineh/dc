@@ -1,2 +1,2 @@
-vless://278a8cd2-b7ac-4ff3-a820-8a9ef6e47638@sport2.sportgohr.ir:30100?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.40
 vless://5d140452-3488-4ca1-a9f1-4011a4edc701@n1.oranicvip.ir:23320?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.136
+vless://278a8cd2-b7ac-4ff3-a820-8a9ef6e47638@sport2.sportgohr.ir:30100?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.40

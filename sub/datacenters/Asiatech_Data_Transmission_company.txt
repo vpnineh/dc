@@ -1,2 +1,2 @@
-vless://38dd34b4-e948-479b-a793-8179356af61e@sv1.xupidam.ir:38411?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.111.234.122
 vless://442a1d0a-8343-4f27-9ec2-b7dcdf37c649@h1.site.asan-ps.ir:1024?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.106
+vless://38dd34b4-e948-479b-a793-8179356af61e@sv1.xupidam.ir:38411?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.111.234.122

@@ -1,1 +1,2 @@
 vless://080c676a-c43f-4e73-aed9-db90ece9d4fb@usa.fastexte.pro:443?type=tcp&security=reality&sni=usa.fastexte.pro&fp=chrome&flow=xtls-rprx-vision&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8#US 🇺🇸 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 104.167.196.107
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.167.197.86:8443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.86

@@ -1,2 +1,1 @@
 vless://3d3b159d-e313-4b4f-b248-99bf1064175a@zula.ir:80?type=ws&security=none&path=/vless#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.61
-vless://2b5e2b86-55b6-4571-abc1-c1dec8605725@www.zula.ir:443?type=tcp&security=none&path=/vless#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.61

@@ -1,1 +1,0 @@
-vless://e8accc46-c511-42fb-919b-9283799a88a1@79.137.175.56:8443?type=tcp&security=reality&sni=m.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#RU 🇷🇺 ┇ VLESS-TCP-RLT - VKontakte Ltd ┇ 79.137.175.56

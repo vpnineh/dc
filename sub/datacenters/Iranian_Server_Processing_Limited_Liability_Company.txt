@@ -1,1 +1,0 @@
-vless://d48f09a4-a7c5-4cba-ae65-768ef312b501@cart.ankernamad.ir:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.18

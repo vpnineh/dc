@@ -1,1 +1,7 @@
 vless://8aaebfa7-8d05-4fd6-b74f-0cb9512000bf@sonic.shabroo.com:7880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.71
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@fii.fisaqures.ir:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.93.20
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@fii.fisaqures.ir:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.93.20
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@dee.fisaqures.ir:47555?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.93.20
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@dee.fisaqures.ir:47257?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.93.20
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@dee.fisaqures.ir:59005?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.93.20
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@fii.fisaqures.ir:4168?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.93.20

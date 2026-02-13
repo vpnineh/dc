@@ -1,0 +1,2 @@
+vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@fr.fasti.win:443?type=tcp&security=reality&sni=fr.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&sid=67f8515f3fa23d2f#FR 🇫🇷 ┇ VLESS-TCP-RLT - Orion Network Limited ┇ 196.196.35.28
+vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@nd.fasti.win:443?type=tcp&security=reality&sni=nd.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744#NL 🇳🇱 ┇ VLESS-TCP-RLT - Orion Network Limited ┇ 165.231.99.10

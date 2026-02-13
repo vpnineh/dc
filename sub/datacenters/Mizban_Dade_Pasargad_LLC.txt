@@ -1,0 +1,1 @@
+vless://c7da1eea-53bc-440f-9f3e-7bd42a78d22d@a18.baleping.shop:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 185.81.96.94

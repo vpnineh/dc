@@ -1,2 +1,1 @@
-vless://dcf0b94b-3d1a-4486-a8c8-edb04976e9f6@43.163.241.110:39112?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.163.241.110
 vless://6b05ea27-051b-450b-965b-f6c5da11a1f0@43.173.125.15:44519?type=tcp&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.173.125.15

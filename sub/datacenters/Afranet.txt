@@ -1,2 +1,4 @@
-vless://8bad9f6a-c450-4175-a1d1-6fadb9d37eb0@m4.blu20.fun:414?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.59
 vless://a34aed76-3008-47a0-80ab-e813f940ad74@roham3.hamoon.sbs:50593?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.86
+vless://6d17a032-b0ef-43ca-acb9-26bc0308ffbe@ir98.zdf2024.sbs:3001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.222
+vless://0eebbdf1-68a6-4d2e-9054-9e171f104178@roham1.hamoon.sbs:47578?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.85
+vless://8bad9f6a-c450-4175-a1d1-6fadb9d37eb0@m4.blu20.fun:414?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.59

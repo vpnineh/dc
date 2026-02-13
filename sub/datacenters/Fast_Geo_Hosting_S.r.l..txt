@@ -1,2 +1,2 @@
 vless://4d3b4e0b-9fa4-4bc7-a0fd-99a8d34a12e2@deu153.worldunbarred.org:8443?type=ws&security=tls&path=/ws-vless/&sni=deu153.worldunbarred.org#NL 🇳🇱 ┇ VLESS-WS-TLS - Fast Geo Hosting S.r.l. ┇ 45.149.115.125
-vless://7f11556f-5230-4ba2-a982-634e7580a439@eng8.worldunlocked.org:443?type=tcp&security=tls&sni=eng8.worldunlocked.org&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 194.36.37.32
+vless://7f11556f-5230-4ba2-a982-634e7580a439@eng8.worldunlocked.org:443?type=tcp&security=tls&sni=eng8.worldunlocked.org&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 194.36.37.174

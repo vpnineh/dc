@@ -1,1 +1,0 @@
-vless://6beee13a-f356-4a51-8e65-75f776508e8f@217.13.104.148:443?type=tcp&security=reality&sni=travel.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 217.13.104.148

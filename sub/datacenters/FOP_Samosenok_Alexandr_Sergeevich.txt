@@ -1,0 +1,1 @@
+vless://5757c746-9878-4cfd-874a-edd95485f26d@rus.fasti.win:443?type=tcp&security=reality&sni=rus.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#ES 🇪🇸 ┇ VLESS-TCP-RLT - FOP Samosenok Alexandr Sergeevich ┇ 185.147.27.5

@@ -1,1 +1,2 @@
 vless://5757c746-9878-4cfd-874a-edd95485f26d@desrv.fasti.win:443?type=tcp&security=reality&sni=desrv.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&sid=15cdd4ff88310cf0#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Custom Data Limited ┇ 196.240.57.50
+vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@us.fasti.win:443?type=tcp&security=reality&sni=us.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=I2ynp6JbtPNr4IpZoMK3iXbgBBzT4n-MKet-Ao-1RSQ&sid=ee71514cac709180#US 🇺🇸 ┇ VLESS-TCP-RLT - Global Custom Data Limited ┇ 165.231.150.11

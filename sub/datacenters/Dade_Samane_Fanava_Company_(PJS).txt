@@ -1,3 +1,2 @@
 vless://c1bbc714-c653-4352-9890-15a3b9355d39@download.musicdownlodirani7.com:53196?type=tcp&security=none&path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.195
 vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@78.157.32.99:18044?type=ws&security=none&path=/ALMAS1#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.32.99
-vless://1dc477cc-1692-40e5-b5e3-963c54c9f700@morvarid1.alireza031.shop:4444?type=ws&security=none&path=/MORVARID1#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.151

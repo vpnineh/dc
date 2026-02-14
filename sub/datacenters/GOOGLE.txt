@@ -1,1 +1,4 @@
+vless://cff9f52a-031d-4321-8c55-e01917da02c7@91.98.27.174:4450?type=tcp&security=reality&sni=play.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 91.98.27.174
 vless://b705592c-302e-4b8c-90f5-b51e9413b22f@us.w3bschool.ir:32016?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&sid=2a1dbf3db2f9822e#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 104.128.55.235
+vless://b705592c-302e-4b8c-90f5-b51e9413b22f@decloud.w3bschool.ir:32016?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&sid=2a1dbf3db2f9822e#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 172.234.104.212
+vless://b705592c-302e-4b8c-90f5-b51e9413b22f@frcloud.w3bschool.ir:32016?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&sid=2a1dbf3db2f9822e#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 172.234.104.76

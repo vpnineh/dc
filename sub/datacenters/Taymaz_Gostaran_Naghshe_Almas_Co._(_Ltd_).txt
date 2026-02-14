@@ -1,1 +1,2 @@
 vless://31cb5b05-16ac-4c56-ab38-7284296df5cc@es2.mr404io.ir:9035?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.196.126
+vless://f17620d7-e79f-4640-92f2-b2278fa9bd4b@185.235.196.126:7788?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.196.126

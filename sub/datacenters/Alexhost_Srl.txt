@@ -1,1 +1,1 @@
-vless://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@md-alex-01.com:8443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 176.123.4.56
+vless://fa-397456379-1771064637182567@78.40.116.73:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 78.40.116.73

@@ -1,2 +1,0 @@
-vless://6ee16703-e23c-4247-b3fb-a5547e549089@37.202.226.46:20263?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.46
-vless://9af2dfc2-c7ad-425f-a534-7a1fada8f4e9@my.golam.mehromahtel.com:15000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.230.44

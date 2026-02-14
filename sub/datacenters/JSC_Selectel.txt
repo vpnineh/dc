@@ -1,0 +1,1 @@
+vless://667cadd7-f946-47f4-8826-dbf9e80cc7c0@srv35.towersflowerss.com:443?type=tcp&security=reality&sni=srv35.towersflowerss.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 5.188.159.27

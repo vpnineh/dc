@@ -1,1 +1,4 @@
+vless://c0c3dc30-4ed9-e13d-50e8-0a84a84815e3@russ1.subsvdragontoo.online:7443?type=ws&security=tls&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 95.163.213.188
+vless://c0c3dc30-4ed9-e13d-50e8-0a84a84815e3@ru2.subsvdragontoo.online:8443?type=ws&security=tls&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 95.163.214.5
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 146.185.240.23
+vless://c0c3dc30-4ed9-e13d-50e8-0a84a84815e3@ndded2.subsvdragontoo.online:9443?type=ws&security=tls&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 95.163.214.120

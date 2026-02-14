@@ -1,1 +1,0 @@
-vless://dfc666e0-5b9d-45cf-94b9-468952deb27c@193.141.126.14:8090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 193.141.126.14

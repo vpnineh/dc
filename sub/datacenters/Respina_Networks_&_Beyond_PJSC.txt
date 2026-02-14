@@ -1,9 +1,7 @@
-vless://0799b09c-fbf5-4861-a475-42388bacdc74@a.mhlovelykimia.ir:4001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.94.164
-vless://b6270a80-c51d-46c3-b7bd-f9532740bd20@87.107.82.162:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.82.162
-vless://816bfa1d-9000-c103-bac6-a87f8a18f81f@r.b760plus.shop:666?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 81.12.80.227
-vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@ov2.liiliil.ir:40301?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.206
+vless://eedf1c26-38c3-4034-a0eb-03fbb353553e@87.107.82.162:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.82.162
 vless://2da23666-ec42-487e-aa61-a1116ea51b45@o2.nimatiem.de:5555?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.140.69
-vless://b2ca47b5-d8c1-4303-b2db-701f2ab2db00@support-for-teachers.ir.new19server.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 5.160.198.166
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJlc3BpbmEgTmV0d29ya3MgJiBCZXlvbmQgUEpTQyBcdTI1MDcgMi4xODguMjEyLjM5IiwiYWRkIjoiMi4xODguMjEyLjM5IiwicG9ydCI6ODA4MCwiaWQiOiI5MTg2ZGJkZS00ZjQ3LTRjYmItYTdjMC1lZWVhN2VjMDZkZDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 92.242.196.198
 vless://424f38e2-8a17-4c09-a420-38fa6fcba3c3@5.160.198.120:8001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 5.160.198.120
+vless://0799b09c-fbf5-4861-a475-42388bacdc74@a.mhlovelykimia.ir:4001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.94.164
+vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@ov2.liiliil.ir:40301?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.171

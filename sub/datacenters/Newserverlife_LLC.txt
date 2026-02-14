@@ -1,0 +1,1 @@
+vless://8cb83492-629a-4a23-b6b5-9d714da07185@pl1.pineappled.org:443?type=xhttp&security=tls&sni=pl1.pineappled.org&fp=chrome#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - Newserverlife LLC ┇ 45.144.48.80

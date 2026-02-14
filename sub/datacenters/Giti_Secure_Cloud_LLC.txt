@@ -1,1 +1,2 @@
 vless://e03af45b-1f94-46e5-f0fc-35acd3d3909e@bluebot.top:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 217.60.243.31
+vless://1676cdfe-d73d-7883-d852-5a4379eee4af@germany.socialxxmedia.online:48305?type=tcp&security=none&sni=germany.socialxxmedia.online#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 217.60.243.122

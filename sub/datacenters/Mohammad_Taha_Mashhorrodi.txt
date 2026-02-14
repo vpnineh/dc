@@ -1,1 +1,0 @@
-vless://1676cdfe-d73d-7883-d852-5a4379eee4af@germany.socialxxmedia.online:48305?type=tcp&security=none&sni=germany.socialxxmedia.online#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.107

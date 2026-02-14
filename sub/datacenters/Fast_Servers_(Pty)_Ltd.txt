@@ -1,3 +1,1 @@
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.181.171.10
 vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@45.132.185.227:889?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 45.132.185.227
-vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 91.218.122.10

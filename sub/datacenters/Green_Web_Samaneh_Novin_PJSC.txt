@@ -1,1 +1,0 @@
-vless://e49726ab-3438-4004-b351-dd9d6d9b0da5@amir.behnamweb.fun:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 185.255.90.144

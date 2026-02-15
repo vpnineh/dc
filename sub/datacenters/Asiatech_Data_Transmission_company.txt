@@ -1,2 +1,0 @@
-vless://c81567a3-6fa4-4f7f-9658-34977f611fe8@dl.de.saas-clouding.ir:2056?type=tcp&security=none&path=/info#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.206
-vless://c81567a3-6fa4-4f7f-9658-34977f611fe8@nim.saas-clouding.ir:2046?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.206

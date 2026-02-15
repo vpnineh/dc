@@ -1,1 +1,1 @@
-vless://ee750cca-f549-4e78-8648-a6b762953e70@deu542.globalunlock.org:443?type=tcp&security=tls&sni=deu542.globalunlock.org&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Okb Progress LLC ┇ 138.124.186.195
+vless://ee750cca-f549-4e78-8648-a6b762953e70@deu542.globalunlock.org:443?type=tcp&security=tls&sni=deu542.globalunlock.org&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Okb Progress LLC ┇ 138.124.186.138

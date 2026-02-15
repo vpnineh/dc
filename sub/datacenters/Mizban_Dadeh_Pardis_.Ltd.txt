@@ -1,0 +1,1 @@
+vless://db2e182d-ef08-4cca-9ecb-23bbf772a31c@ge1-dtc1.mlgolden.store:6010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.166

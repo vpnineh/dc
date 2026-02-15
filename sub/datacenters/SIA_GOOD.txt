@@ -1,2 +1,1 @@
-vless://fa-397456379-1771011336319933@193.124.254.242:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 193.124.254.242
 vless://8aaa4ed2-0fca-48b7-bca6-5f692e278d5d@77.83.245.191:62391?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 77.83.245.191

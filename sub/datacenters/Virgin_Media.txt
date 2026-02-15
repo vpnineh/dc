@@ -1,1 +1,1 @@
-vless://5757c746-9878-4cfd-874a-edd95485f26d@kz.fasti.win:443?type=tcp&security=reality&sni=kz.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b#GB 🇬🇧 ┇ VLESS-TCP-RLT - Virgin Media ┇ 82.41.30.124
+vless://5757c746-9878-4cfd-874a-edd95485f26d@kz.fasti.win:443?type=tcp&security=reality&sni=kz.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b#GB 🇬🇧 ┇ VLESS-TCP-RLT - Virgin Media ┇ 82.41.30.122

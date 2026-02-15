@@ -1,0 +1,1 @@
+vless://2dc4330e-81dc-4f03-b639-c38417d37144@my.kiomars.shop:6610?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 46.62.243.149

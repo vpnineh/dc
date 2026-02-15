@@ -1,3 +1,5 @@
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@zula.ir:443?type=xhttp&security=tls&path=/gdsthjjjvfxsstyy؟ed=443&sni=cho.chonon.sbs&fp=chrome#FR 🇫🇷 ┇ VLESS-XHTTP-TLS - Baykov Ilya Sergeevich ┇ 194.50.216.61
+vless://fa-397456379-1771064637182567@185.120.59.165:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 185.120.59.165
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.182.204:443?type=tcp&security=none&path=/?ed=2560#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 138.124.182.204
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.215.8.151:443?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 95.215.8.151
 vless://d4a569d2-7a76-5f9a-8d2e-d2a36933894d@vless.nl1.vpnxray.site:80?type=ws&security=false&path=/vless&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - Baykov Ilya Sergeevich ┇ 85.31.45.228

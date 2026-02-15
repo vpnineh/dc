@@ -1,0 +1,1 @@
+vless://fb09722d-fbac-4967-849c-9268883be51a@185.209.42.210:8020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.209.42.210

@@ -1,0 +1,1 @@
+vless://8960cdff-0f33-42f5-8b69-8157069542db@vpnazadie.voicesofiran.org:80?type=ws&security=none&path=/vless-ntls&sni=digikala.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noavaran Fan Avazeh Co. PJS ┇ 172.67.201.154

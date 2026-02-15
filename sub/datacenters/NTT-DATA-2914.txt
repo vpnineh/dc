@@ -1,0 +1,1 @@
+vless://8c6302ee-8eb9-488c-9888-b7a5eb48fccd@lv.darknet.run:443?type=tcp&security=reality&sni=lv.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=R6Qzcm8ge7Dj38O8byP-Gpm06GH8em6H0r47mLSagB8&sid=a1b223d4#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.0.44

@@ -1,1 +1,2 @@
 vless://27df2d51-20ed-4394-8a48-94d48cbaa0e4@194.238.57.193:35995?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RCN-AS ┇ 194.238.57.193
+vless://a89cfbf6-456b-4381-a18d-4363c2f5c38e@nodaswed.freedomvpn.live:443?type=tcp&security=reality&sni=nodaswed.freedomvpn.live&fp=chrome&flow=xtls-rprx-vision&pbk=a-CxBb7MikQmgU4FIDK7MXxf7MgkqrXIYpLQHHEugCo#US 🇺🇸 ┇ VLESS-TCP-RLT - RCN-AS ┇ 194.238.57.92

@@ -1,2 +1,1 @@
 vless://07e299c3-1e03-42d8-82a6-c47bfc79954d@83.228.230.48:2056?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.230.48
-vless://498e9431-7e71-4fdd-9914-b76d9366d9aa@cdn.ads-geneva.niannian.ir:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.226.180

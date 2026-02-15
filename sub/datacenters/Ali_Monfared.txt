@@ -1,1 +1,1 @@
-vless://c8f75ee8-eb79-4693-a88c-2f07220811ce@snow.fobix.shop:49930?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.253
+vless://aa0def0e-b9cf-4d96-956d-ae8354f7753e@snow.fobix.shop:49930?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.253

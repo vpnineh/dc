@@ -1,1 +1,1 @@
-vless://a4f8e65c-4d09-424d-8a79-f823dc6fca7a@tr.aiserver.pro:23894?type=tcp&security=none&path=/app#AE 🇦🇪 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 91.132.51.173
+vless://a4f8e65c-4d09-424d-8a79-f823dc6fca7a@tr.aiserver.pro:23894?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 91.132.51.173

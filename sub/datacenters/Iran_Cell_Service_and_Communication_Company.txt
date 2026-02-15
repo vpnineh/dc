@@ -1,1 +1,1 @@
-vless://5d140452-3488-4ca1-a9f1-4011a4edc701@n1.oranicvip.ir:23320?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.136
+vless://3d836971-9b45-4dc2-9983-3b2a976157af@n1.hadifor.shop:23320?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.6.136

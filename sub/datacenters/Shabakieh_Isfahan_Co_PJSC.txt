@@ -1,0 +1,1 @@
+vless://5fc52bf8-7f9f-6cb8-8cc9-23c4217c55e1@fii.fisaqures.ir:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.93.20

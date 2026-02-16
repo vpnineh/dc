@@ -1,1 +1,0 @@
-vless://6da3c288-d649-4d19-8006-52061f3335ab@2.144.22.43:50190?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.22.43

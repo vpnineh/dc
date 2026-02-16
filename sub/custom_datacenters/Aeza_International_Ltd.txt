@@ -1,6 +1,9 @@
 vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@fi.connectv.net:443?type=tcp&security=reality&sni=fi.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.37.119
-vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?type=tcp&security=tls&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.221.152.183
-vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@uk.1323.world:443?type=tcp&security=tls&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 46.226.162.232
+vless://2e1cc3db-f65f-4bb3-a619-01847671f289@reza.alphanet01.com:51349?type=ws&security=none&path=/@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,#NL 🇳🇱 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 85.192.26.88
 vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?type=tcp&security=reality&sni=nl.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#NL 🇳🇱 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 62.60.244.89
-vless://2e1cc3db-f65f-4bb3-a619-01847671f289@reza.alphanet01.com:51349?type=ws&security=none&path=@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,#NL 🇳🇱 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 85.192.26.88
 vless://46e863ca-dc3b-48cb-9b72-79a702eb1e48@188.114.98.0:8443?type=xhttp&security=tls&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&sni=jey.dpdns.org&fp=chrome#SE 🇸🇪 ┇ VLESS-XHTTP-TLS - Aeza International Ltd ┇ 188.114.98.0
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?type=tcp&security=none&path=/?ed=2560#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.6
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.142.101:443?type=tcp&security=none&path=/?ed=2560#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.221.142.101
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.226.160.96:443?type=tcp&security=none&path=/?ed=2560#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 46.226.160.96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.110.116:443?type=tcp&security=none&path=/?ed=2560#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.110.116
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.140.167:443?type=tcp&security=none&path=/?ed=2560#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.221.140.167

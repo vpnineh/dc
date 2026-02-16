@@ -1,0 +1,2 @@
+vless://ffeb1f77-b7a2-420c-a29d-e21b6bf53fd1@oborino-ger.filmmet.ir:11924?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.209.42.45
+vless://f4d2d742-7b0f-42e7-9664-41426adb9cd3@oborino-usa.filmmet.ir:26648?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.209.42.45

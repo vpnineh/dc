@@ -1,2 +1,2 @@
-vless://309c6d35-cce7-4580-afa1-3707192f81cb@you2.configyous.site:2002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.136.88
 vless://d7dd4c38-27a4-4fda-910c-055e52f7ef64@fi.tun.badminir.site:4030?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.238.5
+vless://309c6d35-cce7-4580-afa1-3707192f81cb@you2.configyous.site:2002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.136.88

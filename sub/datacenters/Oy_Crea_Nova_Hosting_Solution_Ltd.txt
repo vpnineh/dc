@@ -1,0 +1,1 @@
+vless://a8214f18-5d5b-409f-a98a-458a85bce22b@ru.funvideorus.net:443?type=tcp&security=reality&sni=ru.funvideorus.net&fp=chrome&flow=xtls-rprx-vision&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8#RU 🇷🇺 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 85.239.51.63

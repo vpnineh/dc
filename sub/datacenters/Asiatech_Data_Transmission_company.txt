@@ -1,2 +1,1 @@
-vless://ab805bca-b1a0-4fb3-8466-bf175e592750@uk.saas-clouding.ir:2343?type=tcp&security=none&path=/info#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.67.6
-vless://dd98ec41-bd36-4317-b8ab-29a14c5be29e@nl1.saas-clouding.ir:2341?type=tcp&security=none&path=/info#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.67.6
+vless://cf02a28a-347a-482b-abef-3bbe8cff5f9b@193.134.100.165:1160?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.165

@@ -1,0 +1,1 @@
+vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&sid=5f22#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 146.185.208.206

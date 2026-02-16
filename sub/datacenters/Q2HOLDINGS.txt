@@ -1,1 +1,2 @@
+vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?type=tcp&security=none&path=/api/status/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - Q2HOLDINGS ┇ 192.0.63.134
 vless://c963ea66-7107-4351-8ded-f54a2658bb84@fox3.mehraban-store.ir:8443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - Q2HOLDINGS ┇ 192.0.63.128

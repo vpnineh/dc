@@ -1,1 +1,0 @@
-vless://b96374e5-356d-4628-b862-25c22a43e601@my.kiomars.shop:6620?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 46.62.154.223

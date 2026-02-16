@@ -1,1 +1,1 @@
-vless://6fc297ff-17c0-436a-b982-623d682e339a@91.198.77.216:42206?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Serverius Holding B.V. ┇ 91.198.77.216
+vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Serverius Holding B.V. ┇ 91.198.77.216

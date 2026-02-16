@@ -1,2 +1,3 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE0yNDcgRXVyb3BlIFNSTCBcdTI1MDcgODkuMzEuMTIwLjE5MiIsImFkZCI6Ijg5LjMxLjEyMC4xOTIiLCJwb3J0Ijo0NDMsImlkIjoiNDQ1Mzc1OTUtOWNjYy00YjgzLTg5MzYtNWY5YWQzMjI5MDE5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vless://7f3c1a67-4de0-4753-a992-1b4c20f480be@alfaproxy-bg.ir404.site:80?type=xhttp&security=none&path=/#BG 🇧🇬 ┇ VLESS-XHTTP-NTLS - M247 Europe SRL ┇ 185.246.131.143
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nyc.cdn.stun.su:443?type=tcp&security=reality&sni=nyc.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w&sid=1c8eebcb20f6d0ce#US 🇺🇸 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 38.180.138.72

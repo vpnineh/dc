@@ -1,2 +1,2 @@
-vless://7585f7e5-58fd-45e4-b125-92e7f4793456@s3.plan-vpn.ru:443?type=tcp&security=reality&sni=s3.plan-vpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=jWqot3VkePiX8XYqgBNokg55WJJ5nTis3XzX6p2uaWQ&sid=7e348aa57a53b203#ES 🇪🇸 ┇ VLESS-TCP-RLT - ZHOUYISAT-COMMUNICATIONS ┇ 185.121.15.143
 vless://f74d98a4-9198-4f78-b921-47d4f4950953@de3.teleport.lat:443?type=tcp&security=tls&sni=de3.teleport.lat&flow=xtls-rprx-vision#ES 🇪🇸 ┇ VLESS-TCP-TLS - ZHOUYISAT-COMMUNICATIONS ┇ 185.236.26.58
+vless://7585f7e5-58fd-45e4-b125-92e7f4793456@s3.plan-vpn.ru:443?type=tcp&security=reality&sni=s3.plan-vpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=jWqot3VkePiX8XYqgBNokg55WJJ5nTis3XzX6p2uaWQ&sid=7e348aa57a53b203#ES 🇪🇸 ┇ VLESS-TCP-RLT - ZHOUYISAT-COMMUNICATIONS ┇ 185.121.15.143

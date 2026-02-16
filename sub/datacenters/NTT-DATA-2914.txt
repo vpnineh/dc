@@ -1,2 +1,1 @@
 vless://2b7b9245-28da-470f-9e19-150a1099319c@64.188.80.115:7443?type=tcp&security=reality&sni=77.88.8.8&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.115
-vless://8c6302ee-8eb9-488c-9888-b7a5eb48fccd@lv.darknet.run:443?type=tcp&security=reality&sni=lv.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=R6Qzcm8ge7Dj38O8byP-Gpm06GH8em6H0r47mLSagB8&sid=a1b223d4#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.0.44

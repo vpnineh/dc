@@ -1,0 +1,1 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.93.199.28:30012?type=ws&security=none&path=/?ed=2560#KR 🇰🇷 ┇ VLESS-WS-NTLS - SK Broadband Co Ltd ┇ 116.93.199.28

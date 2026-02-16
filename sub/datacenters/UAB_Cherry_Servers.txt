@@ -1,1 +1,1 @@
-vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@93.115.25.177:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 93.115.25.177
+vless://8a35152a-b65c-4f6b-aec4-7844d5f9e6d8@us-cherry-01.com:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.32.85

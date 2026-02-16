@@ -1,1 +1,1 @@
-vless://b33c7f89-964a-4712-bd1e-0f02e2c162bf@us.mykvpnspeeedplus.cfd:52016?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 193.141.126.15
+vless://da0206fd-4b22-4fc3-bf09-917cef10e003@adm.mykvpnspeeedplus.cfd:52016?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 193.141.126.15

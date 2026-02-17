@@ -1,4 +1,4 @@
-vless://77da92aa-12ad-4370-b9be-25a86bc58c39@frserv.zaubex.online:443?type=tcp&security=reality&sni=frserv.zaubex.online&fp=chrome&flow=xtls-rprx-vision&pbk=u2EbbN6nSieQdOlr1IaND9mfIuOkuLP8tgTHNjmJZ04&sid=0239282ae10047c8#FR 🇫🇷 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 185.236.23.10
 vless://9ddcc700-0688-11f1-81b6-43ab7c0441e4@lv1.vpnjantit.com:10002?type=ws&security=tls&path=/vpnjantit#LV 🇱🇻 ┇ VLESS-WS-TLS - Baykov Ilya Sergeevich ┇ 92.118.170.240
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.215.8.237:2053?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 95.215.8.237
 vless://d4a569d2-7a76-5f9a-8d2e-d2a36933894d@vless.nl1.vpnxray.site:80?type=ws&security=none&path=/vless#NL 🇳🇱 ┇ VLESS-WS-NTLS - Baykov Ilya Sergeevich ┇ 85.31.45.228
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.215.8.237:2053?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 95.215.8.237
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.215.8.237:8443?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 95.215.8.237

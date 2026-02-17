@@ -1,0 +1,1 @@
+vless://e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8@s2.plansv.tech:443?type=tcp&security=reality&sni=s2.plansv.tech&fp=chrome&flow=xtls-rprx-vision&pbk=sD1iqg83KrKItMvNo2ZwDO95VEWUtgPOJVC3wkIKOGw&sid=c2dff04e461775a6#ES 🇪🇸 ┇ VLESS-TCP-RLT - Invermae Solutions SL ┇ 91.205.220.228

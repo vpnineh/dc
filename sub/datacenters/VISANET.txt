@@ -1,1 +1,1 @@
-vless://85b31034-3862-4496-b108-ebb05985ac05@fox20.wizard2shop.com:2095?type=httpupgrade&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - VISANET ┇ 199.68.156.159
+vless://85b31034-3862-4496-b108-ebb05985ac05@fox20.wizard2shop.com:2095?type=tcp&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-TCP-NTLS - VISANET ┇ 199.68.156.159

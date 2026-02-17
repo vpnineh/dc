@@ -1,2 +1,1 @@
 vless://eMSivB6jjLUnQI2bVXJfxl@185.39.18.19:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 185.39.18.19
-vless://a8214f18-5d5b-409f-a98a-458a85bce22b@ru.funvideorus.net:443?type=tcp&security=reality&sni=ru.funvideorus.net&fp=chrome&flow=xtls-rprx-vision&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8#US 🇺🇸 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 85.239.53.248

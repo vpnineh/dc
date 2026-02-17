@@ -1,3 +1,6 @@
+vless://fa-397456379-1771063686432465@50.7.156.230:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.156.230
+vless://fa-397456379-1771064637182567@66.90.99.38:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 66.90.99.38
 vless://54a41073-e798-488b-af16-28533e612ec1@il.fasti.win:972?type=tcp&security=reality&sni=il.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.72
 vless://54a41073-e798-488b-af16-28533e612ec1@id.fasti.win:91?type=tcp&security=reality&sni=id.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.72
+vless://54a41073-e798-488b-af16-28533e612ec1@hk.fasti.win:852?type=tcp&security=reality&sni=hk.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.72
 vless://54a41073-e798-488b-af16-28533e612ec1@ae.fasti.win:971?type=tcp&security=reality&sni=ae.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.72

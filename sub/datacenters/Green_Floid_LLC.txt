@@ -1,1 +1,0 @@
-vless://1295e422-068a-11f1-b042-1bd023c5f030@ua2.vpnjantit.com:10002?type=ws&security=tls&path=/vpnjantit#UA 🇺🇦 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 5.34.182.12

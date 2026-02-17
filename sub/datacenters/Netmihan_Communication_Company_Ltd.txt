@@ -1,3 +1,3 @@
-vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:8443?type=ws&security=tls&path=/&sni=serverdl-lozm1.netsnap.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 172.64.33.249
-vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?type=ws&security=tls&path=/&sni=ServerDL-ParsM2.NetSnap.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 172.64.33.249
-vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:2053?type=ws&security=tls&path=/&sni=serverdl-torm1.netsnap.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 172.64.33.249
+vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:2053?type=ws&security=tls&path=/&sni=serverdl-torm1.netsnap.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 173.245.59.249
+vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?type=ws&security=tls&path=/&sni=ServerDL-ParsM2.NetSnap.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 173.245.59.249
+vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:8443?type=ws&security=tls&path=/&sni=serverdl-lozm1.netsnap.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 173.245.59.249

@@ -1,2 +1,0 @@
-vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@showip.list.namavash-new.ir:42537?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - DEDICATED-FIBER-COMMUNICATIONS ┇ 104.237.250.6
-vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@104.237.250.37:42537?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - DEDICATED-FIBER-COMMUNICATIONS ┇ 104.237.250.37

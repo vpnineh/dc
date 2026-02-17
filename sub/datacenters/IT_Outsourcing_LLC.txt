@@ -1,1 +1,0 @@
-vless://a89cfbf6-456b-4381-a18d-4363c2f5c38e@nod5.freedomvpn.live:443?type=tcp&security=reality&sni=nod5.freedomvpn.live&fp=chrome&flow=xtls-rprx-vision&pbk=x__F0WbokHHSh1YFY9eE4lm3Jq_JA9z3lWfencDgV3s#RU 🇷🇺 ┇ VLESS-TCP-RLT - IT Outsourcing LLC ┇ 45.156.26.186

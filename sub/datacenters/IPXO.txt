@@ -1,1 +1,1 @@
-vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@de-convert.webedg.net:443?type=tcp&security=reality&sni=de-convert.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=d1PrrLqIGVQSZ5jUaLe-R67Ey8TJZN8WVkIJh0Xa_zc#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.235.156
+vless://9871a9a6-59f0-48de-a13a-b8c7872bb2fc@ca.imsoon.io:443?type=tcp&security=none&path=/Telegram@iM_SooN#US 🇺🇸 ┇ VLESS-TCP-NTLS - IPXO ┇ 188.227.197.3

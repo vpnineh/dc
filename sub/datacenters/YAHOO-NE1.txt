@@ -1,2 +1,0 @@
-vless://a84e0d74-fa3e-4b46-850e-f97367ba6e51@aut.arman-a.ir:8443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=g7tux4qJl3BQyNwNpamBVd_53ZmybBXmRO2KZ6vIdVw&sid=a24ed855f275#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-NE1 ┇ 138.124.90.159
-vless://mimitdl@87.107.81.254:29487?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO-NE1 ┇ 87.107.81.254

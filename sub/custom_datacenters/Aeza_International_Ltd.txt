@@ -1,7 +1,6 @@
+vless://78090cb7-4002-4894-8ad5-5fe035a5116b@aut.arman-a.ir:8443?type=tcp&security=reality&fp=chrome&pbk=g7tux4qJl3BQyNwNpamBVd_53ZmybBXmRO2KZ6vIdVw#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 138.124.90.159
 vless://6e21ee37-f0d4-4f0a-b131-af8d3cda61c5@89.169.55.80:42079?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Aeza International Ltd ┇ 89.169.55.80
 vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@fi.connectv.net:443?type=tcp&security=reality&sni=fi.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.37.119
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@ficdn21.suio.me:443?type=tcp&security=tls&sni=ficdn21.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.110.108.244
-vless://38c7bf26-c85d-4845-b04e-19e0d47fb270@reza.alphanet01.com:39884?type=ws&security=none&path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 85.192.26.88
+vless://bf069ade-2562-400d-995e-654eb08dec99@reza.alphanet01.com:39884?type=ws&security=none&path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 85.192.26.88
 vless://5341f83e-634d-4920-9391-a6ffadd15276@reza.alphanet01.com:2098?type=ws&security=none&path=/PULAVPN#NL 🇳🇱 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 85.192.26.88
 vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?type=tcp&security=reality&sni=nl.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#NL 🇳🇱 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 62.60.244.89
-vless://46e863ca-dc3b-48cb-9b72-79a702eb1e48@188.114.98.0:8443?type=xhttp&security=tls&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&sni=jey.dpdns.org&fp=chrome#SE 🇸🇪 ┇ VLESS-XHTTP-TLS - Aeza International Ltd ┇ 188.114.98.0

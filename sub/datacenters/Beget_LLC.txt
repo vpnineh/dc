@@ -1,3 +1,1 @@
-vless://fa-397456379-1771015002699385@45.84.225.71:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 45.84.225.71
 vless://77da92aa-12ad-4370-b9be-25a86bc58c39@yserv.zaubex.online:443?type=tcp&security=reality&sni=yserv.zaubex.online&fp=chrome&flow=xtls-rprx-vision&pbk=zycPuQeYGVffYGghLODxpyE3eexkEHk4_G84IaMjYCY&sid=fa5394a97158b82b#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 45.12.75.147
-vless://fa-397456379-1771011735892097@212.67.8.149:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 212.67.8.149

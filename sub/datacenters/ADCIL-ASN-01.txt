@@ -1,4 +1,3 @@
-vless://ef69fec4-568a-428b-b0bf-5b3f9e9faa23@144.31.237.22:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.237.22
+vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?type=tcp&security=reality&sni=pl-modx.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.3.162
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?type=tcp&security=reality&path=/&sni=ae.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.128.129
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@test.spectrum.vu:443?type=tcp&security=reality&sni=test.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.221.8
-vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?type=tcp&security=reality&sni=pl-modx.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.3.162

@@ -1,0 +1,1 @@
+vless://54a41073-e798-488b-af16-28533e612ec1@rus.fasti.win:443?type=tcp&security=reality&sni=rus.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kviktel LLC ┇ 45.139.27.44

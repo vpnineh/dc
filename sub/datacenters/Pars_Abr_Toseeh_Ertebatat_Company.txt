@@ -1,4 +1,2 @@
-vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 5.160.144.59
 vless://fca17b97-6868-410f-9179-71979be2cea1@85.133.221.191:1433?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.191
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgODEuMTIuMzMuMTgwIiwiYWRkIjoiODEuMTIuMzMuMTgwIiwicG9ydCI6MjAyNCwiaWQiOiJjOTJiNzc0Ny00MjIyLTRhYTAtOGM5MS01NzUzYjhjNzU5ZjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvYXBpL3JlZ2lzdGVyL25ldy9uYW1lL2Rhdi9yZXNwb25zZS9jbVYwYVhKbFpDQm9aV3hzYnlCb2IzY2dZWEpsSUhsdmRTQjBhR2x6SUdseklHMTVJRzVsZHlCb1pXRmtaWElnZCJ9
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s9.daneshvardost.com:26480?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.225.159

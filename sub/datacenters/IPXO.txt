@@ -1,2 +1,2 @@
-vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@de-convert.webedg.net:443?type=tcp&security=reality&sni=de-convert.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=d1PrrLqIGVQSZ5jUaLe-R67Ey8TJZN8WVkIJh0Xa_zc#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.230.194
+vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@de-convert.webedg.net:443?type=tcp&security=reality&path=/&sni=de-convert.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=d1PrrLqIGVQSZ5jUaLe-R67Ey8TJZN8WVkIJh0Xa_zc#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.230.194
 vless://429af73b-c1bd-4c46-8f8e-6accdbdcf628@fl-modx.webedg.net:443?type=tcp&security=reality&sni=fl-modx.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.58.51

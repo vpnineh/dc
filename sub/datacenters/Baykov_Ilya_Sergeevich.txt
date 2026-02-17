@@ -1,3 +1,2 @@
 vless://77da92aa-12ad-4370-b9be-25a86bc58c39@usrv.zaubex.online:443?type=tcp&security=reality&sni=usrv.zaubex.online&flow=xtls-rprx-vision&pbk=oEiAmJnURVH11S7KLtXBKHO1ASdQclceVpHq3eVNHCE&sid=c59b90be#BG 🇧🇬 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 31.169.125.204
-vless://9d847ad3-1896-48f9-b89c-13fe345e2b29@zula.ir:443?type=xhttp&security=tls&path=/gdsthjjjvfxsstyy؟ed=443&sni=cho.chonon.sbs&fp=chrome#FR 🇫🇷 ┇ VLESS-XHTTP-TLS - Baykov Ilya Sergeevich ┇ 194.50.216.61
 vless://77da92aa-12ad-4370-b9be-25a86bc58c39@frserv.zaubex.online:443?type=tcp&security=reality&sni=frserv.zaubex.online&fp=chrome&flow=xtls-rprx-vision&pbk=u2EbbN6nSieQdOlr1IaND9mfIuOkuLP8tgTHNjmJZ04&sid=0239282ae10047c8#FR 🇫🇷 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 185.236.23.10

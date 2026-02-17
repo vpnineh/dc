@@ -1,2 +1,1 @@
 vless://26524cce-d514-4014-a426-365fb266a14d@31.15.18.26:2053?type=ws&security=none&path=/danfeng?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.15.18.26
-vless://8e3a3121-93e6-416e-8a8a-8e5ea918a81b@nl-2s.kopobkatopta.ru:443?type=tcp&security=reality&sni=nl-2s.kopobkatopta.ru&fp=chrome&flow=xtls-rprx-vision&pbk=CZMSH26YUGx6id9so_c3qLgfqTF-Dcbng7tHVFKC5i8&sid=0005737f0f#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 31.59.114.22

@@ -1,1 +1,1 @@
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@pl.jojack.ru:443?type=tcp&security=reality&sni=pl.jojack.ru&fp=chrome&flow=xtls-rprx-vision&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=a7ab02dfcc1f2c04#PL 🇵🇱 ┇ VLESS-TCP-RLT - MEVSPACE sp. z o.o. ┇ 195.3.223.143
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@pl.jojack.ru:443?type=tcp&security=reality&sni=pl.jojack.ru&fp=chrome&flow=xtls-rprx-vision&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=f189d91760bb6663#PL 🇵🇱 ┇ VLESS-TCP-RLT - MEVSPACE sp. z o.o. ┇ 195.3.223.6

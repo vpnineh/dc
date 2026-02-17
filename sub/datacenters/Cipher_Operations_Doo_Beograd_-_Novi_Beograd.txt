@@ -1,1 +1,1 @@
-vless://4603d1b6-160a-47f2-9472-9db538b3b96d@ir-joudian.aliacces.ir:443?type=tcp&security=tls&sni=ir-joudian.aliacces.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Cipher Operations Doo Beograd - Novi Beograd ┇ 62.60.188.231
+vless://4603d1b6-160a-47f2-9472-9db538b3b96d@ir-joudian.aliacces.ir:443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Cipher Operations Doo Beograd - Novi Beograd ┇ 62.60.188.231

@@ -1,0 +1,1 @@
+vless://87448ab9-1570-41fb-8102-6b5f054981dc@vipp.arman-a.ir:8443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=j90KfWuKZ63f9I0jFfTj6jyukKiXYrFuoNTOOGdTQHM&sid=4b1e5af0c9#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-NE1 ┇ 46.225.99.131

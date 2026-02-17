@@ -1,1 +1,1 @@
-vless://9871a9a6-59f0-48de-a13a-b8c7872bb2fc@ca.imsoon.io:443?type=tcp&security=none&path=/Telegram@iM_SooN#US 🇺🇸 ┇ VLESS-TCP-NTLS - IPXO ┇ 188.227.197.3
+vless://9871a9a6-59f0-48de-a13a-b8c7872bb2fc@ca.imsoon.io:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - IPXO ┇ 188.227.197.3

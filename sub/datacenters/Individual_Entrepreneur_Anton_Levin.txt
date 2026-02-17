@@ -1,1 +1,2 @@
-vless://7c792ab6-44ae-4831-a085-3c310b5f5551@s2.plan-vpn.ru:443?type=tcp&security=reality&path=/&sni=s2.plan-vpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=fT83pflGxRKuI01MxRCO7ODM8_UqAoHRC43lfpecLnk&sid=571dbf1163c63dca#ES 🇪🇸 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 194.48.141.250
+vless://7c792ab6-44ae-4831-a085-3c310b5f5551@s2.plan-vpn.ru:443?type=tcp&security=reality&sni=s2.plan-vpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=fT83pflGxRKuI01MxRCO7ODM8_UqAoHRC43lfpecLnk&sid=571dbf1163c63dca#ES 🇪🇸 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 194.48.141.250
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.187.130:443?type=tcp&security=none&path=/?ed=2560#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Individual Entrepreneur Anton Levin ┇ 45.131.187.130

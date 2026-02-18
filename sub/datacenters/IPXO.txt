@@ -1,1 +1,2 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.36.174:443?type=ws&security=none&path=/?ed=2560#HK 🇭🇰 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.36.174
+vless://429af73b-c1bd-4c46-8f8e-6accdbdcf628@fl-modx.webedg.net:443?type=tcp&security=reality&sni=fl-modx.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.58.51

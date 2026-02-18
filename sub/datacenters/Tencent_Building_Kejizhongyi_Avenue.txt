@@ -1,4 +1,5 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.165.183.43:443?type=ws&security=none&path=/?ed=2560#JP 🇯🇵 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.165.183.43
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.195.223:443?type=ws&security=none&path=/?ed=2560#SG 🇸🇬 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.160.195.223
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.109.11.223:443?type=ws&security=none&path=/?ed=2560#SG 🇸🇬 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 150.109.11.223
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.195.223:443?type=ws&security=none&path=/?ed=2560#SG 🇸🇬 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.160.195.223
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.133.61.219:443?type=ws&security=none&path=/?ed=2560#SG 🇸🇬 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.133.61.219
+vless://6b05ea27-051b-450b-965b-f6c5da11a1f0@43.173.125.15:44519?type=tcp&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.173.125.15

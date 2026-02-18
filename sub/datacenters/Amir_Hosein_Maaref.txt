@@ -1,13 +1,12 @@
-vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o3.rexine.ir:1718?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.216
-vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o6.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.164
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgOTIuMTE0LjUwLjEwMSIsImFkZCI6InBhbmVsNzEzLmNvbHN2cG4udG9wIiwicG9ydCI6MjkxNjgsImlkIjoiMTVlYjA4YmEtZjZjMS00YzQ0LTgwMjQtYzcyZGMzNmEzMWEyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o6.rexine.ir:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.164
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o11.rexine.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.246
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgMjEzLjE3Ni4xMjEuMTU4IiwiYWRkIjoiMjEzLjE3Ni4xMjEuMTU4IiwicG9ydCI6NDQzLCJpZCI6IjkxODZkYmRlLTRmNDctNGNiYi1hN2MwLWVlZWE3ZWMwNmRkOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://57b0a155-7f03-4baa-b6aa-70cd87cf5d39@213.176.121.214:2002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 213.176.121.214
-vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o1.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.216.45
-vless://0b5191da-1151-40d4-8dfb-2cb9f0f70eb3@home.pingless.eu:46501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.201.252
-vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.230
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgOTIuMTE0LjUwLjEwMSIsImFkZCI6InBhbmVsNzEzLmNvbHN2cG4udG9wIiwicG9ydCI6NTY1MTEsImlkIjoiNzhlODFkN2YtZjExMS00OGQ3LTkzN2QtYzlkMmMzNWNmMGRhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://d8921996-e985-4eff-9b70-7f125e2bd9c3@you2.configyous.site:2002?type=tcp@freenettir&security=none#IR 🇮🇷 ┇ VLESS-TCP@FREENETTIR-NTLS - Amir Hosein Maaref ┇ 213.176.121.214
+vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o1.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.216.45
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o6.rexine.ir:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.164
+vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.230
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgMjEzLjE3Ni4xMjEuMTE0IiwiYWRkIjoiMjEzLjE3Ni4xMjEuMTE0IiwicG9ydCI6NDQzLCJpZCI6IjkxODZkYmRlLTRmNDctNGNiYi1hN2MwLWVlZWE3ZWMwNmRkOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o2.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.20
+vless://0b5191da-1151-40d4-8dfb-2cb9f0f70eb3@home.pingless.eu:46501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.201.252
+vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o6.rexine.ir:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 89.47.202.164
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o3.rexine.ir:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.216
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgMjEzLjE3Ni4xMjEuMTU4IiwiYWRkIjoiMjEzLjE3Ni4xMjEuMTU4IiwicG9ydCI6NDQzLCJpZCI6IjkxODZkYmRlLTRmNDctNGNiYi1hN2MwLWVlZWE3ZWMwNmRkOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ

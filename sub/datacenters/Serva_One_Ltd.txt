@@ -1,1 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.192.174.170:8443?type=ws&security=none&path=/?ed=2560#LV 🇱🇻 ┇ VLESS-WS-NTLS - Serva One Ltd ┇ 62.192.174.170

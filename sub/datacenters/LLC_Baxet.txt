@@ -1,2 +1,1 @@
-vless://ebd0fce6-6f15-46ee-afe3-f952f6aa57ac@185.22.154.42:7443?type=tcp&security=reality&sni=77.88.8.8&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 185.22.154.42
-vless://ebd0fce6-6f15-46ee-afe3-f952f6aa57ac@46.17.41.33:7443?type=tcp&security=reality&sni=77.88.8.8&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 46.17.41.33
+vless://ebd0fce6-6f15-46ee-afe3-f952f6aa57ac@45.147.200.170:7443?type=tcp&security=reality&sni=77.88.8.8&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 45.147.200.170

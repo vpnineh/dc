@@ -1,1 +1,1 @@
-vless://54a41073-e798-488b-af16-28533e612ec1@wa.sfasti.ru:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - PVimpelCom ┇ 66.90.90.163
+vless://54a41073-e798-488b-af16-28533e612ec1@wa.sfasti.ru:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-RLT - PVimpelCom ┇ 66.90.90.19

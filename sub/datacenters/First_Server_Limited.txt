@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.168.227.151:443?type=ws&security=none&path=/?ed=2560#RU 🇷🇺 ┇ VLESS-WS-NTLS - First Server Limited ┇ 193.168.227.151
 vless://53d37ac8-efc2-492c-b6c6-a864dfebbbff@ru.jinnie.lol:443?type=tcp&security=reality&sni=ru.jinnie.lol&fp=chrome&flow=xtls-rprx-vision&pbk=0-0a99RLOG_2OW4j-e-UlzlMhnLubb9Gs6Ykd_bnjCM&sid=e8b1ac21a7685b9c#RU 🇷🇺 ┇ VLESS-TCP-RLT - First Server Limited ┇ 45.144.64.180

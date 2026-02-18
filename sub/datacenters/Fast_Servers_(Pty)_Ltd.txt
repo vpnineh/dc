@@ -1,1 +1,0 @@
-vless://77da92aa-12ad-4370-b9be-25a86bc58c39@usrv.zaubex.online:443?type=tcp&security=reality&sni=usrv.zaubex.online&flow=xtls-rprx-vision&pbk=oEiAmJnURVH11S7KLtXBKHO1ASdQclceVpHq3eVNHCE&sid=c59b90be#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 45.148.125.109

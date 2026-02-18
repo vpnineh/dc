@@ -1,1 +1,0 @@
-vless://77da92aa-12ad-4370-b9be-25a86bc58c39@yserv.zaubex.online:443?type=tcp&security=reality&sni=yserv.zaubex.online&fp=chrome&flow=xtls-rprx-vision&pbk=zycPuQeYGVffYGghLODxpyE3eexkEHk4_G84IaMjYCY&sid=fa5394a97158b82b#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 31.129.104.86

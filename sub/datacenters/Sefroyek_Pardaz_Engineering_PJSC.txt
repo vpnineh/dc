@@ -1,1 +1,2 @@
+vless://af60c1bb-763d-44c1-b015-bf314f41849d@m.androindapitools.ir:4005?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.141.107.183
 vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr9.baleping.shop:2052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.141.107.155

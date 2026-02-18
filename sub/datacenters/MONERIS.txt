@@ -1,1 +1,0 @@
-vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.249.192.196:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - MONERIS ┇ 23.249.192.196

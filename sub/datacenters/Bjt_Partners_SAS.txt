@@ -1,2 +1,1 @@
-vless://c963ea66-7107-4351-8ded-f54a2658bb84@fox4.mehraban-store.ir:8443?type=tcp&security=tls#FR 🇫🇷 ┇ VLESS-TCP-TLS - Bjt Partners SAS ┇ 185.16.110.51
 vless://c963ea66-7107-4351-8ded-f54a2658bb84@fox10.mehraban-store.ir:8443?type=tcp&security=tls#FR 🇫🇷 ┇ VLESS-TCP-TLS - Bjt Partners SAS ┇ 185.16.110.126

@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.20.208.121:443?type=ws&security=none&path=/?ed=2560#LV 🇱🇻 ┇ VLESS-WS-NTLS - Green Floid LLC ┇ 195.20.208.121
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.212.216:2053?type=ws&security=none&path=/?ed=2560#LV 🇱🇻 ┇ VLESS-WS-NTLS - Green Floid LLC ┇ 195.123.212.216

@@ -1,1 +1,0 @@
-vless://c92bc4cf-0db4-4662-9e4f-b9592e8e8692@95.38.54.114:35869?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.54.114

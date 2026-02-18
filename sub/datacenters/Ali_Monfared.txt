@@ -1,4 +1,3 @@
-vless://af60c1bb-763d-44c1-b015-bf314f41849d@ir.gamingserverstream.ir:2002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.26
-vless://308975b2-0c44-4bbc-be41-62b2f6fccfe3@amir.behnamweb.fun:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.85
 vless://c3a3cf2d-695a-44bc-ae61-86011e14ce25@marko.nightwolf.shop:57113?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.111
 vless://3dd68abe-f3f9-48b2-db93-ce70b6448ccd@188.212.97.214:51790?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.214
+vless://308975b2-0c44-4bbc-be41-62b2f6fccfe3@amir.behnamweb.fun:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.85

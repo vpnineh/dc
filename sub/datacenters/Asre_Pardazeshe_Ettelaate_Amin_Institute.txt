@@ -1,7 +1,6 @@
-vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1011?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.48
-vless://1738e694-c8e3-46c1-bc15-b8136d3b6338@theip.iplist.cryo-networks.com:9560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.45
-vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.48
-vless://068f7784-c1c4-4ef7-b820-40759589c4ac@213.176.1.45:45471?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.45
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?type=ws&security=none&path=/IVApi/DE/3#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.255.23
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDIxMy4xNzYuMS40OCIsImFkZCI6IjIxMy4xNzYuMS40OCIsInBvcnQiOjEwMDAsImlkIjoiNTJjYzRjYjAtZjkyMy00OTY1LTk2MTUtNjM4MGIwNGMzZjRmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@213.176.1.45:45471?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.45
+vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.48
+vless://1738e694-c8e3-46c1-bc15-b8136d3b6338@theip.iplist.cryo-networks.com:9560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.45
+vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1011?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.48
 vless://9ed58015-445e-4b27-8aad-b7b2a0ac713c@ttt.radvinmax.ir:33663?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.136

@@ -1,2 +1,2 @@
-vless://8db31176-aed6-402d-aa1b-a8b04b5c3b48@193.242.125.18:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 193.242.125.18
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 194.5.205.229
+vless://8db31176-aed6-402d-aa1b-a8b04b5c3b48@193.242.125.18:80?type=tcp@freenettir&security=none#IR 🇮🇷 ┇ VLESS-TCP@FREENETTIR-NTLS - Pars Parva System LLC ┇ 193.242.125.18

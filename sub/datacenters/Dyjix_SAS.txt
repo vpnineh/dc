@@ -1,1 +1,1 @@
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?type=tcp&security=reality&sni=fran.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Dyjix SAS ┇ 45.13.119.38
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?type=tcp&security=reality&sni=fran.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Dyjix SAS ┇ 185.171.202.55

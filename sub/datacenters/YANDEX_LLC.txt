@@ -1,0 +1,1 @@
+vless://b8b20850-fa09-4ac3-97fc-7d5be10e11ef@89.169.162.214:8443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 89.169.162.214

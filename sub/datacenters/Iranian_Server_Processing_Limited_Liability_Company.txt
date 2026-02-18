@@ -1,1 +1,2 @@
+vless://c47310cc-4c08-47f9-a1f2-3483ad48d647@tcp-rs.coixconqwe1.ir:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 194.145.119.35
 vless://6e0eec29-0d80-4d0b-9123-03fc88ece826@phonex.phonexv2iiiolo.com:25882?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 194.145.119.140

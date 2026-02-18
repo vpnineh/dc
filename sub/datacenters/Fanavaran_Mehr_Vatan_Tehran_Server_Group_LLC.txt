@@ -1,1 +1,2 @@
 vless://c0c5e3f6-92c2-4967-a3b3-4469a7cb035e@dragonr.taynno.com:2026?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.181
+vless://63af6fe2-0329-4070-bf92-8712b95933dd@arv.au24.top:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.239.174

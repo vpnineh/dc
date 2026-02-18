@@ -1,1 +1,1 @@
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@ficdn2.suio.me:443?type=tcp&security=tls&sni=ficdn2.suio.me#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 45.144.52.229
+vless://fa-397456379-1771009078823820@85.192.49.216:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.216

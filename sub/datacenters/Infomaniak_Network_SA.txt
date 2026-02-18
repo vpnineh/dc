@@ -1,3 +1,0 @@
-vless://59876d4f-a62d-4712-e8eb-7d5ef8b4bb92@172.64.152.23:443?type=xhttp&security=tls&sni=owowiwuwy-iwywywgcwvw.maxgh5766.ir#CH 🇨🇭 ┇ VLESS-XHTTP-TLS - Infomaniak Network SA ┇ 172.64.152.23
-vless://07e299c3-1e03-42d8-82a6-c47bfc79954d@83.228.230.48:2056?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.230.48
-vless://07e299c3-1e03-42d8-82a6-c47bfc79954d@188.213.128.194:2056?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.128.194

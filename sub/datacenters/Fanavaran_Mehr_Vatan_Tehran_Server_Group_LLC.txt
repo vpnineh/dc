@@ -1,3 +1,3 @@
-vless://63af6fe2-0329-4070-bf92-8712b95933dd@arv.au24.top:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.239.174
 vless://a4a5e0e8-cdc0-bdaf-e768-76c5707043c3@en4.netfinix.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.218
+vless://63af6fe2-0329-4070-bf92-8712b95933dd@arv.au24.top:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.239.174
 vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@user.netfinix.ir:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.231.111

@@ -1,8 +1,8 @@
-vless://665a891b-114e-435b-a083-1ab5b8adc6ac@ip.shakhle.ir:2095?type=httpupgrade&security=none&path=/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://0f9aaacb-b87d-4519-babe-3586791e4aa5@f1.hamrahconf.ir:2086?type=httpupgrade&security=none&path=/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://a8b9f579-40e3-41a7-9d6c-81b558e5cc5e@45.130.125.160:2086?type=httpupgrade&security=none&path=/?ed=2086#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://665a891b-114e-435b-a083-1ab5b8adc6ac@1.iranazizm.com:2095?type=httpupgrade&security=none&path=/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://9b4b232a-578a-4e27-b219-57acec5e0a0d@ip.xqnetwork.ir:2053?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@hope.zdshop.ir:2086?type=ws&security=none&path=/?ed=2086#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.162
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?type=xhttp&security=none&path=/pabloping?mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@45.130.125.160:2082?type=httpupgrade&security=none&path=/?ed=1024#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?type=ws&security=none&path=/?ed=2086#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.162
-vless://af60c1bb-763d-44c1-b015-bf314f41849d@89.149.242.21:1380?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 89.149.242.21
-vless://d38a7554-1bba-46ea-8de6-98d72f6b3e3b@f3.hamrahconf.ir:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNlV2ViIE5ldGhlcmxhbmRzIEIuVi4gXHUyNTA3IDg1LjE3LjE5Mi4xMTAiLCJhZGQiOiI4NS4xNy4xOTIuMTEwIiwicG9ydCI6MTY2MjMsImlkIjoiZWY5ODRkMTktNGRmNy00NTkyLThjYTgtYTNmNjU4Yjc4YzBhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://af60c1bb-763d-44c1-b015-bf314f41849d@89.149.242.21:1380?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 89.149.242.21
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@45.130.125.160:2082?type=httpupgrade&security=none&path=/?ed=1024#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160

@@ -1,1 +1,1 @@
-vless://034cf132-6ea6-416f-ba01-c710e99d6225@s4.iranman.shop:9600?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.22.118
+vless://a86273c9-239d-45ff-b8bd-7dffc720d1e6@s4.iranman.shop:9600?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.22.118

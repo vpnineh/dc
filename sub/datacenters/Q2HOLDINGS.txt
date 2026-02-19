@@ -1,1 +1,1 @@
-vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@aafc11.lizard2shop.com:2095?type=tcp&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-TCP-NTLS - Q2HOLDINGS ┇ 192.0.63.113
+vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@aafc11.lizard2shop.com:2095?type=httpupgrade&security=none&path=/mammadali#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Q2HOLDINGS ┇ 192.0.63.113

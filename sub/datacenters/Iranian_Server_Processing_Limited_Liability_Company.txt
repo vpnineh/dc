@@ -1,1 +1,1 @@
-vless://b936c669-2458-47f7-b9e5-d46552320882@shop.tinshopmarket.ir:25553?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 194.145.119.157
+vless://013d79ce-d692-42f0-87cf-23fd722fc839@goavmdu.tinshopmarket.ir:25553?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 194.145.119.157

@@ -1,2 +1,0 @@
-vless://6e0eec29-0d80-4d0b-9123-03fc88ece826@phonex.phonexv2iiiolo.com:25882?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 194.145.119.140
-vless://cce3c683-7134-45dd-a271-ad3bd35bd82d@plus.herlyito.top:49578?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 194.145.119.254

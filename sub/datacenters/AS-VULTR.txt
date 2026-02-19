@@ -1,6 +1,6 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgNDUuNzYuMTI3LjE4OSIsImFkZCI6IjQ1Ljc2LjEyNy4xODkiLCJwb3J0Ijo0NDMsImlkIjoiN2ZjNjc2NGEtNmNiYS00NTk5LTk1ZDctYWM3NjE3YjdkYjBhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcmF5IiwidGxzIjoidGxzIn0
 vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?type=xhttp&security=none&path=/@bitnetvpn#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 77.81.81.17
-vless://5a0170ca-44ba-46a0-9d9b-2e4663b1f6a5@serverncyn.samanidempire.org:443?type=ws&security=tls&path=/b6e684a7#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.119.169
 vless://0a6a9250-5007-4458-b2a7-f3d82ebb7374@45.63.116.176:27773?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.63.116.176
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.179.87.9:443?type=ws&security=none&path=/?ed=2560#JP 🇯🇵 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 167.179.87.9
+vless://5a0170ca-44ba-46a0-9d9b-2e4663b1f6a5@serverncyn.samanidempire.org:443?type=ws&security=tls&path=/b6e684a7#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.119.169
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.198.248:443?type=ws&security=none&path=/?ed=2560#JP 🇯🇵 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.198.248
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.179.87.9:443?type=ws&security=none&path=/?ed=2560#JP 🇯🇵 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 167.179.87.9

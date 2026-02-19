@@ -1,10 +1,8 @@
-vless://bf4f7317-4ea1-d9b0-4538-9622f9af1f0d@tun.maf-fars.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.82
-vless://804ba7d5-1cfa-3e3a-3d8e-7eb4ec2dad71@tun.sap-rehan.ir:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.79
-vless://804ba7d5-1cfa-3e3a-3d8e-7eb4ec2dad71@tun.sap-rehan.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.79
-vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.82
-vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@srv99.radargame.site:41128?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.96.221
+vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.82
 vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.82
-vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@fa.faraz360.ir:9829?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.133.197.239
-vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.133.249.38
-vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.60:9831?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.133.197.60
+vless://804ba7d5-1cfa-3e3a-3d8e-7eb4ec2dad71@tun.sap-rehan.ir:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.79
 vless://be6111d8-5844-4b25-95aa-e64a08662db5@cheshnakhore.mrnafis.com:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 45.11.187.176
+vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.133.249.38
+vless://804ba7d5-1cfa-3e3a-3d8e-7eb4ec2dad71@tun.sap-rehan.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.79
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.60:9831?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.133.197.60
+vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.125.82

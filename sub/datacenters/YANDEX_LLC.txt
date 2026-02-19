@@ -1,1 +1,1 @@
-vless://3f8e8529-9cb9-42a7-9a02-533ab8838114@89.169.128.105:8443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 89.169.128.105
+vless://182a355e-8ffc-4735-84b6-afbd83c98ff2@89.169.128.105:8443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 89.169.128.105

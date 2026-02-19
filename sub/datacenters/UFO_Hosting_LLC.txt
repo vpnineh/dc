@@ -1,1 +1,1 @@
-vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?type=ws&security=tls&path=/ws-vless/&sni=rus3.worldunlocked.org#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ 185.250.149.238
+vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?type=ws&security=tls&path=/ws-vless/&sni=rus3.worldunlocked.org#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ 185.250.149.242

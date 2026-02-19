@@ -1,2 +1,1 @@
-vless://1355c868-257e-4532-8852-e197dd4e682a@osn.takovpn.ru:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 144.31.100.120
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?type=tcp&security=reality&sni=mtalk.google.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 81.227.231.252
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?type=tcp&security=reality&sni=mtalk.google.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 213.66.183.167

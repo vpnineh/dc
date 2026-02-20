@@ -1,1 +1,0 @@
-vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?type=ws&security=tls&path=/&sni=ServerDL-FrankM2.NetSnap.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 173.245.59.249

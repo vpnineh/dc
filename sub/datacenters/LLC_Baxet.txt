@@ -1,1 +1,0 @@
-vless://acfe8bc3-c6b9-43d6-b40a-bf5fdbc8d1ff@46.17.41.33:7443?type=tcp&security=reality&sni=77.88.8.8&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 46.17.41.33

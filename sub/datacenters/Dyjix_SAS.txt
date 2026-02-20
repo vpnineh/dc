@@ -1,2 +1,2 @@
 vless://744a0bb1-5033-41b1-a280-b4dfa6132f50@n5.abrarvan1.com:2080?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.240
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?type=tcp&security=reality&sni=fran.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Dyjix SAS ┇ 185.171.202.55
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?type=tcp&security=reality&sni=fran.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Dyjix SAS ┇ 185.171.202.58

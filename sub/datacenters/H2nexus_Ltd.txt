@@ -1,2 +1,0 @@
-vless://fa-397456379-1771009078823820@85.192.49.216:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.216
-vless://fa-397456379-1771011735892097@85.192.49.232:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.232

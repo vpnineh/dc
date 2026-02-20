@@ -1,6 +1,6 @@
+vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@frt22.lizardshop.org:4545?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.94.179
 vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@ov2.liiliil.ir:40301?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.206
-vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@77.104.94.179:4545?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.94.179
 vless://mimitdl@87.107.81.254:29487?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.81.254
-vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@catt.lizard2shop.com:4545?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.94.225
-vless://050a12da-f082-4aa4-ada9-9b00e05fe242@driftnet.ir:8095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 2.188.233.117
-vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.206
+vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.171
+vless://050a12da-f082-4aa4-ada9-9b00e05fe242@vip_beset_server_iran_netmeli_2025.driftvpn.space:8095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 2.188.233.117
+vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@77.104.94.225:4545?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.94.225

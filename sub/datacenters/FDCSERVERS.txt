@@ -1,1 +1,0 @@
-vless://fa-397456379-1771064637182567@66.90.99.38:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 66.90.99.38

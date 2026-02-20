@@ -1,5 +1,5 @@
-vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@fi2.persianhostnet.ir:5122?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.149.120
-vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@it1.persianhostnet.ir:3124?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.149.120
 vless://f0fde63c-99c7-4db4-aa21-fc25b500e43d@ir.fctrailer.ir:44226?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.92
 vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@vipde1.persianhostnet.ir:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.149.91
 vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.149.120
+vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@fi2.persianhostnet.ir:5122?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.149.120
+vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@it1.persianhostnet.ir:3124?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.149.120

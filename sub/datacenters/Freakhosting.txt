@@ -1,5 +1,4 @@
+vless://64670147-6d2d-458a-8c20-baca66b82e54@ge.it-programer.ir:8443?type=tcp&security=reality&sni=ge.it-programer.ir&fp=chrome&flow=xtls-rprx-vision&pbk=6g65kNZcYXGJAd8xUyinXVFA_H51i_mqAIq13mvnTCo&sid=7ca84973be0c0315#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 31.56.39.17
 vless://3bf97509-bce0-46ba-b9ce-d4208e0ce136@sv1.fasdata.top:7320?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Freakhosting ┇ 46.37.123.122
-vless://64670147-6d2d-458a-8c20-baca66b82e54@ge.it-programer.ir:8443?type=tcp&security=reality&sni=ge.it-programer.ir&fp=chrome&flow=xtls-rprx-vision&pbk=6g65kNZcYXGJAd8xUyinXVFA_H51i_mqAIq13mvnTCo&sid=7ca84973be0c0315#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 31.56.39.62
+vless://826ec3e1-e72b-4fc6-9859-56f743e7ffd3@shop.ahoohost.top:51543?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Freakhosting ┇ 82.22.174.137
 vless://3bf97509-bce0-46ba-b9ce-d4208e0ce136@sv4.fasdata.top:7323?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Freakhosting ┇ 82.22.174.79
-vless://826ec3e1-e72b-4fc6-9859-56f743e7ffd3@shop.ahoohost.top:51543?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Freakhosting ┇ 82.22.174.129
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - Freakhosting ┇ 82.22.174.61

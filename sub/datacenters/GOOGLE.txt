@@ -1,2 +1,2 @@
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?type=tcp&security=reality&sni=mtalk.google.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 78.67.63.19
 vless://c4aced14-ac1f-4241-a63f-05588ea4f054@my.kiomars.shop:6664?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 46.62.250.228
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?type=tcp&security=reality&sni=mtalk.google.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 217.210.191.115

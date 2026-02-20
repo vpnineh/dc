@@ -1,1 +1,2 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.36.182:443?type=tcp&security=none&path=/?ed=2560#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.60.36.182
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.8.225.24:2053?type=tcp&security=none&path=/?ed=2560#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.225.24

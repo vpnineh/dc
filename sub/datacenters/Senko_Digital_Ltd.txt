@@ -1,0 +1,1 @@
+vless://dd769df2-e720-4bf8-a113-e69a2e0d4904@ger.scroogethebest.com:443?type=tcp&security=reality&sni=ger.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#DE 🇩🇪 ┇ VLESS-TCP-RLT - Senko Digital Ltd ┇ 193.23.219.99

@@ -1,2 +1,1 @@
 vless://a397c3b2-315f-449c-9bfe-b207f529db7f@5.159.49.79:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 5.159.49.79
-vless://4de25158-61a9-4abf-a653-ef0db0ca99ac@andadeh.digi2020kala.website:39200?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.212.232.23

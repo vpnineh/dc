@@ -1,2 +1,0 @@
-vless://c963ea66-7107-4351-8ded-f54a2658bb84@185.232.152.150:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.150
-vless://93d580ea-28f9-4636-85d7-3a7bec95ca7a@self2.shabroo.com:8090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.67

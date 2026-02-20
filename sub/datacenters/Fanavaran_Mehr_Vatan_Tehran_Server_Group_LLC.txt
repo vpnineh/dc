@@ -1,5 +1,5 @@
-vless://c490d6f4-0ed3-52e0-f24b-3ba51a209fa3@user.netfinix.ir:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.231.111
+vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@de8.netfinix.ir:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.231.111
+vless://e2161659-2c22-4543-a99a-15706f94f227@shatel1.piroowat.com:2052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.239.179
 vless://c490d6f4-0ed3-52e0-f24b-3ba51a209fa3@en4.netfinix.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.226.218
 vless://63af6fe2-0329-4070-bf92-8712b95933dd@arv.au24.top:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.239.174
-vless://e2161659-2c22-4543-a99a-15706f94f227@shatel1.piroowat.com:2052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.239.179
-vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@de7.netfinix.ir:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.231.111
+vless://c490d6f4-0ed3-52e0-f24b-3ba51a209fa3@user.netfinix.ir:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.231.111

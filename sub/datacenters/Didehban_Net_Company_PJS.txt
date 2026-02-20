@@ -1,1 +1,0 @@
-vless://629daade-db49-4398-89a4-53a5f2bbd8c6@45.84.157.14:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Didehban Net Company PJS ┇ 45.84.157.14

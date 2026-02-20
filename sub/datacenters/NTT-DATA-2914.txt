@@ -1,0 +1,1 @@
+vless://57aa311c-c21d-40ad-91c3-7a6b7cd36ea2@ardena.icu:443?type=tcp&security=reality&sni=ardena.icu&fp=chrome&flow=xtls-rprx-vision&pbk=22mH2kO_6Q43slZjf-njD9TMv9xeYMA1P28PzEtqOWo#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.81.232

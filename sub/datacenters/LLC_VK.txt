@@ -1,0 +1,2 @@
+vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?type=tcp&security=reality#KZ 🇰🇿 ┇ VLESS-TCP-RLT - LLC VK ┇ 212.111.84.187
+vless://2936e344-2c52-4508-9523-1f3ed6824770@37.139.34.145:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 37.139.34.145

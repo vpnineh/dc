@@ -1,0 +1,1 @@
+vless://ce28b030-da63-4dc0-811d-37b7cd3bf4ce@11ta11.iran-ahwaz.ir:8081?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 31.57.156.112

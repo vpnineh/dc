@@ -1,1 +1,0 @@
-vless://64f713ec-9f88-405f-9b74-9246e9acdcb6@us.fasti.win:443?type=tcp&security=reality&sni=us.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=I2ynp6JbtPNr4IpZoMK3iXbgBBzT4n-MKet-Ao-1RSQ&sid=ee71514cac709180#US 🇺🇸 ┇ VLESS-TCP-RLT - DEDICATED ┇ 64.42.178.19

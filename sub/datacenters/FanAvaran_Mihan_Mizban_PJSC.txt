@@ -1,8 +1,7 @@
-vless://d427384b-6f57-42c9-a51a-cdcd5cb13d11@85.133.228.75:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.75
-vless://73ccfebc-9b7f-4bb2-9685-2c92bca66947@de.v2turbo.com:1521?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.180
+vless://308975b2-0c44-4bbc-be41-62b2f6fccfe3@amir.behnamweb.fun:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.219
+vless://05b9bf7e-fed0-4e7d-b3fc-072001e7f514@btc.wow.montago-shop.ir:8282?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.23
+vless://5f2f7bd1-3cbf-4c44-a863-a89276337190@mng.mahoshid.ir:1110?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.230
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.179
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiYWRlbG1lbGkuY29tIiwicG9ydCI6ODAsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.240.116
 vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.74
-vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.179
-vless://5f2f7bd1-3cbf-4c44-a863-a89276337190@mng.mahoshid.ir:1110?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.230
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiYWRlbG1lbGkuY29tIiwicG9ydCI6ODAsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
-vless://308975b2-0c44-4bbc-be41-62b2f6fccfe3@amir.behnamweb.fun:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.219

@@ -1,0 +1,1 @@
+vless://edbf0c2d-4e28-4001-87d1-0588ae968b7a@31.44.5.40:12229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 31.44.5.40

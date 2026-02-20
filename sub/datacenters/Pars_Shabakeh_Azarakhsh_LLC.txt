@@ -1,2 +1,1 @@
-vless://aeff0c3d-b613-4cd5-baa2-3939c6a23005@ir.alphanet01.com:12548?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.156.29
 vless://39c467cb-16cb-4d03-ed5e-86025103d40c@s4.spadgaming.ir:4000?type=httpupgrade&security=none&path=/#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.107.165.63

@@ -1,1 +1,0 @@
-vless://f25ce4d7-3e44-4da6-9e07-0a7c5b857b74@cl5-ndl.privetnet.ru:443?type=tcp&security=reality&sni=cl5-ndl.privetnet.ru&fp=chrome&flow=xtls-rprx-vision&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=c0146b25a82f4578#DE 🇩🇪 ┇ VLESS-TCP-RLT - TERASWITCH ┇ 185.214.74.79

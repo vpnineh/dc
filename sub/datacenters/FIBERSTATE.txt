@@ -1,1 +1,0 @@
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?type=tcp&security=reality&sni=spb.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 85.239.47.127

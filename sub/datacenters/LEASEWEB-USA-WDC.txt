@@ -1,1 +1,0 @@
-vless://f25ce4d7-3e44-4da6-9e07-0a7c5b857b74@cl5-lit.privetnet.ru:443?type=tcp&security=reality&sni=cl5-lit.privetnet.ru&fp=chrome&flow=xtls-rprx-vision&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=dddf994851a4b9fa#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 195.66.25.197

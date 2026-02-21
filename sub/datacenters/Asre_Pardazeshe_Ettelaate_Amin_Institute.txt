@@ -1,2 +1,2 @@
+vless://9af81977-1836-7a50-1155-6241b1857e83@87.107.100.23:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 87.107.100.23
 vless://65bf333a-f416-a1de-f886-98291e6a561a@213.176.1.105:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.105
-vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@213.176.1.45:45471?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.45

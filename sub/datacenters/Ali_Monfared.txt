@@ -1,16 +1,2 @@
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@rom.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.139
 vless://308975b2-0c44-4bbc-be41-62b2f6fccfe3@amir.behnamweb.fun:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.85
-vless://0ae1c722-3d74-414f-8839-d38a43e8f1cd@188.212.97.227:9009?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.227
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@185.124.175.164:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.164
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@est.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.140
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@185.124.175.165:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.165
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@185.124.175.162:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.162
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@185.124.175.167:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.167
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@fi.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.134
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@185.124.175.166:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.166
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@fr.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.135
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@alb.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.160
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@185.124.175.163:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.163
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@it.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.136
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@ukr.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.157
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@uk.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.131

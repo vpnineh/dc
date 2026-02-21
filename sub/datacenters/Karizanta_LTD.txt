@@ -1,2 +1,2 @@
-vless://3fb00c1d-e8ab-49f7-ac5e-8033348fed32@194.61.3.100:17799?type=tcp&security=none&path=///AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVAbriVAbriVPN--AbriVPN--AbriVPN--AbriVPN--v#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 194.61.3.100
+vless://b8b94805-442b-4ed2-affb-4ad391114613@194.61.3.100:17799?type=tcp&security=none&path=///v#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 194.61.3.100
 vless://381224fe-8f66-49f8-a7c3-06446317770b@194.61.3.100:23816?type=tcp&security=none&path=///AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVAbriVAbriVPN--AbriVPN--AbriVPN--AbriVPN--v#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 194.61.3.100

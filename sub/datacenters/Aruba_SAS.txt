@@ -1,0 +1,2 @@
+vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&security=tls&path=/api?ed=2560&sni=streamchat.ikoochi.ir.&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Aruba SAS ┇ 8.6.112.0
+vless://725495fc-61fc-4c68-bf27-54bb4459d37d@162.159.152.4:8443?type=ws&security=tls&path=/api?ed=2560&sni=streamchat.ikoochi.ir.&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Aruba SAS ┇ 162.159.152.4

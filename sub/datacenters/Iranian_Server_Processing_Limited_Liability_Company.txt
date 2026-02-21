@@ -1,1 +1,1 @@
-vless://d48f09a4-a7c5-4cba-ae65-768ef312b501@cart.ankernamad.ir:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.18
+vless://013d79ce-d692-42f0-87cf-23fd722fc839@goavmdu.tinshopmarket.ir:25553?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 194.145.119.157

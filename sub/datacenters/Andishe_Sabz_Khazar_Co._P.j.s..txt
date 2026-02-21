@@ -1,0 +1,1 @@
+vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@46.21.80.118:669?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Andishe Sabz Khazar Co. P.j.s. ┇ 46.21.80.118

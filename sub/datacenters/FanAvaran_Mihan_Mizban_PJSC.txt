@@ -1,6 +1,7 @@
-vless://d427384b-6f57-42c9-a51a-cdcd5cb13d11@85.133.228.75:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.75
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.br.flicknet.ir:40019?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.179
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiYWRlbG1lbGkuY29tIiwicG9ydCI6ODAsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIn0
-vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.74
+vless://293f7994-cb97-4687-9a8c-fb31e6c6f86b@85.133.228.75:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.75
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.179
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.179
+vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.193.74
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.br.flicknet.ir:40019?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.179
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 89.44.240.116
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiODUuMTMzLjIwNC42NyIsInBvcnQiOjgwLCJpZCI6Ijg5ZTI1NTYyLWQwZjEtNGY1NC04YWZiLTZlZTM3NGUzMGZiYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9

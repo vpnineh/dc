@@ -1,1 +1,0 @@
-vless://fa-397456379-1771228824034392@185.120.59.245:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 185.120.59.245

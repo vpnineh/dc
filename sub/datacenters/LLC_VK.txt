@@ -1,1 +1,0 @@
-vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:8443?type=tcp&security=reality#KZ 🇰🇿 ┇ VLESS-TCP-RLT - LLC VK ┇ 212.111.84.82

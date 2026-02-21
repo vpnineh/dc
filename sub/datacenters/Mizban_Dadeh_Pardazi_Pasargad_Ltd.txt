@@ -1,0 +1,1 @@
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@s-4.wolf-service.top:8478?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.48

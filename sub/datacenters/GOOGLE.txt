@@ -1,1 +1,2 @@
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?type=tcp&security=reality&sni=mtalk.google.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 81.225.192.195
+vless://1e745024-e524-49fb-8084-7f2247cecf11@p3-sv2.hamrahgate.ir:2313?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=Ly87L5hi2vCNVn6QnfHbjdXYInBN4f8kz_dzZGybXxI&sid=48cd8dfb7aec680d#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 65.109.219.139

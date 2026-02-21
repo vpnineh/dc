@@ -1,2 +1,1 @@
-vless://f25ce4d7-3e44-4da6-9e07-0a7c5b857b74@ru-fi-01.plus-hit.ru:443?type=tcp&security=reality&sni=ru-fi-01.plus-hit.ru&fp=random&flow=xtls-rprx-vision&pbk=ayJjf8TJwT_INFKDDHk9uv3zyoERmbG2gECNX1fwFxo&sid=6a0f1cd94b762e98#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 85.239.34.175
-vless://fa-397456379-1771064637182567@78.40.116.73:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 78.40.116.73
+vless://f25ce4d7-3e44-4da6-9e07-0a7c5b857b74@ru-fi-01.plus-hit.ru:443?type=tcp&security=reality&sni=ru-fi-01.plus-hit.ru&fp=random&flow=xtls-rprx-vision&pbk=ayJjf8TJwT_INFKDDHk9uv3zyoERmbG2gECNX1fwFxo&sid=6a0f1cd94b762e98#MD 🇲🇩 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 85.239.34.250

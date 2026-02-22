@@ -1,2 +1,2 @@
-vless://b7c4e45e-ebf3-44b6-8cff-95e87a150adf@fast.allbigfilecollectionsonline.ir:2087?type=tcp&security=tls&path=/DL?ed=2096#US 🇺🇸 ┇ VLESS-TCP-TLS - HMS-ASN ┇ 198.62.62.207
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyA2OS44NC4xODIuMTYiLCJhZGQiOiI2OS44NC4xODIuMTYiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?type=xhttp&security=none&path=/pabloping#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - HMS-ASN ┇ 198.62.62.99

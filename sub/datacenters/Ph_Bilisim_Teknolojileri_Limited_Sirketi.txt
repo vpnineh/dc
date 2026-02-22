@@ -1,1 +1,1 @@
-vless://0e6d4c0a-485b-86df-90d9-069807fcc559@animallzoo-love-zoo-tr.giggoopanel.ir:9090?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 213.238.180.218
+vless://0e6d4c0a-485b-86df-90d9-069807fcc559@animallzoo-love-zoo-tr.giggoopanel.ir:9090?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 213.238.180.218

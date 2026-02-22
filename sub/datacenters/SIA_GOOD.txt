@@ -1,2 +1,2 @@
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn11.suio.me:443?type=tcp&security=tls&sni=decdn11.suio.me#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.187
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn10.suio.me:443?type=tcp&security=tls&sni=decdn10.suio.me#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.154
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn11.suio.me:443?type=tcp&security=tls&sni=decdn11.suio.me#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.187

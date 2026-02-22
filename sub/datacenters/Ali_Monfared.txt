@@ -1,2 +1,2 @@
-vless://ee39416c-51ad-4091-abcd-3ffa04ca39ce@185.124.175.217:7730?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Ali Monfared ┇ 185.124.175.217
+vless://308975b2-0c44-4bbc-be41-62b2f6fccfe3@amir.behnamweb.fun:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.85
 vless://d5a5511a-29ed-495c-9b7c-152a326c09c5@azinsite.amir777.sbs:2010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.195

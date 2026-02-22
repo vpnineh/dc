@@ -1,3 +1,1 @@
 vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@tunel-aaasxa.gamepiu.com:5087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.225.143
-vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:10010?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 81.12.33.167
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgNS4xNjAuMTQ0LjE5MyIsImFkZCI6IjUuMTYwLjE0NC4xOTMiLCJwb3J0IjoyNjY4NCwiaWQiOiIyNjlmZTllYy05NzYxLTQxYmItOGI2NC1mNmI2MjRjYTQxNDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9

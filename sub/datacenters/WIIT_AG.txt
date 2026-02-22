@@ -1,1 +1,1 @@
-vless://89d5cc8d-e42f-45b0-d673-71578a39ae47@5.104.108.47:50605?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - WIIT AG ┇ 5.104.108.47
+vless://89d5cc8d-e42f-45b0-d673-71578a39ae47@5.104.108.47:50605?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - WIIT AG ┇ 5.104.108.47

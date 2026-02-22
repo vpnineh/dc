@@ -1,0 +1,1 @@
+vless://88ed40a7-e959-473a-b30f-e96b928411d9@212.33.206.89:2342?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.89

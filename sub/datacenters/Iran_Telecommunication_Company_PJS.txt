@@ -1,1 +1,0 @@
-vless://ae3b7528-ed9d-46fa-89a3-37230aef034a@tvu.callstreamfile.ir:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 46.100.133.39

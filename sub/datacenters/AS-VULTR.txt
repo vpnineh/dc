@@ -1,0 +1,1 @@
+vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?type=xhttp&security=none&path=/@bitnetvpn#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 77.81.81.17

@@ -1,1 +1,3 @@
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.45
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgNS4xNjAuMTQ0LjE5MyIsImFkZCI6IjUuMTYwLjE0NC4xOTMiLCJwb3J0IjoyNjY4NCwiaWQiOiIyNjlmZTllYy05NzYxLTQxYmItOGI2NC1mNmI2MjRjYTQxNDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@tunel-aaasxa.gamepiu.com:5087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.225.143

@@ -1,2 +1,0 @@
-vless://fa-397456379-1771011735892097@212.67.8.149:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 212.67.8.149
-vless://fa-397456379-1771015002699385@45.84.225.71:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 45.84.225.71

@@ -1,3 +1,3 @@
+vless://8beb7d2b-8753-41a9-a381-ebfa327f85e7@firan.dtgoldservices.com:8443?type=tcp&security=tls&sni=firan.dtgoldservices.com#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.13
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.193
-vless://a4d3209a-9b49-441a-974f-03ce00f5d05a@grdt.dtsantoor.com:40786?type=tcp&security=tls&sni=grdt.dtsantoor.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.11
-vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?type=tcp&security=tls&sni=firan.dtgoldservices.com#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.13
+vless://e75ebf47-a4c4-4e32-92a5-f9123d70c665@grdt.dtsantoor.com:40786?type=tcp&security=tls&sni=grdt.dtsantoor.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.11

@@ -1,1 +1,1 @@
-vless://472b07d2-31e4-41ab-ae47-48914d9b7900@45.130.125.160:443?type=ws&security=tls&path=/Net3rffws&sni=fi.unoix.io&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Oy Crea Nova Hosting Solution Ltd ┇ 45.130.125.160
+vless://4bc7d558-1943-44de-bd82-56920bc9383e@test.spectrum.vu:443?type=tcp&security=reality&sni=test.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo#MX 🇲🇽 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 194.41.112.21

@@ -1,1 +1,1 @@
-vless://9983b901-28a8-4dcf-a8b9-8304bc6dc804@85.133.161.168:2086?type=ws&security=none&path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.168
+vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.168:8080?type=ws&security=none&path=/IVApi/NL/0#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.168

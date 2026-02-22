@@ -1,2 +1,2 @@
-vless://30f3412d-dcb9-451d-8e58-737d7b704b0e@s14.leaders711.top:5050?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ariana Gostar Spadana (PJSC) ┇ 188.136.162.16
+vless://1b244541-355a-4f88-b800-6bef8b1dbd7a@s14.leaders711.top:5050?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ariana Gostar Spadana (PJSC) ┇ 188.136.162.16
 vless://635442ac-1c52-4227-948a-fd4bd2cc6e68@s13.leaders711.top:5054?type=tcp&security=none&path=/http#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ariana Gostar Spadana (PJSC) ┇ 188.136.162.14

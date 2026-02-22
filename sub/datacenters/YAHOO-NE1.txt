@@ -1,0 +1,1 @@
+vless://15c8918c-9504-4434-a114-6a40352cc24d@213.142.150.144:2020?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=2eOmsOfjRQshXhnSWwJyeR869wDvuwn4ksOo9h-6t1o&sid=dec347#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-NE1 ┇ 213.142.150.144

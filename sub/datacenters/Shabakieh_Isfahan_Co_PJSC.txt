@@ -1,1 +1,0 @@
-vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?type=ws@freenettir&security=none&path=/v1/stream/trk#IR 🇮🇷 ┇ VLESS-WS@FREENETTIR-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.168

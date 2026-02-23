@@ -1,2 +1,2 @@
-vless://f9933819-651b-4f2f-9d19-c9e5df63ded9@vpn.lumanetwork.cloud:20003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.209
 vless://87f106c2-0c97-44ce-9047-8570bee51175@vpn.lumanetwork.cloud:10004?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.209
+vless://f9933819-651b-4f2f-9d19-c9e5df63ded9@vpn.lumanetwork.cloud:20003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.209

@@ -1,1 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?type=ws&security=none&path=tmevpnAndroid2/?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.61
+vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@zula.ir:80?type=tcp&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.61

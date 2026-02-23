@@ -1,3 +1,3 @@
-vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@45.84.157.14:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Didehban Net Company PJS ┇ 45.84.157.14
 vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@45.84.157.14:9093?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Didehban Net Company PJS ┇ 45.84.157.14
+vless://a09d2931-c961-4f4e-9288-eab639c5fc03@45.84.157.14:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Didehban Net Company PJS ┇ 45.84.157.14
 vless://a09d2931-c961-4f4e-9288-eab639c5fc03@45.84.157.14:9092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Didehban Net Company PJS ┇ 45.84.157.14

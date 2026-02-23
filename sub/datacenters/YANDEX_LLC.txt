@@ -1,1 +1,1 @@
-vless://5f221a89-3f17-48ad-9bab-ad7722df7df9@51.250.75.178:4443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=EQszgdCF6wZeEc0GmXLZcj6dNedc-PF9WUu5MXsP8Uk&sid=4e2dc2056ed45d12#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 51.250.75.178
+vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.86.102:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 51.250.86.102

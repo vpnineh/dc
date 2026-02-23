@@ -1,2 +1,2 @@
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@decdn15.suio.me:443?type=tcp&security=tls&path=/&sni=decdn15.suio.me&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Okb Progress LLC ┇ 138.124.186.218
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@decdn17.suio.me:443?type=tcp&security=tls&sni=decdn17.suio.me#GB 🇬🇧 ┇ VLESS-TCP-TLS - Okb Progress LLC ┇ 138.124.186.244
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@decdn15.suio.me:443?type=tcp&security=tls&sni=decdn15.suio.me#GB 🇬🇧 ┇ VLESS-TCP-TLS - Okb Progress LLC ┇ 138.124.186.218

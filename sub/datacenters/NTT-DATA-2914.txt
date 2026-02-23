@@ -1,0 +1,1 @@
+vless://80edbcfe-a5dd-4efc-b494-dc1b7aa5b9a3@64.188.80.115:7443?type=tcp&security=reality&sni=77.88.8.8&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.115

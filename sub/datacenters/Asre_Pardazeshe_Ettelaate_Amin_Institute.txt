@@ -1,2 +1,1 @@
-vless://2f1e6b3e-7c92-4af7-bbb4-6f849176a856@ir.tabarston.xyz:11484?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 89.42.139.197
 vless://712b7fa5-67d6-4a7d-93d1-516d4ce80b66@kh.bishtaraz33kilo.top:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.247.165

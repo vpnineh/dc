@@ -1,10 +1,9 @@
-vless://0f411d3b-4356-4c4c-bd9f-927cbbbca754@iranpet.dtpetshop.com:40433?type=tcp&security=tls&sni=iranpet.dtpetshop.com#IR 🇮🇷 ┇ VLESS-TCP-TLS - Respina Networks & Beyond PJSC ┇ 81.12.80.47
-vless://2ec06433-4bde-4282-8199-bdd0327126fd@fl.v2online3.site:24025?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 185.215.228.60
 vless://mimitdl@87.107.81.254:29487?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.81.254
-vless://d616878a-b7c6-41c3-87bd-9df359389be7@blog.zanbori.ir:4220?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 92.242.196.210
-vless://a7b06f29-ccf0-4535-948b-164b0120674d@87.107.81.89:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.81.89
-vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@ov2.liiliil.ir:40301?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.206
+vless://0f411d3b-4356-4c4c-bd9f-927cbbbca754@iranpet.dtpetshop.com:40433?type=tcp&security=tls&sni=iranpet.dtpetshop.com#IR 🇮🇷 ┇ VLESS-TCP-TLS - Respina Networks & Beyond PJSC ┇ 81.12.80.47
+vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@ov2.liiliil.ir:40301?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.166
 vless://013d79ce-d692-42f0-87cf-23fd722fc839@goavmdu.tinshopmarket.ir:25553?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 5.160.254.15
-vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.242.203
+vless://d616878a-b7c6-41c3-87bd-9df359389be7@blog.zanbori.ir:4220?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 92.242.196.210
 vless://589bf544-d1c8-48f1-837b-ac919b757bd8@5.160.198.120:8001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 5.160.198.120
-vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.171
+vless://2ec06433-4bde-4282-8199-bdd0327126fd@fl.v2online3.site:24025?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 185.215.228.60
+vless://8731868b-7714-4282-af80-25c704de24a5@87.107.81.89:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.81.89
+vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.106.206

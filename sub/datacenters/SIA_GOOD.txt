@@ -1,3 +1,2 @@
-vless://fa-7055554789-1771525571155969@193.124.254.76:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 193.124.254.76
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn11.suio.me:443?type=tcp&security=tls&sni=decdn11.suio.me#RU 🇷🇺 ┇ VLESS-TCP-TLS - SIA GOOD ┇ 185.100.159.187
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.177.238.3:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 185.177.238.3

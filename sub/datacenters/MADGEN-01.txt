@@ -1,1 +1,1 @@
-vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?type=grpc&security=tls&sni=deu469.unboundworld.org#IQ 🇮🇶 ┇ VLESS-GRPC-TLS - MADGEN-01 ┇ 178.17.58.17
+vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?type=grpc&security=tls&sni=deu469.unboundworld.org#IQ 🇮🇶 ┇ VLESS-GRPC-TLS - MADGEN-01 ┇ 178.17.58.38

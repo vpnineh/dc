@@ -1,6 +1,4 @@
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@freede.spectrum.vu:443?type=tcp&security=reality&sni=freede.spectrum.vu&flow=xtls-rprx-vision&pbk=F4Cbv0swJucaDwQdOibmLHhynexUdaVf8CFvTFe81mc&sid=8b4c2d5a1e3f#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.234.62
-vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn18.suio.me:443?type=tcp&security=tls&sni=plcdn18.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.20
-vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@ee.connectv.net:443?type=tcp&security=reality&sni=ee.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.178.196
-vless://e3edc64f-b585-47b6-a8b4-6febc65a60b8@node5.telegavpn.org:443?type=tcp&security=reality&sni=node5.telegavpn.org&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.24.89
-vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443?type=tcp&security=tls&sni=plcdn19.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.126
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@freede.spectrum.vu:444?type=grpc&security=reality&sni=freede.spectrum.vu&pbk=P5eDPZNV1SGHm0DiEwpVQe4NoZMzdDdQpVxmAJpHigQ&sid=a5f8e2d1c4b9#US 🇺🇸 ┇ VLESS-GRPC-RLT - ADCIL-ASN-01 ┇ 144.31.234.62
+vless://4bc7d558-1943-44de-bd82-56920bc9383e@freede.spectrum.vu:443?type=tcp&security=reality&sni=freede.spectrum.vu&flow=xtls-rprx-vision&pbk=F4Cbv0swJucaDwQdOibmLHhynexUdaVf8CFvTFe81mc&sid=8b4c2d5a1e3f#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.234.62
+vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443?type=tcp&security=tls&sni=plcdn19.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.126
+vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@ee.connectv.net:443?type=tcp&security=reality&sni=ee.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.178.196

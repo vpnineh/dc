@@ -1,2 +1,2 @@
-vless://c79ac208-8f34-4aec-a7b5-1ca68d514a42@ploox.mika4456gg.site:57070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.74.37
 vless://d80508fc-a80f-481d-8b42-b4e226a3df02@v2.punakpark.com:946?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.182
+vless://c79ac208-8f34-4aec-a7b5-1ca68d514a42@ploox.mika4456gg.site:57070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.74.37

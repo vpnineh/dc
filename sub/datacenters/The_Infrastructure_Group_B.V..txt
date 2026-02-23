@@ -1,1 +1,2 @@
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.100.32
+vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - The Infrastructure Group B.V. ┇ 5.255.126.160

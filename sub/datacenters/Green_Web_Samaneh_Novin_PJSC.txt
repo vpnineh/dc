@@ -1,0 +1,1 @@
+vless://a7b06f29-ccf0-4535-948b-164b0120674d@85.208.253.190:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 85.208.253.190

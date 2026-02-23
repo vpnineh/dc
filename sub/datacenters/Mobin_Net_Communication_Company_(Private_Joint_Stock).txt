@@ -1,1 +1,2 @@
+vless://2b195252-b849-4250-b38d-0fa32b69b652@nger.omainnames.com:18654?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.41
 vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.57

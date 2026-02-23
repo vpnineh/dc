@@ -1,1 +1,0 @@
-vless://4c191bf1-d8f2-42b2-8e77-64dd1d70ed72@::ffff:23.27.169.47:80?type=ws&security=none&path=/*#JP 🇯🇵 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ ::ffff:23.27.169.47

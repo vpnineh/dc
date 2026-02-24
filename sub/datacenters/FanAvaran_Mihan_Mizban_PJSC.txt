@@ -1,6 +1,5 @@
-vless://e4e8b7af-d043-437e-81fd-5f4e113d16e9@85.133.228.75:8881?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.228.75
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.179
-vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.179
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.br.velaro.ir:40019?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.179
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODUuMTMzLjIwNC4yMTIiLCJhZGQiOiI4NS4xMzMuMjA0LjIxMiIsInBvcnQiOjIwODcsImlkIjoiMTg0YWJkYTQtNmQ5OC00NTA5LWIwYmItY2ViMzE1ZGRiOGY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiYWRlbG1lbGkuY29tIiwicG9ydCI6ODAsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIn0
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.179
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbkF2YXJhbiBNaWhhbiBNaXpiYW4gUEpTQyBcdTI1MDcgODUuMTMzLjIwNC4yMTIiLCJhZGQiOiI4NS4xMzMuMjA0LjIxMiIsInBvcnQiOjIwODcsImlkIjoiMTg0YWJkYTQtNmQ5OC00NTA5LWIwYmItY2ViMzE1ZGRiOGY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.br.velaro.ir:40019?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.185.179
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.204.179

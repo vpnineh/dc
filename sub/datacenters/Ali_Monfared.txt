@@ -1,0 +1,1 @@
+vless://ee39416c-51ad-4091-abcd-3ffa04ca39ce@185.124.175.217:7730?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Ali Monfared ┇ 185.124.175.217

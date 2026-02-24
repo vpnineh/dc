@@ -1,5 +1,6 @@
-vless://8b0b39eb-5c24-4db1-8203-2b1c520b90e4@s7.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.246
+vless://3f5503ad-8823-476a-86dd-6130f9e1d58b@safar62.ucpubg.org:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.68
 vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o1.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.216.45
 vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.230
-vless://3f5503ad-8823-476a-86dd-6130f9e1d58b@92.114.50.68:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.68
+vless://8b0b39eb-5c24-4db1-8203-2b1c520b90e4@s7.rexine.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.246
+vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.216
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgOTIuMTE0LjUwLjEwMSIsImFkZCI6InBhbmVsNzEzLmNvbHN2cG4udG9wIiwicG9ydCI6MjkxNjgsImlkIjoiMTVlYjA4YmEtZjZjMS00YzQ0LTgwMjQtYzcyZGMzNmEzMWEyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9

@@ -1,0 +1,1 @@
+vless://5002c25a-fe2a-4973-ad5c-d3b424e75ab6@193.84.255.103:7071?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 193.84.255.103

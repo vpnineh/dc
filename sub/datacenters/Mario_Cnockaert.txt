@@ -1,1 +1,1 @@
-vless://7afbc331-dc77-4896-a8fc-cc1d33ad81b5@prime.dissertationhelpspecialist.com:2053?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Mario Cnockaert ┇ 2.58.196.10
+vless://6bb9a9f8-679f-4a4a-8636-bf9f9fc60a73@partners.dissertationhelpspecialist.com:443?type=grpc&security=reality&fp=chrome&pbk=ZcgOydOxZfr51VUnsTqCGVGJYME6a_cOZ3L4fPvgkTo#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Mario Cnockaert ┇ 2.58.196.45

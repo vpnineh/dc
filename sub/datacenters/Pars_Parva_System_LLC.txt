@@ -1,0 +1,1 @@
+vless://4ef66207-75e9-4207-95ec-0833afa173a2@mobilemajid031.site:21754?type=tcp&security=tls&sni=mobilemajid031.site&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Pars Parva System LLC ┇ 45.139.11.195

@@ -1,0 +1,1 @@
+vless://545272f1-1118-4dae-aaaf-68b7d8b554cf@ger.pvs.im:443?type=xhttp&security=tls&sni=ger.pvs.im#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - JSC Selectel ┇ 185.28.85.27

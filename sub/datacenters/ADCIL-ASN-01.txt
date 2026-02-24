@@ -1,2 +1,4 @@
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@secdn16.suio.me:443?type=tcp&security=tls&sni=secdn16.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 193.23.200.223
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443?type=tcp&security=tls&sni=plcdn19.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.126
+vless://b44fbf4a-09f4-461d-a532-43242732f00c@fi-5.ummavpn.com:443?type=tcp&security=reality&sni=fi-5.ummavpn.com&flow=xtls-rprx-vision&pbk=BEe2c7HBl5Sc1TDva_hRy1-uFQ2brNA4Wthak1qnZjo&sid=202e62037a5d8d08#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.182.124
 vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@ee.connectv.net:443?type=tcp&security=reality&sni=ee.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.178.196

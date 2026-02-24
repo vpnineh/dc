@@ -1,0 +1,1 @@
+vless://d299a28a-4a3c-44d5-b3ed-e53b50da5945@v2.punakpark.com:946?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.182

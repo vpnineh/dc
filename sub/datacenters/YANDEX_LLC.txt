@@ -1,1 +1,0 @@
-vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.86.102:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 51.250.86.102

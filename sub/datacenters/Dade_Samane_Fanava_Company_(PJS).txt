@@ -1,2 +1,3 @@
-vless://ba2e4ada-6ebe-43cc-bfef-682e3babc5a8@hc1.site.asan-ps.ir:1067?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.47.142
+vless://b1c6bfc6-5c07-43d8-8f56-a94120b8b768@hc1.site.asan-ps.ir:1067?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.47.142
+vless://2f1e6b3e-7c92-4af7-bbb4-6f849176a856@ir.tabarston.xyz:11484?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.63.220
 vless://5cba3840-917c-58f3-9d73-51d2d6d63219@best.downloadmusiciranian3.com:10280?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.203

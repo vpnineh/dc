@@ -1,5 +1,4 @@
 vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?type=xhttp&security=none&path=/@bitnetvpn#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 77.81.81.17
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.248.186.10:8443?type=tcp&security=none&path=/?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 192.248.186.10
 vless://4f504fa6-1b6b-4700-b4cd-3364e6206722@95.179.240.239:2083?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.240.239
 vless://66498e5b-1bcc-4ae3-83f8-56777999b60c@botdyqs.samanidempire.org:443?type=ws&security=tls&path=/14dcc7e1#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 136.244.95.248
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.248.186.10:8443?type=tcp&security=none&path=/?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 192.248.186.10
-vless://d5880da4-750c-4bdf-807f-0f6d5888f0f3@70.34.201.158:9130?type=tcp&security=reality&path=/api/stream#SE 🇸🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 70.34.201.158

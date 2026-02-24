@@ -1,2 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDIxMy4xNzYuMS40OCIsImFkZCI6IjIxMy4xNzYuMS40OCIsInBvcnQiOjEwMDAsImlkIjoiNTJjYzRjYjAtZjkyMy00OTY1LTk2MTUtNjM4MGIwNGMzZjRmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.48
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?type=ws&security=none&path=/IVApi/UK/3#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.255.24
+vless://9ed58015-445e-4b27-8aad-b7b2a0ac713c@ttt.radvinmax.ir:33663?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.16.86.154

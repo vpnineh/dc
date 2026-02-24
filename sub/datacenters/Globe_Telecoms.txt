@@ -1,0 +1,1 @@
+vless://cfa14880-381f-4524-bb41-02c96a7e8832@1.37.77.220:80?type=ws&security=none#PH 🇵🇭 ┇ VLESS-WS-NTLS - Globe Telecoms ┇ 1.37.77.220

@@ -1,1 +1,0 @@
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@alb.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.160

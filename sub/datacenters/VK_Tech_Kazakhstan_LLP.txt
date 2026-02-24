@@ -1,1 +1,0 @@
-vless://7affe6ed-3783-4570-b1c7-c8049a94bb9f@kzx.vpnspacev.com:443?type=xhttp&security=tls&path=/xhttppath&sni=kzx.vpnspacev.com&fp=chrome#KZ 🇰🇿 ┇ VLESS-XHTTP-TLS - VK Tech Kazakhstan LLP ┇ 194.31.159.47

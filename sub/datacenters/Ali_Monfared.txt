@@ -1,1 +1,1 @@
-vless://ee39416c-51ad-4091-abcd-3ffa04ca39ce@185.124.175.217:7730?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Ali Monfared ┇ 185.124.175.217
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@alb.node.bytespecter.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.160

@@ -1,1 +1,2 @@
-vless://7e7a4ad3-4b94-47e7-b692-b77f94fc25f9@rose8.lhpuniversity.online:41488?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 87.107.100.81
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgUGFyZGF6ZXNoZSBFdHRlbGFhdGUgQW1pbiBJbnN0aXR1dGUgXHUyNTA3IDIxMy4xNzYuMS40OCIsImFkZCI6IjIxMy4xNzYuMS40OCIsInBvcnQiOjEwMDAsImlkIjoiNTJjYzRjYjAtZjkyMy00OTY1LTk2MTUtNjM4MGIwNGMzZjRmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 213.176.1.48

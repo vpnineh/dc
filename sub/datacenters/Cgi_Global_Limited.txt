@@ -1,1 +1,2 @@
 vless://66ba4206-7093-4035-8b29-9ed1c827361f@fr.elementvpn.ru:443?type=tcp&security=reality&sni=fr.elementvpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=YuFNDJWdNuxERoOTbhS70WrR9juzK8X7gbkZiXwQ8iA&sid=e68ba0007493d75b#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 194.116.217.234
+vless://e69ba407-fd9d-4185-bca7-7227ea50b8ad@tunneld6.cdn1cloudflaretrans.info:4466?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 178.255.222.110

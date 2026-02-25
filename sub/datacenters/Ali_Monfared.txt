@@ -1,3 +1,2 @@
+vless://3c54640f-3194-40ee-a885-1e231c17bdc2@188.212.97.195:2010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.195
 vless://01e2c6be-624d-4824-9fab-68afd2db90df@ftp.notls.hetzner.com.techraseir.ir:1820?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.66
-vless://2d804834-682f-161f-36d0-c78adfcb3bc5@185.124.175.134:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.134
-vless://8fd91cea-f51b-442b-9f36-e932f1eb7476@azinsite.amir777.sbs:2010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.195

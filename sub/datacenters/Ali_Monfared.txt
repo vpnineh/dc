@@ -1,1 +1,0 @@
-vless://c193944b-50f7-0121-91d0-c25afc78e242@185.124.175.142:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.142

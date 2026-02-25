@@ -1,1 +1,0 @@
-vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.168

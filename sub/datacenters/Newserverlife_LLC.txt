@@ -1,0 +1,1 @@
+vless://bd1f9bea-dadc-461d-b99c-eecd6b919606@kz.whiteness.site:443?type=tcp&security=reality&sni=kz.whiteness.site&fp=chrome&flow=xtls-rprx-vision&pbk=7yM7J64sDpxDGtLqL6TBdKdixDevTWFxTRil4nonoUM#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 91.217.10.20

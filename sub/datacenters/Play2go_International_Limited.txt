@@ -1,0 +1,1 @@
+vless://49f08bb6-a23b-456e-80ba-37418bb034fd@94.156.115.52.sslip.io:443?type=httpupgrade&security=tls&path=/bTMl3D6ClwP3v7LDFSHP3I&sni=94.156.115.52.sslip.io&fp=chrome#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-TLS - Play2go International Limited ┇ 94.156.115.52

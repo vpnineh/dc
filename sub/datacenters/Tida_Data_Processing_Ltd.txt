@@ -1,1 +1,0 @@
-vless://ddd76bd7-6fce-4654-94da-5d75f1ed5690@mp.kharazmi.top:3890?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tida Data Processing Ltd ┇ 91.220.113.116

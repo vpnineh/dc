@@ -1,1 +1,2 @@
+vless://36420d49-115d-4dd4-9882-26cedf7c9863@37.202.228.23:39270?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.228.23
 vless://7b838410-f1ef-4c4a-9f67-faf5724ae369@tst.acconnect.click:16964?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.236.30

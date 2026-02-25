@@ -1,1 +1,0 @@
-vless://f8d3b3c4-678d-4a23-a4de-f8613a310a44@78.110.123.32:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 78.110.123.32

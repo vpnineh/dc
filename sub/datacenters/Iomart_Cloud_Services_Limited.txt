@@ -1,1 +1,3 @@
+vless://667e8921-ee6f-454e-b0d1-a2563657133e@khantyronconfig.panel.sanaee.mohammadkhan.shop:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iomart Cloud Services Limited ┇ 181.214.140.39
+vless://3b41690a-41f7-4d22-88b6-dd6bd4d3ed04@khantyronconfig.panel.sanaee.mohammadkhan.shop:2083?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iomart Cloud Services Limited ┇ 181.214.140.39
 vless://1bacbe3f-fa7b-493b-9187-fd3e23153980@88.209.249.38:2626?type=xhttp&security=none&path=/@bitnetvpn#TR 🇹🇷 ┇ VLESS-XHTTP-NTLS - Iomart Cloud Services Limited ┇ 88.209.249.38

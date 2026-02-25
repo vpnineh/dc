@@ -1,0 +1,1 @@
+vless://d5226296-c3ec-435b-a1c8-a81c770b3c2a@158.160.136.187:1443?type=grpc&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=D6Rp5wFAzRZ-ZHOcKdaTK7aCfsBBu1jb3_dtvekt2W0&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-GRPC-RLT - YANDEX LLC ┇ 158.160.136.187

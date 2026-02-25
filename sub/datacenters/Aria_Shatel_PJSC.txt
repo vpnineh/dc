@@ -1,6 +1,6 @@
-vless://9b79496c-89b9-4284-a2b2-345bf7d30ae7@mnext.pingstore.net:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.53
-vless://90826ad0-5ad0-4758-bc6f-72e029bb274d@tr.webira.net:36279?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.173.4
 vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@srv99.radargame.site:41128?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.163.215
-vless://a09d2931-c961-4f4e-9288-eab639c5fc03@94.183.150.47:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.150.47
-vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.154.9
+vless://9b79496c-89b9-4284-a2b2-345bf7d30ae7@mnext.pingstore.net:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.53
+vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.154.9
 vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.183.150.47:8082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.150.47
+vless://90826ad0-5ad0-4758-bc6f-72e029bb274d@tr.webira.net:36279?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.173.4
+vless://a09d2931-c961-4f4e-9288-eab639c5fc03@94.183.150.47:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.150.47

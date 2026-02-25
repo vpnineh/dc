@@ -1,3 +1,3 @@
 vless://66ba4206-7093-4035-8b29-9ed1c827361f@nl.elementvpn.ru:443?type=tcp&security=reality&sni=nl.elementvpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=tvvBfRjMq8Wqxb8F0f5BehU_9rUZeNc8mwDPqpq4SFY&sid=083e4d81dbdd7358#AE 🇦🇪 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 31.58.220.54
+vless://457f8797-40d4-4cf1-9ea2-589c449e185f@141.11.0.136:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 141.11.0.136
 vless://c931b432-cbab-47f4-ae30-917b17e5fb1f@208.67.105.196:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 208.67.105.196
-vless://365dcc97-5dc7-40a6-a427-9744a03dd031@141.11.0.136:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 141.11.0.136

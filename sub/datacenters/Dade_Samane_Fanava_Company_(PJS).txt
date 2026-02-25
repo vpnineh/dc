@@ -1,1 +1,0 @@
-vless://2f1e6b3e-7c92-4af7-bbb4-6f849176a856@ir.tabarston.xyz:11484?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.63.220

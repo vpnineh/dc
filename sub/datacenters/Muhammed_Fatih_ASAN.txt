@@ -1,1 +1,0 @@
-vless://3231c3ed-fa7c-4826-9885-b335ea3aee4c@45.144.214.82:4655?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Muhammed Fatih ASAN ┇ 45.144.214.82

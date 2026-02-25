@@ -1,2 +1,1 @@
 vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?type=xhttp&security=none&path=/@bitnetvpn#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 77.81.81.17
-vless://66498e5b-1bcc-4ae3-83f8-56777999b60c@botdyqs.samanidempire.org:443?type=ws&security=tls&path=/14dcc7e1#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 136.244.95.248

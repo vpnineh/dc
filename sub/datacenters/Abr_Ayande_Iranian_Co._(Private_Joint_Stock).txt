@@ -1,5 +1,5 @@
-vless://019d0802-149f-f9ec-ce6f-77eda900f377@srv-v0.netmaster.cam:3306?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.194
-vless://a15ecaa3-1f71-491a-83db-faa289d50486@free2.lithub.ir:200?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.210
 vless://0dd228c5-9d16-14bc-631d-eb6ce0c89874@srv-c0.netmaster.cam:8008?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.195
 vless://f2aa5a39-ca4b-4bbf-b056-3db4ce8268f6@85.133.215.102:26443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.102
+vless://019d0802-149f-f9ec-ce6f-77eda900f377@srv-v0.netmaster.cam:3306?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.194
+vless://a15ecaa3-1f71-491a-83db-faa289d50486@free2.lithub.ir:200?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.210
 vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.155

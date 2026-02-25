@@ -1,1 +1,2 @@
-vless://e69ba407-fd9d-4185-bca7-7227ea50b8ad@tunneld6.cdn1cloudflaretrans.info:4466?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.68.131
+vless://e69ba407-fd9d-4185-bca7-7227ea50b8ad@tunneld6.cdn1cloudflaretrans.info:4466?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.17.209
+vless://e42513dd-e4de-446f-a7df-2bc23db90ba1@v2.speedbluepanel.sbs:52657?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.160.83

@@ -1,3 +1,4 @@
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sp.flicknet.ir:33563?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.37
-vless://0cc7f60f-4b15-4e3a-b04c-b5f27f9d9c91@noor.330ts.shop:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 194.50.169.172
 vless://f2aa5a39-ca4b-4bbf-b056-3db4ce8268f6@109.95.67.214:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.214
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.az.f2zone.ir:59350?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.205
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ru.velaro.ir:23209?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.41
+vless://0cc7f60f-4b15-4e3a-b04c-b5f27f9d9c91@noor.330ts.shop:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 194.50.169.172

@@ -1,1 +1,0 @@
-vless://f2aa5a39-ca4b-4bbf-b056-3db4ce8268f6@109.95.67.214:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.214

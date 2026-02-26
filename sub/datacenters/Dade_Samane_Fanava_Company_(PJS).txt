@@ -1,0 +1,1 @@
+vless://8531e3b5-59d5-bbb4-46fd-bec0e31b478f@de.crvup2.site:8001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.50.142

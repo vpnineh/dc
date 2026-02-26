@@ -1,2 +1,0 @@
-vless://3f796658-4a07-4920-a74f-eb6c1d68a491@hp004.hp7517hp.shop:49706?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.91
-vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.216

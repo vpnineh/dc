@@ -1,1 +1,1 @@
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ru.velaro.ir:23209?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.41
+vless://dd7dbb05-4de8-422b-afa5-93344288add3@zone.tr1.s2hub.ir:16268?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.136.135.87

@@ -1,1 +1,0 @@
-vless://7affe6ed-3783-4570-b1c7-c8049a94bb9f@185.86.147.218:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 185.86.147.218

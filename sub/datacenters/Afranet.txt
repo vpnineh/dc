@@ -1,1 +1,3 @@
+vless://082e42ac-ebae-433f-9c38-3aa67e962511@roham3.hamoon.sbs:50593?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.86
+vless://be8b6791-904f-4a6e-a8af-b411ad1167c5@roham1.hamoon.sbs:47578?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.85
 vless://6d17a032-b0ef-43ca-acb9-26bc0308ffbe@ir98.zdf2024.sbs:3001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 81.90.147.88

@@ -1,0 +1,1 @@
+vless://60ff3b31-ecbb-41d6-82b4-e9cec7ec2f7b@kish.lumanetwork.cloud:8004?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Avini cultural and Art Institute ┇ 109.122.240.239

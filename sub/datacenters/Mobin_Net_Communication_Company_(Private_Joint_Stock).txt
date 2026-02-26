@@ -1,1 +1,2 @@
 vless://4aaa9e13-2dc0-d3e9-63a8-f5091c8d94b7@neth.solarismastermanfree.site:18257?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.41
+vless://4aaa9e13-2dc0-d3e9-63a8-f5091c8d94b7@ger.solarismastermanfree.site:14535?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.41

@@ -1,1 +1,0 @@
-vless://9d8a065f-acb6-4ca1-896b-74b10f1fab42@194.61.3.29:38257?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 194.61.3.29

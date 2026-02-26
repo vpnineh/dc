@@ -1,4 +1,4 @@
 vless://e42513dd-e4de-446f-a7df-2bc23db90ba1@45.91.193.124:41617?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.91.193.124
-vless://e42513dd-e4de-446f-a7df-2bc23db90ba1@194.120.24.160:42568?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.120.24.160
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.182.97.147:2053?type=tcp&security=none&path=/?ed=2560#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.97.147
+vless://e42513dd-e4de-446f-a7df-2bc23db90ba1@194.120.24.160:42568?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.120.24.160
 vless://e42513dd-e4de-446f-a7df-2bc23db90ba1@46.8.229.139:2080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.229.139

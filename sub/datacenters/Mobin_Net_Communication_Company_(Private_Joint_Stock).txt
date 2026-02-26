@@ -1,6 +1,2 @@
-vless://4aaa9e13-2dc0-d3e9-63a8-f5091c8d94b7@neth.solarismastermanfree.site:18257?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.41
-vless://fbe28c24-6555-44fa-b5f1-5770f7cecbe6@dl3.arazcctv.ir:3030?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.159
-vless://fbe28c24-6555-44fa-b5f1-5770f7cecbe6@dl.arazcctv.ir:5050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 188.213.67.197
-vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.57
 vless://c193944b-50f7-0121-91d0-c25afc78e242@ger.solarismastermanfree.site:14535?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.41
-vless://fbe28c24-6555-44fa-b5f1-5770f7cecbe6@dl4.arazcctv.ir:32123?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.159
+vless://2d804834-682f-161f-36d0-c78adfcb3bc5@neth.solarismastermanfree.site:18257?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.41

@@ -1,0 +1,1 @@
+vless://118abc77-5e80-427d-a83e-90471d76c82f@ips.gcore.mobileemdad.top:42539?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Tfm Networks Limited ┇ 85.234.73.219

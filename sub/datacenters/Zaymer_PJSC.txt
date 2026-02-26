@@ -1,1 +1,2 @@
+vless://20e295db-a6af-4006-bfd6-91453f169968@mci.buzzmuzzpanel.online:443?type=ws&security=tls&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.233
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0

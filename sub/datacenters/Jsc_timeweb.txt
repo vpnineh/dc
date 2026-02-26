@@ -1,1 +1,1 @@
-vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?type=tcp&security=reality&sni=spb.roblugo.su&fp=chrome&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 94.241.139.78
+vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?type=tcp&security=reality&sni=spb.roblugo.su&fp=qq&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 185.154.194.203

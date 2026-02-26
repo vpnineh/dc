@@ -1,1 +1,0 @@
-vless://3188381b-e94b-49c3-b60f-43e2e473ecc2@185.146.173.206:2087?type=grpc&security=tls&sni=g4.ferdowsi.shop&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - Akamai International B.V. ┇ 185.146.173.206

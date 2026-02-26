@@ -1,1 +1,0 @@
-vless://c501c66b-c6c2-456b-b604-80393b83d67f@144.31.18.73:443?type=tcp&security=reality&sni=st.ozone.ru&fp=chrome&flow=xtls-rprx-vision&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Internet Solutions ┇ 144.31.18.73

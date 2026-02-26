@@ -1,3 +1,4 @@
-vless://a3c624bd-3183-4f66-b1d1-35914fc9867c@149.248.62.163:9131?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 149.248.62.163
+vless://e42513dd-e4de-446f-a7df-2bc23db90ba1@77.81.81.83:42354?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 77.81.81.83
 vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?type=xhttp&security=none&path=/@bitnetvpn#CA 🇨🇦 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 77.81.81.17
-vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@207.148.2.19:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 207.148.2.19
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.60.96:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.76.60.96

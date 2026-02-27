@@ -1,5 +1,4 @@
-vless://67f2d808-13d5-4e2d-b9c5-af9b3c409ea9@85.133.250.140:6001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.250.140
-vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 5.160.144.77
+vless://c1bbc714-c653-4352-9890-15a3b9355d39@download.musicdownlodirani7.com:53196?type=tcp&security=none&path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 178.239.145.128
 vless://4aaa9e13-2dc0-d3e9-63a8-f5091c8d94b7@tur.solarismastermanfree.site:26283?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 81.12.35.55
-vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 178.239.145.128
 vless://8a41fccd-f65d-4eae-9241-f7df4dfeeacc@elite.tornado-ping.com:26261?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 5.57.38.56
+vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 5.160.144.77

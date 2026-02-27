@@ -1,2 +1,1 @@
 vless://5bc555cd-ea36-47e6-a748-4d528d62eb3d@nv33.napsternet33.com:51071?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 193.228.168.248
-vless://76ec0213-e6ec-4f30-9d4d-d497c7d2943c@german2.activevps2.in:22015?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.16.48

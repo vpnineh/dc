@@ -1,1 +1,1 @@
-vless://d277d5b1-1c91-4b14-9916-affd78fb4f2c@w2-flare2.ir:443?type=tcp&security=tls&sni=w2-flare2.ir#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.186
+vless://d277d5b1-1c91-4b14-9916-affd78fb4f2c@w2-flare2.ir:443?type=tcp&security=tls&sni=w2-flare2.ir#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.121

@@ -1,1 +1,0 @@
-vless://775fdbfa-168b-4bb5-b522-5037cbef2859@178.239.150.85:2010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.85

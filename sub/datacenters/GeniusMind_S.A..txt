@@ -1,3 +1,5 @@
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.li.f2zone.ir:50334?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.41
-vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 109.95.67.161
 vless://f2aa5a39-ca4b-4bbf-b056-3db4ce8268f6@109.95.67.214:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.214
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.lv.arvixa.ir:54233?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.183
+vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 109.95.67.161
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.cn.arvixa.ir:21771?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.183
+vless://1aa71bc6-f045-48c1-bbbb-c0c1293620d5@37.152.175.141:7720?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - GeniusMind S.A. ┇ 37.152.175.141

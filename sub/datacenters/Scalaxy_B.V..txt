@@ -1,1 +1,0 @@
-vless://59e219a5-a069-43ff-afd2-6c9c26da09e3@sw.xtls.win:443?type=tcp&security=tls&sni=sw.xtls.win&fp=chrome&flow=xtls-rprx-vision&pbk=SO3S1KgJqCxmY1yEtV-OM75q3rt06U3hc1ooTVpZeTM&sid=e296c94aed15daab#DE 🇩🇪 ┇ VLESS-TCP-TLS - Scalaxy B.V. ┇ 185.229.221.154

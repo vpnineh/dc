@@ -1,2 +1,2 @@
-vless://1c29176e-96f0-461c-a3ea-21e8007c07c8@158.160.136.187:2086?type=xhttp&security=none&path=/xhttp-de#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - Yandex.Cloud LLC ┇ 158.160.136.187
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.83.255:443?type=tcp&security=reality&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 51.250.83.255
+vless://1c29176e-96f0-461c-a3ea-21e8007c07c8@158.160.136.187:2086?type=xhttp&security=none&path=/xhttp-de#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - Yandex.Cloud LLC ┇ 158.160.136.187

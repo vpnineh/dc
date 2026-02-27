@@ -1,0 +1,1 @@
+vless://12adb397-701e-475e-91f6-e0c766f87fa4@fn1.easyserf.top:443?type=tcp&security=reality&sni=fn1.easyserf.top&fp=chrome&flow=xtls-rprx-vision&pbk=RpM3WEYiP4xbmvoe1sfnGBmtW9ZIaKARcf5JJvqSsxQ&sid=004136510e339157#FI 🇫🇮 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 176.125.254.243

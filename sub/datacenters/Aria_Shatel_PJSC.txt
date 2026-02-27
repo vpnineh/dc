@@ -1,8 +1,7 @@
-vless://0dba6aad-3dc4-4ef6-acee-59c31271bf01@de.ipcl0ud.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.162.176
 vless://87597af4-29d8-4bff-8440-96dc8b6c0f8c@s10au.lin2-to7.site:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.165.140
-vless://9b79496c-89b9-4284-a2b2-345bf7d30ae7@mnext.pingstore.net:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.53
-vless://287c459f-43d0-43c6-95ee-07afe75faa59@s4.nettool.ovh:34221?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.162.215
 vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.183.150.47:8082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.150.47
-vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.154.9
-vless://a09d2931-c961-4f4e-9288-eab639c5fc03@94.183.150.47:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.150.47
 vless://e26cd35d-5e2e-423c-8c6b-62ac979d1352@icandoitwhitabrokenheart.fairisfair.ir:2235?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.175.249
+vless://9b79496c-89b9-4284-a2b2-345bf7d30ae7@mnext.pingstore.net:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.149.53
+vless://a09d2931-c961-4f4e-9288-eab639c5fc03@94.183.150.47:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.150.47
+vless://287c459f-43d0-43c6-95ee-07afe75faa59@s4.nettool.ovh:34221?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.162.215
+vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.154.9

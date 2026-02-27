@@ -1,1 +1,0 @@
-vless://ec5796b3-678b-4b11-9c1d-a53171dfd897@xbn-05.palmcraft.net:443?type=tcp&security=tls&sni=xbn-05.palmcraft.net&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - PFWeb Solutions ┇ 89.144.8.192

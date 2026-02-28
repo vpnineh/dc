@@ -1,1 +1,0 @@
-vless://6d17a032-b0ef-43ca-acb9-26bc0308ffbe@ir98.zdf2024.sbs:3001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 81.90.147.88

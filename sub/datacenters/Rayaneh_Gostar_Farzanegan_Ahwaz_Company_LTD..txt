@@ -1,1 +1,0 @@
-vless://b1242678-a417-4d91-8451-fdbc5af7f239@sky3.hupcloud.com:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 185.42.212.227

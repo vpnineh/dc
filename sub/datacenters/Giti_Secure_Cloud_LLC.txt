@@ -1,2 +1,2 @@
+vless://0e56f5d2-f930-4042-a31e-ccf3514d0de8@217.60.243.83:18661?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 217.60.243.83
 vless://32b21174-f354-4eae-b2d0-9b909710ecac@217.60.243.109:9060?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 217.60.243.109
-vless://0e56f5d2-f930-4042-a31e-ccf3514d0de8@goldenserver.play98.ir:18661?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 217.60.243.83

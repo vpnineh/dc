@@ -1,1 +1,1 @@
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?type=tcp&security=reality&sni=mtalk.google.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 217.210.131.14
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?type=tcp&security=reality&sni=mtalk.google.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 78.67.61.218

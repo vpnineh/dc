@@ -1,0 +1,1 @@
+vless://4f2ebe83-e05b-4f8f-b066-1cec708bb67a@ir2.star-direct.ir:8880?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.148

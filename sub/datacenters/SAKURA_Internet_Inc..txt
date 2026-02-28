@@ -1,2 +1,1 @@
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - SAKURA Internet Inc. ┇ 153.121.44.239
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@153.121.45.101:443?type=tcp&security=none&path=/?ed=2560#JP 🇯🇵 ┇ VLESS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.45.101

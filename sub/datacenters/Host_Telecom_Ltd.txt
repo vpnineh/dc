@@ -1,2 +1,0 @@
-vless://2bd568b3-19ee-488e-a1c4-b1b601326f41@club.asperwild.com:443?type=tcp&security=reality&sni=club.asperwild.com&fp=random&flow=xtls-rprx-vision&pbk=9IHMTVOYFag2mm1hQuoL-JtyEnRyaP-XcVsHadXjZFM&sid=496d8ddd198a3e59#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.219.72
-vless://2bd568b3-19ee-488e-a1c4-b1b601326f41@home.asperwild.com:443?type=tcp&security=reality&sni=home.asperwild.com&fp=random&flow=xtls-rprx-vision&pbk=9IHMTVOYFag2mm1hQuoL-JtyEnRyaP-XcVsHadXjZFM&sid=4dcde6a60da94c3d#CH 🇨🇭 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 138.124.80.212

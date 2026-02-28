@@ -1,1 +1,0 @@
-vless://6e38d13e-96f8-4a16-9553-477da8e9c9f1@185.83.182.100:9040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.83.182.100

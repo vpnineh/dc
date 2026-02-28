@@ -1,1 +1,2 @@
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.183
 vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 109.95.67.161

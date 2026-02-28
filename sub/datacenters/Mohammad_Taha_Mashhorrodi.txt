@@ -1,3 +1,3 @@
 vless://7701c46c-c04f-4cd5-be9a-44dd264a1912@46.38.142.48:2233?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.48
-vless://7701c46c-c04f-4cd5-be9a-44dd264a1912@46.38.142.48:2021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.48
 vless://7701c46c-c04f-4cd5-be9a-44dd264a1912@46.38.142.48:2091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.48
+vless://7701c46c-c04f-4cd5-be9a-44dd264a1912@46.38.142.48:2021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.48

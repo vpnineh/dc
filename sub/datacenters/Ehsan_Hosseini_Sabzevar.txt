@@ -1,1 +1,1 @@
-vless://25b8253c-459d-4246-feff-8704baeefaa6@mtn3.persiangames.link:2472?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.33
+vless://d1869298-3e16-4d2b-f415-7243da2ecdb4@mtn3.persiangames.link:2472?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.33

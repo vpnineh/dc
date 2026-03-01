@@ -1,0 +1,1 @@
+vless://5542587e-d38c-4bb4-ab7b-16e45d265d9d@desktop.hercule.sbs:2090?type=tcp&security=none&path=/football/transfers/iran#DE 🇩🇪 ┇ VLESS-TCP-NTLS - PFWeb Solutions ┇ 85.93.9.65

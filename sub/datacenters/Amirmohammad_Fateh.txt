@@ -1,1 +1,1 @@
-vless://c1875fe7-b19a-4160-ab68-93df6e70eb0b@103.25.85.182:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Amirmohammad Fateh ┇ 103.25.85.182
+vless://c1875fe7-b19a-4160-ab68-93df6e70eb0b@103.25.85.182:443?type=tcp&security=none&path=///AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVAbriVAbriVPN--AbriVPN--AbriVPN--AbriVPN#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Amirmohammad Fateh ┇ 103.25.85.182

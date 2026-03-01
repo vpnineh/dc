@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.42.198:2053?type=ws&security=none&path=/?ed=2560#HK 🇭🇰 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 45.38.42.198
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.8.78.122:2053?type=tcp&security=none&path=/?ed=2560#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.78.122
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.42.198:2053?type=ws&security=none&path=/?ed=2560#HK 🇭🇰 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 45.38.42.198

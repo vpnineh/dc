@@ -1,0 +1,1 @@
+vless://4d2c76f5-3eff-41bc-a265-cfef996cd2fb@in.ketabdaan.ir:443?type=tcp&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 89.42.136.12

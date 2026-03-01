@@ -1,1 +1,1 @@
-vless://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?type=tcp&security=false&path=/&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.149.156
+vless://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.149.156

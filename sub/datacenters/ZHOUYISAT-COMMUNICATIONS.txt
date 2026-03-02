@@ -1,0 +1,1 @@
+vless://91f558ea-b5fc-4986-ac14-7062ebb90c5a@wap.tunnyl.ru:443?type=ws&security=tls&path=/vless-path/&sni=wap.tunnyl.ru&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ZHOUYISAT-COMMUNICATIONS ┇ 193.17.183.83

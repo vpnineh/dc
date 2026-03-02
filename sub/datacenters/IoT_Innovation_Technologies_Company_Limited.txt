@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@36.50.90.241:47790?type=ws&security=none&path=/?ed=2560#HK 🇭🇰 ┇ VLESS-WS-NTLS - IoT Innovation Technologies Company Limited ┇ 36.50.90.241
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@36.50.90.241:35951?type=tcp&security=none&path=/?ed=2560#HK 🇭🇰 ┇ VLESS-TCP-NTLS - IoT Innovation Technologies Company Limited ┇ 36.50.90.241

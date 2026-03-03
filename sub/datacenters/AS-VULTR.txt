@@ -1,3 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.247.23.140:443?type=tcp&security=none&path=/?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.23.140
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?type=ws&security=tls&path=/L7rg6DtGQXTjd07ui73LZgwx8s&sni=hidd2.parthianempire.org&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - AS-VULTR ┇ 136.244.110.189

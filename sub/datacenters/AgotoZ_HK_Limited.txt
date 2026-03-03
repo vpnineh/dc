@@ -1,1 +1,0 @@
-vless://0b019605-4150-4d75-882f-03b07f7fbb39@46.8.113.237:7443?type=tcp&security=reality&sni=77.88.8.8&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#JP 🇯🇵 ┇ VLESS-TCP-RLT - AgotoZ HK Limited ┇ 46.8.113.237

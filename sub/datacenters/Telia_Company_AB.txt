@@ -1,2 +1,2 @@
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 78.72.229.134
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlbGlhIENvbXBhbnkgQUIgXHUyNTA3IDc4LjcyLjIyOS4xMzQiLCJhZGQiOiJkZC5vcGVuYWNjZXNzbm9kZS5jb20iLCJwb3J0Ijo1MDIsImlkIjoiNzUxOTNiZWYtOGQ4Zi1lODIzLTQxZTAtMmRkMDgzZGMxMzk5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL0BKYXZpZG5hbWFuSXJhbi9KYXZpZC1TSEFILUtpbmdSZXphUGFobGF2aS8ifQ
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 78.72.229.134

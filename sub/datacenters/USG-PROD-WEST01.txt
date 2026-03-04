@@ -1,2 +1,1 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.139:443?type=ws&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.75.139
-vless://19f529fe-9fed-40c2-a41d-491575a9a1c5@sps.blackhoster.com:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.75.137

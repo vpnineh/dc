@@ -1,3 +1,3 @@
-vless://31420c2a-070e-4942-ad92-89081fc88804@node5.telegavpn.org:443?type=tcp&security=reality&sni=node5.telegavpn.org&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.24.89
 vless://45d95284-05ce-4e8b-ad84-a6bcdfebcb59@144.31.92.173:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=0A9nE6Scvg5oYRN8aRsLR-YqrvDNNX5s2UXa4yvyRkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.92.173
 vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@ee.connectv.net:443?type=tcp&security=reality&sni=ee.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.178.196
+vless://31420c2a-070e-4942-ad92-89081fc88804@node5.telegavpn.org:443?type=tcp&security=reality&sni=node5.telegavpn.org&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.24.89

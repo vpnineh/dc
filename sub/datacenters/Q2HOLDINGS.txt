@@ -1,1 +1,1 @@
-vless://9603e29c-1b73-46ef-9a47-848ae97ae94e@al.starknetlabs.ir:8880?type=httpupgrade&security=none&path=/?ed=2095#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Q2HOLDINGS ┇ 192.0.54.213
+vless://9603e29c-1b73-46ef-9a47-848ae97ae94e@de.tmgd257.ir:8880?type=httpupgrade&security=none&path=/?ed=2095#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Q2HOLDINGS ┇ 192.0.54.213

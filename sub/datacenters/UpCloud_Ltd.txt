@@ -1,0 +1,1 @@
+vless://2212abc1-ac22-4f59-bd11-a0c5fa9ffdee@taktun7.majalekhodrostore.ir:50325?type=tcp&security=none&path=/#SG 🇸🇬 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 95.111.204.34

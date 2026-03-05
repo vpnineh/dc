@@ -1,2 +1,1 @@
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@test.spectrum.vu:443?type=tcp&security=reality&sni=test.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 178.215.236.136
-vless://2c9c0043-ab30-409d-9fd2-4df5ce288b3e@c14.play2go.cloud:20261?type=tcp&security=reality&sni=c14.play2go.cloud&fp=chrome&flow=xtls-rprx-vision&pbk=UTgeKf7Vgk0l5fAoM2b1gO3md_j1zAWz0ARu1Dnxnhs&sid=80491362ccbf6e80#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 212.80.7.214

@@ -1,0 +1,1 @@
+vless://c5fcc644-839d-4fbd-a2ee-421ca728751a@45.12.135.99:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&sid=822d#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 45.12.135.99

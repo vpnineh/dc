@@ -1,0 +1,1 @@
+vless://e06b2fc8-131d-4ba1-991d-c126697df43a@serendipity.qvzlwk.sbs:443?type=tcp&security=reality&sni=serendipity.qvzlwk.sbs&fp=chrome&flow=xtls-rprx-vision&pbk=5A98kkj8Jo6isST_WnhnNdVF6eaVGHEzu-qE4ZcsHWI&sid=231357339a84547b#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 217.60.245.66

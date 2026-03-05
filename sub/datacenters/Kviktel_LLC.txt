@@ -1,0 +1,1 @@
+vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.211:7443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kviktel LLC ┇ 45.139.26.211

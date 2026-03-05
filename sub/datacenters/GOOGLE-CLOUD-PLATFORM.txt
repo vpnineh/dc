@@ -1,2 +1,1 @@
 vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:443?type=tcp&security=reality&sni=www.t3n.de&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#DE 🇩🇪 ┇ VLESS-TCP-RLT - GOOGLE-CLOUD-PLATFORM ┇ 45.86.70.208
-vless://2c17b71d-75ba-4d3f-9d23-118ec47c5ecd@34.19.65.198:443?type=ws&security=none&path=/vpn#US 🇺🇸 ┇ VLESS-WS-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 34.19.65.198

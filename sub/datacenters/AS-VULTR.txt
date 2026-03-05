@@ -1,2 +1,1 @@
-vless://9603e29c-1b73-46ef-9a47-848ae97ae94e@ger.starknetlabs.ir:49676?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 104.207.131.28
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190

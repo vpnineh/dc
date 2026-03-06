@@ -1,1 +1,0 @@
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@test.spectrum.vu:443?type=tcp&security=reality&sni=test.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 178.215.236.136

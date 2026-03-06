@@ -1,1 +1,1 @@
-vless://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.33.52
+vless://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.33.52

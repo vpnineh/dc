@@ -1,1 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?type=tcp&security=none&path=/?ed=2560#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Bjt Partners SAS ┇ 185.16.110.238

@@ -1,2 +1,1 @@
 vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@ee.connectv.net:443?type=tcp&security=reality&sni=ee.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.178.196
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.232

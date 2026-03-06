@@ -1,1 +1,1 @@
-vless://1b6ddf6d-c27e-4127-928e-b47241efade5@eq.user.iran-rom.ir:2082?type=xhttp&security=reality&sni=excoino.com&fp=chrome&pbk=8SJdnmkknRBqXSLFZY1yKu4dj1sUXPgt-WXb7gQIsQA&sid=d542692c1da913f9#US 🇺🇸 ┇ VLESS-XHTTP-RLT - Zhejiang Taobao Network Co.,Ltd ┇ 70.34.203.40
+vless://1b6ddf6d-c27e-4127-928e-b47241efade5@vg.in.time.techraseir.ir:2020?type=tcp&security=reality&sni=excoino.com&fp=firefox&pbk=qRHMqqsO0qgOX40YpYAg8r3Kjf27kP8Y8mvfFjPwFhk#US 🇺🇸 ┇ VLESS-TCP-RLT - Zhejiang Taobao Network Co.,Ltd ┇ 165.22.222.67

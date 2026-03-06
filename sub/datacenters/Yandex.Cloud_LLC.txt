@@ -1,2 +1,1 @@
-vless://fd53dcb7-210a-45c3-bd97-bb5c5d23a856@51.250.86.241:7443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.86.241
 vless://cd160419-29f6-45c0-8fd1-8ad01cd33e90@all1.money-cloud.ru:3010?type=xhttp&security=none&path=/#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - Yandex.Cloud LLC ┇ 84.201.159.203

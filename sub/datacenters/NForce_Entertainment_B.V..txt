@@ -1,1 +1,0 @@
-vless://150665da-89e1-4101-967b-f9295e8f1a74@ever.petroalgas.ir:27969?type=tcp&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 104.234.1.252

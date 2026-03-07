@@ -1,3 +1,1 @@
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.232
-vless://c6be0a05-6105-4c0a-8af5-3e227f10735f@cid.wlrus.lol:37016?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.54.35
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.230
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?type=tcp&security=reality&sni=my-rebar.shop&fp=chrome&flow=xtls-rprx-vision&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.90.251

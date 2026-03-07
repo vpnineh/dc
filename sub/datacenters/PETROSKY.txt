@@ -1,2 +1,1 @@
-vless://425b7d48-b737-4850-aed1-14c763be44ae@fr.pngcon.top:9055?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - PETROSKY ┇ 83.136.208.42
 vless://425b7d48-b737-4850-aed1-14c763be44ae@irmon.ipng.site:9056?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - PETROSKY ┇ 83.136.208.236

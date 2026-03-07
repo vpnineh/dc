@@ -1,2 +1,3 @@
-vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@poland.youtuber-vps.com:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.48.154
+vless://2292ece4-fccf-42af-9673-61e60eb79c51@45.144.51.164:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 45.144.51.164
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5ld3NlcnZlcmxpZmUgTExDIFx1MjUwNyA0NS4xNDQuNTEuMTY0IiwiYWRkIjoiNDUuMTQ0LjUxLjE2NCIsInBvcnQiOjQ0MywiaWQiOiI3NDcxNWZkNS03ZjBkLTRmYzAtZjc4Ny0xYWEyNzg2N2Q0YTAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@poland.youtuber-vps.com:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.48.154

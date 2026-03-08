@@ -1,1 +1,1 @@
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?type=tcp&security=reality&sni=my-rebar.shop&fp=chrome&flow=xtls-rprx-vision&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.90.248
+vless://c67f81df-34e8-4cb3-ab43-599585775fa9@fby.subv.ru:443?type=tcp&security=reality&sni=fby.subv.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=28de1c8633d681dd#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.129.6

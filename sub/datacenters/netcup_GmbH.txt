@@ -1,1 +1,1 @@
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443?type=tcp&security=reality&sni=at.jojack.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=8dc4fccb2bcfc99d#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.66.46
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443?type=tcp&security=reality&sni=at.jojack.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=8dc4fccb2bcfc99d#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.46.200

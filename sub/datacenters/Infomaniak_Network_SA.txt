@@ -1,3 +1,3 @@
-vless://monacoVPN@83.228.228.44:22?type=tcp&security=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.44
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluZm9tYW5pYWsgTmV0d29yayBTQSBcdTI1MDcgODQuMjM0LjI5LjI1MSIsImFkZCI6Im5ld2Zhc2UyLmFoYWRiYWxhLmlyIiwicG9ydCI6ODA5MCwiaWQiOiIxOTFjZWIzZi1lY2ExLTQzYWUtYmYxMy05Y2MzY2VlNGMwYTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://monacoVPN@83.228.228.44:22?type=tcp&security=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.44
 vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?type=ws&security=false&path=//connect&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 37.156.45.227

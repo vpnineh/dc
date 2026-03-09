@@ -1,2 +1,4 @@
-vless://31420c2a-070e-4942-ad92-89081fc88804@node5.telegavpn.org:443?type=tcp&security=reality&sni=node5.telegavpn.org&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.24.89
 vless://c67f81df-34e8-4cb3-ab43-599585775fa9@fby.subv.ru:443?type=tcp&security=reality&sni=fby.subv.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=28de1c8633d681dd#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.129.6
+vless://c6be0a05-6105-4c0a-8af5-3e227f10735f@cid.wlrus.lol:37016?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.54.35
+vless://31420c2a-070e-4942-ad92-89081fc88804@node5.telegavpn.org:443?type=tcp&security=reality&sni=node5.telegavpn.org&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.24.89
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?type=tcp&security=reality&sni=my-rebar.shop&fp=chrome&flow=xtls-rprx-vision&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.90.226

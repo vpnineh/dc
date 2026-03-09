@@ -1,0 +1,1 @@
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@kz.darknet.run:443?type=tcp&security=reality&sni=kz.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=L_rj6BgjcgarNO2ONd45v-5vJFfHi_qWeFgwH2A6fmM&sid=a2b223d4#GB 🇬🇧 ┇ VLESS-TCP-RLT - Virgin Media ┇ 82.41.30.182

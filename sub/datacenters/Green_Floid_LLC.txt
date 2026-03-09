@@ -1,1 +1,2 @@
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@lv2.darknet.run:443?type=tcp&security=reality&sni=lv2.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=s8D-auMHfbyqGcl0aZztxkVndBcx3cYhp1dCesjy3TA&sid=a1b323d4#LV 🇱🇻 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 195.123.210.133
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@pl.darknet.run:443?type=tcp&security=reality&sni=pl.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=vEEE48f6CVqf-srQwWs-u4gl4SBo0-gX32_kJGIf9jQ&sid=a3b223d4#PL 🇵🇱 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 82.118.20.236

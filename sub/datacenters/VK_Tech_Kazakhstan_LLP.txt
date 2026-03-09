@@ -1,0 +1,1 @@
+vless://be224aaf-618c-4a9e-877c-1cee0e32056b@kz.fasti.win:443?type=tcp&security=reality&sni=kz.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b#KZ 🇰🇿 ┇ VLESS-TCP-RLT - VK Tech Kazakhstan LLP ┇ 194.31.159.226

@@ -1,1 +1,0 @@
-vless://be224aaf-618c-4a9e-877c-1cee0e32056b@kz.fasti.win:443?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - VK Tech Kazakhstan LLP ┇ 194.31.159.226

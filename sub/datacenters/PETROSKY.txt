@@ -1,2 +1,1 @@
 vless://425b7d48-b737-4850-aed1-14c763be44ae@irmon.ipng.site:9056?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - PETROSKY ┇ 83.136.208.236
-vless://9d67ed3c-4ad0-4eee-87a0-544d13fd619e@el.mcin.digikalapro.ir:50330?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - PETROSKY ┇ 83.136.211.95

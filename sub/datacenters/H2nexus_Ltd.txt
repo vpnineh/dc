@@ -1,1 +1,0 @@
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?type=tcp&security=reality&sni=my-rebar.shop&fp=chrome&flow=xtls-rprx-vision&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.255

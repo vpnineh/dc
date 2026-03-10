@@ -1,3 +1,4 @@
-vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://1eab4b77-893d-4182-a86a-a213ef23f3af@nl-company-alphaomega-team.alphaomegavip.ir:80?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.246.28
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?type=xhttp&security=none&path=/pabloping#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://b469b022-034c-4612-a0ce-c2a018b99b73@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://112a043b-22be-4967-9390-6fc07011e01b@ip.xqnetwork.ir:2086?type=httpupgrade&security=none&path=/?ed=2056#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160

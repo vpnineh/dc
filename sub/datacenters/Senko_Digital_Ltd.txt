@@ -1,1 +1,1 @@
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@ger.scroogethebest.com:443?type=tcp&security=reality&sni=ger.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#DE 🇩🇪 ┇ VLESS-TCP-RLT - Senko Digital Ltd ┇ 193.23.219.230
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@ger.scroogethebest.com:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#DE 🇩🇪 ┇ VLESS-TCP-RLT - Senko Digital Ltd ┇ 193.23.219.230

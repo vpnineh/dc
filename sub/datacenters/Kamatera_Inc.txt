@@ -1,1 +1,1 @@
-vless://8bcc90ea-7627-4797-b83e-71fafb9ec770@194.37.80.234:80?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Kamatera Inc ┇ 194.37.80.234
+vless://8bcc90ea-7627-4797-b83e-71fafb9ec770@194.37.80.234:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Kamatera Inc ┇ 194.37.80.234

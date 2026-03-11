@@ -1,1 +1,0 @@
-vless://1eab4b77-893d-4182-a86a-a213ef23f3af@uk-company-alphaomega-team.alphaomegavip.ir:80?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 23.81.35.99

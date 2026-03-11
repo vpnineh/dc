@@ -1,1 +1,1 @@
-vless://c67f81df-34e8-4cb3-ab43-599585775fa9@hb-by1.cdns.su:443?type=tcp&security=reality&sni=hb-by1.cdns.su&fp=chrome&flow=xtls-rprx-vision&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=b0cf517d6f2d7b98#BY 🇧🇾 ┇ VLESS-TCP-RLT - Mobile TeleSystems JLLC ┇ 134.17.17.101
+vless://c67f81df-34e8-4cb3-ab43-599585775fa9@hb-by1.cdns.su:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=b0cf517d6f2d7b98#BY 🇧🇾 ┇ VLESS-TCP-RLT - Mobile TeleSystems JLLC ┇ 134.17.17.101

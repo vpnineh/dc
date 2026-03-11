@@ -1,1 +1,0 @@
-vless://9c7d89ae-daf3-45c2-84d6-a7447e9123f9@se.pink-service.ru:443?type=tcp&security=reality&sni=se.pink-service.ru&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.99.165

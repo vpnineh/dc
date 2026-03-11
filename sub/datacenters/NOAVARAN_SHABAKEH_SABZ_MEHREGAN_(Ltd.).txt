@@ -1,1 +1,0 @@
-vless://3ebd01e3-763d-45c9-bfcc-fa220e81bd5f@d1.designister.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.212.199

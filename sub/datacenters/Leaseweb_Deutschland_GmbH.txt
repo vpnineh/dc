@@ -1,1 +1,1 @@
-vless://1eab4b77-893d-4182-a86a-a213ef23f3af@de-company-alphaomega-team.alphaomegavip.ir:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Leaseweb Deutschland GmbH ┇ 178.162.244.231
+vless://3e0302d2-c45d-440e-b619-ba69faf185f6@de-company-alphaomega-team.alphaomegavip.ir:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Leaseweb Deutschland GmbH ┇ 178.162.244.231

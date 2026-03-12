@@ -1,2 +1,2 @@
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-COLOCROSSING ┇ 198.23.249.154
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@107.175.134.148:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-COLOCROSSING ┇ 107.175.134.148
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-COLOCROSSING ┇ 198.23.249.154

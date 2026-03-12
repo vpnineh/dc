@@ -1,3 +1,3 @@
-vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMZWFzZVdlYiBOZXRoZXJsYW5kcyBCLlYuIFx1MjUwNyAzNy40OC43Mi4yMTMiLCJhZGQiOiJjbG91ZGZsYXJlLnhyZW5ibG9nLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI2YzE3NWQxYS1hNTdmLTQ4ODEtYTQ3MS0xNzNlYjEzOTY5NGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii94cmVuYmxvZy8iLCJ0bHMiOiJ0bHMifQ
+vless://27e0d8ba-28e0-4fbd-8bfc-3ef49d6333ba@113.30.152.46:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 113.30.152.46
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?type=xhttp&security=none&path=/pabloping#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160

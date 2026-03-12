@@ -1,0 +1,1 @@
+vless://c67f81df-34e8-4cb3-ab43-599585775fa9@kz.subv.ru:443?type=tcp&security=reality&sni=kz.subv.ru&fp=chrome&flow=xtls-rprx-vision&pbk=TvWJyoXLia5sOkNEQFXyOBquJJZ3MR06vi_9y9LT5Rw&sid=13c84f9d95d681d4#KZ 🇰🇿 ┇ VLESS-TCP-RLT - JSC Kazakhtelecom ┇ 84.240.206.173

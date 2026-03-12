@@ -1,0 +1,1 @@
+vless://5bf06344-6a71-4cc1-90c7-5e8411b86dca@noda2.zapret-tg.ru:443?type=tcp&security=reality&sni=noda2.zapret-tg.ru&fp=chrome&flow=xtls-rprx-vision&pbk=5Rc4z-sQ8c_YXqoTLktZfkgE8FaRy6UjFKwLASIVoAg&sid=3fbc4aec3243f6b5#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.82.221

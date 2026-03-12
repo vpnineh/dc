@@ -1,0 +1,1 @@
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@218.154.216.119:12616?type=tcp&security=none#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 218.154.216.119

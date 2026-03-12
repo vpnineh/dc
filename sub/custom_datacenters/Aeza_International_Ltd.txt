@@ -1,4 +1,2 @@
-vless://8b70357d-b654-4a29-85de-e5fef1afefbd@fi.connectv.net:443?type=tcp&security=reality&sni=fi.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.37.119
 vless://8b70357d-b654-4a29-85de-e5fef1afefbd@uk.connectv.net:443?type=tcp&security=reality&sni=uk.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#GB 🇬🇧 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 46.226.162.241
-vless://46e863ca-dc3b-48cb-9b72-79a702eb1e48@chatgpt.com:8443?type=xhttp&security=tls&path=/main&sni=jey.dpdns.org&fp=chrome#SE 🇸🇪 ┇ VLESS-XHTTP-TLS - Aeza International Ltd ┇ 172.64.155.209
 vless://8b70357d-b654-4a29-85de-e5fef1afefbd@se.connectv.net:443?type=tcp&security=reality&sni=se.connectv.net&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 185.197.74.225

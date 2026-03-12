@@ -1,1 +1,0 @@
-vless://3e0302d2-c45d-440e-b619-ba69faf185f6@usa-company-alphaomega-team.alphaomegavip.ir:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-SFO ┇ 23.106.45.102

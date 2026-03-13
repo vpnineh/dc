@@ -1,1 +1,1 @@
-vless://f62095b5-6e82-43b1-8d79-1358bbeffc62@155.117.5.181:443?type=ws&security=none&path=/@FeriVP/@FeriVP/@FeriVP#HK 🇭🇰 ┇ VLESS-WS-NTLS - HGC Global Communications Limited ┇ 155.117.5.181
+vless://f62095b5-6e82-43b1-8d79-1358bbeffc62@155.117.5.181:443?type=ws&security=false&path=/@FeriVP/@FeriVP/@FeriVP&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-NTLS - HGC Global Communications Limited ┇ 155.117.5.181

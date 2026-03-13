@@ -1,0 +1,1 @@
+vless://191f912f-7afa-496a-af23-f48eebe7f3bb@188.114.98.0:2053?type=tcp&security=tls&sni=platform.darkspacex.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Melbikomas UAB ┇ 188.114.98.0

@@ -1,1 +1,2 @@
 vless://d8cbb264-318d-4701-b517-f5355ae2923c@chatgpt.com:2053?type=ws&security=tls&path=/&sni=haji.imtproto.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobile Communication Company of Iran PLC ┇ 172.64.155.209
+vless://377cd619-edb7-48c2-81b3-36a50bed2d51@89.45.55.100:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobile Communication Company of Iran PLC ┇ 89.45.55.100

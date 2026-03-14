@@ -1,3 +1,1 @@
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.198.108
-vless://61873e11-536e-45e9-ae5c-a375542bc05b@212.87.198.102:443?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.198.102
-vless://dc84d6fd-ec3d-4ecc-a176-c14fc17e3e2c@tr.jojack.ru:443?type=tcp&security=reality&sni=tr.jojack.ru&fp=qq&flow=xtls-rprx-vision&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=9a3a34657b3f1251#TR 🇹🇷 ┇ VLESS-TCP-RLT - Meric Internet Teknolojileri A.S. ┇ 194.116.236.51

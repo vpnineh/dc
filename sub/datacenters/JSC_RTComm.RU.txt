@@ -1,1 +1,0 @@
-vless://ed4a4cc9-ebe2-4ba9-98b4-82644725bc89@usmain.list-fg.co.uk:8443?type=tcp&security=tls&path=/vless&sni=usmain.list-fg.co.uk&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC RTComm.RU ┇ 78.153.155.227

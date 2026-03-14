@@ -1,2 +1,1 @@
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 217.211.72.38
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Telia Company AB ┇ 217.211.72.38
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 213.67.213.50

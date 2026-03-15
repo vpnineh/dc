@@ -1,0 +1,1 @@
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?type=ws&security=tls&path=/&sni=a4.maxriser.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - WAIcore Ltd ┇ 188.114.98.0

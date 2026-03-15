@@ -1,1 +1,0 @@
-vless://3ecd4547-7ee1-4181-837d-03bc56117705@37.18.15.85:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Global Cloud Network LLC ┇ 37.18.15.85

@@ -1,1 +1,0 @@
-vless://505872f2-e89a-4f5d-a6f8-20a36349ee3b@de2.coconutstrip.co:443?type=tcp&security=reality&sni=de2.coconutstrip.co&fp=chrome&flow=xtls-rprx-vision&pbk=zOP9jegfMvLHHuTsugWjVV60ZsoU3DoM1On2uJEx6Wg#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.235.219

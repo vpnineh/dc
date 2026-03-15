@@ -1,1 +1,1 @@
-vless://aaaa1111-bbbb-4ccc-8ddd-eeeeffff0000@google.com:443?type=ws&security=tls&path=/Telegram/@AM2_D3/@AHMAD3214&sni=ahmed-vip1-1027462214385.us-central1.run.app#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 142.251.210.142
+vless://aaaa1111-bbbb-4ccc-8ddd-eeeeffff0000@google.com:443?type=ws&security=tls&path=/Telegram/@AM2_D3/@AHMAD3214&sni=ahmed-vip1-1027462214385.us-central1.run.app#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 173.194.64.101

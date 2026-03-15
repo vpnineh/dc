@@ -1,1 +1,1 @@
-vless://47d149e3-8ba6-03e8-b91f-3dd9771fa7cc@5.188.141.170:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 5.188.141.170
+vless://20acd005-8b8d-406d-8419-66c8fb001d2a@146.185.241.202:5443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 146.185.241.202

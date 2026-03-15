@@ -1,3 +1,2 @@
-vless://5826fd6d-eb16-3361-7096-29351f5ad34a@::ffff:d5fc:eedf:49885?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Informacines sistemos ir technologijos, UAB ┇ ::ffff:d5fc:eedf
-vless://5826fd19-9f62-4715-04e2-5d416b2ea75e@::ffff:d5fc:eedf:101?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Informacines sistemos ir technologijos, UAB ┇ ::ffff:d5fc:eedf
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY1LjM2IiwiYWRkIjoiODUuMjA2LjE2NS4zNiIsInBvcnQiOjQ0MywiaWQiOiJiYTQ5YWIwNS03OGY4LTRiMGItOTQwMC0xODI2Y2MyZDNmNzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://5826fd6d-eb16-3361-7096-29351f5ad34a@::ffff:d5fc:eedf:49885?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Informacines sistemos ir technologijos, UAB ┇ ::ffff:d5fc:eedf

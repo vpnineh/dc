@@ -1,1 +1,1 @@
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@lk-cdn.deploy-assure.ru:443?type=ws&security=tls&path=//&sni=lk-cdn.deploy-assure.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - OOO Sovremennye setevye tekhnologii ┇ 212.193.153.187
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@lk-cdn.deploy-assure.ru:443?type=ws&security=tls&path=//&sni=lk-cdn.deploy-assure.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - OOO Sovremennye setevye tekhnologii ┇ 212.193.157.118

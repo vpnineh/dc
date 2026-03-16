@@ -1,1 +1,0 @@
-vless://c67f81df-34e8-4cb3-ab43-599585775fa9@der.jojack.ru:443?type=tcp&security=reality&sni=der.jojack.ru&fp=chrome&flow=xtls-rprx-vision&pbk=xpv3OgIQ4ND_ZaiLxjHk1JsykVAVUY73UkyxPlU8Clc&sid=695f0df252f9889d#DE 🇩🇪 ┇ VLESS-TCP-RLT - aurologic GmbH ┇ 45.11.18.13

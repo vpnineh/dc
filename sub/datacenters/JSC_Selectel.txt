@@ -1,1 +1,1 @@
-vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn9.api-rutube.ru:9042?type=tcp&security=none&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.35.3.169
+vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn9.api-rutube.ru:9042?type=tcp&security=none&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 212.41.11.137

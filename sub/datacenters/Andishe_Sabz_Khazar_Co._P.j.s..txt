@@ -1,1 +1,1 @@
-vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?type=tcp&security=reality&sni=nl.grizzlyvpn.work&fp=chrome&flow=xtls-rprx-vision&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&sid=1970a26157d7bf98#IR 🇮🇷 ┇ VLESS-TCP-RLT - Andishe Sabz Khazar Co. P.j.s. ┇ 46.21.83.11
+vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?type=tcp&security=reality&path=/&sni=nl.grizzlyvpn.work&fp=chrome&flow=xtls-rprx-vision&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&sid=1970a26157d7bf98#IR 🇮🇷 ┇ VLESS-TCP-RLT - Andishe Sabz Khazar Co. P.j.s. ┇ 46.21.83.11

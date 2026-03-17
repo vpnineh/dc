@@ -1,1 +1,1 @@
-vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.219:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 185.130.114.219
+vless://5952ea01-0669-4f5e-8010-61f8abee3600@vk.grizzlyvpn.work:443?type=tcp&security=reality&sni=vk.grizzlyvpn.work&fp=chrome&flow=xtls-rprx-vision&pbk=5VRdrOjXKSEfzv0b-rEeYA4B9azYQYC30NZK7y3ciCk&sid=225dd584800cd049#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 89.208.198.98

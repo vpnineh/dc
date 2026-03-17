@@ -1,1 +1,0 @@
-vless://7018878c-7b26-4eec-8feb-3137f9b74394@de.katanavpn.ru:443?type=tcp&security=reality&sni=de.katanavpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=82978722b1a42ddb#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 94.156.237.99

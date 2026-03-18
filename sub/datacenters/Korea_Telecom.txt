@@ -1,0 +1,1 @@
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@112.163.51.148:20000?type=tcp&security=none#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 112.163.51.148

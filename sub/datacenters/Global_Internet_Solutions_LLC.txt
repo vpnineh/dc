@@ -1,1 +1,2 @@
-vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn6.api-rutube.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Global Internet Solutions LLC ┇ 45.151.62.38
+vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn6.api-rutube.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Global Internet Solutions LLC ┇ 45.151.62.54
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:22443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Internet Solutions LLC ┇ 45.151.62.222

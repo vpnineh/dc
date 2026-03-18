@@ -1,0 +1,1 @@
+vless://b73855fb-2ec9-4039-935a-a206dda339f8@us.darknet.run:443?type=tcp&security=reality&sni=us.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=TgnKibgLcTTCrTPHA-70mp--ruN1SlbTCecnEbJbTjY&sid=a1b323d5#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.232.184

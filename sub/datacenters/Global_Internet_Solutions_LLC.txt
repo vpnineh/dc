@@ -1,1 +1,1 @@
-vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn6.api-rutube.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Global Internet Solutions LLC ┇ 193.233.48.173
+vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn6.api-rutube.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Global Internet Solutions LLC ┇ 45.151.62.74

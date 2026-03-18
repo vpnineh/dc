@@ -1,5 +1,4 @@
 vless://b73855fb-2ec9-4039-935a-a206dda339f8@proxy.darknet.run:443?type=tcp&security=reality&sni=proxy.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=CwmIRtPbbb0VDHYxHTiDxF1xtVDG4Jr90RJZvCKQzXQ#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.199.206
-vless://b73855fb-2ec9-4039-935a-a206dda339f8@dk.darknet.run:443?type=tcp&security=reality&sni=dk.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=zqpRqT4mXPEh8LEBDqSMmRRTrDT-pF6Idv2Z0NXGUCk&sid=a1b223d4#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.242.14
 vless://b73855fb-2ec9-4039-935a-a206dda339f8@uk2.darknet.run:443?type=tcp&security=reality&sni=uk2.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=Ex5SL2Cwz7NzfNzIPX0Wq2cQk4uGATNqgwkBDtDDk20&sid=a1b223d4#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.106
+vless://b73855fb-2ec9-4039-935a-a206dda339f8@dk.darknet.run:443?type=tcp&security=reality&sni=dk.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=zqpRqT4mXPEh8LEBDqSMmRRTrDT-pF6Idv2Z0NXGUCk&sid=a1b223d4#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.242.14
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn23.suio.me:443?type=tcp&security=tls&sni=plcdn23.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.61
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.232

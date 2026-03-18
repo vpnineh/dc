@@ -1,1 +1,0 @@
-vless://d9d38f2e-701b-4c55-9443-4ef7cc0c6636@es.node.ghostsyvpn.org:443?type=tcp&security=reality&sni=es.node.ghostsyvpn.org&fp=chrome&flow=xtls-rprx-vision&pbk=miKCJnbPqRL2LrIbQxglhXrVM2FzTdw8kWKEKqNsCRI#US 🇺🇸 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 87.251.19.15

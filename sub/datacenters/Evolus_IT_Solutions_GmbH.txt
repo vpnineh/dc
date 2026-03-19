@@ -1,1 +1,1 @@
-vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@91.244.70.205:443?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.70.205
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.70.205

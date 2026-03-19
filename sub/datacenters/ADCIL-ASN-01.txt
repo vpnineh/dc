@@ -1,2 +1,2 @@
-vless://729764b1-149c-49f2-b170-322544df7b5b@pl202.mechvpn.online:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.130.245
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn23.suio.me:443?type=tcp&security=tls&sni=plcdn23.suio.me#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.61
+vless://729764b1-149c-49f2-b170-322544df7b5b@pl202.mechvpn.online:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.130.245

@@ -1,4 +1,4 @@
 vless://1027b850-de79-4a94-b337-eccdac28e141@g.sandesh.qzz.io:443?type=ws&security=tls&path=/vless&sni=g.sandesh.qzz.io#IN 🇮🇳 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.126.26
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNDYuNTYuNDcuMSIsImFkZCI6ImtyLWFybTIuMDE4OTk5Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiJlOThmYzFhMC05YzUyLTQwOTEtOTFhNS1jMTU5YjBhYTI3NGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9lOThmYzFhMC05YzUyLTQwOTEtOTFhNS1jMTU5YjBhYTI3NGUiLCJ0bHMiOiJ0bHMifQ
 vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?type=tcp&security=tls&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision-udp443#KR 🇰🇷 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 132.145.89.30
-vless://ebb58926-84cf-460a-b6ce-b69656fcfcce@sg1.tangnin.top:1443?type=ws&security=tls&path=/&sni=sg1.tangnin.top&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 134.185.84.38
+vless://ebb58926-84cf-460a-b6ce-b69656fcfcce@sg1.tangnin.top:1443?type=ws&security=tls&path=/&sni=sg1.tangnin.top#SG 🇸🇬 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 134.185.84.38

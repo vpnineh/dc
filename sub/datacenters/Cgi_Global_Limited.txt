@@ -1,1 +1,0 @@
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@fr.darknet.run:443?type=tcp&security=reality&sni=fr.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=J3YIUVka1vOcvmG7tTVLbQrTTxWENj7iNuU84HfsLGE&sid=a1b223d4#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 194.116.217.43

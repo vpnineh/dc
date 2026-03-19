@@ -1,1 +1,2 @@
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
+vless://84a5797e-8942-419e-8c11-d022d7690b0a@nl.crunch-crunch.com:443?type=tcp&security=reality&sni=nl.crunch-crunch.com&fp=firefox&flow=xtls-rprx-vision&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#TW 🇹🇼 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 178.173.254.147

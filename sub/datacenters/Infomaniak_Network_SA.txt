@@ -1,1 +1,2 @@
 vless://monacoVPN@83.228.228.44:22?type=tcp&security=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.44
+vless://ab1ddafb-9514-40ab-9e4b-a3878f70931d@ch1.sky-vault.top:443?type=grpc&security=reality&sni=ch1.sky-vault.top&fp=chrome&pbk=sJcJOdn8I9a5IkzxxgNVEP85kcrE5LtmyJwTeWry8Uw&sid=694d3b2b5b3a31b6#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Infomaniak Network SA ┇ 83.228.246.132

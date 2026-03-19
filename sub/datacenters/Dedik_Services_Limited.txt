@@ -1,0 +1,1 @@
+vless://52b625f4-0a52-4c7b-a907-c4dd4eeb3047@pl-1.124515.xyz:443?type=tcp&security=reality&sni=pl-1.124515.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=ZzM2TvnaI88FCpsA_ZpPLTgGJ6WSO3QSbIu2oRCdNxQ&sid=32f380ff402a43ae#LT 🇱🇹 ┇ VLESS-TCP-RLT - Dedik Services Limited ┇ 193.111.117.9

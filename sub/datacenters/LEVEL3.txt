@@ -1,2 +1,0 @@
-vless://d34dac88-5207-49a3-b5dc-1b737e2a7f6f@8.6.112.0:443?type=tcp&security=none&path=/141.95.127.113=2053#AT 🇦🇹 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.6.112.0
-vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&security=none#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0

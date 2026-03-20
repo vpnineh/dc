@@ -1,1 +1,0 @@
-vless://28a6ce90-7fd8-4aff-99b1-726083fcd5dc@83.166.248.48:10443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 83.166.248.48

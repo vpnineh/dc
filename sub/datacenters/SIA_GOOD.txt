@@ -1,1 +1,1 @@
-vless://f10d42ee-fa66-42c4-bfd5-b3297c8be760@77.83.245.135:34205?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 77.83.245.135
+vless://d37c7e48-2a8d-432f-a3ce-8da4cc203b2c@77.83.245.135:34205?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 77.83.245.135

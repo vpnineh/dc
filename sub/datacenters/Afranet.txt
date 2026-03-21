@@ -1,2 +1,2 @@
-vless://443c5f33-8bde-4b7c-811a-45c0817512f2@79.175.136.84:46111?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.136.84
 vless://5c57e733-06fb-4ac5-d672-b6823f782577@79.175.136.84:47266?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.136.84
+vless://443c5f33-8bde-4b7c-811a-45c0817512f2@79.175.136.84:46111?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.136.84

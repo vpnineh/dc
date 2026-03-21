@@ -1,1 +1,1 @@
-vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?type=tcp&security=tls&path=/#IR 🇮🇷 ┇ VLESS-TCP-TLS - Amnpardaz Soft Corporation ┇ 185.231.114.218
+vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Amnpardaz Soft Corporation ┇ 185.231.114.218

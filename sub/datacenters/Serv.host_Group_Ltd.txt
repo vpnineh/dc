@@ -1,1 +1,1 @@
-vless://8f353db6-64e2-4e6e-82b0-9288f10ce90c@ru.milas.click:443?type=tcp&security=reality&sni=ru.milas.click&fp=chrome&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 77.239.107.141
+vless://8f353db6-64e2-4e6e-82b0-9288f10ce90c@ru.milas.click:443?type=tcp&security=reality&sni=ru.milas.click&fp=chrome&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 77.239.107.151

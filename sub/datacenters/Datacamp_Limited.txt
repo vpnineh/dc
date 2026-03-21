@@ -1,2 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhdGFjYW1wIExpbWl0ZWQgXHUyNTA3IDgyLjE5OC4yNDYuOTciLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 185.229.191.167
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 185.229.190.247

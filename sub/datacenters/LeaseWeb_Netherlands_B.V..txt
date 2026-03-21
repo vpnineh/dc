@@ -1,8 +1,9 @@
-vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?type=httpupgrade&security=none&path=/XIXVPN?ed#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://d5880da4-750c-4bdf-807f-0f6d5888f0f3@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?type=xhttp&security=none&path=/pabloping/?TELEGRAM-v2ray_configs_pools#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@1.iranazizm.com:8880?type=httpupgrade&security=none&path=/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://239ed41c-4af6-49ba-8156-ff2310ea5d78@pn7nlapp.farsiblockchain.com:443?type=tcp&security=reality&sni=pn7nlapp.farsiblockchain.com&fp=chrome&flow=xtls-rprx-vision&pbk=LshfUTu4rb73gmpxT53QfVgElQdDCtAr7kEwZsgkhHw&sid=c7#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 95.211.47.191
 vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@45.130.125.160:2096?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://c6812323-833b-454d-80c0-e1ccc22e9fc5@srv1.khatibirepair.ir:2086?type=tcp&security=none&path=/?TM_@AZARBAYJAB1 @AZARBAYJAB1 t.me/AZARBAYJAB1?=?2048#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.18
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNlV2ViIE5ldGhlcmxhbmRzIEIuVi4gXHUyNTA3IDg1LjE3LjE5Mi4xMTAiLCJhZGQiOiI4NS4xNy4xOTIuMTEwIiwicG9ydCI6MTY2MjMsImlkIjoiZWY5ODRkMTktNGRmNy00NTkyLThjYTgtYTNmNjU4Yjc4YzBhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?type=xhttp&security=none&path=/pabloping/?TELEGRAM-v2ray_configs_pools#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@1.iranazizm.com:8880?type=httpupgrade&security=none&path=/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
+vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?type=httpupgrade&security=none&path=/XIXVPN?ed#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160

@@ -1,1 +1,1 @@
-vless://c6690e9f-95e2-42ff-dae2-39616aedf451@107.174.155.79:2052?type=ws&security=false&path=/video&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-COLOCROSSING ┇ 107.174.155.79
+vless://c6690e9f-95e2-42ff-dae2-39616aedf451@107.174.155.79:2052?type=ws&security=none&path=/video#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-COLOCROSSING ┇ 107.174.155.79

@@ -1,0 +1,1 @@
+vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@de9.mediakit-ozon.ru:8443?type=tcp&security=reality&sni=stats.vk-portal.net&fp=chrome&flow=xtls-rprx-vision&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&sid=e21f2248d3f24140#RU 🇷🇺 ┇ VLESS-TCP-RLT - VKontakte Ltd ┇ 195.26.231.40

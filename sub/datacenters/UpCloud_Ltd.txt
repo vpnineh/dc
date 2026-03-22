@@ -1,2 +1,2 @@
-vless://43ae26be-b39c-4264-90c9-45bb6e9990b4@taktun6.majalekhodrostore.ir:50330?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 85.9.221.72
 vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun2.majalekhodrostore.ir:50325?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 85.9.221.72
+vless://43ae26be-b39c-4264-90c9-45bb6e9990b4@taktun6.majalekhodrostore.ir:50330?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 85.9.221.72

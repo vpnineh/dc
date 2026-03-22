@@ -1,1 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.48.126:2053?type=tcp&security=none&path=/?ed=2560#SA 🇸🇦 ┇ VLESS-TCP-NTLS - IPXO ┇ 213.165.48.126

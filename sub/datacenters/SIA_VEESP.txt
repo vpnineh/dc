@@ -1,3 +1,3 @@
-vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
 vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@188.253.22.2:443?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - SIA VEESP ┇ 188.253.22.2
-vless://457887f6-eb7d-441d-9c08-87c70cc7f05f@178.173.250.59:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - SIA VEESP ┇ 178.173.250.59
+vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@178.173.250.59:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - SIA VEESP ┇ 178.173.250.59

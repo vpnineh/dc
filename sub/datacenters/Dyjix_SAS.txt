@@ -1,3 +1,0 @@
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?type=tcp&security=reality&sni=fran.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Dyjix SAS ┇ 185.171.202.55
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?type=tcp&security=reality&sni=fr.denditop.site&fp=chrome&flow=xtls-rprx-vision&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#FR 🇫🇷 ┇ VLESS-TCP-RLT - Dyjix SAS ┇ 185.171.202.48
-vless://0933bf59-bf78-4d08-986c-c8327b875431@fun.pcapps.ir:2059?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 185.171.202.113

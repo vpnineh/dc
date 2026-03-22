@@ -1,1 +1,2 @@
 vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-india1.09vpn.com:80?type=ws&security=none&path=/vless/#IN 🇮🇳 ┇ VLESS-WS-NTLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.89.105.56
+vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?type=tcp&security=reality&sni=india2.clearorbitllc.com&fp=chrome&flow=xtls-rprx-vision&pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&sid=157c0871#IN 🇮🇳 ┇ VLESS-TCP-RLT - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.124

@@ -1,1 +1,2 @@
-vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@nnet.online:80?type=ws&security=none&path=/vless-ntls#DE 🇩🇪 ┇ VLESS-WS-NTLS - Clouvider Limited ┇ 45.140.43.27
+vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@vpn.nnet.online:443?type=ws&security=tls&path=/vless-tls&sni=nnet.online#DE 🇩🇪 ┇ VLESS-WS-TLS - Clouvider Limited ┇ 104.21.6.124
+vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@nnet.online:80?type=ws&security=false&path=/vless-ntls&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - Clouvider Limited ┇ 45.140.43.27

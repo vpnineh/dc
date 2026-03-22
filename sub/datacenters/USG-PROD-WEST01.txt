@@ -1,3 +1,3 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.69:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.73.69
-vless://19f529fe-9fed-40c2-a41d-491575a9a1c5@sps.blackhoster.com:8080?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - USG-PROD-WEST01 ┇ 135.84.75.137
 vless://603e9b99-a471-4c3b-b0b1-495071d4e027@sps.blackhoster.com:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.75.137
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.69:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.73.69
+vless://563c07c5-d7a7-4f67-abee-ca323b5ce0ba@sps.blackhoster.com:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.75.137

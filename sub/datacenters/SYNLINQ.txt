@@ -1,6 +1,6 @@
-vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@172.66.44.211:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 172.66.44.211
-vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@162.159.36.20:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 162.159.36.20
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@172.64.154.211:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 172.64.154.211
-vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@vip2.kaixincloud.top:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 104.18.185.26
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@162.159.36.20:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 162.159.36.20
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@vip2.kaixincloud.top:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 104.16.250.22
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@162.159.36.5:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 162.159.36.5
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@172.66.44.211:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 172.66.44.211
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@104.17.25.173:2087?type=ws&security=tls&path=/&sni=a1d.maxriser.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 104.17.25.173

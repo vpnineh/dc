@@ -1,2 +1,2 @@
-vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@partner.zoom.us:8443?type=ws&security=tls&path=/&sni=darknet-free.alexid.org&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - KAMATERA ┇ 141.193.213.20
 vless://653d9e84-3d3d-4613-9b3b-2297f7a1512b@darknet-free.alexid.org:443?type=tcp&security=tls&path=/&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - KAMATERA ┇ 103.125.217.171
+vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@partner.zoom.us:8443?type=ws&security=tls&path=/&sni=darknet-free.alexid.org&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - KAMATERA ┇ 141.193.213.21

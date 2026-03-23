@@ -1,1 +1,1 @@
-vless://3fe48a33-aac8-41cd-b2db-fdeeafced0aa@nl2.krasivogame.ru:443?type=tcp&security=reality&sni=nl2.krasivogame.ru&fp=chrome&flow=xtls-rprx-vision&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#NL 🇳🇱 ┇ VLESS-TCP-RLT - RoyaleHosting BV ┇ 37.16.74.124
+vless://3fe48a33-aac8-41cd-b2db-fdeeafced0aa@nl2.krasivogame.ru:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#NL 🇳🇱 ┇ VLESS-TCP-RLT - RoyaleHosting BV ┇ 37.16.74.124

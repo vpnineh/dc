@@ -1,1 +1,0 @@
-vless://c01733dd-3e58-4da9-910b-cdd4560295bc@185.138.90.213:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yug-Link Ltd. ┇ 185.138.90.213

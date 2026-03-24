@@ -1,0 +1,1 @@
+vless://40759e42-d74b-4470-acc4-a580f264e860@rus.alibarda-ru.ru:443?type=tcp&security=reality&sni=rus.alibarda-ru.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ReHxtyEtHLEiCAraVUd3jlS8XIKTRVxuTCHDr0zQSTY#RU 🇷🇺 ┇ VLESS-TCP-RLT - Domain names registrar REG.RU, Ltd ┇ 79.174.95.68

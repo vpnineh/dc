@@ -1,5 +1,4 @@
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@decdn14.dramatorg.net:443?type=tcp&security=tls&sni=decdn14.dramatorg.net#DE 🇩🇪 ┇ VLESS-TCP-TLS - Global Connectivity Solutions Llp ┇ 81.19.141.197
-vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 45.95.233.85
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHbG9iYWwgQ29ubmVjdGl2aXR5IFNvbHV0aW9ucyBMbHAgXHUyNTA3IDE0NS4yNDkuMTE1LjE3NSIsImFkZCI6Ijc3LnYycmF5MS54eXoiLCJwb3J0Ijo0NDMsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNzcudjJyYXkxLnh5eiIsInBhdGgiOiIvQTJESk9QRlQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI3Ny52MnJheTEueHl6In0
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?type=ws&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.117
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?type=ws&security=tls&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 185.39.204.117

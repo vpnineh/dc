@@ -1,1 +1,1 @@
-vless://4358a465-91cf-4814-b137-0acc1b69062c@node1.telegavpn.org:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.42.103
+vless://4358a465-91cf-4814-b137-0acc1b69062c@node1.telegavpn.org:443?type=tcp&security=reality&sni=node1.telegavpn.org&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.42.103

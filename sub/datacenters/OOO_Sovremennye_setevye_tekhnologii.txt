@@ -1,1 +1,0 @@
-vless://e81b43d3-bb75-07d0-8b11-f526aef4fef4@212.193.153.187:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OOO Sovremennye setevye tekhnologii ┇ 212.193.153.187

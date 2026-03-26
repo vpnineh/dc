@@ -1,0 +1,1 @@
+vless://7d714031-76a9-4500-a132-27dd3307b16e@kinofi23.boevik-tut.org:443?type=tcp&security=tls&sni=kinofi23.boevik-tut.org#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.49.182

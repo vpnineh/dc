@@ -1,1 +1,1 @@
-vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?type=ws&security=tls&path=/music&sni=api.livecut.cc#TW 🇹🇼 ┇ VLESS-WS-TLS - Data Communication Business Group ┇ 1.170.233.61
+vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?type=ws&security=tls&path=/music&sni=api.livecut.cc&fp=chrome#TW 🇹🇼 ┇ VLESS-WS-TLS - Data Communication Business Group ┇ 1.170.233.61

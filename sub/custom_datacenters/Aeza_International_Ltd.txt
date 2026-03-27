@@ -1,1 +1,2 @@
 vless://4358a465-91cf-4814-b137-0acc1b69062c@node1.telegavpn.org:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.42.103
+vless://e6c05419-9338-44fc-926d-918c55bacf44@secdn13.dramatorg.net:443?type=tcp&security=tls&sni=secdn13.dramatorg.net#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 89.22.228.118

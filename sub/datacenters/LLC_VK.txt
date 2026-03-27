@@ -1,1 +1,2 @@
+vless://1f6d3b9c-4d33-1f40-bf4c-1a48313d2904@5.188.141.137:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 5.188.141.137
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.219:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 185.130.114.219

@@ -1,0 +1,1 @@
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ch.fasti.win:443?type=tcp&security=reality&sni=ch.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#CH 🇨🇭 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.186.76.15

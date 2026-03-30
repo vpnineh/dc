@@ -1,2 +1,1 @@
-vless://23f7383d-847f-4d5a-b872-d926779f6ddb@23.137.249.110:20365?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - IncogNET LLC ┇ 23.137.249.110
 vless://d5742b11-1e62-4b4d-aecc-18de65ccf52b@23.137.249.110:36231?type=ws&security=tls&path=/ws&sni=23.137.249.110&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - IncogNET LLC ┇ 23.137.249.110

@@ -1,0 +1,1 @@
+vless://48d2fdc2-572b-4e10-b39d-da00530f6fbe@gg2.darknet.run:443?type=tcp&security=reality&sni=gg2.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=bex_DO6EFnpAnpCNJZDsBJlU_-T8AQzFZEZynxEbf30&sid=a2b223d4#FI 🇫🇮 ┇ VLESS-TCP-RLT - QWINS LTD ┇ 95.164.55.10

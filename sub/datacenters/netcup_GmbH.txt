@@ -1,0 +1,1 @@
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.48.237

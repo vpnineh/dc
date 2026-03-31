@@ -1,1 +1,0 @@
-vless://6ca3af71-f1b0-46da-b64f-ac6ef4406596@199.195.254.136:443?type=ws&security=tls&path=/ws&sni=199.195.254.136&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - PONYNET ┇ 199.195.254.136

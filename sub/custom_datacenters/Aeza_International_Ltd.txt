@@ -1,1 +1,2 @@
 vless://e3713ba4-a8fc-44ec-b401-3b736e67718d@109.120.176.90:8443?type=tcp&security=none&path=/?telegram🇨🇳+@wangcai2=#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.176.90
+vless://d88f418d-9408-4dbe-8236-c532a8c62f43@ca.darknet.run:443?type=tcp&security=reality&sni=ca.darknet.run&fp=chrome&flow=xtls-rprx-vision&pbk=RKMHj5cyG8bwIPUsMw2STFqY8bQUVT-QC08UMdx9qhY&sid=a1b223d4#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.82.43

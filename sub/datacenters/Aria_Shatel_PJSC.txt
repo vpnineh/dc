@@ -1,1 +1,0 @@
-vless://693c99cb-a893-40a6-a3a1-dc3af91a079d@94.183.185.26:58238?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.185.26

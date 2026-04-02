@@ -1,5 +1,5 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.133.62.104:443?type=tcp&security=none&path=/?ed=2560#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.62.104
-vless://728f877f-ed82-4608-a85c-69c7dacbf14e@node6.bronzarena.club:443?type=tcp&security=reality&sni=node6.bronzarena.club&fp=chrome&flow=xtls-rprx-vision&pbk=rYhojKP6By_JUO0QIGZKwbYA3tbEOfGzU4wpTO_Z5no&sid=27ecead56c102003#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 62.60.233.243
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?type=ws&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.117
-vless://7d51e3fe-a49a-4245-83b6-98a0346cdd09@185.39.204.27:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 185.39.204.27
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?type=ws&security=tls&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 185.39.204.117
+vless://728f877f-ed82-4608-a85c-69c7dacbf14e@node6.bronzarena.club:443?type=tcp&security=reality&sni=node6.bronzarena.club&fp=chrome&flow=xtls-rprx-vision&pbk=rYhojKP6By_JUO0QIGZKwbYA3tbEOfGzU4wpTO_Z5no&sid=27ecead56c102003#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 62.60.233.243
+vless://7d51e3fe-a49a-4245-83b6-98a0346cdd09@185.39.204.27:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 185.39.204.27

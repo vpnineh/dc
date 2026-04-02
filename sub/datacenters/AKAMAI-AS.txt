@@ -1,1 +1,0 @@
-vless://3cb6a212-cb97-4b17-b359-883b62e96468@chatgpt.com:2087?type=tcp&security=reality&sni=www.amd.com&fp=firefox&pbk=G7ZIesyE3wg5JHmQlXOPEoJEOD0NjIyWxqgiQ_6rlAw&sid=d8885c#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 172.64.155.209

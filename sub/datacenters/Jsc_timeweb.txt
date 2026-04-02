@@ -1,6 +1,6 @@
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@ru2.mambo-jambo.ru:49169?type=ws&security=false&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 5.23.54.3
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 109.68.212.216
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@185.178.47.163:49169?type=ws&security=none#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 185.178.47.163
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@188.225.34.41:49169?type=ws&security=none#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 188.225.34.41
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@103.88.241.10:49169?type=ws&security=none#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 103.88.241.10
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@217.25.94.11:49169?type=ws&security=none#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 217.25.94.11
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 109.68.212.216
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@185.178.47.163:49169?type=ws&security=none#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 185.178.47.163
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@5.23.54.3:49169?type=ws&security=none#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 5.23.54.3

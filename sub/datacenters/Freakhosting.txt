@@ -1,2 +1,2 @@
-vless://7d96b1fc-0738-4c51-b5c9-64cce89c30b7@31.59.58.232:443?type=ws&security=tls&path=/ray&sni=vpn.allstatepizza.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Freakhosting ┇ 31.59.58.232
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRnJlYWtob3N0aW5nIFx1MjUwNyAzMS41OS41OC4yMzIiLCJhZGQiOiIzMS41OS41OC4yMzIiLCJwb3J0IjoyMDc3MiwiaWQiOiJkNjkwMDdmOS1iMDM4LTQxNTYtZDI3Zi1mODFmMTgwOTRlY2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9yYXkifQ
+vless://7d96b1fc-0738-4c51-b5c9-64cce89c30b7@31.59.58.232:443?type=ws&security=tls&path=/ray&sni=vpn.allstatepizza.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Freakhosting ┇ 31.59.58.232

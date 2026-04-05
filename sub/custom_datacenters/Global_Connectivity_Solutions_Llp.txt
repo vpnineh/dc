@@ -1,4 +1,3 @@
-vless://52c3e040-f7a4-4f69-86a4-13019fde4584@nld3.pink-service.ru:443?type=tcp&security=reality&sni=nld3.pink-service.ru&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#NL 🇳🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 5.253.59.254
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?type=ws&security=tls&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 185.39.204.117
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?type=ws&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.117
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?type=ws&security=tls&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 185.39.204.117
 vless://7d51e3fe-a49a-4245-83b6-98a0346cdd09@185.39.204.27:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 185.39.204.27

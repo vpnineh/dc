@@ -1,0 +1,1 @@
+vless://f85aa363-e3e9-40c6-9eac-cfe1333e18be@199.195.254.136:23644?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - PONYNET ┇ 199.195.254.136

@@ -1,0 +1,1 @@
+vless://16fc35a2-eaa5-4992-90e8-e55ce5d1c7ed@185.255.95.247:31250?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - ibrahim tufek ┇ 185.255.95.247

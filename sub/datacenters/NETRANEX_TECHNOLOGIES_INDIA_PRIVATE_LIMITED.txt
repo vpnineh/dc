@@ -1,1 +1,1 @@
-vless://528bf7f6-2a4f-4701-a1a7-d91f7980e6d5@pq-india1.09vpn.com:80?type=ws&security=none&path=/vless/#IN 🇮🇳 ┇ VLESS-WS-NTLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.89.105.56
+vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?type=ws&security=none&path=/vless/#IN 🇮🇳 ┇ VLESS-WS-NTLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.89.105.56

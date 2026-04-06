@@ -1,1 +1,0 @@
-vless://7ebdd808-fbbd-475a-92b6-a2027e31013e@199.195.254.136:20713?type=tcp&security=tls&sni=199.195.254.136&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - PONYNET ┇ 199.195.254.136

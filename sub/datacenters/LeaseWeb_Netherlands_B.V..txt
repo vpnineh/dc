@@ -1,4 +1,2 @@
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.69
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?type=xhttp&security=none&path=pabloping#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://c6812323-833b-454d-80c0-e1ccc22e9fc5@srv1.khatibirepair.ir:2086?type=tcp&security=none&path=/?TM_@AZARBAYJAB1 @AZARBAYJAB1 t.me/AZARBAYJAB1?=?2048#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.18
 vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@file.data-recive.ir:2096?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160

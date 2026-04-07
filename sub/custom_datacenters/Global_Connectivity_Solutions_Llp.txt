@@ -1,3 +1,3 @@
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?type=ws&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.117
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?type=ws&security=tls&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 185.39.204.117
 vless://7d51e3fe-a49a-4245-83b6-98a0346cdd09@185.39.204.27:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 185.39.204.27
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?type=ws&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.117

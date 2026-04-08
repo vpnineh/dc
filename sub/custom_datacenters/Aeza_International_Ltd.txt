@@ -1,1 +1,2 @@
-vless://99f06929-4311-489c-91cc-ef1c582e5dfa@77.110.122.205:26946?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.122.205
+vless://e3713ba4-a8fc-44ec-b401-3b736e67718d@109.120.176.90:8443?type=tcp&security=none&path=/?telegram🇨🇳+@wangcai2=#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.176.90
+vless://99f06929-4311-489c-91cc-ef1c582e5dfa@77.110.122.205:26946?type=tcp&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.122.205

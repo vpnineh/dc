@@ -1,0 +1,1 @@
+vless://39ad7d26-09a1-41c1-9a30-d17dfd28de2d@45.90.99.242:8443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - IP-Projects GmbH & Co. KG ┇ 45.90.99.242

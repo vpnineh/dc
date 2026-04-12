@@ -1,1 +1,0 @@
-vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@fr.nodes.rocketnetwork.ru:443?type=tcp&security=reality&sni=fr.nodes.rocketnetwork.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#FR 🇫🇷 ┇ VLESS-TCP-RLT - 365.partners INC ┇ 109.61.110.70

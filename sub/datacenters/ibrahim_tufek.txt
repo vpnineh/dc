@@ -1,3 +1,0 @@
-vless://b5821fd6-692d-4d97-9c55-d74a3fba200d@185.255.95.247:27781?type=tcp&security=tls&sni=185.255.95.247&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - ibrahim tufek ┇ 185.255.95.247
-vless://6558319e-d991-405a-b972-2278dcf61123@185.255.95.247:21520?type=ws&security=tls&path=/ws&sni=185.255.95.247&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - ibrahim tufek ┇ 185.255.95.247
-vless://dd56fd37-a37e-4c25-bca0-da09c11c200b@185.255.95.247:443?type=ws&security=tls&path=/ws&sni=185.255.95.247&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - ibrahim tufek ┇ 185.255.95.247

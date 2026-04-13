@@ -1,1 +1,2 @@
 vless://a02f6161-ed4a-4b27-afa8-d2cbf34d69b4@213.165.39.93:44217?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - IPXO ┇ 213.165.39.93
+vless://73c8f578-2e1c-4c32-8352-a6eec82338dd@xca.soonteam.top:443?type=xhttp&security=tls&path=/Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam&sni=xca.soonteam.top&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - IPXO ┇ 188.227.197.3

@@ -1,2 +1,0 @@
-vless://2cd53a7b-050d-4120-941d-c1c4bfa9406d@104.18.12.149:8443?type=ws&security=tls&path=/Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam&sni=soonteam.imsoon.io&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - PETROSKY ┇ 104.18.12.149
-vless://2cd53a7b-050d-4120-941d-c1c4bfa9406d@8.6.112.0:8443?type=ws&security=tls&path=/Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam&sni=soonteam.imsoon.io&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - PETROSKY ┇ 8.6.112.0

@@ -1,1 +1,0 @@
-vless://6a75bf6f-0393-427c-8448-6b342cd8ded0@104.17.72.206:2096?type=ws&security=tls&path=/testcd&sni=copy.2kbmob.top&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 104.17.72.206

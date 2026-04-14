@@ -1,1 +1,2 @@
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.231
+vless://913c6074-a747-492b-a7e9-5abfcad6369d@gr.milas.click:443?type=tcp&security=reality&sni=gr.milas.click&fp=chrome&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.116.2

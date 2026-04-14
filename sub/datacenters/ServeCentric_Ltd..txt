@@ -1,0 +1,1 @@
+vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun2.majalekhodrostore.ir:50325?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - ServeCentric Ltd. ┇ 212.147.227.80

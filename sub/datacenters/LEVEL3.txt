@@ -1,3 +1,5 @@
-vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&security=none#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0
+vless://1c65b8ad-39f9-44b5-b12e-02e4ac517ea2@8.6.112.0:8880?type=httpupgrade&security=none&path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH#AT 🇦🇹 ┇ VLESS-HTTPUPGRADE-NTLS - LEVEL3 ┇ 8.6.112.0
 vless://19d33ef3-0b90-440f-81e4-6b3fba3b3be4@8.6.112.0:2052?type=xhttp&security=none&path=/pabloping#AT 🇦🇹 ┇ VLESS-XHTTP-NTLS - LEVEL3 ┇ 8.6.112.0
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?type=ws&security=none&path=/ @ProxyVPN11#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0
+vless://4ac14936-3d80-4f37-892f-3a26d7d35286@8.6.112.6:80?type=ws&security=none&path=/Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.6
+vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&security=none#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0

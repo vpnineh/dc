@@ -1,1 +1,2 @@
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@srv11.outlinekeys.com:443?type=tcp&security=reality&sni=srv11.outlinekeys.com&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#BR 🇧🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 147.45.116.72
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?type=ws&security=tls&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 185.39.204.117

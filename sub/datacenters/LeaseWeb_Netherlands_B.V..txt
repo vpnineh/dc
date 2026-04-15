@@ -1,3 +1,2 @@
-vless://651a858c-2975-4b96-96b7-82745b38714c@172.64.152.23:443?type=ws&security=tls&path=/WITH_CHACHA20_POLY1305_SHA256&sni=api.frest.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 172.64.152.23
 vless://c6812323-833b-454d-80c0-e1ccc22e9fc5@srv1.khatibirepair.ir:2086?type=tcp&security=none&path=/?TM_@AZARBAYJAB1 @AZARBAYJAB1 t.me/AZARBAYJAB1?=?2048#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.112
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.69
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198

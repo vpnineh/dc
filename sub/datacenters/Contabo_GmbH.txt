@@ -1,1 +1,3 @@
+vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?type=ws&security=tls&path=/wsv/0cc731b9-0375-4590-aeaa-7e2611a149fe&sni=black.fullmargintraders.com#DE 🇩🇪 ┇ VLESS-WS-TLS - Contabo GmbH ┇ 104.21.36.57
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.146.12.230:443?type=tcp&security=none&path=/?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 194.146.12.230
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ29udGFibyBHbWJIIFx1MjUwNyAxNDkuMTAyLjE1NC4xNDQiLCJhZGQiOiJmc2RuczEuZWN0dW5uZWx2cG4ubWUiLCJwb3J0Ijo4MCwiaWQiOiI2YjJkODZlNS1kZjA1LTQ1MTEtYTc5Zi04MmQ1M2NlOTliMzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92bWVzcyJ9

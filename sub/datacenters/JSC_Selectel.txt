@@ -1,1 +1,1 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@germ-dop.anti-vpn.ru:52006?type=tcp&security=tls&path=/&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 212.92.101.175
+vless://75807638-6f19-2710-ae08-38492ee85c88@germ-dop.anti-vpn.ru:52006?type=tcp&security=tls&path=/&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 95.213.184.52

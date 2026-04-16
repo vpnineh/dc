@@ -1,1 +1,1 @@
-vless://e094d393-145f-4b3f-8a96-22ee7fcec8e0@google.z3df1lter.uk:443?type=ws&security=tls&path=/19847/wsgoogle&sni=google.z3df1lter.uk&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.49.32.105
+vless://e094d393-145f-4b3f-8a96-22ee7fcec8e0@google.z3df1lter.uk:443?type=ws&security=tls&path=/19847/wsgoogle&sni=google.z3df1lter.uk&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.49.32.105

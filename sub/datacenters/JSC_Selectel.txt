@@ -1,3 +1,3 @@
-vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.74:52006?type=tcp&security=tls&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 95.213.184.74
-vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.77:52006?type=tcp&security=tls&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 95.213.184.77
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.143.188.155:52006?type=tcp&security=tls&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 95.143.188.155
+vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.77:52006?type=tcp&security=tls&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 95.213.184.77
+vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.74:52006?type=tcp&security=tls&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 95.213.184.74

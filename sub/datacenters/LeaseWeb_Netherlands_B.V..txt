@@ -1,4 +1,3 @@
-vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://651a858c-2975-4b96-96b7-82745b38714c@172.64.152.23:443?type=ws&security=tls&path=/WITH_CHACHA20_POLY1305_SHA256&sni=api.frest.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 172.64.152.23
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
 vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
+vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160

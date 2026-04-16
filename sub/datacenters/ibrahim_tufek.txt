@@ -1,0 +1,1 @@
+vless://cc93349f-bf06-4df0-a59c-0999ae6199c0@185.255.95.247:443?type=ws&security=tls&path=/ws&sni=185.255.95.247&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - ibrahim tufek ┇ 185.255.95.247

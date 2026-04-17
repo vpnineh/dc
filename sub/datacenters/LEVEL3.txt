@@ -1,9 +1,7 @@
-vless://7eeeb196-0018-4e77-8bb4-34aca534930d@8.6.112.0:443?type=tcp&security=none&path=/#AT 🇦🇹 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.6.112.0
-vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&security=none#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?type=ws&security=none&path=/ @ProxyVPN11#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0
-vless://4ac14936-3d80-4f37-892f-3a26d7d35286@8.6.112.6:80?type=ws&security=none&path=/Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.6
-vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.1:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.1
+vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@8.6.112.0:80?type=xhttp&security=none&path=/#AT 🇦🇹 ┇ VLESS-XHTTP-NTLS - LEVEL3 ┇ 8.6.112.0
 vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.71:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.71
-vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.64:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.64
-vless://8d5e71e6-1c60-4084-b573-a343879c9380@8.6.112.0:8080?type=ws&security=none#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0
+vless://4ac14936-3d80-4f37-892f-3a26d7d35286@8.6.112.6:80?type=ws&security=none&path=/Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.6
 vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.140:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.140
+vless://8d5e71e6-1c60-4084-b573-a343879c9380@8.6.112.0:8080?type=ws&security=none#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0
+vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.64:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.64
+vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@8.6.112.1:80?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.1

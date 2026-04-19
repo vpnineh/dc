@@ -1,2 +1,2 @@
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.231
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@nlcdn.onnstreaming.ru:443?type=tcp&security=reality&sni=nlcdn.onnstreaming.ru&flow=xtls-rprx-vision&pbk=5Ue5-VJna6z6YkILSBr-0bNJRvgYWiogE6CpcVT-HlU&sid=cb19fee3b9333636#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 166.0.0.0
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.231

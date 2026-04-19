@@ -1,1 +1,2 @@
 vless://3047ba53-6f5d-4807-8bd1-135c9d031327@129.226.144.204:36690?type=ws&security=false&path=/3047ba53&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 129.226.144.204
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@mangu1.zqjsqapi.com:443?type=ws&security=tls&path=/proxy&fp=chrome#TH 🇹🇭 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.164.0.76

@@ -1,3 +1,3 @@
 vless://4ac14936-3d80-4f37-892f-3a26d7d35286@8.6.112.6:80?type=ws&security=none&path=/Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam,Telegram@SoonTeam#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.6
-vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@8.6.112.0:80?type=xhttp&security=none&path=/#AT 🇦🇹 ┇ VLESS-XHTTP-NTLS - LEVEL3 ┇ 8.6.112.0
 vless://8d5e71e6-1c60-4084-b573-a343879c9380@8.6.112.0:8080?type=ws&security=none#AT 🇦🇹 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.6.112.0
+vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@8.6.112.0:80?type=xhttp&security=none&path=/#AT 🇦🇹 ┇ VLESS-XHTTP-NTLS - LEVEL3 ┇ 8.6.112.0

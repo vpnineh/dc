@@ -1,2 +1,2 @@
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@srv1.khatibirepair.ir:2053?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.112
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@srv1.khatibirepair.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.112
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@srv1.khatibirepair.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.18
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@srv1.khatibirepair.ir:2053?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.18

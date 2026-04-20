@@ -1,2 +1,0 @@
-vless://c46f4762-dfa2-4b6a-8699-239922420d8f@159.194.220.127:443?type=xhttp&security=none&path=/#SE 🇸🇪 ┇ VLESS-XHTTP-NTLS - Telenor Norge AS ┇ 159.194.220.127
-vless://c46f4762-dfa2-4b6a-8699-239922420d8f@159.194.220.127:2087?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Telenor Norge AS ┇ 159.194.220.127

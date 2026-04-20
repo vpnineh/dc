@@ -1,1 +1,0 @@
-vless://6db4a91c-838d-419a-af83-bc5bd211ffc6@artemis.sbs:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai International B.V. ┇ 172.239.57.117

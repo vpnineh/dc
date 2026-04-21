@@ -1,1 +1,0 @@
-vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?type=tcp&security=reality&sni=nld.pink-world.ru&fp=chrome&flow=xtls-rprx-vision&pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0&sid=f27d8b541b5f48bf#SC 🇸🇨 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 154.83.140.72

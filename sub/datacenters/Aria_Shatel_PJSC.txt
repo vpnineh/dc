@@ -1,0 +1,1 @@
+vless://b7c6d560-dc3a-4954-b2c5-44d03cafdb7f@ir.hosmci.ir:12445?type=ws&security=tls&path=/upload/?ed=2560&sni=ir.hosmci.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.160.209

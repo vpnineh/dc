@@ -1,2 +1,1 @@
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
-vless://03e057dc-f9a5-45bf-9476-f71dddf0f89c@45.76.64.55:59244?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.64.55

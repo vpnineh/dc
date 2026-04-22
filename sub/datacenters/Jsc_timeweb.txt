@@ -1,0 +1,1 @@
+vless://142e8693-e884-475d-80c8-8cd637b13493@94.241.140.25:8443?type=tcp&security=none#GR 🇬🇷 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 94.241.140.25

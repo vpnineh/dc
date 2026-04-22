@@ -1,1 +1,1 @@
-vless://d56f462a-69b2-46b8-8c95-522958ddf151@loop.nilin.info:80?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 192.178.142.139
+vless://d56f462a-69b2-46b8-8c95-522958ddf151@loop.nilin.info:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - GOOGLE ┇ 142.251.16.101

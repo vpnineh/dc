@@ -1,1 +1,0 @@
-vless://fe517777-f835-4e97-9efa-784e2ecf2200@swi.great-server-list.co.uk:443?type=tcp&security=tls&sni=swi.great-server-list.co.uk&fp=chrome&flow=xtls-rprx-vision#CH 🇨🇭 ┇ VLESS-TCP-TLS - Global Connectivity Solutions Llp ┇ 45.95.232.24

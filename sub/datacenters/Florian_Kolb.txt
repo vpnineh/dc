@@ -1,0 +1,1 @@
+vless://a14950d5-2097-4ab9-82ea-ec9212e1b6ec@gertest2x.nekosocks.com:8443?type=xhttp&security=reality&path=/&sni=gertest2x.nekosocks.com&fp=chrome&pbk=zWwogpnK74hS4520LsWP060eviHFLWFgz9piab2fhHA&sid=74ff10f198b1871a#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Florian Kolb ┇ 45.13.225.70

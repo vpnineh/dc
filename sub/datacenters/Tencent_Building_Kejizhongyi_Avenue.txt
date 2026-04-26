@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlbmNlbnQgQnVpbGRpbmcsIEtlaml6aG9uZ3lpIEF2ZW51ZSBcdTI1MDcgNDMuMTI4LjcwLjYyIiwiYWRkIjoiNDMuMTI4LjcwLjYyIiwicG9ydCI6NDQzLCJpZCI6IjdlYjY0ZGMxLTViNWMtNDc5NS04MzgzLWUxOTY0YzQ1NDc3YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vless://da2ab05b-6b96-4d0c-96eb-7b320b343fc0@zdas.zeabur.app:443?type=ws&security=tls&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.159.166.153

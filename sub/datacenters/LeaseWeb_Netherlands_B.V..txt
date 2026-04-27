@@ -1,6 +1,6 @@
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv190.towersflowerss.com:443?type=ws&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.145.59.40
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv174.towersflowerss.com:65000?type=ws&security=none&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.146.90.18
+vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 193.39.143.104
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?type=tcp&security=none&path=/?ed#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.18
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv190.towersflowerss.com:443?type=ws&security=none&path=/&sni=srv190.towersflowerss.com#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.145.59.40
-vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv174.towersflowerss.com:65000?type=ws&security=none&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.146.90.18

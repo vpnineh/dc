@@ -1,1 +1,2 @@
+vless://Telegram-Parsashonam@8.6.112.6:443?type=tcp&security=none&path=/#AT 🇦🇹 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.6.112.6
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?type=tcp&security=none&path=/#AT 🇦🇹 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.6.112.0

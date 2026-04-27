@@ -1,3 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCSUdDT01NRVJDRSBcdTI1MDcgMTkyLjIwMC4xNjAuMjAzIiwiYWRkIjoiZGxsLmF2YWFhYWwuaXIiLCJwb3J0Ijo4NDQzLCJpZCI6IjcyNWY1ZmNkLTcyMWQtNDBhMC1iYTZiLTNjNzQ3NzYzMzExMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImRsbC5hdmFhYWFsLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkbGwuYXZhYWFhbC5pciJ9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.50:8880?type=ws&security=false&path=/?ed=2560&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.50
 vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 192.200.160.20

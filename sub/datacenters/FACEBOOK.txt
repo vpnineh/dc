@@ -1,1 +1,0 @@
-vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@free-server.techsonic.ggff.net:443?type=tcp&security=tls&sni=whatsapp.net&fp=chrome#IE 🇮🇪 ┇ VLESS-TCP-TLS - FACEBOOK ┇ 178.128.16.189

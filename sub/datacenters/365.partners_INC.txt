@@ -1,1 +1,0 @@
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv18.datatowers.net:64534?type=tcp&security=false&path=/&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-NTLS - 365.partners INC ┇ 138.124.107.231

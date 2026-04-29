@@ -1,1 +1,0 @@
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv2.towersflowerss.com:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - MXCLOUD Ltd ┇ 176.98.186.50

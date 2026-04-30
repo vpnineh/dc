@@ -1,3 +1,3 @@
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.124.196
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.156.138
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 212.41.28.109
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.124.196

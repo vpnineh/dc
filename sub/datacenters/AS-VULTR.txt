@@ -1,1 +1,2 @@
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@ch-1.bexum.fun:443?type=tcp&security=reality&sni=ch-1.bexum.fun&fp=chrome&flow=xtls-rprx-vision&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=5dd747e98058584b#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 150.241.121.66

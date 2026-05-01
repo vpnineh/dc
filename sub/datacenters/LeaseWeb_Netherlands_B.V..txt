@@ -1,2 +1,1 @@
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.69
 vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198

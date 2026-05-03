@@ -1,4 +1,4 @@
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30047?type=ws&security=none&path=/#CZ 🇨🇿 ┇ VLESS-WS-NTLS - IPXO ┇ 95.85.248.68
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.67:30086?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.248.67
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.67:30047?type=ws&security=none&path=/#CZ 🇨🇿 ┇ VLESS-WS-NTLS - IPXO ┇ 95.85.248.67
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30086?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.248.68
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30047?type=ws&security=none&path=/#CZ 🇨🇿 ┇ VLESS-WS-NTLS - IPXO ┇ 95.85.248.68
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.67:30086?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.248.67

@@ -1,2 +1,0 @@
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30047?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - Closed Joint Stock Company AbkhazMedia ┇ 194.87.77.250
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30086?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Closed Joint Stock Company AbkhazMedia ┇ 194.87.77.250

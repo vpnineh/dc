@@ -1,1 +1,1 @@
-vless://75807638-6f19-01f4-ae08-38492ee85c88@82.202.197.68:52006?type=tcp&security=tls&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 82.202.197.68
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 87.228.92.141

@@ -1,1 +1,0 @@
-vless://8f59feef-aab9-4e0b-924c-2a31bb8f446f@45.138.16.62:30047?type=ws&security=false&path=/&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-NTLS - 1337 Services GmbH ┇ 45.138.16.62

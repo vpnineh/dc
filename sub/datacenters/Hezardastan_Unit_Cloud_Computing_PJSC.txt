@@ -1,1 +1,1 @@
-vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#IR 🇮🇷 ┇ VLESS-WS-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.6
+vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#IR 🇮🇷 ┇ VLESS-WS-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.7

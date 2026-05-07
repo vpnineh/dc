@@ -1,2 +1,1 @@
 vless://5fa0466d-417f-4661-924b-dfdfbbd8a08b@purple-forest.ru:443?type=ws&security=tls&path=/26608/oFQ55tweb_path&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 38.244.136.64
-vless://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Scalaxy B.V. ┇ 38.180.132.206

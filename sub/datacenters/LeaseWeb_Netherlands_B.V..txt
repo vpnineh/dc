@@ -1,4 +1,4 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?type=ws&security=none#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.30
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?type=ws&security=tls&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?type=tcp&security=none&path=/?ed#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.112
+vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.198
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.69
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?type=tcp&security=none&path=/?ed#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.112

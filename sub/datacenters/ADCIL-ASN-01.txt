@@ -1,1 +1,2 @@
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.231
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.4.74

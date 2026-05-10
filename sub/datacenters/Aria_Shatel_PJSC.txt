@@ -1,1 +1,0 @@
-vless://41e0982a-c12d-42b7-b01e-2292d064957c@94.183.159.100:8443?type=ws&security=none&path=/vless#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.159.100

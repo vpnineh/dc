@@ -1,0 +1,1 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.29:2053?type=tcp&security=none&path=/?Telegram#RO 🇷🇴 ┇ VLESS-TCP-NTLS - HFM S.R.L ┇ 188.241.241.29

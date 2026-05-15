@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.43.79.121:443?type=tcp&security=none&path=/?ed=2560#LV 🇱🇻 ┇ VLESS-TCP-NTLS - SIA VEESP ┇ 45.43.79.121
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28

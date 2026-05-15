@@ -1,1 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?type=tcp&security=none&path=/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - I-servers Ltd ┇ 46.243.1.164

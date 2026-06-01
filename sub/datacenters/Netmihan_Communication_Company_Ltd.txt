@@ -1,0 +1,1 @@
+vless://ea1c0b23-c916-4faa-9fbd-b831dd22cbaa@custo1.worldeye.ir:8443?type=ws&security=tls&path=/&sni=custo1.worldeye.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 89.45.89.41

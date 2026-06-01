@@ -1,0 +1,1 @@
+vless://6eaf6788-1c67-4c99-b184-938d96a337ab@anten.carderrr.com:1211?type=tcp&security=none&path=/#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 152.239.112.185

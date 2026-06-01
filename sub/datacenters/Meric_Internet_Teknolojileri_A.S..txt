@@ -1,1 +1,0 @@
-vless://cea5a86c-bf57-4aba-9205-b9c7cfbe8f43@snapp.tech-notes.xyz:42293?type=grpc&security=tls&sni=snapp.tech-notes.xyz&fp=chrome#TR 🇹🇷 ┇ VLESS-GRPC-TLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.43

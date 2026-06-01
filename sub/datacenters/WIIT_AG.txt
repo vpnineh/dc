@@ -1,1 +1,1 @@
-vless://c19fb567-74a9-454f-9757-e612fc4be371@62.141.32.238:8443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 62.141.32.238
+vless://43488128-319e-f480-64ea-0acdc712e2a8@213.202.223.72:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 213.202.223.72

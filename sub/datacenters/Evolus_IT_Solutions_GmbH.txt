@@ -1,5 +1,4 @@
-vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@69.84.182.49:443?type=ws&security=tls&path=/&sni=poor.shatelmobile.info#AT 🇦🇹 ┇ VLESS-WS-TLS - Evolus IT Solutions GmbH ┇ 69.84.182.49
 vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.227.33.114:8080?type=ws&security=none&path=/api/v3#AT 🇦🇹 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.227.33.114
 vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.244.70.205:8080?type=ws&security=none&path=/api/v3#AT 🇦🇹 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.70.205
-vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.244.71.169:8080?type=ws&security=none&path=/api/v3#DE 🇩🇪 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.71.169
 vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.244.71.168:8080?type=ws&security=none&path=/api/v3#DE 🇩🇪 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.71.168
+vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.244.71.169:8080?type=ws&security=none&path=/api/v3#DE 🇩🇪 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.71.169

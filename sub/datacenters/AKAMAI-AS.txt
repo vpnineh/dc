@@ -1,0 +1,2 @@
+vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:54851?type=xhttp&security=reality&path=/&sni=www.amazon.com&fp=chrome&pbk=co8DiOxN1SysQ4XaaJMWDG03eT6dwrO-unD-vP9qZS4&sid=20ed013465#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 95.179.208.194
+vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:21835?type=tcp&security=reality&sni=www.oracle.com&fp=chrome&pbk=qWauuwPMWYJyYjaRzySDyk3fgSjnSK7OSJAJkmnqs1Q&sid=18da#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 95.179.208.194

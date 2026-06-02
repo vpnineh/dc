@@ -1,1 +1,2 @@
+vless://bf0c58f8-47e2-4450-bbd7-d96098e10d18@185.226.140.40:80?type=xhttp&security=none&path=/ijoerkocfjierjiousoigfvjiduhf#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.40
 vless://d55a56b0-3130-45f3-828c-c602cf6a6b6f@tamland.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 185.226.142.142

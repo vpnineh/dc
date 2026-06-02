@@ -1,1 +1,2 @@
 vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.194
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?type=grpc&security=none#SA 🇸🇦 ┇ VLESS-GRPC-NTLS - IPXO ┇ 213.165.57.223

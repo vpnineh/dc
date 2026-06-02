@@ -1,0 +1,3 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 213.171.26.28
+vless://33612cbf-0639-4285-81da-f88eba1d4f85@bankir.ksnodes.net:443?type=tcp&security=tls&sni=bankir.ksnodes.net&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 85.208.86.24
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-25.vk-cdnvideo.com:8443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 213.171.30.238

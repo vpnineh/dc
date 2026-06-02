@@ -1,1 +1,2 @@
+vless://d9aff7cc-4e0f-4cd6-bb30-40f083974874@flame.quietgarden.live:443?type=grpc&security=reality&sni=flame.quietgarden.live&fp=chrome&pbk=fzbtjP1MtR9JYN-pKDJQTWB9I-V_EPEgdteL76Ed5yA&sid=06d7e21ecb57367a#IL 🇮🇱 ┇ VLESS-GRPC-RLT - PUREVOLTAGE-INC ┇ 193.202.10.128
 vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?type=tcp&security=reality#IL 🇮🇱 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.203.10.86

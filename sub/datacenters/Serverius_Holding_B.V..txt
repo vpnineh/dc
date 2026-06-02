@@ -1,2 +1,2 @@
-vless://3e809b21-e29b-49ec-a7fb-5301ec7c1cee@food.artmisserver.site:8443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Serverius Holding B.V. ┇ 91.198.77.242
 vless://14037bcc-1d1d-41dd-9ff6-be16926c44e2@dood.rostamiarp.ir:8443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Serverius Holding B.V. ┇ 91.198.77.149
+vless://3e809b21-e29b-49ec-a7fb-5301ec7c1cee@food.artmisserver.site:8443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Serverius Holding B.V. ┇ 91.198.77.242

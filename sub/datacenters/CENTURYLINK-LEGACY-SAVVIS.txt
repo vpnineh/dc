@@ -1,1 +1,1 @@
-vless://8de40603-7364-4b29-86fd-b5b2364d5fc4@104.253.43.213:2086?type=tcp&security=none&path=/video#US 🇺🇸 ┇ VLESS-TCP-NTLS - CENTURYLINK-LEGACY-SAVVIS ┇ 104.253.43.213
+vless://8de40603-7364-4b29-86fd-b5b2364d5fc4@104.253.43.213:2086?type=ws&security=none&path=/video#US 🇺🇸 ┇ VLESS-WS-NTLS - CENTURYLINK-LEGACY-SAVVIS ┇ 104.253.43.213

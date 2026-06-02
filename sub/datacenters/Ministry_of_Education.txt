@@ -1,1 +1,0 @@
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?type=tcp&security=none&path=/sg-melbi#NZ 🇳🇿 ┇ VLESS-TCP-NTLS - Ministry of Education ┇ 202.37.33.80

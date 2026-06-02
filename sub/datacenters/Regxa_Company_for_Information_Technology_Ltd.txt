@@ -1,1 +1,0 @@
-vless://f2ec0e70-61e6-40f2-97bd-982f610d8b11@max5r.skystreamgame.com:8443?type=tcp&security=reality&sni=max5r.skystreamgame.com&fp=chrome&flow=xtls-rprx-vision&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#PL 🇵🇱 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 91.108.250.173

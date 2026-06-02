@@ -1,1 +1,1 @@
-vless://8c47f291-6a49-4da5-97a6-d7d7b104c68d@de1.jugploer.icu:443?type=tcp&security=reality&sni=de1.jugploer.icu&flow=xtls-rprx-vision&pbk=RAO0oF4uh8HlNfJ_4exSLb-rmXzajkoYBX7ODesoRzs#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 212.80.7.133
+vless://8c47f291-6a49-4da5-97a6-d7d7b104c68d@de1.jugploer.icu:443?type=tcp&security=reality&sni=de1.jugploer.icu&flow=xtls-rprx-vision&pbk=RAO0oF4uh8HlNfJ_4exSLb-rmXzajkoYBX7ODesoRzs#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 178.215.236.123

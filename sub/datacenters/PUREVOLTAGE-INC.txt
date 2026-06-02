@@ -1,2 +1,1 @@
-vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?type=tcp&security=reality#IL 🇮🇱 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.203.10.86
 vless://107d9e9e-5634-44ef-a90b-c5118832fae6@nider01.lumixvpn.org:443?type=tcp&security=reality&sni=nider01.lumixvpn.org&flow=xtls-rprx-vision&pbk=IQ3026lP53IQEqYiIqQXhyImHFt9VbPRDGOcFDTVmD4&sid=ac956cdfcdbc35af#RU 🇷🇺 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.233.82.119

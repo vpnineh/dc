@@ -1,14 +1,5 @@
 vless://6d32a46e-9343-4bb8-be9c-a1a5f59f2496@45.76.86.159:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.76.86.159
-vless://6d710005-c99e-4ad2-a5f4-319a2674d41a@test.kenzul.store:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 192.248.189.125
-vless://dfd08d79-8a2a-4966-abf3-19f87a198513@ws.testexpress.ir:443?type=ws&security=tls&path=/api&sni=ws.testexpress.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 140.82.36.70
-vless://c1e03394-9258-4717-9065-d353f484de82@germany.samanidempire.org:443?type=ws&security=tls&path=/reteweef&sni=germany.samanidempire.org&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 136.244.91.42
-vless://54327070-1d45-42ac-9ebb-8dffcb343c93@germany2.samanidempire.org:443?type=ws&security=tls&path=/hZvWArgsaxqa&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 95.179.251.232
 vless://4019efad-3f8b-4f40-b6c9-52c5429d2547@serverncyn.samanidempire.org:443?type=ws&security=tls&path=/b6e684a7#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.119.169
-vless://6c7e175b-3f05-445a-b082-635ba182f65e@helixgaming.ir:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.77.67.185
-vless://038a0cfe-d210-4b67-baa6-e3ba15046693@germany3.samanidempire.org:443?type=ws&security=tls&path=/SDFDSerTeddgwete&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 95.179.241.129
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA5NS4xNzkuMjA4LjE5NCIsImFkZCI6Ijk1LjE3OS4yMDguMTk0IiwicG9ydCI6Mzg0MjIsImlkIjoiZTNhYzlkMWItNDMxMS00ZjZjLTg2NDItMDM1YWNkMzUwN2E4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:54086?type=httpupgrade&security=none&path=/#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 95.179.208.194
-vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:17568?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.208.194
-vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:47220?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.208.194
-vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:41657?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.208.194
+vless://dfd08d79-8a2a-4966-abf3-19f87a198513@ws.testexpress.ir:443?type=ws&security=tls&path=/api&sni=ws.testexpress.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 140.82.36.70
+vless://72aa7afe-097d-4be7-ae69-7c71ad257325@helixgaming.ir:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.77.67.185
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190

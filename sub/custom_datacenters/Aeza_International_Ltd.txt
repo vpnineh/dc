@@ -1,5 +1,6 @@
 vless://7813f715-ad8c-45e4-91ac-6a904ef94d88@45.150.32.79:8443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 45.150.32.79
+vless://AM@45.144.54.229:1310?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 45.144.54.229
+vless://IR_NETLIFY@89.22.236.213:54346?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.22.236.213
 vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.22.236.213
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142
-vless://IR_NETLIFY@89.22.236.213:54346?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.22.236.213
-vless://5266525c-40a1-4b47-b5ad-1aea2e50b710@american.ssabzlearn.ir:9443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.109.178
+vless://dcbb869c-f458-4bdd-9305-c08d322325c3@american.ssabzlearn.ir:9443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.109.178

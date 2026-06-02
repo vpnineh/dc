@@ -1,3 +1,3 @@
 vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80?type=ws&security=none&path=/soon#FR 🇫🇷 ┇ VLESS-WS-NTLS - PETROSKY ┇ 83.136.211.204
-vless://47022b4b-bbad-4bb4-a004-87c2d7538a28@104.20.42.250:443?type=xhttp&security=tls&path=/Telegram@SoonTeam&sni=f101001010.imsoon.org&fp=chrome#FR 🇫🇷 ┇ VLESS-XHTTP-TLS - PETROSKY ┇ 104.20.42.250
 vless://47022b4b-bbad-4bb4-a004-87c2d7538a28@104.20.42.250:8443?type=xhttp&security=tls&path=/Telegram@SoonTeam&sni=f101001010.imsoon.org&fp=chrome#FR 🇫🇷 ┇ VLESS-XHTTP-TLS - PETROSKY ┇ 104.20.42.250
+vless://47022b4b-bbad-4bb4-a004-87c2d7538a28@104.20.42.250:443?type=xhttp&security=tls&path=/Telegram@SoonTeam&sni=f101001010.imsoon.org&fp=chrome#FR 🇫🇷 ┇ VLESS-XHTTP-TLS - PETROSKY ┇ 104.20.42.250

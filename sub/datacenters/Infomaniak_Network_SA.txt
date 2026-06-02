@@ -1,2 +1,2 @@
-vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.226.72
 vless://monacoVPN@83.228.228.44:22?type=tcp&security=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.44
+vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.226.72

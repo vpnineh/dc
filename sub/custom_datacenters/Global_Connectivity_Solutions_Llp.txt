@@ -1,2 +1,2 @@
 vless://93445c0c-7a2d-4dda-8d5b-607abcd2f3b9@mountain.cloudureld.com:443?type=xhttp&security=reality&path=/&sni=mountain.cloudureld.com&fp=qq&pbk=3E-un_hAqGBHqx5wKi-cy6o8uV65pf0BT_NHVrVXLno&sid=aec7ce533dadcd1a#GB 🇬🇧 ┇ VLESS-XHTTP-RLT - Global Connectivity Solutions Llp ┇ 193.32.176.171
-vless://0b1ad92f-59e5-4003-b4d3-731fa73939ab@5.253.59.220:449?type=ws&security=none&path=/api#NL 🇳🇱 ┇ VLESS-WS-NTLS - Global Connectivity Solutions Llp ┇ 5.253.59.220
+vless://0b1ad92f-59e5-4003-b4d3-731fa73939ab@5.253.59.220:449?type=ws@kurdconfig&security=none&path=/api#NL 🇳🇱 ┇ VLESS-WS@KURDCONFIG-NTLS - Global Connectivity Solutions Llp ┇ 5.253.59.220

@@ -1,0 +1,1 @@
+vless://3f5cd390-4087-444e-8a6a-f4462d82fbf1@kz-ala-2.blook.network:443?type=tcp&security=reality&sni=kz-ala-2.blook.network&fp=chrome&flow=xtls-rprx-vision&pbk=1qOetCE3B75XXzhHHF-0Y2fXEROUWY6gA0REH6tc8FM&sid=6966f5d4#GB 🇬🇧 ┇ VLESS-TCP-RLT - Virgin Media ┇ 82.41.30.39

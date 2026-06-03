@@ -1,1 +1,1 @@
-vless://d9aff7cc-4e0f-4cd6-bb30-40f083974874@valley.syrniki-iz-samokata.live:443?type=grpc&security=reality&sni=valley.syrniki-iz-samokata.live&fp=chrome&pbk=euMfJzUx3qAGiaXwcvAXqXiqglBQKPOqxkTdSqwnqEw&sid=c6046d150f597d04#IL 🇮🇱 ┇ VLESS-GRPC-RLT - Fast Servers (Pty) Ltd ┇ 45.140.204.16
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 5.183.253.171

@@ -1,1 +1,1 @@
-vless://1ed0109f-1437-488e-9d05-e98333286aef@104.253.18.182:8443?type=tcp&security=tls&sni=104.253.18.182&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - EGIHOSTING ┇ 104.253.18.182
+vless://7b0a03f1-4722-48cf-942f-b7b6ae0c6e56@104.253.18.182:8443?type=tcp&security=tls&sni=104.253.18.182&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - EGIHOSTING ┇ 104.253.18.182

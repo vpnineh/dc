@@ -1,2 +1,1 @@
-vless://69016f2a-91e4-43af-a4e0-c5ab03fb9c46@germany.devpirate.baby:21463?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - ROUTERHOSTING ┇ 172.86.69.33
 vless://c129c997-119d-4177-a94b-ee1025383a6f@de1.gamelistak.com:443?type=xhttp&security=tls&path=/MrNexTV2RAY&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - ROUTERHOSTING ┇ 104.194.156.161

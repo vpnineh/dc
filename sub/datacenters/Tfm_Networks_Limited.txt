@@ -1,1 +1,0 @@
-vless://53d7e486-bbdb-4123-900e-6bd861aa5337@85.234.73.39:80?type=ws&security=none&path=/ws#GB 🇬🇧 ┇ VLESS-WS-NTLS - Tfm Networks Limited ┇ 85.234.73.39

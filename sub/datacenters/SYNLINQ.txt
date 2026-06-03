@@ -1,2 +1,1 @@
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@bero-1.bexum.fun:9443?type=tcp&security=tls&sni=bero-1.bexum.fun&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 45.82.122.112
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@bero-2.bexum.fun:9443?type=tcp&security=tls&sni=bero-2.bexum.fun&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 45.82.121.29

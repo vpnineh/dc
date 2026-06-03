@@ -1,1 +1,1 @@
-vless://25ce64d7-b8f3-43ec-b969-ced1044d9fe6@38.180.194.46:30225?type=ws&security=none&path=/#IT 🇮🇹 ┇ VLESS-WS-NTLS - M247 Europe SRL ┇ 38.180.194.46
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 185.221.199.37

@@ -1,0 +1,1 @@
+vless://1d0c4834-63a9-4da3-aeaa-6deb3ce2b721@horizon.cloudureld.com:443?type=tcp&security=reality&sni=horizon.cloudureld.com&fp=chrome&flow=xtls-rprx-vision&pbk=neZkWTRq2sfWWziPULq-eLWEXXFNuVa7CF1XuVnSwxs&sid=8d3188f4dba62e68#CH 🇨🇭 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 138.124.80.204

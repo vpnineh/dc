@@ -1,2 +1,2 @@
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g9.steptofsvo.com:443?type=tcp&security=reality&sni=g9.steptofsvo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.242.105.142
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g9.steptofsvo.com:443?type=tcp&security=reality&sni=g9.steptofsvo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 185.242.105.138

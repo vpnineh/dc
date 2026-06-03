@@ -1,4 +1,5 @@
+vless://ebd55674-2601-4fab-8baf-c2ed9934c83b@104.18.26.90:2083?type=xhttp&security=tls&path=/&sni=arm.sodogodping.ir#AM 🇦🇲 ┇ VLESS-XHTTP-TLS - G-Core Labs S.A. ┇ 104.18.26.90
 vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://586db082-dcfc-4599-8b52-af4cf7da8330@blit2.hamrahcore.ir:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#TH 🇹🇭 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.252.26.231
+vless://3686e17d-3b01-48e3-bbc2-3ec7d141b815@blit2.hamrahcore.ir:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#TH 🇹🇭 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.252.26.231
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145

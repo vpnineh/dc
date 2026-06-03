@@ -1,2 +1,1 @@
-vless://91b554af-b560-484a-9c4b-ea6a4ec52e0b@84.201.129.65:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 84.201.129.65
 vless://bcc39590-45d5-4e21-95d9-184c188dea3e@158.160.186.6:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.186.6

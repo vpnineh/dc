@@ -1,1 +1,0 @@
-vless://7d3e6808-d105-4ee4-b904-1f6ed8417f4d@de5.safepass.click:443?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - BT Communications Ireland Limited ┇ 78.17.74.17

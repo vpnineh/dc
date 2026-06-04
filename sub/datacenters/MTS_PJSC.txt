@@ -1,1 +1,0 @@
-vless://2c2d5845-b403-4556-92f0-474bd21084a8@188.114.97.6:443?type=xhttp&security=tls&path=/storage/blob/v2/&sni=cdnmws-3.fastcon.cc&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 188.114.97.6

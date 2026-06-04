@@ -1,0 +1,1 @@
+vless://53860602-f0ea-4bb0-bc10-852a27606b87@45.39.241.51:20607?type=tcp&security=tls&sni=45.39.241.51&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - EGIHOSTING ┇ 45.39.241.51

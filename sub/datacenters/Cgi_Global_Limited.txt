@@ -1,2 +1,1 @@
-vless://571af4ad-447c-4c7e-8e79-cc8183008b0d@uuipo.ice.lol:39557?type=ws&security=none&path=/wssss#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 46.8.238.210
-vless://6a8233fe-6fc0-4dd8-aab2-d4063c16089c@5.144.179.56:45466?type=tcp&security=tls&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Cgi Global Limited ┇ 5.144.179.56
+vless://94f4d0f9-7f3b-4681-8eb0-b9f628126929@31.57.47.102:80?type=ws&security=none&path=/stream#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.57.47.102

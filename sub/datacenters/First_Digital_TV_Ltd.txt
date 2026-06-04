@@ -1,1 +1,2 @@
 vless://c31000d2-0c0d-4e26-ac26-d168530ffe54@95.182.82.78:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.82.78
+vless://2b177faa-b9f9-40fe-8a14-d10269254df4@95.182.90.38:2081?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - First Digital TV Ltd ┇ 95.182.90.38

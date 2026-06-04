@@ -1,1 +1,1 @@
-vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@nl.furkbalancer.net:8443?type=ws&security=tls&path=/vless&sni=nl.furkbalancer.net#DE 🇩🇪 ┇ VLESS-WS-TLS - Deutsche Telekom AG ┇ 92.119.164.4
+vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@nl.furkbalancer.net:8443?type=ws&security=tls&path=/vless&sni=nl.furkbalancer.net#DE 🇩🇪 ┇ VLESS-WS-TLS - Deutsche Telekom AG ┇ 92.119.164.122

@@ -1,0 +1,1 @@
+vless://793c3794-1e6f-47bd-b61b-0dd7543ccbac@dl2.baguvix.xyz:8080?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - TMN SA ┇ 217.179.6.168

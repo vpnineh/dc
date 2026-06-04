@@ -1,1 +1,0 @@
-vless://d2ae2b13-2532-4e95-90bf-8b94e856b51b@testhol.shompolexy.shop:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=7ucgFrVZ0LjQV554F0ogN9sKlt2yuqiTinH1ptSdkk0&sid=d7002a619306ab3d#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.141.209.93

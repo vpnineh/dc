@@ -1,0 +1,1 @@
+vless://f03d8097-65a9-4d26-bb1c-74041426dcf2@45.89.60.64:8443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Khomutov Artem Sergeevich ┇ 45.89.60.64

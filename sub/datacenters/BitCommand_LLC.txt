@@ -1,2 +1,1 @@
-vless://b53d533d-0647-4b86-8cdd-43638e81dfe3@46.249.98.109:8080?type=ws&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 46.249.98.109
 vless://f17874f4-43c7-4040-9a41-1b05e58950cb@1.qpworld.shop:31218?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 156.236.31.227

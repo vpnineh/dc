@@ -2,6 +2,6 @@ vless://c2b6a323-19ec-4e4f-a95c-8b0e99aa7660@109.120.138.95:443?type=tcp&securit
 vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality&sni=fi.connectv.net&fp=chrome&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.37.119
 vless://5664ae71-8024-4c65-bef2-54affa239a93@95.163.152.31:80?type=xhttp&security=none&path=/#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Aeza International Ltd ┇ 95.163.152.31
 vless://72d91662-aded-45b7-9678-c68226c958e3@95.181.162.245:2089?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 95.181.162.245
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=raw&security=none#SE 🇸🇪 ┇ VLESS-RAW-NTLS - Aeza International Ltd ┇ 109.120.132.142
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142
 vless://d78c12c4-6927-40b8-8550-ed9be00334da@cxcczechia1.chickenkiller.com:443?type=tcp&security=reality&sni=cxcczechia1.chickenkiller.com&flow=xtls-rprx-vision&pbk=K7no4vVZPV-eW6uFsq2xP3m5bwuau4bSvRU1bnFs80k&sid=fcfb56dcc1d63834#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.169
-vless://5bd09a35-ea59-4d17-ba83-6287fc93e863@american.ssabzlearn.ir:9443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.109.178
+vless://ddd697e0-2c0a-4c89-a3e5-77d84dc18829@american.ssabzlearn.ir:9443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.109.178

@@ -1,2 +1,1 @@
-vless://4e4928e0-39b7-4824-869d-36cc327dabe7@82.115.26.170:8443?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.26.170
-vless://525eb046-31b9-46e0-ad1c-128c2a820254@pnl.sublink.space:8443?type=tcp&security=tls&sni=pnl.sublink.space&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 46.249.99.144
+vless://b53d533d-0647-4b86-8cdd-43638e81dfe3@46.249.98.109:8080?type=ws&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 46.249.98.109

@@ -1,1 +1,1 @@
-vless://31445bd8-5cfb-4fc4-899f-216cbc119bd4@panel.dibaux.ir:80?type=ws&security=none&path=/stream#NL 🇳🇱 ┇ VLESS-WS-NTLS - Virtua Systems SAS ┇ 45.157.118.42
+vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?type=ws&security=none&path=/stream#NL 🇳🇱 ┇ VLESS-WS-NTLS - Virtua Systems SAS ┇ 45.157.118.42

@@ -1,1 +1,2 @@
+vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?type=tcp&security=reality&sni=pl.healthy-connected.com&fp=edge&flow=xtls-rprx-vision&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&sid=30e570274c0c72cc#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.155.22
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPITT-AS ┇ 130.49.187.97

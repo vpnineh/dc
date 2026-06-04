@@ -1,1 +1,1 @@
-vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443?type=tcp&security=reality&sni=kz-1.nodes.ac&fp=chrome&flow=xtls-rprx-vision&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&sid=73b4306eb38fe3d6#KZ 🇰🇿 ┇ VLESS-TCP-RLT - PS Internet Company LLP ┇ 194.110.55.85
+vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&sid=73b4306eb38fe3d6#KZ 🇰🇿 ┇ VLESS-TCP-RLT - PS Internet Company LLP ┇ 194.110.55.85

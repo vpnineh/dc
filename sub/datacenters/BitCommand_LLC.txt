@@ -1,2 +1,3 @@
-vless://329ec84a-e43e-4fd6-832c-3fa2acd354af@82.115.26.170:8443?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.26.170
+vless://b6c39a2e-ec2d-4870-a2b9-a4a17c5045e7@82.115.26.170:8443?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.26.170
+vless://a0f0fae4-78d7-4310-841d-b2ae35011236@46.249.101.200:443?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - BitCommand LLC ┇ 46.249.101.200
 vless://f17874f4-43c7-4040-9a41-1b05e58950cb@1.qpworld.shop:31218?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 156.236.31.227

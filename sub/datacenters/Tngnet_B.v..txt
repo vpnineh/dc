@@ -1,1 +1,0 @@
-vless://6571652d-7bb0-4b87-a729-b931e3fc25bc@ip.oakcup.ir:2052?type=httpupgrade&security=none&path=/api#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Tngnet B.v. ┇ 104.249.8.31

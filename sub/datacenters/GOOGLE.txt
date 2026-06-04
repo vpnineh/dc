@@ -1,0 +1,1 @@
+vless://ad86a899-26ed-49d0-a7f8-24a9d073dcdd@nl2.iranmomas.org:4020?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=cw3LrGmQw06DWa3o5nRTZKzXjA2zPbRQ69FvKmv0nxg&sid=3bec2937ffa88b18#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 5.2.65.76

@@ -1,0 +1,2 @@
+vless://1f58ac86-2742-42d9-8ce3-2929edc390ea@51.250.97.18:443?type=tcp&security=reality&sni=cdp.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#RU 🇷🇺 ┇ VLESS-TCP-RLT - Perekrestok-2000 LLC ┇ 51.250.97.18
+vless://bd1133c1-489c-4a05-b33f-ef00153112a3@158.160.186.6:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#RU 🇷🇺 ┇ VLESS-TCP-RLT - Perekrestok-2000 LLC ┇ 158.160.186.6

@@ -1,0 +1,1 @@
+vless://c4c9bfd7-4bdc-0007-ae64-185ffb553ae6@b02.connectv.net:443?type=tcp&security=reality&sni=b02.connectv.net&fp=chrome&flow=xtls-rprx-vision&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 94.139.247.211

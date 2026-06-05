@@ -1,0 +1,1 @@
+vless://fe131236-082e-4be7-a25e-7a630327ef64@93.113.230.145:9090?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 93.113.230.145

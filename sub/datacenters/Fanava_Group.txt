@@ -1,3 +1,5 @@
 vless://adb7b238-97d4-4843-9cd8-3e9bdcbdad72@185.143.233.5:2083?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.176.19
+vless://28e0798e-2349-40b4-85cb-8c6eb936b505@185.143.233.5:2087?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=firefox#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
 vless://9c42f185-4b91-489c-87eb-5da10f9699ac@185.143.233.5:8443?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhbmF2YSBHcm91cCBcdTI1MDcgOTUuMzguMTg5LjEyNiIsImFkZCI6Ijk1LjM4LjE4OS4xMjYiLCJwb3J0Ijo4MDgwLCJpZCI6IjM5OTRiNDk3LWRkOWYtNDZhOS1iNGE1LTlhMzk2MTAyOWM2NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0

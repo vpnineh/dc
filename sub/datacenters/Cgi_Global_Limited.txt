@@ -1,1 +1,1 @@
-vless://2edd5a10-3acd-4e2d-9c42-928eb77e2936@ir.tiem.site:1230?type=tcp&security=none&fp=chrome#AL 🇦🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.139.42
+vless://062878b1-5987-46a6-8106-c90a106fa439@yek.qashqaivpn.qzz.io:59630?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 46.8.232.187

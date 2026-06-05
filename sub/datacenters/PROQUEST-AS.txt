@@ -1,3 +1,2 @@
-vless://dc1c0c97-4518-470e-aa39-ab7678948086@165.215.250.12:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - PROQUEST-AS ┇ 165.215.250.12
 vless://ca9fc3f7-2500-4732-874c-ac4489542e2e@165.215.250.12:8080?type=xhttp&security=none&path=/sav533?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - PROQUEST-AS ┇ 165.215.250.12
-vless://ca9fc3f7-2500-4732-874c-ac4489542e2e@165.215.250.12:2053?type=xhttp&security=tls#US 🇺🇸 ┇ VLESS-XHTTP-TLS - PROQUEST-AS ┇ 165.215.250.12
+vless://dc1c0c97-4518-470e-aa39-ab7678948086@165.215.250.12:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - PROQUEST-AS ┇ 165.215.250.12

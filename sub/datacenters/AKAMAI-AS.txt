@@ -1,3 +1,1 @@
 vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@95.179.187.188:34790?type=grpc&security=reality&sni=www.oracle.com&fp=chrome&pbk=Tnft3dXPLEtDXFX3faJ8bxYnsDFT42spH14vFSbA-xU&sid=38054fb968#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 95.179.187.188
-vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@45.76.38.179:15209?type=xhttp&security=reality&path=/&sni=www.amazon.com&fp=chrome&pbk=a4ZN1PkCAr3zqb0G6JX3HioJMnaBhf7guWGVxOZc60w&sid=299fc5ca48348b#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 45.76.38.179
-vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@45.76.38.179:38314?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=uqxthH7BT_7_mpdD2WO_dTMvx1bMfIE-gHMpQHuijUE&sid=83deb10c7d#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 45.76.38.179

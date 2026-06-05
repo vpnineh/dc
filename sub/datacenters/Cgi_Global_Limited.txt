@@ -1,1 +1,3 @@
 vless://062878b1-5987-46a6-8106-c90a106fa439@yek.qashqaivpn.qzz.io:59630?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 46.8.232.187
+vless://67e3aafe-cd7c-4902-9b4d-63299174b216@uuipo.ice.lol:39557?type=ws&security=none&path=/wssss#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 46.8.238.210
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDYuOC4yMzguMjEwIiwiYWRkIjoidXVpcG8uaWNlLmxvbCIsInBvcnQiOjQ2NDc0LCJpZCI6IjUxOTE5ZWI4LTQ2ZDEtNGRhZi1hNzA1LTM1YWUyNDE1ZDhmMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ

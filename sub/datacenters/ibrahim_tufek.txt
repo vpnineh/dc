@@ -1,1 +1,0 @@
-vless://da9fccd6-2850-45ae-9f65-a9c4dec045a8@185.255.95.247:27265?type=ws&security=none&path=/ws#TR 🇹🇷 ┇ VLESS-WS-NTLS - ibrahim tufek ┇ 185.255.95.247

@@ -1,1 +1,0 @@
-vless://4c44c225-59f5-493f-b701-a240fbde5a9d@gb.mizbanfile.online:443?type=httpupgrade&security=none&path=/getBookdata#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - I-servers Ltd ┇ 45.43.75.77

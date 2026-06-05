@@ -1,1 +1,0 @@
-vless://b635ecff-3b46-440f-be44-dd85ab63ee7d@51.250.97.18:443?type=tcp&security=reality&sni=cdp.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#RU 🇷🇺 ┇ VLESS-TCP-RLT - Perekrestok-2000 LLC ┇ 51.250.97.18

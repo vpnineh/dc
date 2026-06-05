@@ -1,0 +1,1 @@
+vless://948d95e3-ac6d-41a5-a8cd-5ac9faeb6e9b@static.noxt.ir:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 45.141.148.8

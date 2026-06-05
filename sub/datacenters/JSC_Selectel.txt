@@ -1,1 +1,1 @@
-vless://63a16ebb-8687-42ac-972a-5914cafad1d5@87.228.101.191:443?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 87.228.101.191
+vless://63a16ebb-8687-42ac-972a-5914cafad1d5@selicqw1.kotvpn.net:443?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 87.228.101.213

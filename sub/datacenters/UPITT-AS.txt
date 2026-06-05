@@ -1,1 +1,2 @@
+vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPITT-AS ┇ 130.49.187.97
 vless://b95e6017-d54e-4016-b651-91c86aeaa463@fra03.helpbot.click:443?type=tcp&security=reality&sni=fra03.helpbot.click&flow=xtls-rprx-vision&pbk=R7KE9NDxjwHNchukd0ZleVeHHtvKAPx4ATJouyKTFVU&sid=75c1756f3fbc4ff9#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.179.127

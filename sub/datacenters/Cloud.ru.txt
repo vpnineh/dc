@@ -1,3 +1,2 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?type=tcp&security=tls&sni=cdn9-33.vk-cdnvideo.com&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 82.202.158.99
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-25.vk-cdnvideo.com:8443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 213.171.26.28
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-25.vk-cdnvideo.com:8443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 82.202.159.228
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?type=tcp&security=tls&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 82.202.159.141

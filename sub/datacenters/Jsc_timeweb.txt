@@ -1,1 +1,0 @@
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@db.herumhas.shop:8443?type=tcp&security=tls&sni=db.herumhas.shop&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 217.25.94.64

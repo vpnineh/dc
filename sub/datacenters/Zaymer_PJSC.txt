@@ -1,2 +1,6 @@
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vless://6b043e1b-6856-40ae-9b72-e47e6e25d6a9@45.67.215.228:2086?type=httpupgrade&security=none&path=/?ed=2048#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Zaymer PJSC ┇ 45.67.215.228
+vless://e0332e0d-142c-43f8-96a2-274122a35b5c@45.67.215.132:80?type=ws&security=none&path=/?ed=2048#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.132
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://e0332e0d-142c-43f8-96a2-274122a35b5c@45.67.215.132:2087?type=httpupgrade&security=tls&path=/?ed=2048&fp=chrome#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-TLS - Zaymer PJSC ┇ 45.67.215.132
+vless://e0332e0d-142c-43f8-96a2-274122a35b5c@45.67.215.132:2086?type=httpupgrade&security=none&path=/?ed=2048#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Zaymer PJSC ┇ 45.67.215.132
+vless://e0332e0d-142c-43f8-96a2-274122a35b5c@45.67.215.132:443?type=ws&security=tls&path=/?ed=2048&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.132

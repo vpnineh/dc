@@ -1,1 +1,1 @@
-vless://901b5203-b6da-4791-ad53-292a629b7e12@skh24.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.40
+vless://6f833fa5-fd39-4cec-903f-eea26fb8791f@best.tvpshop.ir:443?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.226.140.40

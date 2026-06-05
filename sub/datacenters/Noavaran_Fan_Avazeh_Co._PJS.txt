@@ -1,1 +1,0 @@
-vless://ca9fc3f7-2500-4732-874c-ac4489542e2e@199.232.57.91:443?type=xhttp&security=tls&path=/&sni=digikala.com#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Noavaran Fan Avazeh Co. PJS ┇ 199.232.57.91

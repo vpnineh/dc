@@ -1,1 +1,3 @@
-vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@95.179.187.188:34790?type=grpc&security=reality&sni=www.oracle.com&fp=chrome&pbk=Tnft3dXPLEtDXFX3faJ8bxYnsDFT42spH14vFSbA-xU&sid=38054fb968#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 95.179.187.188
+vless://87ed681b-a3f7-4915-afb2-74f28d07c0ab@35.177.66.97:1007?type=grpc&security=reality&sni=www.apple.com&fp=chrome&pbk=11v-ABEwOANJiICMQUwHPiARAiWHBDn3D5_MV5ODuFg&sid=c515314f1dcc95d1#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 35.177.66.97
+vless://87ed681b-a3f7-4915-afb2-74f28d07c0ab@51.20.184.97:1007?type=grpc&security=reality&sni=www.apple.com&fp=chrome&pbk=11v-ABEwOANJiICMQUwHPiARAiWHBDn3D5_MV5ODuFg&sid=c515314f1dcc95d1#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 51.20.184.97
+vless://87ed681b-a3f7-4915-afb2-74f28d07c0ab@18.192.121.76:1007?type=grpc&security=reality&sni=www.apple.com&fp=chrome&pbk=11v-ABEwOANJiICMQUwHPiARAiWHBDn3D5_MV5ODuFg&sid=c515314f1dcc95d1#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 18.192.121.76

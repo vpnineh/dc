@@ -1,1 +1,1 @@
-vless://3bbe661f-ea71-4d8c-b9a5-0a700d490a70@iau.kelnvira.ir:7558?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=TeSxAEPJv2MIvwlV56cw9T4X0Gv1QUxecZ5Cl0dvPAM&sid=1842c60f29c26dc0#US 🇺🇸 ┇ VLESS-GRPC-RLT - GOOGLE ┇ 51.158.234.205
+vless://@free_conf_iran@51.83.22.65:20021?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=CsbATIwH_TIGR_U0eTjxv4aLhCTTuq-Roh2Bgu75QTY&sid=4b1771#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 51.83.22.65

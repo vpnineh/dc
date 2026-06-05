@@ -1,2 +1,2 @@
-vless://ac4963a9-0965-4300-a285-77be670bda25@2.189.86.141:8051?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 2.189.86.141
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJlc3BpbmEgTmV0d29ya3MgJiBCZXlvbmQgUEpTQyBcdTI1MDcgMi4xODguMjQ1LjIxMiIsImFkZCI6Im5sdC5yZWF0YS5pciIsInBvcnQiOjEwMjAsImlkIjoiNjI0NGM0MWEtZjRjMS00NzMzLWE2NTQtYzM4Zjc3MjliMTNjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://7431a5ef-b374-4800-8f5d-d5e9d298c4da@mm-ir1.master-minds.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 95.38.200.66

@@ -1,2 +1,1 @@
-vless://Telegram-Parsashonam-2@165.215.250.12:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - PROQUEST-AS ┇ 165.215.250.12
 vless://dc1c0c97-4518-470e-aa39-ab7678948086@165.215.250.12:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - PROQUEST-AS ┇ 165.215.250.12

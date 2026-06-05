@@ -1,1 +1,1 @@
-vless://d00cea52-af46-485c-95d2-745b5af922f4@bhz.gmakoran.live:8443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.125
+vless://d16452e5-5e2d-472a-a48f-727386df283d@bhz.gmakoran.live:8443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.125

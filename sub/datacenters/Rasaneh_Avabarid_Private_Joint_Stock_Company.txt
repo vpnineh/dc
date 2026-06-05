@@ -1,1 +1,1 @@
-vless://f99bf751-49e6-41bf-bb20-6df858935ddb@gostar26n.badabanshop123.com:443?type=ws&security=tls&path=/vr1026&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 5.160.47.162
+vless://f99bf751-49e6-41bf-bb20-6df858935ddb@gostar26n.badabanshop123.com:443?type=ws&security=tls&path=/vr1026&sni=gostar26n.badabanshop123.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 5.160.47.162

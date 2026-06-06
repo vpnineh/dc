@@ -1,1 +1,1 @@
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g7.steptofsvo.com:443?type=tcp&security=reality&path=/&sni=g7.steptofsvo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#NL 🇳🇱 ┇ VLESS-TCP-RLT - NovoServe B.V. ┇ 89.105.222.156
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g7.steptofsvo.com:443?type=tcp&security=reality&path=/&sni=g7.steptofsvo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#NL 🇳🇱 ┇ VLESS-TCP-RLT - NovoServe B.V. ┇ 89.105.222.157

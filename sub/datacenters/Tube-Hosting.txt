@@ -1,2 +1,0 @@
-vless://c52c03af-677a-465a-aaca-e898194409d4@s4.iran-ahwaz.ir:1213?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Tube-Hosting ┇ 5.253.246.68
-vless://c52c03af-677a-465a-aaca-e898194409d4@s2.iran-ahwaz.ir:1213?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Tube-Hosting ┇ 45.13.227.65

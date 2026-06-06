@@ -1,3 +1,1 @@
-vless://7d1591c2-c313-001f-a56a-cfff98808bdc@ru02.goodmaximum.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 109.120.190.174
-vless://00fb15cb-4411-07d0-92f6-8b315fbe4bd8@89.208.231.191:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - LLC VK ┇ 89.208.231.191
-vless://7d1591c2-c313-0024-a56a-cfff98808bdc@ru01.goodmaximum.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 90.156.213.208
+vless://7d1591c2-c313-001e-a56a-cfff98808bdc@ru01.goodmaximum.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 90.156.215.77

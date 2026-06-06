@@ -1,5 +1,3 @@
-vless://e0f44378-c1a5-466f-bf5d-886ad30350ea@ws.testexpress.ir:443?type=ws&security=tls&path=/api&sni=ws.testexpress.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 95.179.160.119
-vless://4019efad-3f8b-4f40-b6c9-52c5429d2547@serverncyn.samanidempire.org:443?type=ws&security=tls&path=/b6e684a7#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.119.169
-vless://58f404fe-a30a-4241-8f6b-0288af5c04cb@136.244.96.247:35734?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 136.244.96.247
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
+vless://dbb01f20-dc85-4f6b-a822-2bd483b4b7e2@64.176.70.35:80?type=tcp&security=none&path=/download/1942?file_id=933#PL 🇵🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 64.176.70.35
 vless://d67fae6d-65a9-4c28-adca-130ba9a91bc7@70.34.217.248:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.217.248

@@ -1,2 +1,1 @@
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.33
-vless://346b6e85-8874-4f58-870b-2539b4354dba@208.103.161.101:2086?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - NOTION ┇ 208.103.161.101

@@ -1,2 +1,2 @@
-vless://cce7a74d-2708-4d80-b970-a9223284db5c@ltt.alimv82.ir:443?type=xhttp&security=tls&path=/api&sni=ltt.alimv82.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - EGIHOSTING ┇ 104.253.18.252
 vless://cce7a74d-2708-4d80-b970-a9223284db5c@ltt.alimv82.ir:26478?type=tcp&security=tls&sni=ltt.alimv82.ir&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - EGIHOSTING ┇ 104.253.18.252
+vless://cce7a74d-2708-4d80-b970-a9223284db5c@ltt.alimv82.ir:443?type=xhttp&security=tls&path=/api&sni=ltt.alimv82.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - EGIHOSTING ┇ 104.253.18.252

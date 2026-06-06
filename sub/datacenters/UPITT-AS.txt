@@ -1,0 +1,1 @@
+vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPITT-AS ┇ 130.49.187.97

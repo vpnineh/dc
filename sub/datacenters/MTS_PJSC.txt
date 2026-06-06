@@ -1,1 +1,1 @@
-vless://2c33d7de-009d-4975-bf5e-f37567e85884@top2801758518.mwscdn.ru:443?type=xhttp&security=tls&path=/&sni=top2801758518.mwscdn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.249
+vless://2c33d7de-009d-4975-bf5e-f37567e85884@top2801758518.mwscdn.ru:443?type=xhttp&security=tls&path=/&sni=top2801758518.mwscdn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.250

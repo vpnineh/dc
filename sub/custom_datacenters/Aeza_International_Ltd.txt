@@ -1,7 +1,8 @@
+vless://51c4d4f2-41f4-4ccc-980a-0e07cd4164dc@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 147.45.41.83
 vless://f76412c3-abdf-4318-baf8-4a1bfa438968@node-de-frankfurt.neverlock.uk:443?type=tcp&security=tls&sni=node-de-frankfurt.neverlock.uk&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 213.108.20.152
 vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality&sni=fi.connectv.net&fp=chrome&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.37.119
 vless://47c87a37-3d09-4c3d-96fb-91ce3bcae058@62.60.148.226:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.148.226
-vless://51c4d4f2-41f4-4ccc-980a-0e07cd4164dc@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.135
+vless://3d9c0733-375e-4b11-8784-a948ad248b98@172.64.152.23:2096?type=ws&security=tls&path=/&sni=GGNL.sodogodping.ir#NL 🇳🇱 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 172.64.152.23
 vless://Telegram-modvpn7@193.232.178.78:8443?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 193.232.178.78
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=raw&security=none#SE 🇸🇪 ┇ VLESS-RAW-NTLS - Aeza International Ltd ┇ 109.120.132.142
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142
 vless://c4541af3-2090-404d-bd2e-6a6d71123958@panels2.airboxvip.top:4028?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.123.141

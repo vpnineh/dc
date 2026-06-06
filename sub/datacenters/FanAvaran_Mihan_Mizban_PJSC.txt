@@ -1,2 +1,0 @@
-vless://c8bdd677-fc5d-43e2-ab08-e7d57fa14c96@bhz.gmakoran.live:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 45.94.213.125
-vless://2edeab56-6066-4650-a95b-6a34397fab98@lot.xher0.de:2095?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.221.65

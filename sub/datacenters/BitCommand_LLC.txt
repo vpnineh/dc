@@ -1,4 +1,2 @@
 vless://329ec84a-e43e-4fd6-832c-3fa2acd354af@82.115.26.170:8443?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.26.170
-vless://65a5c3b2-9c89-424f-bd1c-bfb7c18aa27a@82.115.26.170:8084?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.26.170
-vless://429b5b64-3a7f-49c8-b49b-920027afcf30@82.115.26.170:8085?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.26.170
-vless://dddcd99b-fb16-45a2-93d6-e9f8ad2ba647@zed.unbeliever.ir:443?type=ws&security=tls&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 43.225.90.38
+vless://ebb0632e-3e8f-433d-8f15-9c2c88acac9e@82.115.26.170:8084?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.26.170

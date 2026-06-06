@@ -1,0 +1,1 @@
+vless://fede9d06-7ba2-45ee-8ca1-b2f45be05dca@185.16.110.117:2052?type=httpupgrade&security=none&path=/#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Bjt Partners SAS ┇ 185.16.110.117

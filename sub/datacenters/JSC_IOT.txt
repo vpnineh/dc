@@ -1,2 +1,1 @@
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@pl-xh-01.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=pl-xh-01.hpdata.click&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - JSC IOT ┇ 176.123.168.156
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@tr-pr-pool-01.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=tr-pr-pool-01.hpdata.click&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - JSC IOT ┇ 109.172.30.1

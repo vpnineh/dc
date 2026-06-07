@@ -1,2 +1,4 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?type=tcp&security=tls&path=/&fp=chrome#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.162
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 46.229.243.69
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 46.229.243.67
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 46.229.243.75
 vless://809bce92-45a0-4fe3-af1d-79d1c8422606@195.74.93.254:443?type=tcp&security=reality#RO 🇷🇴 ┇ VLESS-TCP-RLT - Interkvm Host Srl ┇ 195.74.93.254

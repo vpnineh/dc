@@ -1,1 +1,1 @@
-vless://5176c140-be46-459b-b5b6-8a87478034f5@165.215.250.12:2086?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - PROQUEST-AS ┇ 165.215.250.12
+vless://426eb0be-c7dc-4967-a9c5-98cba32f6939@165.215.250.12:2086?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - PROQUEST-AS ┇ 165.215.250.12

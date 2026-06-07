@@ -1,3 +1,4 @@
-vless://27d8f06e-aa67-4220-b9b1-74cd0097ace4@95.182.99.249:55237?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.99.249
-vless://2821c189-b9f9-45c2-941b-f5c2be2f8d0d@www.speedtest.net:2053?type=xhttp&security=tls&path=/api/us&sni=Us.UpZxS.xYz&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.148.22
+vless://4a1b6409-c3a5-496d-86ec-d4060c31dfca@95.182.99.249:55237?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.99.249
+vless://f2afa642-76c6-419f-af1c-45674d8284e7@46.8.68.167:13278?type=grpc&security=reality&fp=chrome&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 46.8.68.167
 vless://f22d86da-1ca2-400f-a0ed-cedb4ff0a1aa@188.114.97.6:2053?type=xhttp&security=tls&path=/api/us&sni=Us.UpZxS.xYz&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 188.114.97.6
+vless://2821c189-b9f9-45c2-941b-f5c2be2f8d0d@www.speedtest.net:2053?type=xhttp&security=tls&path=/api/us&sni=Us.UpZxS.xYz&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.147.22

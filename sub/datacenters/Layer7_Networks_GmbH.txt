@@ -1,1 +1,1 @@
-vless://796a3151-67e4-41a6-91ff-52e811000fe8@fra.pandaonline.org:443?type=tcp&security=reality&sni=fra.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=t_UyYJCXeQjHMYh0fnK6SinlQ5vkeVy-8yKrkUgVNEE#GB 🇬🇧 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 109.202.246.28
+vless://796a3151-67e4-41a6-91ff-52e811000fe8@fra.pandaonline.org:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=t_UyYJCXeQjHMYh0fnK6SinlQ5vkeVy-8yKrkUgVNEE#GB 🇬🇧 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 109.202.246.28

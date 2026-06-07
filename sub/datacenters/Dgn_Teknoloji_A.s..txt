@@ -1,1 +1,0 @@
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newtr.myatris.org:1004?type=tcp&security=none&path=/#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Dgn Teknoloji A.s. ┇ 185.71.219.233

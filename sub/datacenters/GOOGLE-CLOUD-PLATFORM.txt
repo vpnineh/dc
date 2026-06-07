@@ -1,2 +1,1 @@
-vless://eeee4444-bbbb-3ccc-1eee-eeeeaaaacccc@online-google-cloud-speed-dbc7rm3m4a-uc.a.run.app:443?type=ws&security=tls&path=/Telegram/@w2ilwe/@x_3_o_x&sni=online-google-cloud-speed-dbc7rm3m4a-uc.a.run.app#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.143.72.2
 vless://598cbaec-00f6-4d84-8644-b35fdcec6904@104.198.14.52:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 104.198.14.52

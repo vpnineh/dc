@@ -1,1 +1,0 @@
-vless://d481f8de-44b3-4065-a6b4-653f0e03fd04@162.19.181.38:443?type=tcp&security=reality&sni=www.aparat.com&fp=chrome&pbk=oiQIBE_i7yfSPvn4C2xmDPfRU12U6_ne4EoTzZqWhCQ&sid=538d0de2243415#IR 🇮🇷 ┇ VLESS-TCP-RLT - Fannavaran-e Idea Pardaz-e Saba PJSC ┇ 162.19.181.38

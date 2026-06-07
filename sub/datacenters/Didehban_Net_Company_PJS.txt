@@ -1,2 +1,1 @@
-vless://3ed19513-f763-4bf3-a898-c51e08e3c333@45.84.156.115:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Didehban Net Company PJS ┇ 45.84.156.115
 vless://0ad929f5-20e3-489b-b4bb-f4052eb85c76@tun0.wolfofroozegar.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Didehban Net Company PJS ┇ 5.202.19.111

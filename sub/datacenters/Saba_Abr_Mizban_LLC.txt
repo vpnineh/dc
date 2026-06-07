@@ -1,0 +1,1 @@
+vless://42e41db1-f95d-421c-bfd5-94b7f3dbbae3@best.tvpshop.ir:443?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.226.142.42

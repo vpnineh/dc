@@ -1,2 +1,2 @@
-vless://eb3fa357-cea8-321e-bbd5-850e2d874025@t1.hhaakk9922.com:46783?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - WINDSTREAM ┇ 209.248.45.61
 vless://eb3fa357-cea8-321e-bbd5-850e2d874025@t1.hhaakk9922.com:46784?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - WINDSTREAM ┇ 209.248.45.61
+vless://eb3fa357-cea8-321e-bbd5-850e2d874025@t1.hhaakk9922.com:46783?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - WINDSTREAM ┇ 209.248.45.61

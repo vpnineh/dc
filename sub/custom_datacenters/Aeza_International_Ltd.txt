@@ -1,4 +1,4 @@
-vless://3e6beb8d-8b27-4209-9f0b-feb5bafadc74@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
 vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality&sni=fi.connectv.net&fp=chrome&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 85.192.37.119
 vless://47c87a37-3d09-4c3d-96fb-91ce3bcae058@62.60.148.226:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.148.226
 vless://97de1f85-5f2c-4446-8507-b437125623a2@62.60.245.10:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 62.60.245.10

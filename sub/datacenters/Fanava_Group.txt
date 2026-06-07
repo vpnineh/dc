@@ -1,4 +1,2 @@
 vless://ae36571f-f66d-4f0a-b92e-eaeb6e94ae5c@185.143.233.5:2083?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
 vless://9c42f185-4b91-489c-87eb-5da10f9699ac@185.143.233.5:8443?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
-vless://175fd4e1-958c-4bbb-a248-f4176975044a@95.38.189.238:443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Fanava Group ┇ 95.38.189.238
-vless://5c707fa4-a4d6-45ff-bd00-d6ff55ddd61e@info.u-shop.ir:2059?type=tcp&security=tls&sni=info.u-shop.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Fanava Group ┇ 95.38.164.166

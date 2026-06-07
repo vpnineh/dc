@@ -1,4 +1,2 @@
 vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@194.87.86.198:80?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - Jsc timeweb ┇ 194.87.86.198
-vless://7ec71271-0d3a-4297-bdfc-8c7fdc79d73e@ru-1.borshclick.tech:443?type=tcp&security=reality&sni=ru-1.borshclick.tech&fp=chrome&flow=xtls-rprx-vision&pbk=RyCDlf2CUwPD1J4FB-sQkmVtNUm8bBF8x57T1pIYm0o#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 109.73.197.199
-vless://478dd3f5-550c-4f3f-8848-fe75c21136db@ru1.prostosetup.org:443?type=tcp&security=reality&sni=ru1.prostosetup.org&fp=chrome&flow=xtls-rprx-vision&pbk=VwApL_W4Q32vISFpemmvbMc49yvZUedLL8sJMM4K91E&sid=d2ad6f08c684b153#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 78.40.219.42
 vless://6535bd8d-1958-4a33-beeb-2184e31289ae@ru.bubibubibu.com:443?type=tcp&security=reality&sni=ru.bubibubibu.com&fp=chrome&flow=xtls-rprx-vision&pbk=RK0ddk0SXfK_xi2NlztjcpzXoUbActqlwr637jDWK2c&sid=3f9cc886565a08c9#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 185.154.192.42

@@ -1,7 +1,7 @@
 vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
 vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
-vless://4f2d249f-f676-4909-bd53-73985738ae28@blit333.hamrahcore.ir:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#FR 🇫🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 45.10.59.38
+vless://373209d7-c464-4ad3-9027-07e94afad7d5@about.downloadnova.live:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#FR 🇫🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 45.10.59.38
 vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-9.speedmizban.net:2044?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.10.59.27
 vless://129b8982-33d2-41a1-a27b-36e253f368c6@104.16.80.73:443?type=ws&security=tls&path=/&sni=pnl.getfreecp.com&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 104.16.80.73
-vless://eab499a7-dba6-4e86-8086-0aa4dd85c01f@helixgaming.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
+vless://5f670ed2-e48e-4ccc-bf0f-1652d570be0f@helixgaming.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145

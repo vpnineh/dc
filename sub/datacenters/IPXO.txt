@@ -1,1 +1,0 @@
-vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234

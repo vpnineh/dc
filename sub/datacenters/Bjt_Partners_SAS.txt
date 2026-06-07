@@ -1,2 +1,1 @@
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.45:2082?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Bjt Partners SAS ┇ 185.16.110.45
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.59:2082?type=httpupgrade&security=none&path=/#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Bjt Partners SAS ┇ 185.16.110.59

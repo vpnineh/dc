@@ -1,0 +1,1 @@
+vless://600af097-c7e8-4e25-9a91-23d86f5eecfa@89.117.1.112:4433?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=BpqeBkdp8XDGn3L-f6PU-JzPT3Dqp_zS1XVaqnJj8nY&sid=e504fceed114147b#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 89.117.1.112

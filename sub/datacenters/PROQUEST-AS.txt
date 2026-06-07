@@ -1,2 +1,2 @@
-vless://426eb0be-c7dc-4967-a9c5-98cba32f6939@165.215.250.12:2086?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - PROQUEST-AS ┇ 165.215.250.12
 vless://2562bd96-560a-4999-84fe-6f1a2a8e0ecf@165.215.250.12:443?type=ws&security=tls&path=/52415/sh#US 🇺🇸 ┇ VLESS-WS-TLS - PROQUEST-AS ┇ 165.215.250.12
+vless://426eb0be-c7dc-4967-a9c5-98cba32f6939@165.215.250.12:2086?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - PROQUEST-AS ┇ 165.215.250.12

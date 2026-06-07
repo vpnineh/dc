@@ -1,1 +1,0 @@
-vless://81ac7563-4e14-4167-8881-4e914872dbcf@ge-1.vpnezid.ru:443?type=tcp&security=reality&sni=ge-1.vpnezid.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ur_GQ7fD15TZO5h7aCbOl9hDPQNTcGI2MBL-A4GIYS4&sid=7d6c77637143b868#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 87.120.84.158

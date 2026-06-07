@@ -1,1 +1,1 @@
-vless://abc75798-94e8-4983-b843-204ae284683f@217.114.40.34:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 217.114.40.34
+vless://51c2e2ae-d477-4802-ab73-64324e5c69f2@217.114.40.34:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 217.114.40.34

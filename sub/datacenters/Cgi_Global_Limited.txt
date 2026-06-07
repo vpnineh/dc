@@ -1,1 +1,2 @@
 vless://60269468-7320-4707-b262-4e5d362f26ba@91.108.189.246:8443?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 91.108.189.246
+vless://f22d86da-1ca2-400f-a0ed-cedb4ff0a1aa@188.114.97.6:2053?type=xhttp&security=tls&path=/api/us&sni=Us.UpZxS.xYz&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 188.114.97.6

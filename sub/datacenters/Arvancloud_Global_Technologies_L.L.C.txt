@@ -1,1 +1,0 @@
-vless://0ecc9d2d-25d5-40a0-821b-9412566e16d9@chatgpt.com:8443?type=ws&security=tls&path=/&sni=shop.singoshop.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 172.64.155.209

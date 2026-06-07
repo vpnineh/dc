@@ -1,6 +1,6 @@
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@poland.milas.click:443?type=grpc&security=reality&sni=poland.milas.click&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.242.37
-vless://f85eafbd-feaa-412d-a1f6-79a2766ee3a9@171.22.136.84:8443?type=ws&security=none&path=/test#CY 🇨🇾 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 171.22.136.84
+vless://91427003-38cb-473e-95f2-a4b500c91f7b@poland.milas.click:443?type=grpc&security=reality&sni=poland.milas.click&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.242.36
 vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.15.152.73
 vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAxNzEuMjIuMTM0LjEyIiwiYWRkIjoiMTcxLjIyLjEzNC4xMiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwidGxzIjoidGxzIn0
 vless://0b0bd858-dc7f-425b-b026-e28224425058@171.22.136.84:443?type=ws&security=none&path=/path#CY 🇨🇾 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 171.22.136.84
+vless://f85eafbd-feaa-412d-a1f6-79a2766ee3a9@171.22.136.84:8443?type=ws&security=none&path=/test#CY 🇨🇾 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 171.22.136.84
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.193:8443?type=ws&security=tls&path=/#FI 🇫🇮 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.15.127.193

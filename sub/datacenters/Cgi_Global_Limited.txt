@@ -1,2 +1,3 @@
-vless://60269468-7320-4707-b262-4e5d362f26ba@91.108.189.246:8443?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 91.108.189.246
+vless://990aee19-70cd-4d48-a8ec-1e5d0b670372@fl.bearnetwork.ir:2026?type=ws&security=tls&path=/50000&sni=fl.bearnetwork.ir&fp=chrome#CZ 🇨🇿 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 109.248.163.251
+vless://f22d86da-1ca2-400f-a0ed-cedb4ff0a1aa@www.speedtest.net:2053?type=xhttp&security=tls&path=/api/us&sni=Us.UpZxS.xYz&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.147.22
 vless://f22d86da-1ca2-400f-a0ed-cedb4ff0a1aa@188.114.97.6:2053?type=xhttp&security=tls&path=/api/us&sni=Us.UpZxS.xYz&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 188.114.97.6

@@ -1,2 +1,1 @@
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?type=tcp&security=none#NZ 🇳🇿 ┇ VLESS-TCP-NTLS - Ministry of Education ┇ 202.37.33.80
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?type=tcp&security=none&path=/id-tksi#NZ 🇳🇿 ┇ VLESS-TCP-NTLS - Ministry of Education ┇ 202.37.33.81

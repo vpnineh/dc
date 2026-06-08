@@ -1,1 +1,2 @@
-vless://a0d47204-1b5d-4038-82d0-467cc88a1763@informationprovided.vidboxco.ir:800?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.158.169.48
+vless://fab8af66-409e-4946-b263-1821882ef6ec@188.130.206.48:50136?type=tcp&security=tls&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - Cgi Global Limited ┇ 188.130.206.48
+vless://c0c6564f-3e48-4b3c-a5c0-5e05640bee03@46.8.232.23:2087?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 46.8.232.23

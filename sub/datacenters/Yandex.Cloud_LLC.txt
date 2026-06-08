@@ -1,2 +1,0 @@
-vless://f4b907c2-4faa-46cc-a0f2-6dd6c2057bd2@51.250.97.18:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.97.18
-vless://0ee7eb22-e4e3-414b-bb01-3006ef852861@b3aa11az-k15gg1.ru.y-tun.com:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 178.154.211.116

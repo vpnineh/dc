@@ -1,1 +1,2 @@
-vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@87.228.102.182:80?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 87.228.102.182
+vless://02b92210-c4b8-4052-974f-62874a3a34fa@87.228.102.182:80?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 87.228.102.182
+vless://02b92210-c4b8-4052-974f-62874a3a34fa@46.182.24.89:80?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 46.182.24.89

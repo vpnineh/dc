@@ -1,1 +1,1 @@
-vless://tbxjthftff@tbxjthftff-1952313922-direct.irgame.co:443?type=tcp&security=tls&sni=tbxjthftff-1952313922-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.39.22
+vless://46078730-11d9-5412-a175-cd8c9cc22f7f@tbxjthftff-1952313922-direct.irgame.co:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.39.22

@@ -1,0 +1,1 @@
+vless://70398c97-d3f4-4ce8-b7a4-05ba2e63a0a5@wbdd.tiredmeti.ir:443?type=ws&security=tls&path=/assets/vid-2026#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Dadeh Paydar Co (Ltd) ┇ 193.201.66.143

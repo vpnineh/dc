@@ -1,1 +1,1 @@
-vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?type=ws&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.116
+vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.116

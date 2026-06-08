@@ -1,0 +1,1 @@
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&sni=ru-vk-2.1001notes.ru#RU 🇷🇺 ┇ VLESS-GRPC-TLS - JSC IOT ┇ 80.87.200.175

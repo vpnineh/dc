@@ -1,0 +1,1 @@
+vless://ecd67f52-5d06-4d5a-b759-ed64c197ded6@128.105.145.226:2022?type=ws&security=tls&path=/u/u641508409gold1780764237#US 🇺🇸 ┇ VLESS-WS-TLS - WISC-MADISON-AS ┇ 128.105.145.226

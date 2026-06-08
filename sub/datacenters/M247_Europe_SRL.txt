@@ -1,1 +1,1 @@
-vless://9907da07-fe64-4f02-ace7-566c5b114a5e@191.101.238.125:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - M247 Europe SRL ┇ 191.101.238.125
+vless://9907da07-fe64-4f02-ace7-566c5b114a5e@191.101.238.125:443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - M247 Europe SRL ┇ 191.101.238.125

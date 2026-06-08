@@ -1,1 +1,0 @@
-vless://a78bf929-6883-48af-902d-7737793eeb17@hu02.sonicsonic.icu:443?type=tcp&security=reality&sni=hu02.sonicsonic.icu&fp=chrome&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU#HU 🇭🇺 ┇ VLESS-TCP-RLT - ATW Internet Kft. ┇ 37.221.208.179

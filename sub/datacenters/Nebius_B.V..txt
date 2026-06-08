@@ -1,1 +1,0 @@
-vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@66.201.5.163:443?type=tcp&security=tls&sni=66.201.5.163&fp=chrome&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - Nebius B.V. ┇ 66.201.5.163

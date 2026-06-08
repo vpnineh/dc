@@ -1,8 +1,9 @@
 vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
 vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
-vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vless://875d0422-9b8d-4a43-9471-44144a468c75@about.downloadnova.live:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#FR 🇫🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 45.10.59.38
 vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-9.speedmizban.net:2044?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.10.59.27
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
+vless://5f9366ec-90e6-4263-a37e-fe90e11668b8@marzbanset.mobile15456552.shop:1050?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 185.67.125.51
+vless://5f9366ec-90e6-4263-a37e-fe90e11668b8@irans.wpax.ir:1050?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.31.219
 vless://74dfb479-826c-42f7-95c4-b0725d96a437@helixgaming.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145

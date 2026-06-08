@@ -1,2 +1,2 @@
 vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@194.87.86.198:80?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - Jsc timeweb ┇ 194.87.86.198
-vless://02b92210-c4b8-4052-974f-62874a3a34fa@ru.jykvpn.com:80?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Jsc timeweb ┇ 193.168.3.209
+vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@gwapp-ru01.freenets.store:443?type=tcp&security=tls&sni=gwapp-ru01.freenets.store&flow=xtls-rprx-vision-udp443#GR 🇬🇷 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 91.186.199.129

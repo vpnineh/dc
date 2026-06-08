@@ -1,5 +1,5 @@
 vless://329ec84a-e43e-4fd6-832c-3fa2acd354af@82.115.26.170:8443?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.26.170
-vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:443?type=xhttp&security=tls&path=/&sni=del.hfgtek.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 202.133.91.5
 vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:44675?type=httpupgrade&security=tls&path=/&sni=del.hfgtek.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-TLS - BitCommand LLC ┇ 202.133.91.5
-vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:8443?type=tcp&security=tls&sni=del.hfgtek.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 202.133.91.5
 vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:43160?type=ws&security=tls&path=/&sni=del.hfgtek.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 202.133.91.5
+vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:443?type=xhttp&security=tls&path=/&sni=del.hfgtek.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 202.133.91.5
+vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:8443?type=tcp&security=tls&sni=del.hfgtek.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 202.133.91.5

@@ -1,0 +1,1 @@
+vless://990aee19-70cd-4d48-a8ec-1e5d0b670372@fl.bearnetwork.ir:2026?type=ws&security=tls&path=/50000&sni=fl.bearnetwork.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ATT-INTERNET4 ┇ 82.22.41.219

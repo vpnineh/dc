@@ -1,1 +1,2 @@
 vless://ce6f4dad-2a42-4318-9455-57ae2e8148f6@rockstar1-production.up.railway.app:443?type=xhttp&security=tls&path=/api&sni=rockstar1-production.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - MPDCOL ┇ 69.46.46.52
+vless://d3de1123-99da-404c-8670-98c4bf10f0e9@tel-arosconfig.up.railway.app:443?type=xhttp&security=tls&path=/api&sni=tel-arosconfig.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - MPDCOL ┇ 69.46.46.26

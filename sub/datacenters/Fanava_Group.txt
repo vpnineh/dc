@@ -1,3 +1,4 @@
-vless://ae36571f-f66d-4f0a-b92e-eaeb6e94ae5c@185.143.233.5:2083?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
 vless://9c42f185-4b91-489c-87eb-5da10f9699ac@185.143.233.5:8443?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
-vless://83f5c23b-025f-4100-8a38-1fbd7c18249e@ir.cloudstorageedge.site:443?type=ws&security=tls&path=/sdxws&sni=ir.cloudstorageedge.site#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 95.38.179.253
+vless://ae36571f-f66d-4f0a-b92e-eaeb6e94ae5c@185.143.233.5:2083?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
+vless://35d2f41b-0801-452c-8898-00f439ab1176@95.38.165.210:7171?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.165.210
+vless://15346966-0f7f-464b-b0fc-d66a6444ccb2@95.38.165.210:6161?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.165.210

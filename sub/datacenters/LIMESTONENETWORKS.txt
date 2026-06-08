@@ -1,1 +1,1 @@
-vless://da205a8f-964b-4b3d-8040-61c40764ac91@cdn.playon.ir:2087?type=ws&security=tls&path=/ws&sni=cdn.playon.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - LIMESTONENETWORKS ┇ 89.116.72.23
+vless://842c98a5-a7a6-4dae-9d33-b1d1f5160e26@cdn.playon.ir:2087?type=ws&security=tls&path=/ws&sni=cdn.playon.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - LIMESTONENETWORKS ┇ 89.116.72.23

@@ -1,0 +1,1 @@
+vless://44ee527d-c865-4631-8315-c2887ff3a9bb@am.nonpath.ir:42542?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.144

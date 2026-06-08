@@ -1,1 +1,0 @@
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@87.229.34.23:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=e5f60718#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 87.229.34.23

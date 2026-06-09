@@ -1,4 +1,5 @@
-vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
-vless://02b92210-c4b8-4052-974f-62874a3a34fa@fire.jykvpn.com:2048?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 213.108.23.93
+vless://24e39f73-ce06-4052-b631-7efd2589f2ba@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
+vless://02b92210-c4b8-4052-974f-62874a3a34fa@fire.jykvpn.com:2048?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 213.108.23.89
+vless://a1ccecd5-493b-45f8-86a7-ede556dc2cbd@files.2365855155.ir:2085?type=ws&security=none&path=/data#SE 🇸🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 138.124.34.239
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142
 vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.251.131

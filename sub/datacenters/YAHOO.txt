@@ -1,0 +1,2 @@
+vless://a1ccecd5-493b-45f8-86a7-ede556dc2cbd@files.2365855155.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=V2DnHta7YKXsdC6St2X2seosnXJe08070FAT-nNVLUg&sid=c0c69284#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO ┇ 138.124.34.239
+vless://a1ccecd5-493b-45f8-86a7-ede556dc2cbd@files.2365855155.ir:19473?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=cqImQAM721Uo7Url_OjEWlVMWJSF80uSNihWljuDCTE&sid=bda779#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 138.124.34.239

@@ -1,1 +1,1 @@
-vless://ed713345-61f4-4eca-8708-b3a1e9bfbb40@38.180.104.152:21077?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 38.180.104.152
+vless://a566934d-1191-4304-b312-feebee678111@38.180.104.152:21077?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 38.180.104.152

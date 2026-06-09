@@ -1,0 +1,1 @@
+vless://efe3cc42-36e7-45d8-be50-8b2dac729adb@tr.ollamagia.com:443?type=tcp&security=reality&sni=tr.ollamagia.com&fp=firefox&flow=xtls-rprx-vision&pbk=yPSJ22pCTFIKAbXoCJX3_4y4o7ytw1qSzGDeL7ceDig&sid=3fd6281e5d3b34fd#TR 🇹🇷 ┇ VLESS-TCP-RLT - Meric Internet Teknolojileri A.S. ┇ 212.87.199.34

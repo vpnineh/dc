@@ -1,1 +1,0 @@
-vless://7294c217-f682-4119-8bcd-852d8fd0b8bc@188.114.97.6:8443?type=ws&security=tls&path=/&sni=argoovpn.imanaghapour.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Dyjix SAS ┇ 188.114.97.6

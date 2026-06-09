@@ -1,1 +1,2 @@
-vless://18ac6598-7b4b-4edb-bdb2-632b53b9eeab@cdh.pascalplus.com:46082?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.116.23
+vless://cda9bb16-c9ff-423b-8c44-72d46ee7b4d4@markazi.kidshop.dpdns.org:40668?type=tcp&security=none&fp=chrome&pbk=-TG2fEKYkQtb5wYNV2rJsSHhBc-egVeO41YZ26LVHRE#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.227.254
+vless://ed6a0159-c142-4aa0-bad4-93a072f93e66@for.mrbot.fun:2053?type=ws&security=none&path=/snapp#IE 🇮🇪 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 91.108.189.156

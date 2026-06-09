@@ -1,2 +1,2 @@
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?type=tcp&security=tls&sni=proxy.wastech.org#US 🇺🇸 ┇ VLESS-TCP-TLS - AS-COLOCROSSING ┇ 104.168.30.161
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1DT0xPQ1JPU1NJTkcgXHUyNTA3IDEwNy4xNzUuOTEuMTE4IiwiYWRkIjoiMTA3LjE3NS45MS4xMTgiLCJwb3J0Ijo0NDMsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdjJyYXktd2lzcCIsInRscyI6InRscyJ9
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - AS-COLOCROSSING ┇ 104.168.30.161

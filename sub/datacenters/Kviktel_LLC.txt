@@ -1,0 +1,1 @@
+vless://e6990876-f78f-5f47-b716-fde1cbec10bc@kz-1.illusion-vpn.ru:8443?type=tcp&security=reality&sni=kz-1.illusion-vpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=vgoHApJUN--t9eI7bCyYBJUO4ZgkZQBzxPzjNc_v314&sid=2e83619c7975b870#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kviktel LLC ┇ 45.139.27.77

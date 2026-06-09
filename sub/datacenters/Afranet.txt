@@ -1,1 +1,0 @@
-vless://de703781-6b1a-4fce-b2f9-b727371478f5@srv11.spacevendetta.ir:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Afranet ┇ 86.104.32.89

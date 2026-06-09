@@ -1,2 +1,2 @@
-vless://02b92210-c4b8-4052-974f-62874a3a34fa@osre3.jykvpn.com:8443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FRONTIER-FRTR ┇ 194.238.79.234
-vless://02b92210-c4b8-4052-974f-62874a3a34fa@osre3.jykvpn.com:2048?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FRONTIER-FRTR ┇ 194.238.79.234
+vless://02b92210-c4b8-4052-974f-62874a3a34fa@osre3.jykvpn.com:2048?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FRONTIER-FRTR ┇ 194.238.79.27
+vless://02b92210-c4b8-4052-974f-62874a3a34fa@osre3.jykvpn.com:8443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FRONTIER-FRTR ┇ 194.238.79.27

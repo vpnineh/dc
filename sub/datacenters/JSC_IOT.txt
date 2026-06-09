@@ -1,1 +1,0 @@
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&path=/vk&sni=ru-vk-5.1001notes.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - JSC IOT ┇ 91.107.125.207

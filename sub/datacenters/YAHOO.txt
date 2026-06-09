@@ -1,1 +1,0 @@
-vless://c143f74f-d16f-428a-8fb4-6fdadf94619c@server.leedsroastery.com:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=nOTHEgojtoRkTbnzHH7d1kbZ1xhLc-yZqqwQZEjC8Rs&sid=033057#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 82.40.62.65

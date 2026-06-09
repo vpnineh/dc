@@ -1,1 +1,0 @@
-vless://6a36ac84-e809-03e8-8630-806b5402944c@89.208.231.191:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - LLC VK ┇ 89.208.231.191

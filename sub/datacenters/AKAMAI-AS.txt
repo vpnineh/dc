@@ -1,1 +1,0 @@
-vless://a2ff93ce-309e-45ba-a442-1858d08f04e0@185.250.41.111:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=SDkmg1Gj2jEQ0H0UhP3d8--M9H3eJha9T7E04rO37mg&sid=7a0423#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.250.41.111

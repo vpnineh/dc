@@ -1,1 +1,1 @@
-vless://18ac6598-7b4b-4edb-bdb2-632b53b9eeab@cdh.pascalplus.com:46082?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.224.65
+vless://2b302bd4-e79b-4687-a867-29c6c9e556ed@cdh.pascalplus.com:46082?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.116.23

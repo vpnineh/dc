@@ -1,1 +1,1 @@
-vless://0bef555b-b81f-41f4-a63b-f5707a303245@top2515369404.mwscdn.ru:443?type=xhttp&security=tls&path=/xhttppath&sni=top2515369404.mwscdn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.249
+vless://0bef555b-b81f-41f4-a63b-f5707a303245@top2515369404.mwscdn.ru:443?type=xhttp&security=tls&path=/xhttppath&sni=top2515369404.mwscdn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.250

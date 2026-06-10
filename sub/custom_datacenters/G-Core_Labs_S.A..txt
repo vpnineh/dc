@@ -1,9 +1,5 @@
 vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
-vless://3e8751df-e180-43e6-83eb-c00a34e17855@i.nonpath.ir:42542?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.95
 vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
-vless://a7cf8e11-9a89-4c27-aff5-2a1fe626fa02@iran.dadashinet10.ir:2044?type=tcp&security=none&path=/#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.31.219
-vless://3e8751df-e180-43e6-83eb-c00a34e17855@dubai.gmax12.ir:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.24
-vless://3e8751df-e180-43e6-83eb-c00a34e17855@myip.mobileemdad.top:42538?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.178
-vless://99cbd2dc-b89d-4d31-a732-04ac5ddaf7c1@helixgaming.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
+vless://4c5ab5c5-5c8b-45bc-923d-96a9e5c01c5b@fdfdfdmarzban.dadashinet10.ir:2044?type=tcp&security=none&path=/#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.31.219
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145

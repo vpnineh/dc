@@ -1,2 +1,0 @@
-vless://c72f03de-fb13-4d81-ba32-461bb1921879@gertestx.nekosocks.com:8443?type=xhttp&security=reality&path=/&sni=gertestx.nekosocks.com&fp=chrome&pbk=I8ShKfMCRrN9tX38gvYIerlLDVO2viRMU4ZepgsCdRg&sid=9802cf3e3efc2508#US 🇺🇸 ┇ VLESS-XHTTP-RLT - FIBERSTATE ┇ 77.90.21.11
-vless://c72f03de-fb13-4d81-ba32-461bb1921879@gertest.nekosocks.com:443?type=tcp&security=reality&sni=gertest.nekosocks.com&fp=chrome&flow=xtls-rprx-vision&pbk=5HK6AhUPIiVxSCT12HkhlxqfSBaPh6UPqONgMAlSKD0&sid=f34a04185a7a081e#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 77.90.21.11

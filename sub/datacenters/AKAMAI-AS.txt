@@ -1,2 +1,2 @@
-vless://f5f32cb1-a2bc-439d-a147-37e53f60c45b@panel.novexone.ir:67?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=UJnDrgpwJmffiBUaX4myPjts_jpt_1bCEj9wuPQ_lGc&sid=0dccda8ac278e8#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 37.140.242.53
 vless://f5f32cb1-a2bc-439d-a147-37e53f60c45b@panel.novexone.ir:6767?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=8hBBlbC2nD_pIwTgSR3KIe3FaEPzxH_AmCdAlvRaxzc&sid=0febfeb214ca#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 37.140.242.53
+vless://f5f32cb1-a2bc-439d-a147-37e53f60c45b@panel.novexone.ir:67?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=UJnDrgpwJmffiBUaX4myPjts_jpt_1bCEj9wuPQ_lGc&sid=0dccda8ac278e8#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 37.140.242.53

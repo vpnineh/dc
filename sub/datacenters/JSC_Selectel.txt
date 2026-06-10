@@ -1,1 +1,0 @@
-vless://e3479472-3d5d-4142-842a-44a32b501bd7@ru1.cvs-a.com:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 82.148.29.170

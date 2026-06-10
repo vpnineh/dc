@@ -1,1 +1,0 @@
-vless://de818941-4b66-4053-a017-ec1dfdec0416@fastaus.phantom.direct:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=04e65b7e170a5a4d#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERHUB ┇ 104.143.0.87

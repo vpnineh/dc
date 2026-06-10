@@ -1,1 +1,0 @@
-vless://7d714031-76a9-4500-a132-27dd3307b16e@kinode24.boevik-tut.org:443?type=tcp&security=tls&sni=kinode24.boevik-tut.org#DE 🇩🇪 ┇ VLESS-TCP-TLS - firstcolo GmbH ┇ 212.224.88.252

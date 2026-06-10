@@ -1,2 +1,0 @@
-vless://5a329417-d814-4429-8329-a40027a37709@panel.novexone.ir:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=N2lNP_mURhdPm_2BPeT_dAkELQaCEjjdhOkd_j8hCiE&sid=48d29e0c80b3#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 37.140.242.53
-vless://f5f32cb1-a2bc-439d-a147-37e53f60c45b@panel.novexone.ir:2626?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=7EzXVyxyyUOhZf_qrxZ5ULLk3LmsUOkJNzb7iDjfHwM&sid=b5#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 37.140.242.53

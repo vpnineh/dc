@@ -1,0 +1,1 @@
+vless://Telegram-Parsashonam-12@79.175.189.145:443?type=grpc&security=tls#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Afranet ┇ 79.175.189.145

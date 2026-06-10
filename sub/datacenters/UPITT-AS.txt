@@ -1,2 +1,2 @@
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPITT-AS ┇ 130.49.187.97
 vless://0e074e87-fc9c-4431-8b36-0d3151d34937@game.proektblog.space:443?type=tcp&security=reality&sni=game.proektblog.space&fp=chrome&flow=xtls-rprx-vision&pbk=eHTiuvWCkvN1BUD6ulWyF4ard2rxzKMhknkdufL-J1s&sid=22a1567879cd6694#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.155.205
+vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPITT-AS ┇ 130.49.187.97

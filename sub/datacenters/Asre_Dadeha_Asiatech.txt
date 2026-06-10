@@ -1,4 +1,1 @@
-vless://fdfa6120-6f97-4153-ac3d-979d9ecae058@193.151.141.36:2026?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.141.36
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@tunnle.izumii.ir:2009?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.144.43
 vless://5dcf2dbf-3e82-4456-8961-287cc732bb0f@85.198.20.217:12817?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 85.198.20.217
-vless://c9c416ed-8a72-4572-8bd6-12292dee8dfd@::ffff:c197:8d24:2026?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ ::ffff:c197:8d24

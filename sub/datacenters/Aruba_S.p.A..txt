@@ -1,0 +1,1 @@
+vless://3e8751df-e180-43e6-83eb-c00a34e17855@ips.it.mobileemdad.top:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 209.227.239.24

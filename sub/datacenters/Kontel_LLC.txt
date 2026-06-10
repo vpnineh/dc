@@ -1,2 +1,0 @@
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru2.cdn-global.pro:443?type=tcp&security=reality&sni=ru2.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=FaFJaC1LA4xpzdDY1e0suuH8IBDYdRbjUFH3c-BgRBY&sid=c8b5e9595f818d04#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kontel LLC ┇ 185.244.41.97
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru1.cdn-global.pro:443?type=tcp&security=reality&sni=ru1.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=UetBYGh2t6FbQNZ53W3Eb3bpH5-p-WJ1wklLbOs5RH0&sid=af6055545fb955b0#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kontel LLC ┇ 185.244.41.95

@@ -1,0 +1,2 @@
+vless://3e8751df-e180-43e6-83eb-c00a34e17855@portal.mobileemdad.top:42538?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.151
+vless://3e8751df-e180-43e6-83eb-c00a34e17855@am.nonpath.ir:42542?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.144

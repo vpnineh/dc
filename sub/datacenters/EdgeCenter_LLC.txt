@@ -1,1 +1,0 @@
-vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20.blanesik.space:443?type=grpc&security=tls&sni=185.14.46.20.blanesik.space&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - EdgeCenter LLC ┇ 185.14.46.20

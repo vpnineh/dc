@@ -1,0 +1,1 @@
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv168.towersflowerss.com:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ 216.227.164.86

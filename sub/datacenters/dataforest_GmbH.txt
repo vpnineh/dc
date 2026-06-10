@@ -1,2 +1,1 @@
-vless://ee493449-df40-4d17-9a50-cf28c9288923@45.157.232.164:15198?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 45.157.232.164
-vless://ec8c34f4-3576-4138-b847-61d177367e09@ru-2.videoproeditor.com:443?type=tcp&security=reality&sni=ru-2.videoproeditor.com&fp=chrome&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 45.145.43.46
+vless://ec8c34f4-3576-4138-b847-61d177367e09@ru-2.videoproeditor.com:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 45.145.43.46

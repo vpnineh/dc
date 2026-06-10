@@ -1,1 +1,1 @@
-vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Keyweb AG ┇ 95.169.191.225
+vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?type=tcp&security=reality&sni=finporkzov.com&fp=chrome&flow=xtls-rprx-vision&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807#DE 🇩🇪 ┇ VLESS-TCP-RLT - Keyweb AG ┇ 95.169.191.225

@@ -1,4 +1,5 @@
 vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@95.85.251.233:443?type=ws&security=none&path=/api#CZ 🇨🇿 ┇ VLESS-WS-NTLS - IPXO ┇ 95.85.251.233
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
-vless://6a02a47b-ebbf-4593-8460-558330c04189@lt-modx.nodexphere.net:443?type=tcp&security=reality&sni=lt-modx.nodexphere.net&fp=chrome&flow=xtls-rprx-vision&pbk=cc2mDH9C31IlAwrn1eEhbuzZ3l4Ijw3mKl7rF75GUDo#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.151.209
+vless://6a02a47b-ebbf-4593-8460-558330c04189@se-modx.nodexphere.net:443?type=tcp&security=reality&sni=se-modx.nodexphere.net&fp=chrome&flow=xtls-rprx-vision&pbk=zBMeyXgwFrSUKT60bU85vFEKWzcsprb7NtILQAezrgI#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.151.223
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?type=grpc&security=none#SA 🇸🇦 ┇ VLESS-GRPC-NTLS - IPXO ┇ 213.165.57.223
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?type=grpc&security=none#SA 🇸🇦 ┇ VLESS-GRPC-NTLS - IPXO ┇ 213.165.57.224

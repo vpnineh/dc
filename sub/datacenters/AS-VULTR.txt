@@ -1,2 +1,1 @@
-vless://c1955346-88ca-4cea-a6b3-e4dc754e3ee7@bot-ep-gp5pha.samanidempire.org:443?type=ws&security=tls&path=/a098c2e0#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 192.248.190.181
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190

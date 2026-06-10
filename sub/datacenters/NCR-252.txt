@@ -1,3 +1,2 @@
-vless://e77e2c21-f469-4474-8f94-e2f2e67fcb58@de-s3.ru:443?type=tcp&security=reality&sni=de-s3.ru&fp=chrome&flow=xtls-rprx-vision&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&sid=7a3f9e2b1c8d4f6a#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.222.64
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@se-cdn.ru:443?type=tcp&security=reality&sni=se-cdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.231.87
 vless://c237a773-837e-4ce8-a7a8-b7c7091407dc@te.netfreedomcrypt.shop:443?type=xhttp&security=tls&path=/streem&sni=te.netfreedomcrypt.shop&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NCR-252 ┇ 132.243.242.243
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@se-cdn.ru:443?type=tcp&security=reality&sni=se-cdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.231.93

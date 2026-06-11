@@ -1,1 +1,1 @@
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GLOBAL COMMUNICATION NETWORK LIMITED ┇ 181.215.110.9
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:8443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - GLOBAL COMMUNICATION NETWORK LIMITED ┇ 181.215.110.9

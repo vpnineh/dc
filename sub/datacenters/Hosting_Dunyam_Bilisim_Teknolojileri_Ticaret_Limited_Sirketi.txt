@@ -1,0 +1,2 @@
+vless://deab5cc6-db0d-4fe8-92b8-31fcf0fd26cd@37.140.242.53:2626?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53
+vless://deab5cc6-db0d-4fe8-92b8-31fcf0fd26cd@37.140.242.53:85?type=xhttp&security=none&path=/hh#TR 🇹🇷 ┇ VLESS-XHTTP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53

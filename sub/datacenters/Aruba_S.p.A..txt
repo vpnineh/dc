@@ -1,1 +1,2 @@
 vless://muihzxwtdd@muihzxwtdd-19523160218-direct.irgame.co:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.218
+vless://c62034f6-4395-4642-bd32-2241f7f387ce@s1.gmax12.ir:42542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52

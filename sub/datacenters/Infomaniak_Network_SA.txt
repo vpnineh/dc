@@ -1,3 +1,2 @@
-vless://b082d7d9-f676-4cf6-9ebc-1301021b6486@iran-ge.virapix.ir:10004?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.45.172
 vless://monacoVPN@83.228.228.44:22?type=tcp&security=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.44
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@84.234.29.132:8443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.29.132

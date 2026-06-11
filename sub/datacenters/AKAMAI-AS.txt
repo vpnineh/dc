@@ -1,4 +1,0 @@
-vless://deab5cc6-db0d-4fe8-92b8-31fcf0fd26cd@37.140.242.53:67?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=UJnDrgpwJmffiBUaX4myPjts_jpt_1bCEj9wuPQ_lGc&sid=af3ae38b31#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 37.140.242.53
-vless://bf539f5f-43eb-4066-926f-49f620ad6486@3.9.115.249:1007?type=grpc&security=reality&sni=www.apple.com&fp=chrome&pbk=11v-ABEwOANJiICMQUwHPiARAiWHBDn3D5_MV5ODuFg&sid=c515314f1dcc95d1#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 3.9.115.249
-vless://0e559daf-cc71-4ca1-aa35-7aba83b0f8e8@3.68.214.199:1007?type=grpc&security=reality&sni=www.apple.com&fp=chrome&pbk=11v-ABEwOANJiICMQUwHPiARAiWHBDn3D5_MV5ODuFg&sid=c515314f1dcc95d1#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 3.68.214.199
-vless://9268fe8c-fe3f-44fe-8984-c7d0060465a1@panel.trackydev.site:443?type=ws&security=tls&path=/&sni=aka.ms&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AKAMAI-AS ┇ 141.148.193.192

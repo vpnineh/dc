@@ -1,6 +1,0 @@
-vless://3a08c88e-a7ce-4589-9385-27fc2081b679@84.201.177.246:3000?type=xhttp&security=reality&path=/api/v2/config/sync#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 84.201.177.246
-vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@158.160.155.249:8456?type=xhttp&security=reality#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 158.160.155.249
-vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@158.160.155.249:8462?type=xhttp&security=reality#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 158.160.155.249
-vless://3a08c88e-a7ce-4589-9385-27fc2081b679@84.201.177.246:3002?type=xhttp&security=reality&path=/api/v2/config/sync#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 84.201.177.246
-vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@158.160.155.249:8447?type=xhttp&security=reality#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 158.160.155.249
-vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@158.160.155.249:8449?type=xhttp&security=reality#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Yandex.Cloud LLC ┇ 158.160.155.249

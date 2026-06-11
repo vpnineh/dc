@@ -1,1 +1,1 @@
-vless://6dffd812-e8ca-03e8-93ff-538c4097d240@89.208.231.191:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - LLC VK ┇ 89.208.231.191
+vless://a1c11603-aefe-0007-9df3-4856f085811a@b02.connectv.net:443?type=tcp&security=reality&sni=b02.connectv.net&fp=edge&flow=xtls-rprx-vision&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 94.139.247.211

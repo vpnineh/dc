@@ -1,1 +1,0 @@
-vless://b082d7d9-f676-4cf6-9ebc-1301021b6486@ge.turboo-server.ir:10002?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 77.83.203.195

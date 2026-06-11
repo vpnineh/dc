@@ -1,1 +1,2 @@
+vless://dedb7e65-ff41-45e1-9938-ab7a02d39c03@bot-ep-v64sox.samanidempire.org:443?type=ws&security=tls&path=/87786342#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 209.250.236.135
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190

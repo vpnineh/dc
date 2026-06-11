@@ -1,1 +1,2 @@
-vless://93103a93-65e2-4a67-8c6e-0599f7e8b3ae@down.pcapps.ir:8855?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 185.171.202.55
+vless://Argooovpnbiajoinshoo@188.114.97.6:8443?type=ws&security=tls&path=/&sni=argoovpn.imanaghapour.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Dyjix SAS ┇ 188.114.97.6
+vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 185.171.202.76

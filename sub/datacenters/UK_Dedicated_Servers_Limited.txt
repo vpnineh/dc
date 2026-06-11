@@ -1,0 +1,1 @@
+vless://e82387dd-afe2-4f77-8655-df4693739bb4@64.188.71.108:26426?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - UK Dedicated Servers Limited ┇ 64.188.71.108

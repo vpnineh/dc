@@ -1,1 +1,1 @@
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@se-cdn.ru:443?type=tcp&security=reality&sni=se-cdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.231.86
+vless://d4d234ea-80ea-4820-ac5e-05d653960579@se-cdn.ru:443?type=tcp&security=reality&sni=se-cdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.231.97

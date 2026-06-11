@@ -1,1 +1,2 @@
-vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?type=tcp&security=tls#FR 🇫🇷 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 5.157.51.173
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&security=tls&path=/&fp=chrome&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 5.157.51.173
+vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?type=tcp&security=tls#IQ 🇮🇶 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 196.199.104.131

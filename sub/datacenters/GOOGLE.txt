@@ -1,2 +1,1 @@
-vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 192.178.142.101
-vless://75979242-d597-4311-a019-f3735eb3793d@group.shalana.xyz:443?type=tcp&security=tls&sni=m.youtube.com&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - GOOGLE ┇ 172.105.114.133
+vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 142.251.16.100

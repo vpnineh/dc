@@ -1,2 +1,0 @@
-vless://bd586513-53f0-40ec-8328-2d1d08f4db2b@panel3.erisrtg.ir:80?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 31.57.28.119
-vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.14.24

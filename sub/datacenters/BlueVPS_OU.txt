@@ -1,1 +1,1 @@
-vless://0e074e87-fc9c-4431-8b36-0d3151d34937@technology.proektblog.space:443?type=tcp&security=reality&sni=technology.proektblog.space&fp=chrome&flow=xtls-rprx-vision&pbk=97Crozt42QmVeBWA-HT2th6U33_x-gwo6qXQV-EjfxM&sid=bc4da5d1b3e128e6#ES 🇪🇸 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 212.46.38.14
+vless://0e074e87-fc9c-4431-8b36-0d3151d34937@technology.proektblog.space:443?type=tcp&security=reality&sni=technology.proektblog.space&fp=firefox&flow=xtls-rprx-vision&pbk=97Crozt42QmVeBWA-HT2th6U33_x-gwo6qXQV-EjfxM&sid=bc4da5d1b3e128e6#ES 🇪🇸 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 212.46.38.14

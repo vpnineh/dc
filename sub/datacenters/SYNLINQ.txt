@@ -1,2 +1,1 @@
-vless://e30c66d8-725a-4bb6-9173-58b1769d9c6f@109.71.253.204:24758?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - SYNLINQ ┇ 109.71.253.204
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?type=tcp&security=tls&sni=bero-3.bexum.fun&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 37.114.48.146

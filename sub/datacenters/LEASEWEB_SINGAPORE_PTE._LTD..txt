@@ -1,1 +1,1 @@
-vless://d5b52d85-714e-4b3c-95cd-ca0cbfba35c3@sgp.locklance.lol:443?type=tcp&security=reality&sni=sgp.locklance.lol&fp=chrome&flow=xtls-rprx-vision&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&sid=1d2be6290aea471f#SG 🇸🇬 ┇ VLESS-TCP-RLT - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.248
+vless://0a12381a-e241-4b63-a03c-1a5a45a95977@sgp.locklance.lol:443?type=tcp&security=reality&sni=sgp.locklance.lol&fp=chrome&flow=xtls-rprx-vision&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&sid=6dba2e08344e6bf5#SG 🇸🇬 ┇ VLESS-TCP-RLT - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.248

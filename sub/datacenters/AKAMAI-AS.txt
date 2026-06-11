@@ -1,1 +1,0 @@
-vless://6f9a7d75-be41-4fb0-a2f8-1b4fd4592be4@sad.skyret.robanahal.shop:2052?type=tcp&security=reality&sni=www.amd.com&fp=chrome&pbk=mPM73ty5sgFMNjEDi940qWBK9K7mIJ7EGWFm0NIYPlc&sid=d80a#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 46.225.76.79

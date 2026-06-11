@@ -1,0 +1,1 @@
+vless://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709?type=ws&security=false&path=/&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 38.180.104.124

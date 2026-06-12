@@ -1,2 +1,2 @@
 vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?type=ws&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - BLNWX ┇ 193.149.185.17
-vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws&security=none&path=/#RO 🇷🇴 ┇ VLESS-WS-NTLS - BLNWX ┇ 64.7.199.242
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=tcp&security=none&path=/#RO 🇷🇴 ┇ VLESS-TCP-NTLS - BLNWX ┇ 64.7.199.242

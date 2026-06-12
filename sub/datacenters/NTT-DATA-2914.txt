@@ -1,1 +1,2 @@
+vless://07424c7b-b963-4785-b065-3c5cf04d6d3a@188.114.97.6:8443?type=ws&security=tls&path=/amirvpn3&sni=sub2.amirserver.shop&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 188.114.97.6
 vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.14.24

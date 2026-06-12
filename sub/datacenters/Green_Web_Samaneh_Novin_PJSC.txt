@@ -1,1 +1,0 @@
-vless://580cdd44-a370-40a7-b845-c04436e44245@gr.irantilci.ir:8443?type=xhttp&security=tls&path=/gr&sni=gr.irantilci.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Green Web Samaneh Novin PJSC ┇ 185.213.165.107

@@ -1,1 +1,0 @@
-vless://deab5cc6-db0d-4fe8-92b8-31fcf0fd26cd@37.140.242.53:67?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=UJnDrgpwJmffiBUaX4myPjts_jpt_1bCEj9wuPQ_lGc&sid=af3ae38b31#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 37.140.242.53

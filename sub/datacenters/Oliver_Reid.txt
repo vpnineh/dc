@@ -1,1 +1,0 @@
-vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@195.184.247.252:7443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - Oliver Reid ┇ 195.184.247.252

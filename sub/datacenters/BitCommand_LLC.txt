@@ -1,1 +1,2 @@
 vless://62127868-c841-4f1b-9db7-35b220b0341d@156.241.0.50:52507?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 156.241.0.50
+vless://f5af2935-dea2-493b-bcff-fac415b101d0@89.251.8.203:53656?type=xhttp&security=none&path=/#TR 🇹🇷 ┇ VLESS-XHTTP-NTLS - BitCommand LLC ┇ 89.251.8.203

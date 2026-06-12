@@ -1,0 +1,1 @@
+vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.24:8443?type=tcp&security=reality#PK 🇵🇰 ┇ VLESS-TCP-RLT - Korea Telecom ┇ 45.197.134.24

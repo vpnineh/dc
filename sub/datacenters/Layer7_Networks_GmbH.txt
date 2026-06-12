@@ -1,0 +1,1 @@
+vless://e42ba8b5-cd50-4bbd-a5fb-cc9d6cf36e47@fra2.pandaonline.org:443?type=tcp&security=reality&sni=fra2.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=5RyOXahLcEFFL87HYxv-A_StNALGDp3Cy-KbnSKBkhE#FR 🇫🇷 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 194.24.161.150

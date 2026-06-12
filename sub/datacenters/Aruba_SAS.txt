@@ -1,2 +1,2 @@
-vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@de.mobileemdad.top:42538?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.50.194
 vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@am.nonpath.ir:42542?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.144
+vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@de.mobileemdad.top:42538?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.50.194

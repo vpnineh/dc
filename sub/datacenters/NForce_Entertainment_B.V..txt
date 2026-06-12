@@ -1,1 +1,2 @@
+vless://50bc3250-1cf5-4f2e-a06e-956242d3e914@84.32.10.63:23511?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 84.32.10.63
 vless://29586eab-99b8-4f3c-b433-aa8a8ff0e0c3@full.digifactorydez.shop:2052?type=ws&security=none&path=/connect#NL 🇳🇱 ┇ VLESS-WS-NTLS - NForce Entertainment B.V. ┇ 141.11.1.241

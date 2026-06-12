@@ -1,2 +1,2 @@
-vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 142.251.218.174
+vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 142.251.218.110
 vless://119dbe1c-ff6c-4d14-b168-a43892c66c7e@159.69.102.5:8842?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&sid=2a7f6b8788caca70#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 159.69.102.5

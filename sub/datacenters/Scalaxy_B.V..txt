@@ -1,2 +1,1 @@
-vless://b1074fc7-5e9f-4331-a4dd-c46cb7cd8e1a@dubai.gmax12.ir:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.105.33
 vless://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 38.180.104.124

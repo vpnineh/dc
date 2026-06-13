@@ -1,0 +1,1 @@
+vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - FSEC Teknoloji Ltd. Sti. ┇ 193.23.222.99

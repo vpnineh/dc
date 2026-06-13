@@ -1,1 +1,2 @@
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@newyorkcity.instasup.ir:1004?type=tcp&security=reality&path=/&sni=yahoo.com&fp=chrome&pbk=437UW8qHz_L4qlOZ_AgufdsA9me_uS5MWM-eptxM3w4&sid=998ad2ef2d977802#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 178.104.75.242
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 204.216.216.23

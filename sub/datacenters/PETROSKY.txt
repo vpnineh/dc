@@ -1,1 +1,0 @@
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@fra4.pandaonline.org:443?type=tcp&security=reality&sni=fra4.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=hRF-oscBJwfik4P4YkpNTxGYcM2kfJgJhG6zHxcDims#FR 🇫🇷 ┇ VLESS-TCP-RLT - PETROSKY ┇ 83.136.211.121

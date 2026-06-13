@@ -1,1 +1,0 @@
-vless://e81b3eeb-5c79-47c2-8196-722358e14acb@77.90.60.233:43000?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=a_OuNKLGp5Z2rLwuWKM1Y3pMbuGE78z5-L7c0p5hNUE&sid=f2059a31#DE 🇩🇪 ┇ VLESS-TCP-RLT - Tom Gewiese ┇ 77.90.60.233

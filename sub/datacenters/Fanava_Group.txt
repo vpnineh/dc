@@ -1,3 +1,2 @@
 vless://adb7b238-97d4-4843-9cd8-3e9bdcbdad72@185.143.233.5:2083?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
 vless://9c42f185-4b91-489c-87eb-5da10f9699ac@185.143.233.5:8443?type=ws&security=tls&path=/&sni=sub.sesrsa.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.5
-vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@varzesh3.com:2096?type=ws&security=tls&path=/&sni=Sha.artarona.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.232.201

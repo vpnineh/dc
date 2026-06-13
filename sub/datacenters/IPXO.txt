@@ -1,2 +1,1 @@
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@canada-1.pandaonline.org:443?type=tcp&security=reality&sni=canada-1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=E2WrtLdPasFBE6W9eMFwAK2cWV-QHmpFtBvjvI4Bmng#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 188.227.197.185

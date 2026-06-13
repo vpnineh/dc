@@ -1,2 +1,1 @@
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@usa-1.pandaonline.org:443?type=tcp&security=reality&sni=usa-1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=T5GnN8php2-J5Jawbhz1lt1OMa9553SVg1nh652T7g0#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 23.94.125.194
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?type=tcp&security=tls&sni=proxy.wastech.org#US 🇺🇸 ┇ VLESS-TCP-TLS - AS-COLOCROSSING ┇ 104.168.30.161

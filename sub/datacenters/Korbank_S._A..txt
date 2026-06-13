@@ -1,3 +1,1 @@
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@pl-3.pandaonline.org:443?type=tcp&security=reality&sni=pl-3.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=ONOR-MBmQKF8zCMtYML8YqNQY18UaGoWQX086dAXmic#PL 🇵🇱 ┇ VLESS-TCP-RLT - Korbank S. A. ┇ 83.168.88.143
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@pl-2.pandaonline.org:443?type=tcp&security=reality&sni=pl-2.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=8nKH8G-zPFcTUegyTT_bwRkSGR4ZTvWPXGEMHS_4JxQ#PL 🇵🇱 ┇ VLESS-TCP-RLT - Korbank S. A. ┇ 83.168.78.77
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@pol1.pandaonline.org:443?type=tcp&security=reality&sni=pol1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=IdybXRDMjWbBoaqkdSiGrD_y8Hjac6sexidfaxWC2mQ#PL 🇵🇱 ┇ VLESS-TCP-RLT - Korbank S. A. ┇ 212.127.91.16

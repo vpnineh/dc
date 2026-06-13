@@ -1,1 +1,0 @@
-vless://deefe818-f41c-4063-ac73-068b24528c03@mng.artmn.site:2086?type=tcp&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Cipher Operations Doo Beograd - Novi Beograd ┇ 62.60.188.218

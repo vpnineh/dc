@@ -1,2 +1,0 @@
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - PipeHost e.U. ┇ 185.224.3.29
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?type=tcp&security=reality&pbk=WeSh#LT 🇱🇹 ┇ VLESS-TCP-RLT - PipeHost e.U. ┇ 185.224.3.41

@@ -1,0 +1,2 @@
+vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=N2lNP_mURhdPm_2BPeT_dAkELQaCEjjdhOkd_j8hCiE&sid=6c8c7b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 37.140.242.53
+vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:2626?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=7EzXVyxyyUOhZf_qrxZ5ULLk3LmsUOkJNzb7iDjfHwM&sid=b5#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 37.140.242.53

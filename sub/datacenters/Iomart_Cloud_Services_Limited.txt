@@ -1,0 +1,2 @@
+vless://d4f626c4-2ca8-46b0-b626-9df4d8cdbf05@axs.amirxshot.ir:2095?type=ws&security=none&path=/axs#FR 🇫🇷 ┇ VLESS-WS-NTLS - Iomart Cloud Services Limited ┇ 163.5.94.13
+vless://d4f626c4-2ca8-46b0-b626-9df4d8cdbf05@104.27.23.251:8443?type=ws&security=tls&path=/axs&sni=axs.amirxshot.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Iomart Cloud Services Limited ┇ 104.27.23.251

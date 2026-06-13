@@ -1,4 +1,1 @@
-vless://98dac941-29f3-4335-a171-734353ac083e@116.203.6.53:8842?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&sid=2a7f6b8788caca70#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 116.203.6.53
-vless://6de3a5f8-b226-4da8-bfe3-d7bf0e5e7ed2@162.19.209.216:80?type=xhttp&security=reality&path=/&sni=www.google.com&fp=chrome&pbk=LJrnLxZCWQzQRa3TX_zgPna31YOp8S0jTYa53pG3oEo&sid=4c#US 🇺🇸 ┇ VLESS-XHTTP-RLT - GOOGLE ┇ 162.19.209.216
-vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 142.251.16.113
-vless://d01c0340-2e90-459f-8fb4-a02e39a8adbc@162.19.209.216:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=usQRr6D6_LrL1Ik9vFLlUUCXhM9OyfSXMC8LxCiVHx0&sid=85c7894f7e#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 162.19.209.216
+vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 173.194.194.139

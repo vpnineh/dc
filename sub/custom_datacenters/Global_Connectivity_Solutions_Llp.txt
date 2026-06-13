@@ -1,2 +1,2 @@
 vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&sid=3620820fe66d6731#FR 🇫🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 62.133.62.206
-vless://95e118b4-4352-4218-8493-f20cc7fc467a@nl08.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=nl08.abvpn.ru&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 5.253.59.100
+vless://95e118b4-4352-4218-8493-f20cc7fc467a@nl08.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=nl08.abvpn.ru#NL 🇳🇱 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 5.253.59.100

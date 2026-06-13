@@ -1,0 +1,1 @@
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@freeus.locklance.lol:443?type=tcp&security=reality&sni=freeus.locklance.lol&fp=chrome&flow=xtls-rprx-vision&pbk=pxLk0ocXqKYYqUFyALvH2BVXaswI-6NE00posKNayy0&sid=7eb2331808d544b2#CA 🇨🇦 ┇ VLESS-TCP-RLT - Black HOST Ltd ┇ 212.104.141.184

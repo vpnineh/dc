@@ -1,0 +1,1 @@
+vless://ae48ea84-53df-4f57-9c22-45217fdc722d@gb.farafile.com:443?type=httpupgrade&security=none&path=/getBookdata#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Noah Kolossa ┇ 206.245.166.42

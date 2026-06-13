@@ -1,0 +1,1 @@
+vless://92d41509-4228-43da-aebb-70b1d8d68f04@swiss.janusgate.org:443?type=tcp&security=reality&sni=swiss.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=76dc11867a5c907a#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 92.119.165.136

@@ -1,1 +1,1 @@
-vless://bf038412-931e-4b18-a6a7-32d09304f333@ge3.pandaonline.org:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - PFWeb Solutions ┇ 5.231.45.200
+vless://56eed40c-2e22-49a6-b76e-6866fdfcd5d8@ge3.pandaonline.org:443?type=tcp&security=none&sni=ge3.pandaonline.org&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - PFWeb Solutions ┇ 5.231.45.200

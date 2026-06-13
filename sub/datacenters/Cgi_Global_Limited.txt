@@ -1,2 +1,2 @@
-vless://0e37a246-c177-4116-876b-d17ef73ea11c@188.114.97.6:443?type=ws&security=tls&path=/amin&sni=dmx.ferrarikingfr.ir&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 188.114.97.6
 vless://e3f951ad-aab0-49e7-9ad2-be12d79a97f3@prsm.bearnetwork.ir:2044?type=ws&security=tls&path=/10040&sni=prsm.bearnetwork.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 95.182.96.183
+vless://5d67d4de-b8e7-45b3-8b44-00bbdb700d56@panel.ariyant.ir:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 185.92.181.137

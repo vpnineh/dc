@@ -1,1 +1,0 @@
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@pl-3.pandaonline.org:443?type=tcp&security=reality&sni=pl-3.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=ONOR-MBmQKF8zCMtYML8YqNQY18UaGoWQX086dAXmic#PL 🇵🇱 ┇ VLESS-TCP-RLT - Korbank S. A. ┇ 83.168.88.143

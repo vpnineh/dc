@@ -1,1 +1,2 @@
-vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 217.179.221.234
+vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?type=tcp&security=reality&sni=de.srv.anti-zapret.com&fp=chrome&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.235.143
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - IPXO ┇ 217.179.221.234

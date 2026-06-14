@@ -1,1 +1,0 @@
-vless://5841101e-0ac7-46a3-9a09-69d74b1af45a@212.87.199.188:1212?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.188

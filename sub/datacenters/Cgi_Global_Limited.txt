@@ -1,2 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDUuMzguNDIuMTM5IiwiYWRkIjoiZGUyLnlhcmlyZXNhbmJvdC5pciIsInBvcnQiOjUxNDE0LCJpZCI6IjM2OGM4NDBiLWY1ZGItNGRkYi04OGFjLTgxNDg5MDk4NjdmNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://368c840b-f5db-4ddb-88ac-8148909867f7@de2.yariresanbot.ir:14342?type=grpc&security=tls&sni=de2.yariresanbot.ir&fp=chrome#HK 🇭🇰 ┇ VLESS-GRPC-TLS - Cgi Global Limited ┇ 45.38.42.139
+vless://2e8c7f71-e3da-45e6-bdab-dda715beb364@cdh.pascalplus.com:46082?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.116.23

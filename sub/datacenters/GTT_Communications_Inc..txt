@@ -1,0 +1,1 @@
+vless://60dc64e0-f902-437e-bc8b-221415db0c37@prov.rgatak.ir:19371?type=ws&security=none&path=/graphql?ed=8080#US 🇺🇸 ┇ VLESS-WS-NTLS - GTT Communications Inc. ┇ 66.92.161.248

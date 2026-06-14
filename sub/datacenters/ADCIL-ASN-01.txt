@@ -1,2 +1,3 @@
-vless://84539eef-b551-4d41-b85f-4b07c83db922@bel1.pandaonline.org:443?type=tcp&security=reality&sni=bel1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.94.173
+vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.33
 vless://84539eef-b551-4d41-b85f-4b07c83db922@aut1.pandaonline.org:443?type=tcp&security=reality&sni=aut1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=u_XXbyCKtsoktrL7Fr18etd0GkXNnEI-YGKMuTywsEo#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.94.136
+vless://84539eef-b551-4d41-b85f-4b07c83db922@bel1.pandaonline.org:443?type=tcp&security=reality&sni=bel1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.94.173

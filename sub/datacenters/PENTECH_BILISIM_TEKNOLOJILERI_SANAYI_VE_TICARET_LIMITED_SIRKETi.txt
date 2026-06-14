@@ -1,1 +1,0 @@
-vless://a2ad7375-5610-411e-a7d0-e13d505c2ebc@188.114.97.6:443?type=ws&security=tls&path=/@VPNine1-@VPNine1-@VPNine1-@VPNine1&sni=watson.ferrarikingfr.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.114.97.6

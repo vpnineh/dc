@@ -1,1 +1,1 @@
-vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?type=ws&security=false&path=/vless&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - Clouvider Limited ┇ 195.54.161.222
+vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?type=ws&security=none&path=/vless#GB 🇬🇧 ┇ VLESS-WS-NTLS - Clouvider Limited ┇ 195.54.161.222

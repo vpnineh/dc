@@ -1,4 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyJ9
-vless://7cbabfe4-7d82-494e-be9f-486ba8a92b34@38.107.237.83:51576?type=ws&security=none&path=/download.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 38.107.237.83
-vless://8ee8d3e8-afc6-435a-b130-de65ee2fd93f@38.107.237.83:22484?type=ws&security=none&path=/vgdl.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 38.107.237.83
 vless://7dd33c4f-003a-4b18-b7f1-dcbd0d48233c@xn-usa.onlineblog.ir:20018?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.61

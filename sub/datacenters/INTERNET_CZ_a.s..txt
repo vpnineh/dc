@@ -1,1 +1,1 @@
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@194.182.77.110:8080?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.77.110
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@194.182.77.110:8080?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.77.110

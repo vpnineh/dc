@@ -1,2 +1,2 @@
-vless://9ddef725-f94a-4153-9c01-a6dc61061d58@rofflckek.dadashinet3223.shop:2044?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 66.92.161.14
+vless://9ddef725-f94a-4153-9c01-a6dc61061d58@lobgfvd.dadashinet10.ir:2044?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 66.92.161.14
 vless://60dc64e0-f902-437e-bc8b-221415db0c37@prov.rgatak.ir:19371?type=ws&security=none&path=/graphql?ed=8080#US 🇺🇸 ┇ VLESS-WS-NTLS - GTT Communications Inc. ┇ 66.92.161.248

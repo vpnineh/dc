@@ -1,1 +1,1 @@
-vless://e592c66c-7dda-4cbe-b26d-93a365b431c3@top395200747.mwscdn.ru:80?type=ws&security=none&path=/zuuvpn#RU 🇷🇺 ┇ VLESS-WS-NTLS - MTS PJSC ┇ 89.169.90.10
+vless://e592c66c-7dda-4cbe-b26d-93a365b431c3@89.169.90.8:80?type=ws&security=false&path=/zuuvpn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-NTLS - MTS PJSC ┇ 89.169.90.8

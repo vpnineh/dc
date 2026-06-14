@@ -1,1 +1,2 @@
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzaWF0ZWNoIERhdGEgVHJhbnNtaXNzaW9uIGNvbXBhbnkgXHUyNTA3IDc5LjEyNy41NC42NSIsImFkZCI6ImlpaXNlcnZlci5pbWFnaWNpYW4uc2hvcCIsInBvcnQiOjQ5MjM2LCJpZCI6ImFkNDk3MDkxLTJlYzUtNDdhMC04YjUxLWY2YjRlOWUwMzJkOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?type=tcp&security=none&path=//?ed=2048#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.127.68

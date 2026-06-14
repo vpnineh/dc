@@ -1,2 +1,1 @@
-vless://3489ff4a-61c6-4399-8982-65205054fade@ips.it.mobileemdad.top:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 66.71.134.135
 vless://muihzxwtdd@muihzxwtdd-19523160218-direct.irgame.co:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.218

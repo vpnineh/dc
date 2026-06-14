@@ -1,2 +1,2 @@
-vless://6c22648a-18f5-4249-9ace-72a1639d4190@nab.velizor.ir:6026?type=tcp&security=reality&sni=store.steampowered.com&fp=firefox&pbk=NdK-N9-1R_mUcyYg3kBYdlYed3B8RoZunnkBGJxiLXk&sid=765c6f#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.130.233
 vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:67?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=UJnDrgpwJmffiBUaX4myPjts_jpt_1bCEj9wuPQ_lGc&sid=e84c875d7a6dff13#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 37.140.242.53
+vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:8880?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&sid=0c82#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.166.66

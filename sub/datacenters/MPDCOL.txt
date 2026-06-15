@@ -1,2 +1,2 @@
+vless://7c352f3b-6535-788f-fb0c-f28a76d6deb6@rvg2-production.up.railway.app:443?type=ws&security=tls&path=/ws/7c352f3b-6535-788f-fb0c-f28a76d6deb6&sni=rvg2-production.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.10
 vless://9ede7f65-aa2c-09b1-3312-25625215edad@rvg-production-7c12.up.railway.app:443?type=ws&security=tls&path=/ws/9ede7f65-aa2c-09b1-3312-25625215edad&sni=rvg-production-7c12.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.113
-vless://7c352f3b-6535-788f-fb0c-f28a76d6deb6@rvg2-production.up.railway.app:443?type=ws&security=tls&path=/ws/7c352f3b-6535-788f-fb0c-f28a76d6deb6&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.10

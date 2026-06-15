@@ -1,7 +1,1 @@
-vless://84539eef-b551-4d41-b85f-4b07c83db922@aut1.pandaonline.org:443?type=tcp&security=reality&sni=aut1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=u_XXbyCKtsoktrL7Fr18etd0GkXNnEI-YGKMuTywsEo#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.94.136
-vless://84539eef-b551-4d41-b85f-4b07c83db922@bel1.pandaonline.org:443?type=tcp&security=reality&sni=bel1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.94.173
-vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@23.26.156.222:37870?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 23.26.156.222
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.230
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.101:4443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - ADCIL-ASN-01 ┇ 144.31.171.101
-vless://89bcf6ba-004f-4111-bd30-47117fb7b83c@belgium-1.pandaonline.org:443?type=tcp&security=reality&sni=belgium-1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=VfBonYfncgM6EJ66EW67ZfnZf213RMrWbYtJ3XwrUCc#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.94.168
-vless://cd0590c4-63c2-4ce3-a4e0-b54cc56bbe77@pl.viralforge.ru:443?type=tcp&security=reality&sni=pl.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.171.58
+vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.33

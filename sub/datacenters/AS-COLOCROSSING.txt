@@ -1,0 +1,1 @@
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?type=tcp&security=tls&sni=proxy.wastech.org#US 🇺🇸 ┇ VLESS-TCP-TLS - AS-COLOCROSSING ┇ 104.168.30.161

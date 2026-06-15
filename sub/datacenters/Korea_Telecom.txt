@@ -1,0 +1,2 @@
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?type=tcp&security=reality#PK 🇵🇰 ┇ VLESS-TCP-RLT - Korea Telecom ┇ 45.197.134.89
+vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?type=tcp&security=reality#PK 🇵🇰 ┇ VLESS-TCP-RLT - Korea Telecom ┇ 45.197.134.32

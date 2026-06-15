@@ -1,1 +1,1 @@
-vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?type=ws&security=none&path=/vless#PL 🇵🇱 ┇ VLESS-WS-NTLS - BlueVPS OU ┇ 193.200.16.127
+vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?type=ws&security=false&path=/vless&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-NTLS - BlueVPS OU ┇ 193.200.16.127

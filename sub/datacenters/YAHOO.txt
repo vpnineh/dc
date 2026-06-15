@@ -1,7 +1,0 @@
-vless://v2raydia@195.63.132.32:1354?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=AURWuYunMwPpW2BDy_Ra57mxc6kjzIbjoYxplQ7H3g8&sid=b794#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO ┇ 195.63.132.32
-vless://v2raydia@195.63.137.168:1354?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=AURWuYunMwPpW2BDy_Ra57mxc6kjzIbjoYxplQ7H3g8&sid=b794#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO ┇ 195.63.137.168
-vless://96a43fa5-389a-479b-9720-15d5be506c0b@195.63.137.168:2087?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&sid=9bdff2a614b9#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO ┇ 195.63.137.168
-vless://c8c77e5e-b217-4f4b-9933-1845bcf4152b@37.140.242.53:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=N2lNP_mURhdPm_2BPeT_dAkELQaCEjjdhOkd_j8hCiE&sid=c033aa73790986#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 37.140.242.53
-vless://96a43fa5-389a-479b-9720-15d5be506c0b@195.63.132.32:2087?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&sid=9bdff2a614b9#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO ┇ 195.63.132.32
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:2088?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&sid=03#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 104.252.89.70
-vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:2626?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=7EzXVyxyyUOhZf_qrxZ5ULLk3LmsUOkJNzb7iDjfHwM&sid=b5#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 37.140.242.53

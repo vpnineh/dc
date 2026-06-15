@@ -1,3 +1,3 @@
-vless://d0371fbb-df6f-4d1b-b451-d78c0a3492bc@ips.it.mobileemdad.top:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 209.227.239.178
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@ips.it.mobileemdad.top:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 209.227.239.178
 vless://d0371fbb-df6f-4d1b-b451-d78c0a3492bc@s1.gmax12.ir:42542?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52
 vless://muihzxwtdd@muihzxwtdd-19523160218-direct.irgame.co:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.218

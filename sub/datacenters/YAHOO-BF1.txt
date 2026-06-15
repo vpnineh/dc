@@ -1,2 +1,1 @@
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 204.216.216.23
-vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:3083?type=xhttp&security=reality&path=/api/v2/content&sni=yahoo.com&fp=chrome&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-BF1 ┇ 167.104.219.64

@@ -1,2 +1,1 @@
-vless://521479a8-f004-4b05-a2da-23627962bad6@37.140.242.53:67?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=UJnDrgpwJmffiBUaX4myPjts_jpt_1bCEj9wuPQ_lGc&sid=af3ae38b31#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 37.140.242.53
 vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:2087?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&sid=e2c7b3f517336f#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 104.252.89.70

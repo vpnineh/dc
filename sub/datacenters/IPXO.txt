@@ -1,2 +1,1 @@
-vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.246.173:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.246.173
-vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.245.211:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.245.211
+vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?type=tcp&security=reality&sni=de.srv.anti-zapret.com&fp=chrome&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.235.143

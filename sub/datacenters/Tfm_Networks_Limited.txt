@@ -1,0 +1,1 @@
+vless://6e25f7b4-efce-425a-af98-3f310623bfa2@ea.helexz.ir:8044?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Tfm Networks Limited ┇ 85.234.73.232

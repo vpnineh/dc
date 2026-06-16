@@ -1,0 +1,1 @@
+vless://5c076e5a-8388-4892-adcc-e7b372070769@185.212.129.155:443?type=grpc&security=none#VG 🇻🇬 ┇ VLESS-GRPC-NTLS - IT WEB LTD ┇ 185.212.129.155

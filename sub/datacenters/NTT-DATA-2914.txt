@@ -1,2 +1,1 @@
-vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@64.188.83.220:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.83.220
 vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.14.24

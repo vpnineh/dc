@@ -1,1 +1,0 @@
-vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.33

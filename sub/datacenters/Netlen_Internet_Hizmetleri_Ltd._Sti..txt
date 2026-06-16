@@ -1,1 +1,0 @@
-vless://16fcca73-9e05-4efe-af2d-a643d891899c@ista.yellowsky.ir:8084?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.58

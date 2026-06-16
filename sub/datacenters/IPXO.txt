@@ -1,1 +1,2 @@
-vless://a68aebf5-29d0-4bca-9065-7477872d8b83@ch.viralforge.ru:443?type=tcp&security=reality&sni=ch.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.239.255
+vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.246.173:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.246.173
+vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.245.211:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.245.211

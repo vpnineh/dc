@@ -1,1 +1,2 @@
+vless://1b5a4488-d2c1-495b-af79-99534e5b1bd3@seti.wizardp.org:2045?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.224.100
 vless://monacoVPN@83.228.228.44:22?type=tcp&security=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.44

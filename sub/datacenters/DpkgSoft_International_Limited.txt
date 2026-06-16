@@ -1,0 +1,1 @@
+vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@193.233.253.238:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 193.233.253.238

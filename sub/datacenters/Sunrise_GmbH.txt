@@ -1,1 +1,2 @@
-vless://d20e61d1-6290-4da6-b389-0a857f3523d8@upload.vipshopiran.ir:8080?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.53
+vless://d20e61d1-6290-4da6-b389-0a857f3523d8@upload.vipshopiran.ir:8080?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.53
+vless://7924ec98-d38f-4ccb-866f-f246a2ca9a32@178.83.45.61:443?type=httpupgrade&security=none&path=/Tel:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1:@VPNine1#CH 🇨🇭 ┇ VLESS-HTTPUPGRADE-NTLS - Sunrise GmbH ┇ 178.83.45.61

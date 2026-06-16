@@ -1,2 +1,2 @@
-vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@178.18.147.252:7444?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 178.18.147.252
-vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@178.18.147.252:2053?type=tcp&security=reality&sni=nl-t.vinnypuxtomoon.today&flow=xtls-rprx-vision&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#DE 🇩🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 178.18.147.252
+vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@178.18.147.252:2053?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 178.18.147.252
+vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@178.18.147.252:7444?type=grpc&security=reality&sni=nl-t.vinnypuxtomoon.today&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#DE 🇩🇪 ┇ VLESS-GRPC-RLT - IS-AS-1 ┇ 178.18.147.252

@@ -1,2 +1,0 @@
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@log.horluma.ir:42268?type=httpupgrade&security=none&path=/#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 178.208.187.43
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@log.horluma.ir:21289?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 178.208.187.43

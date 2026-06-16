@@ -1,2 +1,2 @@
-vless://05198e9e-5a3a-40ba-9e57-68afbf30dafc@dockvpn.duclygo.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 188.209.153.183
 vless://279d48b9-7a71-409b-ab33-6277e98dee82@bigblackduck.duclygo.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 188.209.153.119
+vless://05198e9e-5a3a-40ba-9e57-68afbf30dafc@dockvpn.duclygo.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 188.209.153.183

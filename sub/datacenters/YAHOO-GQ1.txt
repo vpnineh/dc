@@ -1,3 +1,0 @@
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@error.horluma.ir:5039?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&sid=57c62818ab48e647#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 185.186.78.33
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@dash.horluma.ir:5039?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&sid=57c62818ab48e647#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 155.117.5.160
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 204.216.216.23

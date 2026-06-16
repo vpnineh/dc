@@ -1,2 +1,0 @@
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@error.horluma.ir:21289?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.78.33
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@error.horluma.ir:42268?type=httpupgrade&security=none&path=/#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - BrainStorm Network, Inc ┇ 185.186.78.33

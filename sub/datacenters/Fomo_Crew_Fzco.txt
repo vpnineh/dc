@@ -1,1 +1,1 @@
-vless://195cb1c3-1929-4f50-89d4-52294973e960@nile.1ga.shop:1080?type=ws&security=tls&path=/stefan&sni=nile.1ga.shop&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Fomo Crew Fzco ┇ 89.34.230.173
+vless://a2ad7375-5610-411e-a7d0-e13d505c2ebc@188.114.97.6:443?type=ws&security=tls&path=/watson&sni=watson.ferrarikingfr.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Fomo Crew Fzco ┇ 188.114.97.6

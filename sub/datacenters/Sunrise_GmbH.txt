@@ -1,3 +1,3 @@
-vless://d20e61d1-6290-4da6-b389-0a857f3523d8@upload.vipshopiran.ir:8080?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.53
-vless://d20e61d1-6290-4da6-b389-0a857f3523d8@www.chatgpt.com:443?type=ws&security=tls&path=/ws?ed=2560&sni=download.myvipnet.com&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-TLS - Sunrise GmbH ┇ 172.64.155.209
+vless://6df7fa53-2ecd-4c59-860a-99ee97298e56@ger.manivpn.info:2083?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.46.74
 vless://ea52d40f-be17-4789-91ec-55d7bb1821f2@neymar.ariyant.ir:80?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Sunrise GmbH ┇ 84.75.220.212
+vless://d20e61d1-6290-4da6-b389-0a857f3523d8@upload.vipshopiran.ir:8080?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.53

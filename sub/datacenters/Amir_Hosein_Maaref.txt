@@ -1,2 +1,1 @@
-vless://5cfbb53f-7fff-4fd7-a057-34e08f2170f7@z9.asamping.ir:2052?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amir Hosein Maaref ┇ 62.60.195.78
 vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.216

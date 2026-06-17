@@ -1,1 +1,1 @@
-vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@nl-rh-modx.webedg.net:443?type=tcp&security=reality&sni=nl-rh-modx.webedg.net&fp=firefox&flow=xtls-rprx-vision&pbk=_1Z829fxl3oG_04DtAWpNtPbnwu0Y4n8C7bIwgCi8ww#NL 🇳🇱 ┇ VLESS-TCP-RLT - RoyaleHosting BV ┇ 109.205.63.187
+vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@nl-rh-modx.webedg.net:443?type=tcp&security=reality&sni=nl-rh-modx.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=_1Z829fxl3oG_04DtAWpNtPbnwu0Y4n8C7bIwgCi8ww#NL 🇳🇱 ┇ VLESS-TCP-RLT - RoyaleHosting BV ┇ 109.205.63.187

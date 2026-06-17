@@ -1,2 +1,2 @@
 vless://8882c88f-e5d5-4519-938e-3c0f60c61c92@www.jorquna.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hbpFLj1gfVXbx0Hae2bvMIZIaBwJcVG71XiEDkSD0&sid=21cee1c9ab#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 178.105.179.72
-vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 142.251.218.78
+vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 142.251.40.110

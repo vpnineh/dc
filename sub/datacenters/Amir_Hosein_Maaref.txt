@@ -1,1 +1,2 @@
+vless://a5f574a3-9f5d-4272-a627-5bbfb3ab8363@193.176.240.129:2096?type=ws&security=tls&path=/&sni=SG4.artarona.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Amir Hosein Maaref ┇ 193.176.240.129
 vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.216

@@ -1,2 +1,2 @@
-vless://5637b0df-1038-45d8-899f-3be63423a7f0@game.darkrout.sbs:47072?type=tcp&security=tls&fp=chrome#AU 🇦🇺 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 82.115.13.37
+vless://5637b0df-1038-45d8-899f-3be63423a7f0@game.darkrout.sbs:47072?type=tcp&security=tls&sni=game.darkrout.sbs&fp=chrome#AU 🇦🇺 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 82.115.13.37
 vless://487d4a23-be7d-45b4-8a20-671c9ff38319@202.133.91.38:42767?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.91.38

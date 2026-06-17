@@ -1,1 +1,0 @@
-vless://ea555495-6aef-4779-b68f-84e82579cd60@dockvpn.duclygo.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 188.209.153.183

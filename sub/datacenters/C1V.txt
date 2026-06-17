@@ -1,0 +1,1 @@
+vless://49b9b2fc-707d-4f77-a3af-e861845108cc@guitar.novamusic.site:42542?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - C1V ┇ 152.89.168.240

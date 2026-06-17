@@ -1,1 +1,0 @@
-vless://23da5a00-fc4b-4340-a529-c98ac0ce2279@de22.nomac.ir:8080?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.33

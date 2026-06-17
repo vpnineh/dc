@@ -1,2 +1,1 @@
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality&sni=cdn.cdnjst.org&fp=chrome&flow=xtls-rprx-vision&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.33
-vless://94d7eefa-5c27-4c82-b159-6048c351fb9a@144.31.230.169:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.230.169

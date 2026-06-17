@@ -1,11 +1,7 @@
-vless://0ef72acc-d951-48b9-ae22-4e686cf3c698@2khj9moi90dc.2prax.com:32764?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.244.166
 vless://ab853e88-a702-44cc-8743-38d8da36f32b@bot-prx-d6q3kz.samanidempire.org:443?type=ws&security=tls&path=/28383775#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 95.179.244.43
-vless://23da5a00-fc4b-4340-a529-c98ac0ce2279@fr4.nomac.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.8.194
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3OC4xNDEuMjE1LjYyIiwiYWRkIjoiNzguMTQxLjIxNS42MiIsInBvcnQiOjQ0MywiaWQiOiJhZmQ0NTQxOS1jZmZhLTRmMWItOTkwYS01MTFhYWI2ZWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?type=tcp&security=tls&sni=assets.trorays.com&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - AS-VULTR ┇ 139.180.192.228
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
 vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 78.141.215.62
-vless://23da5a00-fc4b-4340-a529-c98ac0ce2279@nl22.nomac.ir:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.76.35.252
-vless://23da5a00-fc4b-4340-a529-c98ac0ce2279@pl2.nomac.ir:8080?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 64.176.74.11
-vless://23da5a00-fc4b-4340-a529-c98ac0ce2279@cdn8.nomac.ir:2082?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 70.34.218.10
-vless://23da5a00-fc4b-4340-a529-c98ac0ce2279@se4.nomac.ir:8080?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.218.10
-vless://23da5a00-fc4b-4340-a529-c98ac0ce2279@usa2.nomac.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.77.96.226
+vless://4bd12565-65e2-4980-afdb-1e1108aeb1a2@ultra.fifacoin.top:443?type=ws&security=tls&path=/downloader/27201&sni=ultra.fifacoin.top#NL 🇳🇱 ┇ VLESS-WS-TLS - AS-VULTR ┇ 95.179.187.180
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3OC4xNDEuMjE1LjYyIiwiYWRkIjoiNzguMTQxLjIxNS42MiIsInBvcnQiOjQ0MywiaWQiOiJhZmQ0NTQxOS1jZmZhLTRmMWItOTkwYS01MTFhYWI2ZWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://c77d5867-7528-4062-8370-700eaf351560@pl2.nomac.ir:8080?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 64.176.74.11

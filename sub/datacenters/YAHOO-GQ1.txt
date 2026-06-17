@@ -1,2 +1,1 @@
-vless://9aeb91f7-c539-4f15-8fbd-fb17efaca0e6@188.121.109.55:7070?type=xhttp&security=reality&path=/&sni=yahoo.com&fp=chrome&pbk=21QFtGSVwdLL6kMerVKplDPxhPIrlxMTHDrt73Fy21M&sid=b7#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-GQ1 ┇ 188.121.109.55
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 204.216.216.23

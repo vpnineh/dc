@@ -1,1 +1,0 @@
-vless://b89eaab9-485d-44a2-b718-24342c57b013@185.226.93.11:443?type=tcp&security=tls&fp=random#TR 🇹🇷 ┇ VLESS-TCP-TLS - Big Core LLC ┇ 185.226.93.11

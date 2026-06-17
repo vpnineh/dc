@@ -1,6 +1,2 @@
-vless://befafcda-0ac1-47e9-bd31-3c29f00a9d1a@45.198.91.71:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 45.198.91.71
 vless://9865cd7b-f359-414d-a015-f69a88f25bde@45.198.108.115:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 45.198.108.115
-vless://67b1317d-905c-42d8-abf3-dd1301c62316@45.198.91.118:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 45.198.91.118
-vless://befafcda-0ac1-47e9-bd31-3c29f00a9d1a@45.198.91.249:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 45.198.91.249
-vless://598160c6-982d-4b2d-8218-c8ab745f7677@45.206.0.32:8443?type=tcp&security=reality#TW 🇹🇼 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 45.206.0.32
-vless://befe7627-61aa-4b19-9f26-43923d89ebe5@154.222.9.48:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 154.222.9.48
+vless://eabd29d4-9b74-454f-bd80-536eb4e9eaf2@154.222.9.48:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 154.222.9.48

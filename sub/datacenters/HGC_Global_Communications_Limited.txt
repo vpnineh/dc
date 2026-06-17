@@ -1,0 +1,2 @@
+vless://a8301ae5-8530-43c7-b21e-72678f83aec2@fr.ggrandommspg.shop:5050?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.222
+vless://23da5a00-fc4b-4340-a529-c98ac0ce2279@fr2.nomac.ir:8080?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.79

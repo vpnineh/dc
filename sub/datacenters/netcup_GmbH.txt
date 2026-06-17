@@ -1,2 +1,2 @@
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.47.24:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.47.24
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.45.123:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.45.123
 vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.44.148:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.44.148

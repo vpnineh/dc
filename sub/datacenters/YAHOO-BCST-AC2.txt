@@ -1,2 +1,0 @@
-vless://2e38d383-cda5-43d6-a7e1-db45800597a7@hm.khoycityman.ir:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&sid=8792#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 37.140.242.53
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:2088?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&sid=03#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 104.252.89.70

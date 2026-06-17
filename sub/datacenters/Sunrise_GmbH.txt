@@ -1,1 +1,2 @@
-vless://d20e61d1-6290-4da6-b389-0a857f3523d8@upload.vipshopiran.ir:8080?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.53
+vless://5314ab7e-c093-40f1-8798-fd4ac7eab69a@app.donyayetahllil.ir:8080?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.89
+vless://d20e61d1-6290-4da6-b389-0a857f3523d8@upload.vipshopiran.ir:8080?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.53

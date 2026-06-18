@@ -1,0 +1,1 @@
+vless://57c7030e-d72b-4e8d-bc5b-8bc534763128@netnab2.dgrozz.ir:48405?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - HDM Dijital Hizmetleri Ticaret Limited Sirketi ┇ 45.95.65.20

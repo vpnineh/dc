@@ -1,1 +1,0 @@
-vless://850cfa47-9e28-4a81-af93-32ef77b07ae6@23.230.14.168:37750?type=ws&security=none&path=/ws#LU 🇱🇺 ┇ VLESS-WS-NTLS - AS40676 ┇ 23.230.14.168

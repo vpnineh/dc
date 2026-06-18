@@ -1,5 +1,2 @@
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.110.110.206
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
-vless://f5f6f962-2f3f-4c61-81a3-d84ee505c568@109.120.179.55:3874?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.179.55
-vless://e6ff4daa-f49d-45a6-82a5-4284b17a34af@fl.hamrah-tel.shop:2053?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 138.124.92.189
-vless://3584a1b7-2951-4195-af81-ef46f290ab98@91.193.58.201:443?type=ws&security=tls&path=/&sni=GGNL.downloadgameiran.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 91.193.58.201
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142

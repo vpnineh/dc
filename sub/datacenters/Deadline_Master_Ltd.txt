@@ -1,0 +1,1 @@
+vless://82580522-16db-4e95-a5a6-33e3c76dfb04@82.26.94.56:443?type=ws&security=none&path=/api/v2/sync/k9x3f1#GB 🇬🇧 ┇ VLESS-WS-NTLS - Deadline Master Ltd ┇ 82.26.94.56

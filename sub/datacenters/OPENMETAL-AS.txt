@@ -1,1 +1,2 @@
+vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@news.microsoft.com:443?type=xhttp&security=tls&path=/@MrNexTV2RAY&sni=fl.gamelistak.com&fp=chrome#MF 🇲🇫 ┇ VLESS-XHTTP-TLS - OPENMETAL-AS ┇ 141.193.213.20
 vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@fl.gamelistak.com:443?type=xhttp&security=tls&path=/@MrNexTV2RAY&fp=chrome#MF 🇲🇫 ┇ VLESS-XHTTP-TLS - OPENMETAL-AS ┇ 91.186.221.70

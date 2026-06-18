@@ -1,1 +1,1 @@
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@am.nonpath.ir:42542?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.144
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@am.nonpath.ir:42542?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.63

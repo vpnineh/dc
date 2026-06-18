@@ -1,1 +1,2 @@
-vless://befe7627-61aa-4b19-9f26-43923d89ebe5@154.222.9.48:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 154.222.9.48
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@45.206.0.32:8443?type=tcp&security=reality#TW 🇹🇼 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 45.206.0.32
+vless://39c61035-36aa-4892-8cf8-b6f3ffc0b145@45.206.0.36:8443?type=tcp&security=reality#TW 🇹🇼 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 45.206.0.36

@@ -1,1 +1,0 @@
-vless://afb92a33-aa0e-4066-a10f-edbbfdc57d9e@104.17.148.22:2096?type=ws&security=tls&path=/&sni=GGIT.iranucshop.ir&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - HGC Global Communications Limited ┇ 104.17.148.22

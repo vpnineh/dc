@@ -1,1 +1,2 @@
+vless://2720ac74-5eca-46fb-a1c6-102108056643@faradadeh.xyz:443?type=ws&security=tls&path=wp-content/uploads/2026/06/video.php&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 89.39.208.235
 vless://e6d74f1f-bce5-43e3-b65a-63bb6d825764@tun2.axenet.company:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 217.144.104.176

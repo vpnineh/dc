@@ -1,4 +1,3 @@
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@s1.gmax12.ir:42542?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52
 vless://muihzxwtdd@muihzxwtdd-19523160218-direct.irgame.co:443?type=tcp&security=tls&sni=muihzxwtdd-19523160218-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.218
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@ips.it.mobileemdad.top:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 209.227.239.114
-vless://winq35461s@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@ips.it.mobileemdad.top:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 66.71.134.41
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@s1.gmax12.ir:42542?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52

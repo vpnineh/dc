@@ -1,1 +1,2 @@
 vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - LUCIDACLOUD LIMITED ┇ 45.152.67.34
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?type=tcp&security=none👉🆔freenettir📡🇭🇰®️Hong#HK 🇭🇰 ┇ VLESS-TCP-NTLS - LUCIDACLOUD LIMITED ┇ 83.229.126.127

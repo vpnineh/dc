@@ -1,2 +1,1 @@
-vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@132.243.209.198:37870?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.209.198
-vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@132.243.236.133:22329?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.236.133
+vless://59d4ea09-0804-4694-ad20-281d8396ddbc@de-cdn.doggoapp.net:443?type=ws&security=tls&path=/ws-vless&sni=de-cdn.doggoapp.net#US 🇺🇸 ┇ VLESS-WS-TLS - NCR-252 ┇ 135.106.144.141

@@ -1,0 +1,1 @@
+vless://053df5bd-4852-4538-b5c0-983d60f44f4f@aa.alimv82.ir:443?type=xhttp&security=tls&path=/api&sni=aa.alimv82.ir&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - CENTURYLINK-LEGACY-SAVVIS ┇ 104.253.43.153

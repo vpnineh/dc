@@ -1,1 +1,0 @@
-vless://5314ab7e-c093-40f1-8798-fd4ac7eab69a@www.chatgpt.com:443?type=ws&security=tls&sni=upload.myvipnet.com&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-TLS - Sunrise GmbH ┇ 104.18.32.47

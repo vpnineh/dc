@@ -1,1 +1,4 @@
+vless://c77d5867-7528-4062-8370-700eaf351560@turk.nomac.ir:8443?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=K5-jL-m537jMtxDUTfl1FW9EnWdHjJOBECdxbOGAcQI&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 93.114.98.197
+vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 70.34.218.10
+vless://c55556b5-3593-46d6-b235-73036a8f3099@167.233.66.36:55555?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&sid=880eeeef4927eed5#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 167.233.66.36
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 204.216.216.23

@@ -1,1 +1,1 @@
-vless://69cdcb76-3be8-4ffc-8826-92c481c931e4@zx.hostxyz.ir:53925?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Infinity Information Technology ┇ 31.57.157.168
+vless://38b4b113-ae06-46ea-bad3-78f76e90998e@zx.hostxyz.ir:53925?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Infinity Information Technology ┇ 31.57.157.168

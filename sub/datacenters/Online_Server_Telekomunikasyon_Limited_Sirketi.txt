@@ -1,1 +1,0 @@
-vless://855f113f-71a9-4dda-9a63-a07553b57526@tr2.mycloud1.org:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#TR 🇹🇷 ┇ VLESS-TCP-RLT - Online Server Telekomunikasyon Limited Sirketi ┇ 45.136.5.166

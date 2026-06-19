@@ -1,0 +1,1 @@
+vless://ba03fb27-c7b6-4eb5-b15d-aa4cb8df92cf@sinavip1.cnavippanel.com:8090?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.213

@@ -1,2 +1,1 @@
-vless://9dbc3a2d-ea47-4f87-a370-d65d15309c03@87.107.82.26:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.82.26
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJlc3BpbmEgTmV0d29ya3MgJiBCZXlvbmQgUEpTQyBcdTI1MDcgODEuMTIuODAuMTE5IiwiYWRkIjoic3RhbmRhcmQzLmV6MDUzNS5pciIsInBvcnQiOjQ0MywiaWQiOiIzNGU4MDYyZC1hNjI2LTRiOGMtOGEwZC04MzBjMTNjOTI2MDQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://bd3330c2-c14e-40e3-a3c3-827f3e00ed3b@87.107.82.26:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.82.26

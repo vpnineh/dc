@@ -1,2 +1,2 @@
-vless://ba03fb27-c7b6-4eb5-b15d-aa4cb8df92cf@sinavip1.cnavippanel.com:8090?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.170
+vless://5314ab7e-c093-40f1-8798-fd4ac7eab69a@www.chatgpt.com:443?type=ws&security=tls&path=/ws?ed=#TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr?ed=2560&sni=upload.myvipnet.com&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-TLS - Sunrise GmbH ┇ 104.18.32.47
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFN1bnJpc2UgR21iSCBcdTI1MDcgMTc4LjgzLjQ2LjIxMyIsImFkZCI6InNpbmF2aXAuY25hdmlwcGFuZWwuY29tIiwicG9ydCI6MTU0NiwiaWQiOiI2OTE3YzA1ZS04MTBjLTQ0Y2UtYTQ1MC1kMGUwMjkzZDdmMzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0

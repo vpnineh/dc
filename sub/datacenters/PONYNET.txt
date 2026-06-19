@@ -1,2 +1,1 @@
 vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?type=ws&security=tls&path=/ws&sni=107.189.7.176&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS - PONYNET ┇ 107.189.7.176
-vless://e1fd203d-fd16-40f1-80ed-f335aa9ac7ad@199.195.254.136:32894?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - PONYNET ┇ 199.195.254.136

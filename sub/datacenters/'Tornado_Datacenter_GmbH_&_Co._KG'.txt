@@ -1,1 +1,1 @@
-vless://05671cd1-ab2f-4f64-a926-b655f199a23d@104.194.148.56:22263?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.56
+vless://239b795b-41ab-42de-8c9b-1ea8f6f4fc7a@codprizes.com:22885?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.193

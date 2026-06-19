@@ -1,2 +1,2 @@
 vless://18323cf8-8def-4456-9ac7-ec5cb7cceae1@fr.eorqen.ir:8086?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.156
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@am.nonpath.ir:42542?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.144
+vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@am.nonpath.ir:42542?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.63

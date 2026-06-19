@@ -1,2 +1,2 @@
-vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?type=tcp&security=none&path=/@mahdi_383ir#AT 🇦🇹 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.6.112.232
+vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.56
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241

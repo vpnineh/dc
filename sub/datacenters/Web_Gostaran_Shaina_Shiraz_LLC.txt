@@ -1,1 +1,1 @@
-vless://7b4fa63d-c22e-4e0a-8de0-f9f87a54c51e@panel.renvaro.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 195.234.80.112
+vless://e2647246-df60-4cf5-840a-c71c625e9a90@panel.renvaro.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 195.234.80.112

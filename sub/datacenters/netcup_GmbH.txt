@@ -1,1 +1,1 @@
-vless://a5764276-dcdb-4f57-973e-d6969bc44d3a@au.save-node.com:443?type=tcp&security=reality&sni=au.save-node.com&fp=firefox&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=5d8e1a9c4f72b3#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.18.252
+vless://a5764276-dcdb-4f57-973e-d6969bc44d3a@au.save-node.com:443?type=tcp&security=reality&sni=au.save-node.com&fp=firefox&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=5d8e1a9c4f72b3#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.48.91

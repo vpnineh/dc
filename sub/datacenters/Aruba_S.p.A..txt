@@ -1,1 +1,2 @@
 vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://52333a88-607c-4484-be97-451f625e6c50@s1.gmax12.ir:42542?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52

@@ -1,1 +1,1 @@
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?type=tcp&security=tls&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.120.166.118
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?type=tcp&security=tls&sni=vpn.oplatasite.ru&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.120.166.118

@@ -1,2 +1,1 @@
-vless://373681d6-bee9-4d7d-9712-0427790b1d47@192.166.82.185:27258?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HVC-AS ┇ 192.166.82.185
 vless://8440c9e5-3a24-49cd-8fdd-f140dcb1b8c7@37.1.212.241:5262?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HVC-AS ┇ 37.1.212.241

@@ -1,1 +1,0 @@
-vless://55419186-0d66-4fdf-96dc-1ffed00017d6@cdn-se-01.app-sc.com:443?type=tcp&security=reality&sni=cdn-se-01.app-sc.com&fp=chrome&flow=xtls-rprx-vision&pbk=ra0_KZBydcQXOsom9LxqRFjO4NBWY828DaTO6yHXvHY&sid=6103629de27adbff#RU 🇷🇺 ┇ VLESS-TCP-RLT - WS Telecom Inc ┇ 45.80.229.101

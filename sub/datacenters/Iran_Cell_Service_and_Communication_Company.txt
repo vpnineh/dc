@@ -1,1 +1,0 @@
-vless://21784e1c-392e-4c5f-b50a-9f8a49f87e9a@2.144.5.90:8443?type=ws&security=none&path=/Stream#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iran Cell Service and Communication Company ┇ 2.144.5.90

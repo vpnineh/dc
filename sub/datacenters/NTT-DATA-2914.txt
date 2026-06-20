@@ -1,1 +1,0 @@
-vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 130.94.45.81

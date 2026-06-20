@@ -1,1 +1,0 @@
-vless://fa6b9aea-3d85-4a37-862e-adc253db2d9c@moshaknet.shop:25934?type=tcp&security=tls&sni=moshaknet.shop&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 79.175.149.249

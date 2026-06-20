@@ -1,1 +1,1 @@
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?type=xhttp&security=none&path=/xhttp#GB 🇬🇧 ┇ VLESS-XHTTP-NTLS - MIRhosting B.V. ┇ 45.81.35.125
+vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - MIRhosting B.V. ┇ 45.81.35.125

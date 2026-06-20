@@ -1,1 +1,0 @@
-vless://4d36a96e-0c0c-4704-8e18-f33947c99363@server.kyra-server.ir:443?type=ws&security=none&path=/wss#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 77.74.202.146

@@ -1,3 +1,3 @@
 vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.111.54
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:10958?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - EGIHOSTING ┇ 104.252.89.70
 vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:41756?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.89.70
+vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:10958?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - EGIHOSTING ┇ 104.252.89.70

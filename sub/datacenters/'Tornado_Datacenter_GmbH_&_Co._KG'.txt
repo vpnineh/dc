@@ -1,1 +1,0 @@
-vless://239b795b-41ab-42de-8c9b-1ea8f6f4fc7a@codprizes.com:22885?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.193

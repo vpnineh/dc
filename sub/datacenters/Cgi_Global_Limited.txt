@@ -1,3 +1,3 @@
 vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.230.9
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gQ2dpIEdsb2JhbCBMaW1pdGVkIFx1MjUwNyAxMDkuMjQ4LjE2MS4xODciLCJhZGQiOiJraWxpbWUueHViaS5vcmciLCJwb3J0IjoyMTg3MCwiaWQiOiIxNTg0ZGI0Yy1jNWFhLTQ4OTItYjlkOS04NjhmNmRjMTRmNGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://3a83395c-7ae8-4a77-bf6a-3380e342289c@kilime.xubi.org:2?type=xhttp&security=none&path=/#IN 🇮🇳 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 109.248.161.187
 vless://7dd1d87a-93fb-47ec-8904-3d98e4d239eb@sanei.ariyant.ir:2087?type=ws&security=tls&path=/&sni=sanei.ariyant.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 95.182.114.211

@@ -1,0 +1,1 @@
+vless://fe210c0f-c94e-43ad-88f4-73edddd4289a@ip1.nimternet.com:2087?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 94.139.180.141

@@ -1,1 +1,2 @@
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 193.168.3.26
+vless://609b91e0-62a3-4338-82a8-16d75e1cea79@ru1.coconutstrip.co:443?type=tcp&security=reality&sni=ru1.coconutstrip.co&flow=xtls-rprx-vision&pbk=7WhA-qKOcqhP_WIJQSwTKoO7PiaeAHvxEwpMmnXnCSk#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 82.97.248.173
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=/api/connect&sni=wstg.datasynctrue.online&fp=qq&pbk=LEUuplvXcqqtM3Ni76v7_rTQzzmZWVk3hF0SjdPAKz8&sid=dd3b257eabe14d18#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 91.210.169.181

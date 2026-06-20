@@ -1,2 +1,1 @@
-vless://30d89a94-730b-4141-8eda-9280118bfab7@iiiiserver.imagician.shop:45617?type=xhttp&security=none&path=/GyJhshsqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NkZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Asiatech Data Transmission company ┇ 79.127.54.65
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?type=tcp&security=none&path=//?ed=2048#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.127.68

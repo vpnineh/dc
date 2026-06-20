@@ -1,4 +1,3 @@
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@8.6.112.62:2052?type=xhttp&security=none&path=/pabloping#AT 🇦🇹 ┇ VLESS-XHTTP-NTLS - LEVEL3 ┇ 8.6.112.62
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.30:8880?type=ws&security=none&path=/?ed=2560#KR 🇰🇷 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.34.70.30
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
-vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.56

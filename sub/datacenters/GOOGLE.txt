@@ -1,3 +1,2 @@
-vless://256e0dea-78cf-44a5-945c-a170303dace8@195.133.93.39:443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=tehEdgeGxaEl2Rwke0ok5ojcJjamAXvnRhy_CBjilVM&sid=8610f67d462bdb76#US 🇺🇸 ┇ VLESS-GRPC-RLT - GOOGLE ┇ 195.133.93.39
+vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 142.250.73.142
 vless://8e310f61-f5e2-40e6-9c62-da6ee15435cf@116.203.6.53:8842?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&sid=2a7f6b8788caca70#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 116.203.6.53
-vless://55ecc44d-53cd-46ee-8e13-a6f3e8e1db04@google.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 142.251.218.142

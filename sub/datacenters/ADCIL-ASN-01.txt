@@ -1,2 +1,2 @@
-vless://278f52f9-99fc-447c-94d0-ada8f9800703@helsinkiflyservice.com:446?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.232.70
+vless://8684c32b-2ffb-4b75-802a-76f90fb15cba@helsinkiflyservice.com:446?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.232.70
 vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@pl.viralforge.ru:443?type=tcp&security=reality&sni=pl.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.171.58

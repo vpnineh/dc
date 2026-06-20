@@ -1,1 +1,0 @@
-vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?type=ws&security=tls&path=/ws&sni=107.189.7.176&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS - PONYNET ┇ 107.189.7.176

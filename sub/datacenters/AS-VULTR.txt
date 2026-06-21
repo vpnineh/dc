@@ -1,6 +1,10 @@
-vless://82e3c8a0-e972-4785-b4a6-cae43969fb05@fr1.nomac.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.8.194
-vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?type=tcp&security=tls&sni=assets.trorays.com&fp=chrome&flow=xtls-rprx-vision#IL 🇮🇱 ┇ VLESS-TCP-TLS - AS-VULTR ┇ 64.177.68.93
-vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 78.141.215.62
-vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
+vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:32567?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - AS-VULTR ┇ 136.244.84.128
+vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:23457?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 136.244.84.128
+vless://e4035d90-d0a8-4133-b679-d57766106b31@fr1.nomac.ir:8080?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.8.194
+vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?type=tcp&security=tls&sni=assets.trorays.com&fp=chrome&flow=xtls-rprx-vision-udp443#IL 🇮🇱 ┇ VLESS-TCP-TLS - AS-VULTR ┇ 64.177.68.93
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3OC4xNDEuMjE1LjYyIiwiYWRkIjoiNzguMTQxLjIxNS42MiIsInBvcnQiOjQ0MywiaWQiOiJhZmQ0NTQxOS1jZmZhLTRmMWItOTkwYS01MTFhYWI2ZWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
+vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 78.141.215.62
+vless://2ef5251a-dc71-49b2-85bc-c9c56654d857@70.34.243.28:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.243.28
 vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.218.10
+vless://3d8b5191-7ff5-4fac-ac6e-1d6bedefff4e@sub.ashii.ir:8080?type=httpupgrade&security=none&path=/fK0IrRsJlxCFK0xGQ7&sni=sub.ashii.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 104.207.151.175

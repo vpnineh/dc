@@ -1,1 +1,2 @@
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.90.97.132:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 45.90.97.132
 vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@78.40.117.131:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 78.40.117.131

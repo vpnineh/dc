@@ -1,2 +1,2 @@
-vless://969f9f79-e1d0-452c-864d-12409851bf9c@193.233.23.196:26048?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 193.233.23.196
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 193.233.23.196
 vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 193.233.23.121

@@ -1,2 +1,1 @@
-vless://3ba8fd11-ff7e-41be-ba34-db94dc7c619d@116.203.6.53:8842?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&sid=2a7f6b8788caca70#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 116.203.6.53
-vless://336ab676-47c5-4d11-99a2-29441457e94e@turkey.shabtaban.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&sid=a796a1f52722b3a5#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 93.114.98.164
+vless://5c200cc8-56e0-42c0-965b-0af34352ecda@116.203.6.53:8842?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&sid=2a7f6b8788caca70#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 116.203.6.53

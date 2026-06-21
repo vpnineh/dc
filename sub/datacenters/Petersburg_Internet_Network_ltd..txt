@@ -1,1 +1,0 @@
-vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Petersburg Internet Network ltd. ┇ 193.93.194.61

@@ -1,1 +1,0 @@
-vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@188.114.97.6:2053?type=xhttp&security=tls&path=/&sni=bulghari.appleseraj.ir&fp=chrome#BG 🇧🇬 ┇ VLESS-XHTTP-TLS - Melbikomas UAB ┇ 188.114.97.6

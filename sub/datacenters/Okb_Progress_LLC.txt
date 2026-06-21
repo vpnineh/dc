@@ -1,1 +1,1 @@
-vless://95e118b4-4352-4218-8493-f20cc7fc467a@nl08.abvpn.ru:443?type=tcp&security=none&path=/websocket#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Okb Progress LLC ┇ 185.236.20.207
+vless://95e118b4-4352-4218-8493-f20cc7fc467a@nl08.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=nl08.abvpn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - Okb Progress LLC ┇ 185.236.20.207

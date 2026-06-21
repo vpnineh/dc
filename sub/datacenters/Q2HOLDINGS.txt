@@ -1,1 +1,1 @@
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@192.0.63.21:2052?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Q2HOLDINGS ┇ 192.0.63.21
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@192.0.63.21:2052?type=xhttp&security=none&path=/pabloping#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Q2HOLDINGS ┇ 192.0.63.21

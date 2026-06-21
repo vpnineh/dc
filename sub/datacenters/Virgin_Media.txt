@@ -1,1 +1,2 @@
 vless://00000000-0000-4000-8000-000000000000@82.38.223.18:26130?type=ws&security=none#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.38.223.18
+vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@pl.codesystem.ir:8080?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.28

@@ -1,9 +1,9 @@
-vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:32567?type=tcp&security=tls&sni=uvgl4cjd0475.vtret.com&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - AS-VULTR ┇ 136.244.84.128
-vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:23457?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 136.244.84.128
+vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:32567?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - AS-VULTR ┇ 136.244.84.128
+vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:23457?type=grpc&security=tls&sni=uvgl4cjd0475.vtret.com&fp=chrome#DE 🇩🇪 ┇ VLESS-GRPC-TLS - AS-VULTR ┇ 136.244.84.128
 vless://82e3c8a0-e972-4785-b4a6-cae43969fb05@fr1.nomac.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.8.194
-vless://05c49056-a37a-4472-b02c-09e42905a90f@192.248.150.63:36971?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 192.248.150.63
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443?type=tcp&security=none&path=/fp#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 108.160.132.178
+vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@nl.codesystem.ir:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 78.141.218.28
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3OC4xNDEuMjE1LjYyIiwiYWRkIjoiNzguMTQxLjIxNS42MiIsInBvcnQiOjQ0MywiaWQiOiJhZmQ0NTQxOS1jZmZhLTRmMWItOTkwYS01MTFhYWI2ZWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 78.141.215.62
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3OC4xNDEuMjE1LjYyIiwiYWRkIjoiNzguMTQxLjIxNS42MiIsInBvcnQiOjQ0MywiaWQiOiJhZmQ0NTQxOS1jZmZhLTRmMWItOTkwYS01MTFhYWI2ZWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.218.10
-vless://fd6f594a-f498-47b3-ac84-e044423f40e0@70.34.208.51:14102?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.208.51

@@ -1,2 +1,1 @@
 vless://faba5c5f-8258-4304-b2a0-7e4bef9c237b@hm.khoycityman.ir:41319?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53
-vless://8072396c-6a74-46b3-8a43-91b5e86ed160@hm.khoycityman.ir:443?type=tcp&security=rea#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53

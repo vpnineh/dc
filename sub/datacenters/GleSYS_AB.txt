@@ -1,1 +1,2 @@
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - GleSYS AB ┇ 46.246.34.10
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?type=ws&security=none&path=/vless#SE 🇸🇪 ┇ VLESS-WS-NTLS - GleSYS AB ┇ 46.246.97.218

@@ -1,1 +1,1 @@
-vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Serverd SAS ┇ 45.155.169.91
+vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859?type=tcp&security=none&fp=firefox#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Serverd SAS ┇ 45.155.169.91

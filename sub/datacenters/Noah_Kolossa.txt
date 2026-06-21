@@ -1,1 +1,1 @@
-vless://0e49e208-e09e-49bc-afee-2907e5419107@gb1.anpmech.com:443?type=tcp&security=reality&sni=gb1.anpmech.com&fp=chrome&flow=xtls-rprx-vision&pbk=hWw_QLJsQmDlX_9AsTb29wy6RhJ-lHtjHseiZlthXhU&sid=9550667e9597f1e5#US 🇺🇸 ┇ VLESS-TCP-RLT - Noah Kolossa ┇ 206.245.166.45
+vless://0e49e208-e09e-49bc-afee-2907e5419107@gb1.anpmech.com:443?type=tcp&security=reality&sni=gb1.anpmech.com&fp=firefox&flow=xtls-rprx-vision&pbk=hWw_QLJsQmDlX_9AsTb29wy6RhJ-lHtjHseiZlthXhU&sid=9550667e9597f1e5#US 🇺🇸 ┇ VLESS-TCP-RLT - Noah Kolossa ┇ 206.245.166.45

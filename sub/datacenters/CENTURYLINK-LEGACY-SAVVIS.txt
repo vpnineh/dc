@@ -1,1 +1,1 @@
-vless://cfa7d33d-b6b3-4ea7-a54e-220578f45439@mo.abcdefghijklmnopqrstuvwxyz1234567890.ir:444?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - CENTURYLINK-LEGACY-SAVVIS ┇ 104.253.43.96
+vless://e9512639-35d8-4913-8d46-26796f9d5386@mo.abcdefghijklmnopqrstuvwxyz1234567890.ir:444?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - CENTURYLINK-LEGACY-SAVVIS ┇ 104.253.43.96

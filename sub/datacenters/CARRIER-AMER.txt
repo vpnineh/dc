@@ -1,1 +1,0 @@
-vless://afef3213-9c5a-4903-8e04-23a03c323d22@161.145.150.6:443?type=xhttp&security=tls&path=/one#US 🇺🇸 ┇ VLESS-XHTTP-TLS - CARRIER-AMER ┇ 161.145.150.6

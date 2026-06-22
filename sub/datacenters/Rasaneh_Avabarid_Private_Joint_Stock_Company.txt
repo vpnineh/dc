@@ -1,1 +1,1 @@
-vless://976e0c2d-72cc-4594-ad79-b7cc54bdcc66@jahan25.irbazi.com:443?type=ws&security=tls&path=/vr1025?ed=2560&sni=jahan25.irbazi.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 5.160.197.226
+vless://b2ec1e04-17b8-48ee-966e-5633deb7f98b@jahan25.irbazi.com:443?type=ws&security=tls&path=/vr1025?ed=2560&sni=jahan25.irbazi.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 5.160.197.226

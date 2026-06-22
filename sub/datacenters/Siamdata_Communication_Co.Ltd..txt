@@ -1,1 +1,1 @@
-vless://FREE@bm.xq-vpn.com:80?type=xhttp&security=none&path=/#TH 🇹🇭 ┇ VLESS-XHTTP-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.144.165.11
+vless://FREE@45.144.165.11:80?type=xhttp&security=none&path=/#TH 🇹🇭 ┇ VLESS-XHTTP-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.144.165.11

@@ -1,2 +1,1 @@
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=ws&security=tls&path=/ws&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Tfm Networks Limited ┇ 85.234.69.227
-vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@85.234.84.206:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Tfm Networks Limited ┇ 85.234.84.206

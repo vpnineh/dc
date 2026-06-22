@@ -1,1 +1,1 @@
-vless://5f596d0b-b9bc-4c1d-990b-975fd448786f@fr.codesystem.ir:8080?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.79
+vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@fr.codesystem.ir:8080?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.79

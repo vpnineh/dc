@@ -1,1 +1,1 @@
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@up.king-ston.store:443?type=tcp&security=reality&path=/&sni=up.king-ston.store&fp=chrome&flow=xtls-rprx-vision&pbk=iOyInEua-HgrNQf2MwlKiVx8BCPbLP1uv5tbwy5IDmo#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aixit GmbH ┇ 85.93.10.165
+vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@up.king-ston.store:443?type=tcp&security=reality&sni=up.king-ston.store&flow=xtls-rprx-vision&pbk=iOyInEua-HgrNQf2MwlKiVx8BCPbLP1uv5tbwy5IDmo#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aixit GmbH ┇ 85.93.10.165

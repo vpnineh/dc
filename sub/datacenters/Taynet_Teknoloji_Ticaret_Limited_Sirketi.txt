@@ -1,0 +1,2 @@
+vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@p4.capigodserv.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Taynet Teknoloji Ticaret Limited Sirketi ┇ 5.63.21.36
+vless://d2d837f3-dc44-4290-9540-d5e957638800@k6.capigodserv.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Taynet Teknoloji Ticaret Limited Sirketi ┇ 5.63.21.37

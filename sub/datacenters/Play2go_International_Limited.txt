@@ -1,6 +1,3 @@
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?type=tcp&security=tls&sni=vpn.oplatasite.ru&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.120.166.118
-vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:10928?type=xhttp&security=none&path=/#BG 🇧🇬 ┇ VLESS-XHTTP-NTLS - Play2go International Limited ┇ 185.216.71.193
-vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:26093?type=grpc&security=none#BG 🇧🇬 ┇ VLESS-GRPC-NTLS - Play2go International Limited ┇ 185.216.71.193
-vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:57499?type=ws&security=none&path=/#BG 🇧🇬 ┇ VLESS-WS-NTLS - Play2go International Limited ┇ 185.216.71.193
-vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:43144?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Play2go International Limited ┇ 185.216.71.193
 vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:52526?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 185.216.71.193
+vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:26093?type=grpc&security=none#BG 🇧🇬 ┇ VLESS-GRPC-NTLS - Play2go International Limited ┇ 185.216.71.193
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?type=tcp&security=tls&sni=vpn.oplatasite.ru&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.120.166.118

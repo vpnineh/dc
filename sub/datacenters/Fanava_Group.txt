@@ -1,2 +1,0 @@
-vless://b3ccfdc5-0e10-4b1f-857d-efaba7b530ba@lolpop.hardvezoo.ir:3291?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanava Group ┇ 95.38.176.224
-vless://ac72fbc2-25c5-4215-8818-fa58c4eabb27@lolpop.hardvezoo.ir:5875?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanava Group ┇ 95.38.176.224

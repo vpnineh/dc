@@ -1,1 +1,1 @@
-vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.23.33
+vless://More-Config-Telegram-Zodproxy@66.33.23.33:443?type=tcp&security=none&path=/ws#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.23.33

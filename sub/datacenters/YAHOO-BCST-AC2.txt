@@ -1,4 +1,0 @@
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:2088?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&sid=03#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 104.252.89.70
-vless://6b853c66-a9be-48f7-9f1c-c3d951b3d3bc@files.2365855155.ir:19473?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=WZ5cQb6x0YUtCp3zujoSExI8v5zlOiLRH_YeJnGjiGw&sid=5974222a47655ae0#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 138.124.34.239
-vless://921a2a0b-bfb9-445a-a4ec-d81769592d33@hm.khoycityman.ir:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&sid=edd3256dc1#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 37.140.242.53
-vless://6b853c66-a9be-48f7-9f1c-c3d951b3d3bc@files.2365855155.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=V2DnHta7YKXsdC6St2X2seosnXJe08070FAT-nNVLUg&sid=d0c2#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-BCST-AC2 ┇ 138.124.34.239

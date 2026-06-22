@@ -1,1 +1,0 @@
-vless://b299ae37-da14-48c6-aec8-3e3d8b112213@vortex-plus.online:443?type=ws&security=tls&path=/&sni=vortex-plus.online&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Cipher Operations Doo Beograd - Novi Beograd ┇ 62.60.188.140

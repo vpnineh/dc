@@ -1,1 +1,1 @@
-vless://16964702-6ee8-42c2-9d32-ac812688a655@185.147.27.105:80?type=ws&security=none&path=/#ES 🇪🇸 ┇ VLESS-WS-NTLS - FOP Samosenok Alexandr Sergeevich ┇ 185.147.27.105
+vless://3f150e42-18f8-43cb-a4da-cb48ca2a21e1@hentai-cdn.apruxdomain.xyz:80?type=ws&security=false&path=/&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-NTLS - FOP Samosenok Alexandr Sergeevich ┇ 185.147.27.105

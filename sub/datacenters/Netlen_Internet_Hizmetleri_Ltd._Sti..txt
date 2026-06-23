@@ -1,1 +1,0 @@
-vless://f5edd7d3-967f-46f0-8ca7-f1ec8bc6dd90@izumi.izumii.ir:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.59

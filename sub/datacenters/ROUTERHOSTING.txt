@@ -1,5 +1,6 @@
+vless://dc0dba1b-c8a3-4ca8-8180-296d363b1b2c@news.microsoft.com:443?type=xhttp&security=tls&path=/@MrNexTV2RAY&sni=de1.gamelistak.com&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - ROUTERHOSTING ┇ 141.193.213.20
 vless://8790b865-c50d-42ff-9347-026c9675d83d@de1.gamelistak.com:443?type=xhttp&security=tls&path=/@MrNexTV2RAY&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - ROUTERHOSTING ┇ 104.194.156.161
 vless://a10dab76-0f3a-42bb-979f-2648085de252@du1.gamelistak.com:443?type=xhttp&security=tls&path=/https://t.me/MrNexTV2RAY&fp=chrome#LU 🇱🇺 ┇ VLESS-XHTTP-TLS - ROUTERHOSTING ┇ 144.172.88.90
 vless://e535e1b3-db06-4b2b-9c9a-6824378abbc4@nl3.gamelistak.com:443?type=xhttp&security=tls&path=/@MrNexTV2RAY&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - ROUTERHOSTING ┇ 104.194.134.11
-vless://7f9ef902-2164-4c4e-b4bd-140d13cdba6e@ryanserver.ir:47347?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ROUTERHOSTING ┇ 45.61.148.12
 vless://free-fff-aaa@144.172.115.130:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ROUTERHOSTING ┇ 144.172.115.130
+vless://7f9ef902-2164-4c4e-b4bd-140d13cdba6e@ryanserver.ir:47347?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ROUTERHOSTING ┇ 45.61.148.12

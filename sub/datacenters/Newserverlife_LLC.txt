@@ -1,2 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyJ9
-vless://fe33f63d-a57d-463a-962c-65592e614000@hentai-cdn.apruxdomain.xyz:80?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 104.167.197.97
+vless://3f150e42-18f8-43cb-a4da-cb48ca2a21e1@hentai-cdn.apruxdomain.xyz:80?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 104.167.197.97

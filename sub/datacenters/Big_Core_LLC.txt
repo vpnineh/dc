@@ -1,1 +1,2 @@
 vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:34634?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.26
+vless://40bbbd28-a0bd-4eb5-afcb-04634330fa98@185.226.93.26:24740?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.26

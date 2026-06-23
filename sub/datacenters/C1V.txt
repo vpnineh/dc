@@ -1,1 +1,1 @@
-vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@v1.lunaparkmaku.ir:42542?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - C1V ┇ 152.89.168.240
+vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@v1.lunaparkmaku.ir:42542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - C1V ┇ 152.89.168.240

@@ -1,1 +1,1 @@
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@ytt.gazladder.work:443?type=tcp&security=reality&sni=ytt.gazladder.work&flow=xtls-rprx-vision&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=f5781bd8af7dbaf6#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 135.106.140.152
+vless://5de6c5e2-de2e-4656-96aa-102985752504@ee.xenovpn.top:443?type=tcp&security=reality&sni=ee.xenovpn.top&fp=chrome&flow=xtls-rprx-vision&pbk=2U8ZBbxSfYSWzx9XjcTMC9mWSKqKrkFYc4vOaZEGuT4#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.65.102

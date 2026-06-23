@@ -1,0 +1,1 @@
+vless://aaac923e-df0e-4928-aaec-b77cb68f91fc@ipadvpn.dpdns.org:2083?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=dAyGv5mA1pNYS6amZ4I68rcL7dgOlqJT5y8GuB-2_UA&sid=9e85f18d29809f14#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 65.109.212.231

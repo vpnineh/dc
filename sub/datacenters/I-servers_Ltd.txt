@@ -1,1 +1,1 @@
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb2.oneokapp.com:443?type=grpc&security=tls&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - I-servers Ltd ┇ 45.43.75.185
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb2.oneokapp.com:443?type=grpc&security=tls#GB 🇬🇧 ┇ VLESS-GRPC-TLS - I-servers Ltd ┇ 45.43.75.185

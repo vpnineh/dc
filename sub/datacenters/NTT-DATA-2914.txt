@@ -1,1 +1,0 @@
-vless://3bfcfd60-11b7-4ffe-9b39-6df99981e8a3@130.94.46.140:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.46.140

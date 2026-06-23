@@ -1,1 +1,0 @@
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@212.41.10.228:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 212.41.10.228

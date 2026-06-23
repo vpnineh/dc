@@ -1,1 +1,0 @@
-vless://8f6a975d-f0ae-4258-8fe4-2ec529b385e4@free1.playon.ir:443?type=ws&security=tls&path=/aros-free&sni=free1.playon.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - LIMESTONENETWORKS ┇ 89.116.72.23

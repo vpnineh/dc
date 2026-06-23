@@ -1,6 +1,6 @@
-vless://7dec7676-62d2-4bad-8a0f-fb3173ca36cd@185.226.93.26:44312?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.26
-vless://7dec7676-62d2-4bad-8a0f-fb3173ca36cd@185.226.93.26:50420?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.26
-vless://7dec7676-62d2-4bad-8a0f-fb3173ca36cd@185.226.93.26:24740?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.26
-vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:34634?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.26
 vless://7dec7676-62d2-4bad-8a0f-fb3173ca36cd@185.226.93.26:10302?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.26
+vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:34634?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.26
+vless://7dec7676-62d2-4bad-8a0f-fb3173ca36cd@185.226.93.26:50420?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.26
+vless://40bbbd28-a0bd-4eb5-afcb-04634330fa98@185.226.93.26:24740?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.26
 vless://7dec7676-62d2-4bad-8a0f-fb3173ca36cd@185.226.93.26:17402?type=httpupgrade&security=none&path=/#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Big Core LLC ┇ 185.226.93.26
+vless://7dec7676-62d2-4bad-8a0f-fb3173ca36cd@185.226.93.26:44312?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.26

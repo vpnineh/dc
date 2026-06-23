@@ -1,1 +1,1 @@
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?type=xhttp&security=tls&path=?ed=2560&sni=polobash.appleseraj.ir&fp=chrome#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - Melbikomas UAB ┇ 104.16.73.248
+vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@suolar.yellowsky.ir:2053?type=xhttp&security=tls&path=/&sni=bulghari.appleseraj.ir&fp=chrome#BG 🇧🇬 ┇ VLESS-XHTTP-TLS - Melbikomas UAB ┇ 104.18.152.231

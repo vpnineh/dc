@@ -1,2 +1,1 @@
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@193.151.108.143:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 193.151.108.143
 vless://8f8a4b5f-2656-450e-95a6-6fb5e628bfb7@noderu1.plan-vpn.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 91.196.35.93

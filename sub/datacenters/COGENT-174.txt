@@ -1,1 +1,1 @@
-vless://45dfac88-5edf-4e42-9af4-e20f49452596@xn-riga.easyodin.ir:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - COGENT-174 ┇ 31.56.28.119
+vless://4dab0cc3-e3bf-4f72-b2bc-29e49ecdd322@xn-riga.easyodin.ir:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - COGENT-174 ┇ 31.56.28.119

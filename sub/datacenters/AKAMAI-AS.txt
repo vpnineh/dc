@@ -1,3 +1,1 @@
-vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2886?type=tcp&security=reality&sni=www.oracle.com&fp=chrome&flow=xtls-rprx-vision&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&sid=903c2ca9307a41f9#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 5.75.207.247
-vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2360?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&sid=e35b#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 5.75.207.247
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238

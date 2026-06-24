@@ -1,2 +1,1 @@
 vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.111.54
-vless://9efc40f5-b10b-497a-96ed-cd97944d21d7@104.252.53.91:433?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.53.91

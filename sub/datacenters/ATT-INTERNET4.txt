@@ -1,0 +1,2 @@
+vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.22.50.157:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ATT-INTERNET4 ┇ 82.22.50.157
+vless://f00297b0-a501-4982-9a8e-2cf2df5b4f84@82.22.2.187:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ATT-INTERNET4 ┇ 82.22.2.187

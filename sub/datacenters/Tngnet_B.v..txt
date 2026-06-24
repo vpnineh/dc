@@ -1,0 +1,1 @@
+vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@82.21.53.70:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Tngnet B.v. ┇ 82.21.53.70

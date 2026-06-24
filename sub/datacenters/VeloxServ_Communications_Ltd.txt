@@ -1,1 +1,1 @@
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&sni=fry2.brocollisuper.click#GB 🇬🇧 ┇ VLESS-GRPC-TLS - VeloxServ Communications Ltd ┇ 152.89.253.136
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - VeloxServ Communications Ltd ┇ 152.89.253.136

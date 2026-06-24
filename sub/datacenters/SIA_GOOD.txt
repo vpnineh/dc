@@ -1,2 +1,1 @@
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.catpatrol.ru:2053?type=tcp&security=reality&sni=web.catpatrol.ru&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#RU 🇷🇺 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.76.241.143
 vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@185.177.238.246:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.177.238.246

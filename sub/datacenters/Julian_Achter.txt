@@ -1,1 +1,1 @@
-vless://d459f9e9-cc30-4c1c-b131-75a5206702b5@nl.janusgate.org:443?type=tcp&security=reality&sni=nl.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=773353fbea287c00#DE 🇩🇪 ┇ VLESS-TCP-RLT - Julian Achter ┇ 185.132.53.65
+vless://686d0500-31f1-45ea-93a4-44423e3465e4@nl.janusgate.org:443?type=tcp&security=reality&sni=nl.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=018c7fb89aa975de#DE 🇩🇪 ┇ VLESS-TCP-RLT - Julian Achter ┇ 185.132.53.65

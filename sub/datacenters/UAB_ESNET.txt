@@ -1,1 +1,0 @@
-vless://a5d6f241-6eb8-4439-8e4f-8d5e895df595@185.80.130.25:443?type=ws&security=tls&path=/ws&sni=185.80.130.25&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-TLS - UAB ESNET ┇ 185.80.130.25

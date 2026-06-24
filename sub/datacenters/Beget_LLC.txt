@@ -1,2 +1,2 @@
-vless://15fc02f9-dadd-49fa-a259-baec0ee71339@89.169.38.249.blanesik.space:443?type=grpc&security=tls#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Beget LLC ┇ 89.169.38.249
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 45.12.75.242
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@89.169.38.249.blanesik.space:443?type=grpc&security=tls#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Beget LLC ┇ 89.169.38.249

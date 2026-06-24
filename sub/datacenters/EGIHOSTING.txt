@@ -1,1 +1,2 @@
+vless://e432072b-0e4f-4a66-a4c5-7a3c49d2997c@x.hostxyz.ir:21502?type=ws&security=none&path=/fragconfig#IT 🇮🇹 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.19.204
 vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.111.54

@@ -1,1 +1,1 @@
-vless://45d82186-e606-4931-bc61-da7069c99305@217.61.20.83:8086?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ArubaCloud Limited ┇ 217.61.20.83
+vless://7796f5bf-7433-4e00-a9fd-6233ccb91df7@uk.eorqen.ir:8086?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ArubaCloud Limited ┇ 217.61.20.83

@@ -1,5 +1,4 @@
-vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
+vless://24e39f73-ce06-4052-b631-7efd2589f2ba@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
 vless://678bc982-e187-4f68-a33b-4f4f9a4ccc36@am1.pirghoch.ir:443?type=ws&security=tls&path=/&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 89.169.52.135
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142
 vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.135
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWV6YSBJbnRlcm5hdGlvbmFsIEx0ZCBcdTI1MDcgNjIuNjAuMTUxLjQxIiwiYWRkIjoiNjIuNjAuMTUxLjQxIiwicG9ydCI6NTc4NjUsImlkIjoiM2M2MWVhNTMtYTU1MC00MjUyLTgyMTEtOTU2ZjlmN2RjMmQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0

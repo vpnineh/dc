@@ -1,2 +1,0 @@
-vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?type=ws&security=tls&path=?ed=2048&sni=falkinichlol.appleseraj.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Melbikomas UAB ┇ 94.140.0.100
-vless://6e1a29d7-b9d8-4eb5-a7f9-cd4d661dda9b@suolar.yellowsky.ir:2053?type=xhttp&security=tls&path=?ed=2560&sni=eunetherla.appleseraj.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Melbikomas UAB ┇ 91.193.58.201

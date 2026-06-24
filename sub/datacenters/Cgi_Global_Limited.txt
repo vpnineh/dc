@@ -1,1 +1,1 @@
-vless://948eb3fc-e347-4994-be02-05e55131b683@46.8.230.114:2086?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 46.8.230.114
+vless://7dd1d87a-93fb-47ec-8904-3d98e4d239eb@sanei.ariyant.ir:2087?type=ws&security=tls&path=/&sni=sanei.ariyant.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 95.182.114.211

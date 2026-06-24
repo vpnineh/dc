@@ -1,0 +1,1 @@
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@199.68.156.140:80?type=tcp&security=none&path=Telegram🇨🇳#US 🇺🇸 ┇ VLESS-TCP-NTLS - VISANET ┇ 199.68.156.140

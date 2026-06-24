@@ -1,1 +1,1 @@
-vless://cefd668f-5ef4-4133-9d17-58d12918cedf@vip.cafearef.ir:10001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.237.90.172
+vless://d555a2de-9f94-44f4-aba9-63584b81a36d@zone.fi1.linkora.ir:49429?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Respina Networks & Beyond PJSC ┇ 5.160.77.199

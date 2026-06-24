@@ -1,2 +1,1 @@
-vless://f674cf15-3362-4549-aa8e-7b9e08e86e35@de.codesystem.ir:8080?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.76.112.92
 vless://5de6c5e2-de2e-4656-96aa-102985752504@ee.xenovpn.top:443?type=tcp&security=reality&sni=ee.xenovpn.top&fp=chrome&flow=xtls-rprx-vision&pbk=2U8ZBbxSfYSWzx9XjcTMC9mWSKqKrkFYc4vOaZEGuT4#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.65.102

@@ -1,4 +1,4 @@
-vless://4bb063ef-12db-26d5-57c4-0af616c5fb87@tmesubgift.up.railway.app:443?type=ws&security=tls&path=/ws/4bb063ef-12db-26d5-57c4-0af616c5fb87&sni=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.78
+vless://17d21ae6-4fb9-cc7d-757a-b11fb2ecc622@tmesubgift.up.railway.app:443?type=ws&security=tls&path=/ws/17d21ae6-4fb9-cc7d-757a-b11fb2ecc622&sni=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.78
+vless://2514cdd1-b798-4d5e-9722-21484d19a20e@web-production-3e200.up.railway.app:443?type=tcp&security=none&path=/ws/2514cdd1-b798-4d5e-9722-21484d19a20e#US 🇺🇸 ┇ VLESS-TCP-NTLS - MPDCOL ┇ 69.46.46.122
 vless://a2a74dab-ffc3-8adc-385c-614c04ce7d5b@subgift-production-aeb1.up.railway.app:443?type=ws&security=tls&path=/ws/a2a74dab-ffc3-8adc-385c-614c04ce7d5b&sni=subgift-production-aeb1.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.117
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?type=ws&security=tls&path=/ws&sni=railway-production-b185.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.98
-vless://2514cdd1-b798-4d5e-9722-21484d19a20e@web-production-3e200.up.railway.app:443?type=ws&security=tls&path=/ws/2514cdd1-b798-4d5e-9722-21484d19a20e&sni=web-production-3e200.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - MPDCOL ┇ 69.46.46.122

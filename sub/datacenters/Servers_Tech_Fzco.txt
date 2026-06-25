@@ -1,2 +1,2 @@
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv18.yunus.guru:443?type=tcp&security=reality&path=/&sni=rezerv18.yunus.guru&fp=chrome&flow=xtls-rprx-vision&pbk=jLa4bn_ZuTamBSUdxQCJJI1seX1TvPQDKB5u7rzbcG4&sid=ce92dfd666224477#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 146.103.97.48
+vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 5.35.34.181
 vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@46.151.26.41:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 46.151.26.41

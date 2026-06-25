@@ -1,1 +1,0 @@
-vless://f206f46b-6252-4d42-b15b-d1b1e5168b48@www.parzort.ir:443?type=tcp&security=reality&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=Y4PRErwqUpSGbjN0FfAjMkfhF_P0b-Ld5ENVWHqbXWI&sid=1b2acf74b254873e#US 🇺🇸 ┇ VLESS-TCP-RLT - APPLE-ENGINEERING ┇ 91.107.158.48

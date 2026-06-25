@@ -1,1 +1,2 @@
+vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:8443?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FRONTIER-FRTR ┇ 194.238.79.27
 vless://f23fb93e-7668-49f4-935e-dc18b9e18f8e@de.lesss.ir:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FRONTIER-FRTR ┇ 194.238.79.164

@@ -1,2 +1,0 @@
-vless://87ace6ba-7c02-46b3-9e4e-61ea450c8ae5@reality1.novmber.ir:262?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.20
-vless://SoonTeam@sexi.carderrr.com:443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Advin Services LLC ┇ 208.84.103.60

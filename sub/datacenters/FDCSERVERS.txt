@@ -1,1 +1,0 @@
-vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@nl1.fixpr.top:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=M_z4iIlAPwfQFm3PBTnnQbo6Uz4DpcLEdWBBLq1I6Ds&sid=346f0c560cab01bf#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.236.20

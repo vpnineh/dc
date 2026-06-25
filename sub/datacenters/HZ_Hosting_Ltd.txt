@@ -1,2 +1,1 @@
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@englanf.yellowsky.ir:8080?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 188.119.149.213
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.33.87.18

@@ -1,1 +1,1 @@
-vless://9e86f6fa-a1f0-43b9-80ab-4b2ec4c3b91a@test.iraniannimdown.ir:8443?type=ws&security=tls&sni=test.iraniannimdown.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Amir Mohammad Masoudi ┇ 37.32.41.51
+vless://9e86f6fa-a1f0-43b9-80ab-4b2ec4c3b91a@test.iraniannimdown.ir:8443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Amir Mohammad Masoudi ┇ 37.32.41.51

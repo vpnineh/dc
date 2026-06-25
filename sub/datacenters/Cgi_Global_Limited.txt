@@ -1,2 +1,0 @@
-vless://05d0559a-6a07-4bb3-9fcb-6eea048d26f0@riga-2.easyodin.ir:443?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.64.40
-vless://7dd1d87a-93fb-47ec-8904-3d98e4d239eb@sanei.ariyant.ir:2087?type=ws&security=tls&path=/&sni=sanei.ariyant.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 95.182.114.211

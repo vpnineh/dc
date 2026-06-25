@@ -1,2 +1,0 @@
-vless://fe5569fd-9d42-4dcc-a144-42f0010f8ea1@hm.khoycityman.ir:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&sid=08912e#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 37.140.242.53
-vless://1ea04eb0-1470-4c41-ab75-8e3de65b0ef6@hm.khoycityman.ir:57176?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=0SiYe8YXJTlWr6n0f2nSSGngDeW2riD_fxHWIH-SEUI&sid=561e95#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 37.140.242.53

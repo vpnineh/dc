@@ -1,1 +1,2 @@
+vless://31e7fb4e-5006-4ecd-abdc-b27f1be617d0@185.202.113.8:80?type=ws&security=none&path=/#AM 🇦🇲 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.202.113.8
 vless://eea3225a-8796-402e-aecd-ac00a36e24e4@tr.erissub.xyz:2083?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - BitCommand LLC ┇ 91.216.104.66

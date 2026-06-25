@@ -1,2 +1,2 @@
-vless://00000000-0000-4000-8000-000000000000@82.38.223.18:26130?type=ws&security=none#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.38.223.18
 vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?type=ws&security=none&path=/stream#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.40.62.134
+vless://00000000-0000-4000-8000-000000000000@82.38.223.18:26130?type=ws&security=none#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.38.223.18

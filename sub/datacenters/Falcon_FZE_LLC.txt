@@ -1,2 +1,1 @@
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Falcon FZE LLC ┇ 89.106.64.15
-vless://dc60665b-1294-4e5c-9cd3-229c93902dd3@89.106.64.80:18088?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Falcon FZE LLC ┇ 89.106.64.80

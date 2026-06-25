@@ -1,0 +1,1 @@
+vless://41c8ffec-ae83-4537-ab2f-65234881e519@gergame2.soltankabos.ir:34821?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Freakhosting ┇ 31.56.39.9

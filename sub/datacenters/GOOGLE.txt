@@ -1,1 +1,0 @@
-vless://Telgram@91.228.227.86:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=LBY0XERNoJ_3Rxh5dqla6JAZQQ98XuDCnO97uU5B9wY&sid=ba3034c8e4896385#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 91.228.227.86

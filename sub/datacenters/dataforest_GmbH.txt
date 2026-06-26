@@ -1,3 +1,4 @@
+vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - dataforest GmbH ┇ 194.107.126.57
 vless://5c6ec644-1187-470d-82ed-ce01ac927109@45.157.234.114:9999?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 45.157.234.114
-vless://0261c8f9-413a-455b-942b-3713c6b0084a@172.66.40.99:443?type=ws&security=tls&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&sni=www.dollardoon.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 172.66.40.99
 vless://5b9fbae6-4aef-4282-b14d-3ebdb19d532c@185.94.29.67:2048?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - dataforest GmbH ┇ 185.94.29.67
+vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:8443?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - dataforest GmbH ┇ 194.107.126.57

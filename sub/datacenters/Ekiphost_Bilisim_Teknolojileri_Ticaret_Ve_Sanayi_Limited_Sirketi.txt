@@ -1,1 +1,1 @@
-vless://50eef07b-74e7-4ee1-87a7-146dcde18819@rshirt.lordmakuboutiqu.site:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ekiphost Bilisim Teknolojileri Ticaret Ve Sanayi Limited Sirketi ┇ 194.113.226.169
+vless://04f7e317-d9d5-444a-b563-0e83df862282@rshirt.lordmakuboutiqu.site:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ekiphost Bilisim Teknolojileri Ticaret Ve Sanayi Limited Sirketi ┇ 194.113.226.169

@@ -1,3 +1,1 @@
-vless://6f7597a8-f569-41d6-8f98-a4e59af35064@152.53.102.166:2052?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 152.53.102.166
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@nextcloud.c-coo.store:443?type=tcp&security=reality&sni=nextcloud.c-coo.store&flow=xtls-rprx-vision&pbk=OOo-agzuOug2EM-rLJMrgH2pkuVahVWEdXSFMl3z_EE#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.242.55
-vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 185.244.192.101
+vless://6f7597a8-f569-41d6-8f98-a4e59af35064@152.53.102.166:2052?type=ws&security=false&path=/&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 152.53.102.166

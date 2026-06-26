@@ -1,0 +1,1 @@
+vless://7b638bc0-0669-4d21-a242-ef0419ad5572@est-def.applepie-recipe.ru:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#IQ 🇮🇶 ┇ VLESS-TCP-TLS - Super Cell Network For Internet Services Ltd ┇ 5.175.178.42

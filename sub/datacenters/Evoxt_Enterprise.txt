@@ -1,1 +1,0 @@
-vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?type=ws&security=none#GB 🇬🇧 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 166.88.167.206

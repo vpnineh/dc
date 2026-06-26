@@ -1,0 +1,1 @@
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@bg.janusgate.org:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=13171b0dd8985179#IT 🇮🇹 ┇ VLESS-TCP-RLT - Tube-Hosting ┇ 45.137.201.78

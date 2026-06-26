@@ -1,1 +1,2 @@
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?type=tcp&security=tls&sni=bero-3.bexum.fun&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 37.114.48.146
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?type=xhttp&security=tls&path=/kavir&sni=dey.lnmarketplace.net&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - SYNLINQ ┇ 89.144.30.104
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 37.114.48.146

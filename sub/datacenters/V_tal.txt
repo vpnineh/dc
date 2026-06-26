@@ -1,2 +1,2 @@
-vless://43502c7e-16e6-427b-8817-1168f1a229f7@daroo.iran-shop.co:8443?type=ws&security=tls&path=/wss8000&sni=daroo.iran-shop.co&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 152.239.116.226
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gViB0YWwgXHUyNTA3IDE1Mi4yMzkuMTE2LjIyNiIsImFkZCI6ImRhcm9vLmlyYW4tc2hvcC5jbyIsInBvcnQiOjIwODcsImlkIjoiZjE5MmEyYTItYjFmOC00YWNiLWI1MWQtOGY5YWEyNzZlZjQyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzcyJ9
+vless://43502c7e-16e6-427b-8817-1168f1a229f7@daroo.iran-shop.co:8443?type=ws&security=tls&path=/wss8000&sni=daroo.iran-shop.co&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 152.239.116.226

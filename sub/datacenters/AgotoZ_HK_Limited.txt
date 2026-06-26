@@ -1,1 +1,0 @@
-vless://e3be59a5-6d25-404f-9bb0-714bb2b5c211@netherlands.webnetvpn.xyz:443?type=tcp&security=reality&sni=netherlands.webnetvpn.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=RfsTpU85JZGyhLZMsavtGmo2TPHWnJafRNM_v6olrGY&sid=342defed9b5e37b6#JP 🇯🇵 ┇ VLESS-TCP-RLT - AgotoZ HK Limited ┇ 46.8.112.213

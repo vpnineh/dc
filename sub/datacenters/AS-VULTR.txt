@@ -1,5 +1,3 @@
 vless://16ba5ee7-4f5d-4474-85b5-ed474b6efa01@140.82.35.0:39143?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 140.82.35.0
-vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 78.141.215.62
-vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3OC4xNDEuMjE1LjYyIiwiYWRkIjoiNzguMTQxLjIxNS42MiIsInBvcnQiOjQ0MywiaWQiOiJhZmQ0NTQxOS1jZmZhLTRmMWItOTkwYS01MTFhYWI2ZWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://1df02e49-7f69-435c-afe7-5a391fb4bfcb@tala.shompolexy.shop:80?type=ws&security=none&path=/Shomp#NL 🇳🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 95.179.134.38
+vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.138.190

@@ -1,1 +1,2 @@
 vless://7bb7c0fb-a89f-4e64-a303-78c1f5f61781@axs.amirxshot.ir:2095?type=ws&security=none&path=/axs#FR 🇫🇷 ┇ VLESS-WS-NTLS - Iomart Cloud Services Limited ┇ 163.5.94.13
+vless://20000020-3063-1376-f000-f6c850c0a020@109.73.65.116:493?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Iomart Cloud Services Limited ┇ 109.73.65.116

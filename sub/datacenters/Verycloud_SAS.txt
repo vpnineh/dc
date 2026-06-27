@@ -1,0 +1,1 @@
+vless://686d0500-31f1-45ea-93a4-44423e3465e4@fr.janusgate.org:443?type=tcp&security=reality&sni=fr.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=e66ba6fa6c81c875#FR 🇫🇷 ┇ VLESS-TCP-RLT - Verycloud SAS ┇ 82.22.77.119

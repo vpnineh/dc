@@ -1,1 +1,0 @@
-vless://360c5784-2abd-4e5d-ab41-11394b06e4a5@servers.xvon.in:55657?type=tcp&security=tls&sni=servers.xvon.in&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 185.126.11.176

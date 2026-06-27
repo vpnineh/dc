@@ -1,3 +1,2 @@
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?type=ws&security=tls&path=/&sni=c.downloadphysics.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ 104.16.149.244
 vless://8e728393-f8f7-44cc-9e1e-573f37d62fb6@static.noxt.ir:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 45.141.148.8
 vless://e56ab08d-4e35-448b-8825-2982a39ebe26@dfssfddsfdfdfffddfdfjdfjdjfdfd.parscon.ir:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.135

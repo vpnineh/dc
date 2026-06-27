@@ -1,9 +1,8 @@
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2083?type=ws&security=tls&path=?ed=2048&sni=armwwww.appleseraj.IR.&fp=chrome#AM 🇦🇲 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 91.193.58.201
 vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.152
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2083?type=ws&security=tls&path=?ed=2048&sni=armwwww.appleseraj.IR.&fp=chrome#AM 🇦🇲 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 91.193.58.201
 vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
-vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiYXV0byJ9
+vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://0d27ab04-4523-4ae0-94b0-3e14c2089756@104.16.72.70:443?type=ws&security=tls&path=/&sni=hadi.getfreecp.com&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 104.16.72.70
 vless://f3776c16-fbe4-4838-9603-289fe04ff471@5.252.26.151:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#TH 🇹🇭 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.252.26.151
 vless://f3776c16-fbe4-4838-9603-289fe04ff471@5.252.26.134:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#TH 🇹🇭 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.252.26.134
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.188.190.94

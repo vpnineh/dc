@@ -1,1 +1,0 @@
-vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - IPTELECOM Global ┇ 64.49.45.57

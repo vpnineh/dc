@@ -1,1 +1,0 @@
-vless://a81aef49-ee1d-47db-a4f9-6aeb100af560@iransello.xmsd.ir:443?type=ws&security=tls&path=/a81aef49-ee1d-47db-a4f9-6aeb100af560&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Cell Service and Communication Company ┇ 2.144.20.144

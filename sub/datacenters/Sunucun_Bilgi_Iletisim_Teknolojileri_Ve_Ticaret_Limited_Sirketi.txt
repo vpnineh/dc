@@ -1,1 +1,0 @@
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@tr.janusgate.org:443?type=tcp&security=reality&sni=tr.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=f68f32d02dbd5147#TR 🇹🇷 ┇ VLESS-TCP-RLT - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 212.64.210.64

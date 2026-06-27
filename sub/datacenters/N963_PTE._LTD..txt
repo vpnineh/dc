@@ -1,2 +1,1 @@
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - N963 PTE. LTD. ┇ 141.193.154.182
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@206.82.3.131:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - N963 PTE. LTD. ┇ 206.82.3.131

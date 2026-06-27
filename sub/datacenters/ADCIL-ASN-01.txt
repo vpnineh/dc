@@ -1,3 +1,2 @@
 vless://77c911b4-c1c8-4c07-9e73-4d3523046280@fl-1.ladaclubs.xyz:443?type=tcp&security=reality&sni=fl-1.ladaclubs.xyz&flow=xtls-rprx-vision&pbk=Fhl5LbHHu05uMYcE2_uyFONbSkibFf4rpfI4RmamjG4&sid=9dab89379839#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.156.185
 vless://af44d9e4-4bfe-405c-ac88-c36c4a50e90a@pl.boxypn.com:443?type=tcp&security=reality&sni=pl.boxypn.com&fp=chrome&flow=xtls-rprx-vision&pbk=WZNe-wWzs86z1lGhv5fRb5oyfDyPkHgAaLsSsKe1AHg#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.112.72
-vless://eb528c71-441a-4430-867d-ab63d301d4ee@gifi.dns-crypto-yandex.com:443?type=grpc&security=reality&sni=gifi.dns-crypto-yandex.com&fp=chrome&pbk=Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCaABu2tCwhzQ&sid=0e830794d04398#US 🇺🇸 ┇ VLESS-GRPC-RLT - ADCIL-ASN-01 ┇ 166.1.60.12

@@ -1,0 +1,1 @@
+vless://12779aca-af12-4b87-bf10-035ba98715ef@193.151.134.39:8080?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.134.39

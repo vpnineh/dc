@@ -1,1 +1,0 @@
-vless://4cc90559-ac1f-4258-b0c7-785562adcdb2@new.pixsdo.ir:8080?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.12

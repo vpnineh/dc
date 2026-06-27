@@ -1,1 +1,1 @@
-vless://fe33f63d-a57d-463a-962c-65592e614000@185.147.27.105:80?type=ws&security=none#ES 🇪🇸 ┇ VLESS-WS-NTLS - FOP Samosenok Alexandr Sergeevich ┇ 185.147.27.105
+vless://bb39eff0-6235-47b0-9e1b-f4641aeb71c8@185.147.27.105:80?type=tcp&security=none&fp=chrome#ES 🇪🇸 ┇ VLESS-TCP-NTLS - FOP Samosenok Alexandr Sergeevich ┇ 185.147.27.105

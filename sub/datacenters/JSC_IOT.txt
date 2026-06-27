@@ -1,0 +1,2 @@
+vless://3283529b-3bc4-4e15-803a-7d5751a3df07@rubr2.cheburnetnastalgia1998.com:50052?type=grpc&security=reality&sni=rubr2.cheburnetnastalgia1998.com&fp=chrome&pbk=_C-DUSjLX_8EwHIMKczodo3Joqqg5iK-__8B104YCl4&sid=f519aea63a602590#GB 🇬🇧 ┇ VLESS-GRPC-RLT - JSC IOT ┇ 91.107.127.191
+vless://3283529b-3bc4-4e15-803a-7d5751a3df07@rubr1.cheburnetnastalgia1998.com:50053?type=grpc&security=reality&sni=rubr1.cheburnetnastalgia1998.com&fp=chrome&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&sid=75197d0b742bdbf5#RU 🇷🇺 ┇ VLESS-GRPC-RLT - JSC IOT ┇ 82.146.41.151

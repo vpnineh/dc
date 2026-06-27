@@ -1,1 +1,2 @@
+vless://26569bde-ea35-4d46-92c9-e9f20e1dd254@run.gigicalla.ir:443?type=xhttp&security=tls&path=/&sni=run.gigicalla.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Respina Networks & Beyond PJSC ┇ 77.237.90.158
 vless://50ce1a9f-8903-4597-ad18-366afe5588c2@x1.liiliil.ir:8443?type=xhttp&security=tls&sni=x1.liiliil.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Respina Networks & Beyond PJSC ┇ 95.38.102.226

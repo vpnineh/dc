@@ -1,2 +1,2 @@
 vless://e7d203ff-cedd-44ca-85fa-43004118a738@v2rayclover.spdnet.store:17390?type=httpupgrade&security=none&path=/#AE 🇦🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cgi Global Limited ┇ 31.57.63.230
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.231
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.71.49

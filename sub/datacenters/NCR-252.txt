@@ -1,2 +1,3 @@
 vless://Telegram%3ATurboConfigs@153.52.92.56:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.56
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.213.174
+vless://Telgramm@153.52.92.56:723?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.56

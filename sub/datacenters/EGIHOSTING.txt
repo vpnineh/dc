@@ -1,1 +1,3 @@
 vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.111.54
+vless://1176b07e-35ea-491e-aeec-d7a7912c6162@104.252.111.199:18178?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - EGIHOSTING ┇ 104.252.111.199
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.111.41

@@ -1,1 +1,2 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.1.144
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.250
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.1.144

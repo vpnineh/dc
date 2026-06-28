@@ -1,0 +1,4 @@
+vless://0bd2d2c5-18fe-4414-84ff-e77a3e9b32a9@ata.pacemaker.ir:59833?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-SPRIO ┇ 45.38.37.227
+vless://0bd2d2c5-18fe-4414-84ff-e77a3e9b32a9@ata.pacemaker.ir:34628?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-SPRIO ┇ 45.38.37.227
+vless://0bd2d2c5-18fe-4414-84ff-e77a3e9b32a9@ata.pacemaker.ir:22333?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-SPRIO ┇ 45.38.37.227
+vless://0bd2d2c5-18fe-4414-84ff-e77a3e9b32a9@ata.pacemaker.ir:37378?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-SPRIO ┇ 45.38.37.227

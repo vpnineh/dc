@@ -1,9 +1,9 @@
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.152
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2083?type=ws&security=tls&path=?ed=2048&sni=armwwww.appleseraj.IR.&fp=chrome#AM 🇦🇲 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 91.193.58.201
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.152
 vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vless://d18ba381-f426-4dcb-90a1-aa207186655f@mci3.downbala.com:443?type=grpc&security=tls&sni=mci3.downbala.com&fp=firefox#LU 🇱🇺 ┇ VLESS-GRPC-TLS - G-Core Labs S.A. ┇ 93.114.56.114
-vless://b21c558b-1ca1-4159-a140-868448e5b1a8@62.112.222.47:8080?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
 vless://44061174-3cd9-415d-891d-070e22964114@sdeovbmttkl.dadashinet10.ir:2044?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.74
 vless://a010924d-e222-45f0-8729-f01e85036b43@myip.check.nonpath.ir:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.186
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.161.101

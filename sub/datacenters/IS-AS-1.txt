@@ -1,1 +1,1 @@
-vless://13cd46c5-11ad-4fba-942c-dca81db10e9b@5.231.119.69:43000?type=tcp&security=reality&sni=5.231.119.69&flow=xtls-rprx-vision&pbk=qW7T2Al32COoPb231YvOcMdwkrE5ME5qigFs7hOkdEE&sid=54e02b5b#DE 🇩🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 5.231.119.69
+vless://13cd46c5-11ad-4fba-942c-dca81db10e9b@5.231.119.69:43000?type=tcp&security=reality&sni=5.231.119.69&fp=chrome&flow=xtls-rprx-vision&pbk=qW7T2Al32COoPb231YvOcMdwkrE5ME5qigFs7hOkdEE&sid=54e02b5b#DE 🇩🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 5.231.119.69

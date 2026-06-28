@@ -1,2 +1,1 @@
-vless://75979242-d597-4311-a019-f3735eb3793d@group.shalana.xyz:443?type=tcp&security=tls&sni=m.youtube.com&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - GOOGLE ┇ 172.104.52.240
 vless://Telegramm@217.179.5.62:2035?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=i_1amIEwNXo7QO4ce0Ec1PYOmadEHWyd4y8NahMqGS4&sid=965789d0#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 217.179.5.62

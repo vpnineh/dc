@@ -1,0 +1,1 @@
+vless://b34dc88e-5235-441a-89f9-faf73d34ae62@linkbt.gozar8.ir:2083?type=ws&security=tls&path=/web?ed=1024&sni=linkbt.gozar8.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Faraso Samaneh Pasargad Ltd. ┇ 103.130.146.132

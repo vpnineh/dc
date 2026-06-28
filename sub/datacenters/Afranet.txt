@@ -1,1 +1,0 @@
-vless://208e18ac-ef98-433b-ac51-eeea3ac3acfa@tuns.textin.ir:2096?type=ws&security=tls&path=/cdn-sync&sni=tuns.textin.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 79.175.177.143

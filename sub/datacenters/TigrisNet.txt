@@ -1,0 +1,1 @@
+vless://af44d9e4-4bfe-405c-ac88-c36c4a50e90a@pl.boxypn.com:443?type=tcp&security=reality&sni=pl.boxypn.com&fp=chrome&flow=xtls-rprx-vision&pbk=WZNe-wWzs86z1lGhv5fRb5oyfDyPkHgAaLsSsKe1AHg#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.17.9

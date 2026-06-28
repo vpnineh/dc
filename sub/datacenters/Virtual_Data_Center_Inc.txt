@@ -1,2 +1,2 @@
-vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.33.vhubtest.ru:443?type=grpc&security=tls&sni=213.21.222.33.vhubtest.ru&fp=chrome#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Virtual Data Center Inc ┇ 213.21.222.33
 vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?type=ws&security=tls&path=/sequre/ws?ed=2560&sni=213.21.222.28.speed-storage.ru&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 213.21.222.28
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.33.vhubtest.ru:443?type=grpc&security=tls&sni=213.21.222.33.vhubtest.ru&fp=chrome#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Virtual Data Center Inc ┇ 213.21.222.33

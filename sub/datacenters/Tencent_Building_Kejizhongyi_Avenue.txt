@@ -1,1 +1,1 @@
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.167.99:666?type=ws&security=tls&path=/proxy&sni=43.165.167.99&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.165.167.99
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.167.99:666?type=ws&security=tls&path=/proxy&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.165.167.99

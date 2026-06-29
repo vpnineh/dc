@@ -1,1 +1,0 @@
-vless://b970f499-b1b2-4a66-89c3-45194db6c0d5@64.49.15.196:80?type=tcp&security=reality#CA 🇨🇦 ┇ VLESS-TCP-RLT - TENNANT-SOFTWARE ┇ 64.49.15.196

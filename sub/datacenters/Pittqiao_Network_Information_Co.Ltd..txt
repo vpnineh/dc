@@ -1,1 +1,2 @@
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?type=tcp&security=none#TW 🇹🇼 ┇ VLESS-TCP-NTLS - Pittqiao Network Information Co.,Ltd. ┇ 211.76.176.127
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.166:10000?type=tcp&security=none#TW 🇹🇼 ┇ VLESS-TCP-NTLS - Pittqiao Network Information Co.,Ltd. ┇ 211.76.176.166

@@ -1,1 +1,0 @@
-vless://425c742d-112c-4cc6-bd75-234d46adfe9a@gateru.janusgate.org:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 193.163.203.52

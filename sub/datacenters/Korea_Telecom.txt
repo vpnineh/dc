@@ -1,0 +1,1 @@
+vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?type=tcp&security=none#PK 🇵🇰 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 45.197.134.49

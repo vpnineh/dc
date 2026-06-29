@@ -1,1 +1,1 @@
-vless://60300afa-3366-4ae3-959a-7b50438acebb@at.wequ.ickly.co.uk:443?type=tcp&security=reality&sni=at.wequ.ickly.co.uk&fp=chrome&flow=xtls-rprx-vision&pbk=SG2ViuDvKpks0UgiIjIxFzxJVZ3WZWWvlw0WemeKIzc&sid=33b0ec84#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.65.176
+vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 185.244.192.101

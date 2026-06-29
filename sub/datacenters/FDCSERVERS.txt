@@ -1,1 +1,0 @@
-vless://60300afa-3366-4ae3-959a-7b50438acebb@jp3.wequ.host:5443?type=tcp&security=reality&sni=jp3.wequ.host&fp=chrome&flow=xtls-rprx-vision&pbk=vpl_r79qfuK4jVsRuryqiz0QzeEbCJAo2gj5HlWjYUw&sid=5bbe49e8#JP 🇯🇵 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.159.75

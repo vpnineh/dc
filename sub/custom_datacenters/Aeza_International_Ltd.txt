@@ -1,4 +1,5 @@
 vless://98d61689-47d0-4abe-a23a-598632a7309a@ee.janusgate.org:443?type=tcp&security=reality&sni=ee.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=018c7fb89aa975de#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.101.105
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=ws&security=false&path=/pourya&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
-vless://c28f3222-4f01-493c-a38f-0f1b34e62ea3@fire.jykvpn.com:2048?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 213.108.23.92
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
+vless://c28f3222-4f01-493c-a38f-0f1b34e62ea3@fire.jykvpn.com:2048?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 213.108.23.89
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWV6YSBJbnRlcm5hdGlvbmFsIEx0ZCBcdTI1MDcgNjIuNjAuMTUxLjQxIiwiYWRkIjoiNjIuNjAuMTUxLjQxIiwicG9ydCI6NTc4NjUsImlkIjoiM2M2MWVhNTMtYTU1MC00MjUyLTgyMTEtOTU2ZjlmN2RjMmQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142

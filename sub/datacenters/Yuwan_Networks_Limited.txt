@@ -1,1 +1,0 @@
-vless://60300afa-3366-4ae3-959a-7b50438acebb@jp2.wequ.world:443?type=grpc&security=tls&sni=jp2.wequ.world#JP 🇯🇵 ┇ VLESS-GRPC-TLS - Yuwan Networks Limited ┇ 141.11.240.115

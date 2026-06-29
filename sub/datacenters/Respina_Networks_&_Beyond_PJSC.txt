@@ -1,1 +1,2 @@
 vless://50ce1a9f-8903-4597-ad18-366afe5588c2@x1.liiliil.ir:8443?type=xhttp&security=tls&sni=x1.liiliil.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Respina Networks & Beyond PJSC ┇ 95.38.102.226
+vless://b41c40dc-2a69-4ef8-9702-11d859802dc4@danadoago.shop:48771?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.82.8

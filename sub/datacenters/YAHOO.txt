@@ -1,0 +1,2 @@
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@u-s.lorqina.ir:8080?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&sid=8b2538d8ebcd#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 143.246.138.103
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@d-a.lorqina.ir:2086?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&sid=f237dd185008d68b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 91.107.151.146

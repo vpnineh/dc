@@ -1,2 +1,3 @@
+vless://54869f3b-39fd-460c-b708-61bf928186f6@bot-exit-i4k38s.samanidempire.org:443?type=ws&security=tls&path=/d1571a25#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 136.244.94.174
 vless://1df02e49-7f69-435c-afe7-5a391fb4bfcb@tala.shompolexy.shop:80?type=ws&security=none&path=/Shomp#NL 🇳🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 95.179.147.43
 vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?type=xhttp&security=none&path=/#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 209.250.255.14

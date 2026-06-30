@@ -1,3 +1,2 @@
-vless://b41c40dc-2a69-4ef8-9702-11d859802dc4@danadoago.shop:48771?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.82.8
 vless://50ce1a9f-8903-4597-ad18-366afe5588c2@x1.liiliil.ir:8443?type=xhttp&security=tls&sni=x1.liiliil.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Respina Networks & Beyond PJSC ┇ 95.38.102.226
-vless://f8f64365-69ee-415f-b591-58d919520c36@wp.walking-with-death.shop:2087?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Respina Networks & Beyond PJSC ┇ 46.209.54.101
+vless://b41c40dc-2a69-4ef8-9702-11d859802dc4@danadoago.shop:48771?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.82.8

@@ -1,1 +1,2 @@
+vless://425c742d-112c-4cc6-bd75-234d46adfe9a@gateru.janusgate.org:443?type=tcp&security=reality&sni=gateru.janusgate.org&fp=qq&flow=xtls-rprx-vision&pbk=Zkjmoy79UuCGCS5_4fMfhv0lXDvgBjUTT7jCdQoWdQQ&sid=018c7fb89aa975de#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.49.204
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality&sni=cdn.cdnjst.org&flow=xtls-rprx-vision&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.131.33

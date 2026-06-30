@@ -1,3 +1,1 @@
 vless://1df02e49-7f69-435c-afe7-5a391fb4bfcb@tala.shompolexy.shop:80?type=ws&security=none&path=/Shomp#NL 🇳🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 95.179.147.43
-vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 173.199.117.62
-vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=tcp&security=reality#ZA 🇿🇦 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.84.236.5

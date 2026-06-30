@@ -1,1 +1,1 @@
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@support.zoom.us.beichuan.serv00.net:9815?type=ws&security=none&path=/&sni=support.zoom.us.beichuan.serv00.net#PL 🇵🇱 ┇ VLESS-WS-NTLS - Atman Sp. z o.o. ┇ 128.204.223.94
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?type=ws&security=none&path=/#PL 🇵🇱 ┇ VLESS-WS-NTLS - Atman Sp. z o.o. ┇ 128.204.223.94

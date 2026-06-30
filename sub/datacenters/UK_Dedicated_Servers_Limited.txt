@@ -1,1 +1,1 @@
-vless://93a96cb4-bf29-4f02-97a1-d1771f325086@64.188.68.182:46925?type=ws&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - UK Dedicated Servers Limited ┇ 64.188.68.182
+vless://93a96cb4-bf29-4f02-97a1-d1771f325086@64.188.68.182:46925?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - UK Dedicated Servers Limited ┇ 64.188.68.182

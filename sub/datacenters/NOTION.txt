@@ -1,3 +1,3 @@
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@208.103.161.62:2086?type=httpupgrade&security=none&path=/?ed=2086#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NOTION ┇ 208.103.161.62
-vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@208.103.161.3:2086?type=httpupgrade&security=none&path=/?ed=2086#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NOTION ┇ 208.103.161.3
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?type=tcp&security=none&path=/tsghdws#US 🇺🇸 ┇ VLESS-TCP-NTLS - NOTION ┇ 208.103.161.170
+vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@208.103.161.3:2086?type=httpupgrade&security=none&path=/?ed=2086#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - NOTION ┇ 208.103.161.3

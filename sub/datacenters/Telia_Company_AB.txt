@@ -1,1 +1,1 @@
-vless://3d6e324c-664a-ca9b-869d-945d0b194c9e@dd.teain.org:1000?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Telia Company AB ┇ 78.72.155.96
+vless://3d6e324c-664a-ca9b-869d-945d0b194c9e@dd.teain.org:1000?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Telia Company AB ┇ 81.224.111.86

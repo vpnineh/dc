@@ -1,1 +1,2 @@
+vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - UK Dedicated Servers Limited ┇ 178.159.10.78
 vless://93a96cb4-bf29-4f02-97a1-d1771f325086@64.188.68.182:46925?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - UK Dedicated Servers Limited ┇ 64.188.68.182

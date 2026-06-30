@@ -1,7 +1,6 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.203
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.203
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.239
-vless://98f613ab-03be-4a0d-8f98-5beb4327af4c@sub.1.polnejat.ir:4720?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.62.176
+vless://40315803-da31-4455-a2e6-587c784fa9a8@sub.1.polnejat.ir:4720?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.239
 vless://cb25df71-caec-4405-9264-b1883735898d@snapp.opik.net:2050?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.100.151
 vless://c4beb402-ff66-4f4d-83a3-f68dc6929d10@31.15.17.124:80?type=ws&security=none&path=/ws#NL 🇳🇱 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.15.17.124
 vless://c4beb402-ff66-4f4d-83a3-f68dc6929d10@31.15.17.124:8880?type=ws&security=none&path=/ws#NL 🇳🇱 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.15.17.124

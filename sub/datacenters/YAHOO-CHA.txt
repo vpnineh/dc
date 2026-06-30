@@ -1,2 +1,2 @@
+vless://92b00848-64d9-457f-84a1-dda13bb8398c@alman.lorqina.ir:2086?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&sid=37#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-CHA ┇ 91.107.151.146
 vless://65029dca-4e00-49fb-abd3-e79f73e838fb@ameriiicaa.lorqina.ir:8080?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&sid=9231d27dd8#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-CHA ┇ 143.246.138.103
-vless://65029dca-4e00-49fb-abd3-e79f73e838fb@alman.lorqina.ir:2086?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&sid=4fe5b735#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-CHA ┇ 91.107.151.146

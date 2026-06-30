@@ -1,1 +1,1 @@
-vless://29f6cc78-ff02-45e4-b2a6-94198ec212d8@fbi.gov:2053?type=xhttp&security=tls&path=/&sni=pars.shopbertar.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 104.16.149.244
+vless://ee137caa-54c7-4392-a017-3a7c460fa773@fbi.gov:2053?type=xhttp&security=tls&path=/&sni=pars.shopbertar.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 104.16.149.244

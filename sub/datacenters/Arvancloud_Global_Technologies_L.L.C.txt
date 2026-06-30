@@ -1,1 +1,1 @@
-vless://6168d6be-941a-4559-8964-00ea67307d8d@b65a214cfd86088f.ravenlo.ir:1310?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.192.173
+vless://6168d6be-941a-4559-8964-00ea67307d8d@b65a214cfd86088f.ravenlo.ir:1310?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.67

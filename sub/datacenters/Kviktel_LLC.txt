@@ -1,1 +1,0 @@
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@ru.bvps.cloud:443?type=tcp&security=reality&sni=ru.bvps.cloud&fp=firefox&flow=xtls-rprx-vision&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=9e0ba98da61cb818#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kviktel LLC ┇ 45.139.26.97

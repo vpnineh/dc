@@ -1,9 +1,7 @@
-vless://c3494c65-8cd8-4ce4-9618-11b2b4cfeeef@auth.figmafound.org:443?type=tcp&security=reality&sni=auth.figmafound.org&fp=chrome&flow=xtls-rprx-vision&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=fc67691a4440a84b#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 103.139.51.20
-vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.69
-vless://1e5dc41f-6d94-4cd9-961d-cb57bc2e55d9@olds-2.lubbs.de:2086?type=httpupgrade&security=none&path=/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.11
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://99c8e30f-b39f-4917-b8cb-33265bf2976a@45.130.125.76:443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.76
-vless://3f9cfa4a-7fcb-4769-9832-4fbbc433a71f@marinh.sanaiehdasti.com:1814?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 82.192.69.43
-vless://62b430d5-c08e-4c0b-820a-e0c3466be01a@check.hafezsportclub.ir:2052?type=ws&security=none&path=/api-v1#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.16
 vless://31e302aa-c0ef-4ab3-b16f-71ac8ccfb045@lastkh.mobileman1.com:4242?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.244.146
+vless://1e5dc41f-6d94-4cd9-961d-cb57bc2e55d9@olds-3.lubbs.de:2086?type=httpupgrade&security=none&path=/#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.11
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.69
+vless://62b430d5-c08e-4c0b-820a-e0c3466be01a@check.hafezsportclub.ir:2052?type=ws&security=none&path=/api-v1?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.16
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://c3494c65-8cd8-4ce4-9618-11b2b4cfeeef@auth.figmafound.org:443?type=tcp&security=reality&sni=auth.figmafound.org&fp=chrome&flow=xtls-rprx-vision&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=fc67691a4440a84b#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 103.139.51.20

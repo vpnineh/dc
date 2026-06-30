@@ -1,2 +1,2 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.115
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.1.144
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.105.153
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.1.144

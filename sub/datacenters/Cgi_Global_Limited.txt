@@ -1,5 +1,6 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.62.176
-vless://40315803-da31-4455-a2e6-587c784fa9a8@sub.1.polnejat.ir:4720?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.19.4.199
+vless://98f613ab-03be-4a0d-8f98-5beb4327af4c@sub.1.polnejat.ir:4720?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.239
 vless://cb25df71-caec-4405-9264-b1883735898d@snapp.opik.net:2050?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.100.151
-vless://fb27b0e8-e987-420e-8816-3870017bdbac@www.speedtest.net:8443?type=xhttp&security=tls&path=/Hi&sni=clover3.spdnet.store&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.148.22
 vless://98144540-9699-42b2-bac7-e1c243310ae7@nl1.codesystem.ir:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.231.224
+vless://fb27b0e8-e987-420e-8816-3870017bdbac@www.speedtest.net:8443?type=xhttp&security=tls&path=/Hi&sni=clover3.spdnet.store&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.148.22

@@ -1,3 +1,2 @@
-vless://67fd52ed-21a7-4f3f-8a56-3de3ec91c1db@sinavip4.cnavippanel.com:8090?type=tcp&security=none&path=/#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.201
-vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@ch.viralforge.ru:443?type=tcp&security=reality&sni=ch.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.239.255
 vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@de-01.gni-daed.ru:443?type=xhttp&security=reality&path=/&sni=de-01.gni-daed.ru&fp=firefox&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - IPXO ┇ 95.85.232.195
+vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@ch.viralforge.ru:443?type=tcp&security=reality&sni=ch.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.239.255

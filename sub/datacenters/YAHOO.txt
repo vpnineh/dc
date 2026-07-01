@@ -1,1 +1,0 @@
-vless://92b00848-64d9-457f-84a1-dda13bb8398c@alman.lorqina.ir:2086?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&sid=37#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 91.107.151.146

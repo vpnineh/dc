@@ -1,7 +1,7 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.231
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.231
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.231
-vless://c15dc8c2-261e-442d-9230-635af88921f9@sub.1.polnejat.ir:4720?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
-vless://03223cd9-d81f-4851-b64b-9669525424b2@95.182.96.170:1158?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.96.170
+vless://40315803-da31-4455-a2e6-587c784fa9a8@sub.1.polnejat.ir:4720?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
 vless://03223cd9-d81f-4851-b64b-9669525424b2@95.182.96.170:2082?type=ws&security=none&path=/ws#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 95.182.96.170
-vless://4fd92612-4ddb-479e-840d-9603df9f8e5c@www.speedtest.net:8443?type=xhttp&security=tls&path=/Hi&sni=clover3.spdnet.store&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.148.22
+vless://03223cd9-d81f-4851-b64b-9669525424b2@95.182.96.170:1158?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.96.170
+vless://4fd92612-4ddb-479e-840d-9603df9f8e5c@www.speedtest.net:8443?type=xhttp&security=tls&path=/Hi&sni=clover3.spdnet.store&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.147.22
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.89.244.85
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.18.110
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.18.110

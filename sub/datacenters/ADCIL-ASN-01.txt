@@ -1,2 +1,1 @@
-vless://d10883ed-02dd-4271-91aa-b830a2a9d54a@trk2.armrsh.shop:2070?type=ws&security=tls&path=/turkeyst&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ADCIL-ASN-01 ┇ 144.225.65.239
 vless://baeb9020-8fcd-0018-b95d-f76507816e6d@pl-root.sworkingvpn.com:443?type=tcp&security=reality&sni=pl-root.sworkingvpn.com&flow=xtls-rprx-vision&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.3.23

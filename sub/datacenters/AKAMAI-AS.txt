@@ -1,3 +1,2 @@
-vless://T-ME-V2RayyNGvpn@216.238.94.140:2053?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=v74ad7EBU3cwitC9ErbaEmuQBFUrUkDxJaXzM7y_nHk&sid=957b#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 216.238.94.140
 vless://Telegramm@185.226.93.157:443?type=tcp&security=reality&sni=download.amd.com&fp=chrome&pbk=fIvwbiThGF7JXJjB1z7FWtILoc2odV_irWhFAbyNcVc&sid=405d4fcb82#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.226.93.157
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238

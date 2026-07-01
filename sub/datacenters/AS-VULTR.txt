@@ -1,3 +1,4 @@
 vless://a62c9bbd-7e37-4df7-a3da-07dec74c0950@soft98-german1ts23.horlutr.ir:2087?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.243.161
-vless://1df02e49-7f69-435c-afe7-5a391fb4bfcb@tala.shompolexy.shop:80?type=ws&security=none&path=/Shomp#NL 🇳🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 95.179.147.43
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.203.186
 vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?type=xhttp&security=none&path=/#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 209.250.255.14
+vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=tcp&security=reality#ZA 🇿🇦 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.84.236.5

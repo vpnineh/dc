@@ -1,3 +1,1 @@
-vless://c4beb402-ff66-4f4d-83a3-f68dc6929d10@31.15.17.124:443?type=xhttp&security=reality&path=/stream&sni=www.amazon.com&fp=chrome&pbk=BwuJHEJkTPrW7_YwU9nVnaBhXONRghU37tvddaw3ExI&sid=e8cd02c2afea9768#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 31.15.17.124
-vless://c4beb402-ff66-4f4d-83a3-f68dc6929d10@31.15.17.124:8080?type=xhttp&security=reality&path=/stream&sni=www.amazon.com&fp=chrome&pbk=KorbfxB3YVp1BvRBTQcuHJvamk1psyBW7vV3MpVnXSE&sid=96ff5fa46b332e1a#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 31.15.17.124
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238

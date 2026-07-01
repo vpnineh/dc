@@ -1,1 +1,0 @@
-vless://1ee0c3d2-9c42-463f-8497-ee05f76b84e5@de-t2.vinnypuxtomoon.today:2053?type=tcp&security=reality&sni=de-t2.vinnypuxtomoon.today&flow=xtls-rprx-vision&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.90.188

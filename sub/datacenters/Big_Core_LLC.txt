@@ -1,1 +1,0 @@
-vless://Telegramm@185.226.93.157:2035?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.157

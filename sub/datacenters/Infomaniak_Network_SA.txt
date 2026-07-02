@@ -1,0 +1,1 @@
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.228.243:2083?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.228.243

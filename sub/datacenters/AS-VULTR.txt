@@ -1,2 +1,2 @@
 vless://40e764c9-cafb-4b4f-a890-0a0c3f9ba7a3@bot-ep-h5qgoa.samanidempire.org:443?type=ws&security=tls&path=/2c96b287#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 80.240.18.59
-vless://1b53ca17-71b1-4920-94c1-ba25a79fa5bc@udf4532193.dadashinet10.ir:2044?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.32.193.172
+vless://9205058d-99ca-4493-836a-0137834ece4d@udf4532193.dadashinet10.ir:2044?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.32.193.172

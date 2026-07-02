@@ -1,2 +1,3 @@
-vless://40315803-da31-4455-a2e6-587c784fa9a8@sub.1.polnejat.ir:4720?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
-vless://4fd92612-4ddb-479e-840d-9603df9f8e5c@www.speedtest.net:8443?type=xhttp&security=tls&path=/Hi&sni=clover3.spdnet.store&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.148.22
+vless://343ffedb-38e0-4493-8103-42ad1bb0fffa@sub.1.polnejat.ir:4720?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
+vless://0d7b2669-b470-45e0-8205-d03ad1825bd6@sub.1.polnejat.ir:25718?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.96.158

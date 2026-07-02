@@ -1,3 +1,2 @@
 vless://94c42399-e151-45db-85e6-6b7973b46541@tnom1srl735b.contigolibre.com:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.18.10
-vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:32567?type=tcp&security=tls&sni=uvgl4cjd0475.vtret.com&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - AS-VULTR ┇ 136.244.84.128
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.203.186

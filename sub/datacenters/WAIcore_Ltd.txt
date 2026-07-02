@@ -1,1 +1,0 @@
-vless://21eec266-3a56-4767-b90b-fd62fa0b534f@g.backup.plnt.su:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#RU 🇷🇺 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 109.122.197.242

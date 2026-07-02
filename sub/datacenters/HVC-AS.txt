@@ -1,0 +1,1 @@
+vless://c23a425c-caa3-471a-b80a-e42448b4034d@192.166.82.47:80?type=httpupgrade&security=none&path=/assets/js/app-v2.8.4-5f9a2b3c.js#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - HVC-AS ┇ 192.166.82.47

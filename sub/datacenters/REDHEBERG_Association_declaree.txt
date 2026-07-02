@@ -1,1 +1,1 @@
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@fi.janusgate.org:443?type=tcp&security=reality&sni=fi.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=05cf93ad9f36e28e#DE 🇩🇪 ┇ VLESS-TCP-RLT - REDHEBERG Association declaree ┇ 45.137.69.103
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@fi.janusgate.org:443?type=tcp&security=reality&sni=fi.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=05cf93ad9f36e28e#DE 🇩🇪 ┇ VLESS-TCP-RLT - REDHEBERG Association declaree ┇ 45.137.69.178

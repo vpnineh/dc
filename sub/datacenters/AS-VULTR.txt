@@ -1,5 +1,4 @@
 vless://6f346289-e095-4b99-9304-416830c08e0a@64.176.23.205:8080?type=ws&security=none&path=/t-me-V2RayyNGvpn#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.23.205
 vless://94c42399-e151-45db-85e6-6b7973b46541@tnom1srl735b.contigolibre.com:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.18.10
-vless://d42591f1-c0c2-437b-916b-927d7aec3d4f@sp.posterarya.ir:2087?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 65.20.99.223
+vless://d42591f1-c0c2-437b-916b-927d7aec3d4f@soft98-german1ts23.horlutr.ir:2087?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.243.161
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.203.186
-vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=tcp&security=reality#ZA 🇿🇦 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.84.236.5

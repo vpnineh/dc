@@ -1,2 +1,3 @@
-vless://94c42399-e151-45db-85e6-6b7973b46541@tnom1srl735b.contigolibre.com:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.18.10
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.203.186
+vless://40e764c9-cafb-4b4f-a890-0a0c3f9ba7a3@bot-ep-h5qgoa.samanidempire.org:443?type=ws&security=tls&path=/2c96b287#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 80.240.18.59
+vless://1b53ca17-71b1-4920-94c1-ba25a79fa5bc@udf4532193.dadashinet10.ir:2044?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.32.193.172
+vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=tcp&security=reality#ZA 🇿🇦 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.84.236.5

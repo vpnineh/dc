@@ -1,1 +1,1 @@
-vless://21eec266-3a56-4767-b90b-fd62fa0b534f@nl.api.plnt.su:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#NL 🇳🇱 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.66.29
+vless://21eec266-3a56-4767-b90b-fd62fa0b534f@nl.api.plnt.su:443?type=tcp&security=reality&sni=nl.api.plnt.su&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#NL 🇳🇱 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.66.174

@@ -1,1 +1,1 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.1.144
+vless://571241ae-40ec-428e-8151-285bf2d3786f@riga.jorzel.ir:19302?type=xhttp&security=reality&path=/path#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - NTT-DATA-2914 ┇ 31.57.29.28

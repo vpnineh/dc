@@ -1,2 +1,1 @@
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238
-vless://6ee7489f-b3eb-4231-af44-4cf87088e157@141.95.107.209:443?type=tcp&security=reality&sni=cloudmarketplace.oracle.com&fp=chrome&pbk=YXkXpadfxoVGkRrKU2oEb7WcY6G8i73QR2YutR71NBY&sid=0040#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 141.95.107.209

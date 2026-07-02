@@ -1,7 +1,4 @@
-vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.61.212
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
-vless://16e7c88d-3967-484a-ba2a-1c5ba1d74f62@150.241.94.88:610?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.94.88
-vless://c28f3222-4f01-493c-a38f-0f1b34e62ea3@fire.jykvpn.com:2048?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 213.108.23.93
-vless://23aa8047-09f3-4679-9ae9-c9de38ddfb39@uk1.coconutstrip.co:443?type=tcp&security=reality&sni=uk1.coconutstrip.co&fp=chrome&flow=xtls-rprx-vision&pbk=QzZ91hlWiCRGnT3y6bn4hVEDuCg1ftBb6g-wI5Rl000#GB 🇬🇧 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 46.226.163.134
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.132.142
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.61.212
+vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@swe.fast-cone.com:443?type=tcp&security=reality&sni=swe.fast-cone.com&flow=xtls-rprx-vision&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&sid=44#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.221.143.28
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWV6YSBJbnRlcm5hdGlvbmFsIEx0ZCBcdTI1MDcgNjIuNjAuMTUxLjQxIiwiYWRkIjoiNjIuNjAuMTUxLjQxIiwicG9ydCI6NTc4NjUsImlkIjoiM2M2MWVhNTMtYTU1MC00MjUyLTgyMTEtOTU2ZjlmN2RjMmQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0

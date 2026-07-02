@@ -1,2 +1,2 @@
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ams-02.gni-daed.ru:443?type=xhttp&security=reality&path=/&sni=ams-02.gni-daed.ru&fp=firefox&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - ecotel communication ag ┇ 195.63.143.136
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - ecotel communication ag ┇ 195.63.133.145
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ams-02.gni-daed.ru:443?type=xhttp&security=reality&path=/&sni=ams-02.gni-daed.ru&fp=firefox&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - ecotel communication ag ┇ 195.63.143.136

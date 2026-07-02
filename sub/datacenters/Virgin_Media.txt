@@ -1,1 +1,1 @@
-vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?type=ws&security=none&path=/stream#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.40.62.134
+vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?type=ws&security=none&path=/stream#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.40.62.134

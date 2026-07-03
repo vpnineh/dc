@@ -2,5 +2,6 @@ vless://40e764c9-cafb-4b4f-a890-0a0c3f9ba7a3@bot-ep-h5qgoa.samanidempire.org:443
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.234:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.234
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.231:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.231
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.83:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.83
-vless://4e9d11d7-8cda-42ff-a583-c4dd9030f4c6@udf4532193.dadashinet10.ir:2044?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.32.193.172
+vless://236b0666-8dc5-4f52-976b-c45b36e11072@ping.wargen-alkaline.ir:8080?type=httpupgrade&security=none&path=/nytfjmu#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 70.34.198.154
+vless://9b971077-3061-4560-81b3-bf215bff4d79@udf4532193.dadashinet10.ir:2044?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.32.193.172
 vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=tcp&security=reality#ZA 🇿🇦 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.84.236.5

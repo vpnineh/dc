@@ -1,2 +1,1 @@
 vless://389fa572-a41c-4eed-a44f-6431ae1e67d5@5.160.131.68:80?type=ws&security=none&path=/profile#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 5.160.131.68
-vless://1e74bb74-590e-4d9f-9a63-7e1504b4eb6b@87.107.82.8:48771?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.82.8

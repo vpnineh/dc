@@ -1,1 +1,1 @@
-vless://1d3f06e4-fd94-4293-b557-54c6e282eff7@himo.sanaiehdasti.com:1323?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.4
+vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFN1bnJpc2UgR21iSCBcdTI1MDcgMTc4LjgzLjQ1LjEwNyIsImFkZCI6InNpbmF2aXAyLmNuYXZpcHBhbmVsLmNvbSIsInBvcnQiOjE1MTUsImlkIjoiOTA0MDI1YTctMzE4Yy00NjcyLThhODAtOGNmN2MzM2E5NTFmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9

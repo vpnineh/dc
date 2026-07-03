@@ -1,1 +1,0 @@
-vless://739f0fe7-1ba1-4b64-9a60-87b13a79d4be@14.102.228.201:2053?type=ws&security=tls&path=/&sni=node-i1.persia.my&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-TLS - Aruba S.p.A. ┇ 14.102.228.201

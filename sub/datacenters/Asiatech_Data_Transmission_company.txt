@@ -1,1 +1,0 @@
-vless://9152f411-434e-4eab-a94c-8f3a8a816827@212.33.203.70:20364?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.203.70

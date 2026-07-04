@@ -1,0 +1,1 @@
+vless://55564e5f-fa5e-4572-9a1a-502ff0e2f62f@62.113.105.67:17572?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Beget LLC ┇ 62.113.105.67

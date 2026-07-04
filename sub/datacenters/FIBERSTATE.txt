@@ -1,1 +1,1 @@
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@us.janusgate.org:443?type=tcp&security=reality&sni=us.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=fda2db43cf45470f#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 23.160.56.229
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@us.janusgate.org:443?type=tcp&security=reality&sni=us.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=fc6549a0febd6c9f#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 23.160.56.229

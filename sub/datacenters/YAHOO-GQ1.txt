@@ -1,0 +1,2 @@
+vless://abb5cbf3-bf08-4814-afaf-4147a5a5ddb1@telewebion.ir.marandcity.com:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 46.225.41.232
+vless://a9db7a1c-65eb-49e4-bcad-6a791efeb982@91.124.209.145:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=BSZttwa9zpzUej0tXYiuHvYMwd-bwCwJLE7lJZjpOAw#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 91.124.209.145

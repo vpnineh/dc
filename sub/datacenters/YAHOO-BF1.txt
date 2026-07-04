@@ -1,1 +1,0 @@
-vless://48522b0f-7aea-4720-ae83-8ec572ad491c@telewebion.ir.marandcity.com:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 46.225.41.232

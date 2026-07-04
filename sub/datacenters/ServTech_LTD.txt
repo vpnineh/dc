@@ -1,0 +1,1 @@
+vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - ServTech LTD ┇ 92.119.230.134

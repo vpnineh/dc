@@ -1,1 +1,1 @@
-vless://10a6b1ed-a0e0-449a-ba54-ecda60bd5ddd@193.84.255.91:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 193.84.255.91
+vless://db77b07d-b1d7-4029-b7e1-6ac4c58bf099@tstsrat.speed1vipsarbaziclick.site:80?type=ws&security=none&path=/profile#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 185.235.197.49

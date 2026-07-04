@@ -1,1 +1,1 @@
-vless://Telegram@45.134.38.146:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hydra-Shield ┇ 45.134.38.146
+vless://Telegram@45.134.38.146:443?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hydra-Shield ┇ 45.134.38.146

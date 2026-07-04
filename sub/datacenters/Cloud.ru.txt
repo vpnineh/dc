@@ -1,5 +1,6 @@
-vless://1d69b662-74b4-0003-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&sni=br-83-ru.netzrun.at&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-RAW-TLS - Cloud.ru ┇ 82.202.142.179
-vless://9f7cf3d1-299e-44df-988a-08147d27805f@192.144.13.35:47830?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://9f7cf3d1-299e-44df-988a-08147d27805f@192.144.13.35:42942?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:54253?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://6a372c32-1b32-4c23-9671-bb1c1a13a54e@192.144.13.35:42942?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:18054?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
 vless://9f7cf3d1-299e-44df-988a-08147d27805f@192.144.13.35:33837?type=xhttp&security=none&path=/#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://9f7cf3d1-299e-44df-988a-08147d27805f@192.144.13.35:54328?type=xhttp&security=none&path=/#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://1d69b662-74b4-0003-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&sni=br-83-ru.netzrun.at&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-RAW-TLS - Cloud.ru ┇ 82.202.142.179

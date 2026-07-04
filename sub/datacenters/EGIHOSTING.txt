@@ -1,2 +1,3 @@
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 45.38.228.177
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRUdJSE9TVElORyBcdTI1MDcgMTA0LjI1Mi44OS4yNDAiLCJhZGQiOiIxMDQuMjUyLjg5LjI0MCIsInBvcnQiOjgwODAsImlkIjoiYzViNzA2NmMtODhjMy00ZmQ3LWEwN2MtZDVhM2M0NWY5YjYyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXJlZmNkbiJ9
-vless://c5b7066c-88c3-4fd7-a07c-d5a3c45f9b62@104.252.89.240:10393?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - EGIHOSTING ┇ 104.252.89.240
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 45.38.228.224

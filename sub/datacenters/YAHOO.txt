@@ -1,0 +1,2 @@
+vless://64345329-625e-458e-8fa0-031ca0463535@max-ep.443.erangle.ru:35453?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=fqVGZ7MU0GW7JEqHLoTJgUarxjuKh3c7lg0BylHEozU&sid=2c2284158218#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO ┇ 167.233.88.5
+vless://64345329-625e-458e-8fa0-031ca0463535@max-ep.443.erangle.ru:35931?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=H8jtKiJeS5mz3Y4CHVFMPHRpBMKVlkdKSNeiBQ2_FGk&sid=7fcc431578bef3e3#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO ┇ 167.233.88.5

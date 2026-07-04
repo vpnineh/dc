@@ -1,1 +1,1 @@
-vless://ebf2b955-ebff-4913-9cc0-d9c56870cfbe@nid.hatvpn.org:443?type=tcp&security=reality&sni=nid.hatvpn.org&flow=xtls-rprx-vision&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876#NL 🇳🇱 ┇ VLESS-TCP-RLT - HURRICANE ┇ 64.188.77.219
+vless://ebf2b955-ebff-4913-9cc0-d9c56870cfbe@nid.hatvpn.org:443?type=tcp&security=reality&sni=nid.hatvpn.org&fp=chrome&flow=xtls-rprx-vision&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876#NL 🇳🇱 ┇ VLESS-TCP-RLT - HURRICANE ┇ 64.188.77.219

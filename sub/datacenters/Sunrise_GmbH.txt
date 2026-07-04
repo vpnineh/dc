@@ -1,2 +1,1 @@
 vless://65c336b3-4895-48e4-ae1d-583142d57afb@book.korzelo.ir:2083?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.252
-vless://1d3f06e4-fd94-4293-b557-54c6e282eff7@himo.sanaiehdasti.com:1323?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.4

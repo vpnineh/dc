@@ -1,1 +1,0 @@
-vless://85357d35-492e-4814-835a-aba4cb7f00ad@157.85.230.247:64371?type=raw&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=lvNgDfAnK72MtJYd3VcZWgmpKUABdH8jfUghJIScdSM&sid=38c7778a#US 🇺🇸 ┇ VLESS-RAW-RLT - APPLE-ENGINEERING ┇ 157.85.230.247

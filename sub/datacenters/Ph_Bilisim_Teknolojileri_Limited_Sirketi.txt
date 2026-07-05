@@ -1,2 +1,2 @@
-vless://4a7b2922-786c-46a6-8115-6cb07e9b0a6b@dem.yariresanbot.ir:8080?type=ws&security=tls&path=/&sni=dem.yariresanbot.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 193.111.125.82
 vless://4a7b2922-786c-46a6-8115-6cb07e9b0a6b@dem.yariresanbot.ir:443?type=ws&security=none&path=/pas#TR 🇹🇷 ┇ VLESS-WS-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 193.111.125.82
+vless://4a7b2922-786c-46a6-8115-6cb07e9b0a6b@dem.yariresanbot.ir:8080?type=ws&security=tls&path=/&sni=dem.yariresanbot.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 193.111.125.82

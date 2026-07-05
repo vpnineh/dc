@@ -1,1 +1,1 @@
-vless://1270a549-5814-4078-a396-a237242f9ed8@104.253.74.87:80?type=ws&security=none&path=/downloadpp.php#US 🇺🇸 ┇ VLESS-WS-NTLS - NODESTOP-LLC ┇ 104.253.74.87
+vless://f5b2ef1a-6ee5-41bb-827e-37ddcf60aa4a@104.253.74.87:80?type=ws&security=none&path=/assets/js/app-v2.8.4-5f9a2b3c.js#US 🇺🇸 ┇ VLESS-WS-NTLS - NODESTOP-LLC ┇ 104.253.74.87

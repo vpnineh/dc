@@ -1,1 +1,2 @@
 vless://932a9656-d5ec-4ab0-a56e-4755f5420171@sw1.serviceoda.ru:7443?type=tcp&security=reality&sni=sw1.serviceoda.ru&fp=chrome&flow=xtls-rprx-vision&pbk=42Mmvn4IUHiADQNh8ZFvY8kXw42nA-nuX7SQwZz0Mm4&sid=c6e229cbb1220acc#US 🇺🇸 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 193.42.39.161
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.33.87.18

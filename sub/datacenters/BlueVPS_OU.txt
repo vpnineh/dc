@@ -1,1 +1,1 @@
-vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@45.86.228.237:443?type=grpc&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#AE 🇦🇪 ┇ VLESS-GRPC-RLT - BlueVPS OU ┇ 45.86.228.237
+vless://d272ab5b-b5e9-4e5d-b235-6bee4970787c@au-aeza.t1n2.com:443?type=xhttp&security=tls&path=/video/v5/chunks/&sni=au-aeza.t1n2.com&fp=chrome#EE 🇪🇪 ┇ VLESS-XHTTP-TLS - BlueVPS OU ┇ 193.233.201.201

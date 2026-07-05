@@ -1,0 +1,1 @@
+vless://932a9656-d5ec-4ab0-a56e-4755f5420171@off.cryptoofarm.com:2053?type=grpc&security=reality&sni=off.cryptoofarm.com&fp=chrome&pbk=Usmc364E5GBAFWoi2A2jpHfvBexvZbQLbqZXi-0mVGE&sid=2b4a43bd9b6c3f#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Ivan Bulavkin ┇ 109.122.195.103

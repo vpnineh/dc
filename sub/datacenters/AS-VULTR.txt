@@ -1,3 +1,2 @@
-vless://a97d7227-eed4-402d-91f5-6c0011c85479@45panel.korvexe.ir:2087?type=ws&security=tls&path=/&sni=45panel.korvexe.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.119.152
+vless://018041d5-6dc4-42e3-a8d6-58f42cee10de@uk.potter-head.ir:2087?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 78.141.226.59
 vless://3194e600-6ba7-4248-b121-a88bf76c88cf@ping.wargen-alkaline.ir:27804?type=httpupgrade&security=none&path=/#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 70.34.198.154
-vless://bbba9d85-8580-4502-a025-e70cebfdd1fe@70.34.198.195:53753?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.198.195

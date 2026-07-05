@@ -1,2 +1,2 @@
+vless://1d69b662-74b4-0003-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&sni=br-83-ru.netzrun.at&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-RAW-TLS - Cloud.ru ┇ 82.202.142.179
 vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vless://1d69b662-74b4-0001-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&sni=br-83-ru.netzrun.at&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-RAW-TLS - Cloud.ru ┇ 82.202.142.179

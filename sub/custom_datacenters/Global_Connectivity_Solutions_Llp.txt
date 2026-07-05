@@ -1,3 +1,4 @@
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@fr-po.pngv.top:4999?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.62.59
 vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?type=tcp&security=reality&sni=greb.loralden.com&fp=qq&flow=xtls-rprx-vision&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&sid=3620820fe66d6731#FR 🇫🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 62.133.62.206
-vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 89.23.107.137
+vless://bedf5924-37db-4c00-b5be-4c2ef6f5afc9@free04.tunnely.ru:2096?type=grpc&security=reality&sni=free04.tunnely.ru&fp=chrome&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 147.45.50.168
+vless://b32359b9-eda1-4206-aafb-a95a0dd59ee4@turkgame.soltankabos.ir:22337?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.201

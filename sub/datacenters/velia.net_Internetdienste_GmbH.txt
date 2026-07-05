@@ -1,1 +1,0 @@
-vless://332b3cc2-21dc-4ffa-9ab7-7d46a665b5fe@193.42.61.231:47664?type=ws&security=false&path=/&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-NTLS - velia.net Internetdienste GmbH ┇ 193.42.61.231

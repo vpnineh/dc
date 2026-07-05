@@ -1,2 +1,4 @@
-vless://58d5843a-a09b-4728-bc48-4f43e4418491@allnet.sanaiehdasti.com:1323?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.65
+vless://6c905a59-a680-4af6-af3e-bd4fade453f4@book.korzelo.ir:555?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.252
+vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.252
+vless://58d5843a-a09b-4728-bc48-4f43e4418491@allnet.sanaiehdasti.com:1323?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.40
 vless://1d3f06e4-fd94-4293-b557-54c6e282eff7@himo.sanaiehdasti.com:1323?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.4

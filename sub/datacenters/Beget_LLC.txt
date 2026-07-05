@@ -1,1 +1,1 @@
-vless://403916a1-7cad-4988-bd74-a0aa377ab857@45.9.40.149:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Beget LLC ┇ 45.9.40.149
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 89.169.39.55

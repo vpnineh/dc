@@ -1,0 +1,2 @@
+vless://7ae62311-bffe-465c-8e51-241fe129df28@subi.polnejat.ir:5326?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=gWjiT3hQZvFKUlwwOj8jLfi2c3SweB2hD-DMuZqSvW8&sid=8aba#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 193.164.155.116
+vless://28074c22-d65e-46ce-8426-22f9e05e0363@subi.polnejat.ir:25718?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=gWjiT3hQZvFKUlwwOj8jLfi2c3SweB2hD-DMuZqSvW8&sid=8aba#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 193.164.155.116

@@ -1,4 +1,2 @@
-vless://Bega_arvan@geri.alis1.ir:442?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=K3jMUAZPs9wcJap_QNnCU3C51dJoJYSUrgVMW6iGsjU&sid=1a1ec806ec208712#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.204.169.5
-vless://Telegramm@185.226.93.157:443?type=tcp&security=reality&sni=download.amd.com&fp=chrome&pbk=fIvwbiThGF7JXJjB1z7FWtILoc2odV_irWhFAbyNcVc&sid=405d4fcb82#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.226.93.157
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238
-vless://Bega_arvan@geri.alis1.ir:2104?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=BuyIWWE5ehhU8cUibKg-NNowtVZM0pyFeOpERdiWlUA&sid=9613a5dec0ff#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.204.169.5
+vless://Telegramm@185.226.93.157:443?type=tcp&security=reality&sni=download.amd.com&fp=chrome&pbk=fIvwbiThGF7JXJjB1z7FWtILoc2odV_irWhFAbyNcVc&sid=405d4fcb82#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.226.93.157

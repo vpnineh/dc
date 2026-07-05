@@ -1,7 +1,6 @@
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.234:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.234
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.83:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.83
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.231:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.231
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.142:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.142
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.150:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.150
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.160:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.160
-vless://6e2f6c09-855c-4f9f-8e94-3a90c3f07fbd@udf4532193.dadashinet10.ir:2044?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.32.193.172
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.150:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.150
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.231:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.231
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.234:8443?type=tcp&security=reality#MU 🇲🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.195.137.234
+vless://3194e600-6ba7-4248-b121-a88bf76c88cf@ping.wargen-alkaline.ir:27804?type=httpupgrade&security=none&path=/#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 70.34.198.154

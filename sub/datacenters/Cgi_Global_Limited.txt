@@ -1,4 +1,4 @@
 vless://33557047-ad93-4d09-be33-82ec577b05f1@31.57.46.188:2052?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.57.46.188
-vless://abd33b58-df1c-44eb-8eae-9e443d73d621@sub.1.polnejat.ir:25718?type=tcp&security=none#AL 🇦🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.139.28
-vless://3ea5b9f5-acc5-4721-b865-c9caf02dc83f@188.130.207.135:50420?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.207.135
-vless://3ea5b9f5-acc5-4721-b865-c9caf02dc83f@188.130.207.135:34634?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.135
+vless://abd33b58-df1c-44eb-8eae-9e443d73d621@sub.1.polnejat.ir:25718?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 193.164.155.116
+vless://26279ceb-2ab2-447d-8efb-bef2b22470d2@www.speedtest.net:8443?type=xhttp&security=tls&path=/Hi&sni=ViP1.Clover1.DPDNs.Org&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.147.22
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.115.99

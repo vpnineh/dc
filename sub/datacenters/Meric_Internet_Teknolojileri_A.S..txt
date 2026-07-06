@@ -1,3 +1,6 @@
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.50:443?type=ws&security=tls&path=/&sni=c.downloadphysics.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ 104.16.72.50
+vless://afbfce18-0317-4209-b2ba-76b7f3fd9046@turkey.losthonor.ir:56019?type=ws&security=none&path=/ebddgnd#TR 🇹🇷 ┇ VLESS-WS-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.198.35
 vless://fb9b1858-1984-4f6f-96db-7051c888b5f1@ts.dark-1881.sbs:443?type=ws&security=tls&path=/aparat&sni=ts.dark-1881.sbs#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ 45.141.148.72
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?type=ws&security=tls&path=/&sni=c.downloadphysics.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ 104.16.149.244
+vless://afbfce18-0317-4209-b2ba-76b7f3fd9046@turkey.losthonor.ir:32430?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.198.35
 vless://e56ab08d-4e35-448b-8825-2982a39ebe26@dfssfddsfdfdfffddfdfjdfjdjfdfd.parscon.ir:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.135
+vless://afbfce18-0317-4209-b2ba-76b7f3fd9046@turkey.losthonor.ir:47850?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.198.35

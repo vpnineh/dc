@@ -1,1 +1,1 @@
-vless://SoonTeam@sexi.carderrr.com:443?type=ws&security=none&path=@SylphNet#US 🇺🇸 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.103.60
+vless://SoonTeam@sexi.carderrr.com:443?type=ws&security=none&path=/telegram@SoonTeam#US 🇺🇸 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.103.60

@@ -1,1 +1,2 @@
 vless://2460359e-9460-4804-8a5c-bc2b045fdc7d@suolar.yellowsky.ir:443?type=ws&security=tls&path=?ed=2048&sni=GBCEEEROTON.mastermarly.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 91.193.58.201
+vless://4ae555e0-daad-407f-d6d3-3e59a3058556@82.40.62.121:80?type=httpupgrade&security=none&path=/down.php#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Virgin Media ┇ 82.40.62.121

@@ -1,1 +1,1 @@
-vless://8e62a80b-83ee-4eb8-9852-e8f8c7a6c4fa@fast2.screw.page:443?type=tcp&security=tls&sni=fast2.screw.page&fp=chrome&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 188.225.35.187
+vless://8e62a80b-83ee-4eb8-9852-e8f8c7a6c4fa@fast2.screw.page:443?type=tcp&security=tls&sni=fast2.screw.page&fp=firefox&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 188.225.35.187

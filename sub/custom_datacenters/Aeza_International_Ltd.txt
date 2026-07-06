@@ -1,5 +1,4 @@
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.73.131.154
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.61.212
-vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191
 vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 109.120.140.248
-vless://16b2b794-9a8b-4c7a-a6c8-18da29f76f12@help.luxaro.ir:80?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 83.147.253.71
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 77.110.127.191

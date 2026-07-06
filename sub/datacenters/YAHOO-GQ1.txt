@@ -1,0 +1,1 @@
+vless://13f99069-a259-4422-a294-ee59d21b54b3@de1.appcodes.ir:2026?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 31.184.244.71

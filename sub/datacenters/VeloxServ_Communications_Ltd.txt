@@ -1,1 +1,0 @@
-vless://Join,telegram@152.89.253.86:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - VeloxServ Communications Ltd ┇ 152.89.253.86

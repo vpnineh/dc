@@ -1,1 +1,2 @@
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238
+vless://1cb8c791-264c-443d-9810-4c8bc060dab0@hayabusa.proxy.rlwy.net:29044?type=xhttp&security=reality&path=/Hamid/Hamid/Hamid/Hamid/Hamid/Hamid&sni=www.samsung.com&fp=chrome&pbk=z8dsKnDuTfyLF1hepRQO_JaIhfMHLmr2MFQtRXWyk1s&sid=8c4eb19fa12b64#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 66.33.22.223

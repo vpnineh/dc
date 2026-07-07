@@ -1,2 +1,1 @@
-vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.252
-vless://0de7a4c9-6c9a-4728-b4e8-eb47051e13d4@178.83.46.187:3030?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.187
+vless://afcde39e-3357-44d0-817c-add8dc7cca01@book.korzelo.ir:2083?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.252

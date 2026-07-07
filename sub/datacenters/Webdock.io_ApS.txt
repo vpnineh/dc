@@ -1,1 +1,1 @@
-vless://3f373e36-6363-4f3e-8ca3-0504612f490e@dk2.darknet-bot.co.uk:443?type=grpc&security=tls&fp=chrome#SE 🇸🇪 ┇ VLESS-GRPC-TLS - Webdock.io ApS ┇ 193.181.211.50
+vless://3f373e36-6363-4f3e-8ca3-0504612f490e@dk2.darknet-bot.co.uk:443?type=grpc&security=tls&fp=qq#SE 🇸🇪 ┇ VLESS-GRPC-TLS - Webdock.io ApS ┇ 193.181.211.50

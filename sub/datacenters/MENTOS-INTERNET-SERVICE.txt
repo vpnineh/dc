@@ -1,1 +1,1 @@
-vless://0d3a1068-d74e-4d5c-a880-4aa4f1c9dd30@www.chatgpt.com:8443?type=ws&security=tls&path=/&sni=sub4.kaliconnect.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - MENTOS-INTERNET-SERVICE ┇ 172.64.155.209
+vless://0d3a1068-d74e-4d5c-a880-4aa4f1c9dd30@www.chatgpt.com:8443?type=ws&security=tls&path=/&sni=sub4.kaliconnect.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - MENTOS-INTERNET-SERVICE ┇ 104.18.32.47

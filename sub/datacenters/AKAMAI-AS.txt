@@ -1,3 +1,3 @@
+vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:442?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=K3jMUAZPs9wcJap_QNnCU3C51dJoJYSUrgVMW6iGsjU&sid=9ed6ac58f062#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 130.185.120.129
 vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:439?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=K3jMUAZPs9wcJap_QNnCU3C51dJoJYSUrgVMW6iGsjU&sid=84#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 130.185.120.129
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238
-vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:442?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=K3jMUAZPs9wcJap_QNnCU3C51dJoJYSUrgVMW6iGsjU&sid=9ed6ac58f062#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 130.185.120.129

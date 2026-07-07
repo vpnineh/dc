@@ -1,0 +1,1 @@
+vless://ccb1eaa7-d96e-4c7a-b2c8-88e5a0e0029d@api.yandex-api.org:443?type=tcp&security=reality&sni=api.yandex-api.org&fp=chrome&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 189.74.117.3

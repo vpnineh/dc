@@ -1,1 +1,1 @@
-vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.53.46
+vless://86c3eca1-a417-4a3f-95c0-a7b040f76a55@nok.iblamelooks.ir:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.53.46

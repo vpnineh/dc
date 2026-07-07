@@ -1,3 +1,2 @@
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?type=tcp&security=reality&sni=germnode.dostupnet.ru&fp=firefox&flow=xtls-rprx-vision&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&sid=ffaa1a2421f17932#DE 🇩🇪 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 194.247.187.177
 vless://bd449f7a-95aa-4920-9af0-cd6b5d4cb5f1@176.222.54.252:26690?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 176.222.54.252
-vless://46cddd9c-dfed-4c98-b3cb-379e0c8dc27e@italy-nm.serendpiti.ir:2060?type=xhttp&security=reality&path=/path#SC 🇸🇨 ┇ VLESS-XHTTP-RLT - Hostkey B.v. ┇ 154.83.186.63

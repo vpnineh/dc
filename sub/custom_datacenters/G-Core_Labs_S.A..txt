@@ -1,5 +1,5 @@
+vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://4b310d54-6938-4b89-9414-dfc7c6fdae06@vip.karmatel.ir:8443?type=xhttp&security=tls&path=/&fp=chrome#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - G-Core Labs S.A. ┇ 62.112.222.47
 vless://4b310d54-6938-4b89-9414-dfc7c6fdae06@panel.karmatel.ir:8880?type=ws&security=tls&path=/&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 62.112.222.47
-vless://4b310d54-6938-4b89-9414-dfc7c6fdae06@vip.karmatel.ir:8443?type=xhttp&security=tls&path=/&sni=vip.karmatel.ir&fp=chrome#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - G-Core Labs S.A. ┇ 62.112.222.47
 vless://73bbc823-4d2e-44cd-b26f-0646f1d12ca3@45.82.102.76:8080?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.102.76
-vless://66b5ee0f-78c5-4660-bd62-b7f355b40f00@myip.check.nonpath.ir:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.63

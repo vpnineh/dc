@@ -1,0 +1,4 @@
+vless://e7ed45cc-a3aa-44f2-91ef-f860af61a8b3@ge-nn.jorzel.ir:2060?type=xhttp&security=reality&path=/path&sni=www.yahoo.com&fp=chrome&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&sid=90cecfbf0c0a21ec#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO ┇ 46.8.232.168
+vless://de3b6d50-1b2d-4156-b3fa-e559be5cf271@panel1.bakhe01.ir:2083?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=PgcUZxF6X569Gh3R54wi2HPzPfbVZ4kUhjAzhEO0jgk&sid=384f3b13644800#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO ┇ 31.40.204.208
+vless://de3b6d50-1b2d-4156-b3fa-e559be5cf271@panel1.bakhe01.ir:2087?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=2xTObIsraFGW1Vo08iw-rEZBKiKtZUQZ2At0N5zZ63Y&sid=5c9510#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 31.40.204.208
+vless://71fdfe0d-024b-4069-8c8c-83df63d96db0@a.bazardam.shop:2056?type=xhttp&security=reality&path=/path&sni=www.yahoo.com&fp=chrome&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&sid=4eee3ae71639f189#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO ┇ 135.181.45.18

@@ -1,2 +1,1 @@
 vless://3ffd3381-b733-4f39-a7e5-516018b4b4d6@tekno.fusetea.ir:555?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.105
-vless://c11cefa6-5f3b-49a4-af25-9e8d3b046de6@tr.star-ping1.ir:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.132.3

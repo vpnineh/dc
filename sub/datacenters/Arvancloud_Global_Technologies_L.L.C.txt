@@ -1,2 +1,2 @@
-vless://55f6d1d6-86a1-46c6-8a69-f254c8f73752@185.204.170.178:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.170.178
+vless://2fe162f8-6659-45d2-9192-383b0af11364@185.204.170.178:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.170.178
 vless://d207ecd7-f7f1-494c-90bb-9fd09200c354@sndata.aghayradical.space:56792?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.206.199

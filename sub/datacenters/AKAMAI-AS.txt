@@ -1,1 +1,2 @@
+vless://fe583d43-57f0-41d2-89c1-2cc3d63b17f2@upload.ansooyefilter.ir:8443?type=tcp&security=reality&sni=ap-author.semiconductor.samsung.com&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&sid=b5d663e4e2e19d#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238

@@ -1,3 +1,2 @@
-vless://de3b6d50-1b2d-4156-b3fa-e559be5cf271@panel1.bakhe01.ir:55034?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.208
-vless://9b8a334b-e4e1-424c-99b4-4fd203ffb571@31.40.204.28:443?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.28
 vless://de3b6d50-1b2d-4156-b3fa-e559be5cf271@panel1.bakhe01.ir:443?type=tcp&security=reality&path=/#TR 🇹🇷 ┇ VLESS-TCP-RLT - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.208
+vless://de3b6d50-1b2d-4156-b3fa-e559be5cf271@panel1.bakhe01.ir:55034?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.208

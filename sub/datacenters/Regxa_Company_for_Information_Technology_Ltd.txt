@@ -1,0 +1,1 @@
+vless://fd0c2255-e990-44e0-a97f-62e300cf7564@209.200.246.117:38784?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Regxa Company for Information Technology Ltd ┇ 209.200.246.117

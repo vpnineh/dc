@@ -1,0 +1,1 @@
+vless://56fde86d-7985-4385-bc75-276b29a70e44@45.86.228.237:443?type=grpc&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#AE 🇦🇪 ┇ VLESS-GRPC-RLT - BlueVPS OU ┇ 45.86.228.237

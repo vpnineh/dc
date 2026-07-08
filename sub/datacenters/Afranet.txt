@@ -1,1 +1,1 @@
-vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@tuns.textin.ir:2096?type=ws&security=tls&path=/cdn-sync&sni=tuns.textin.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 79.175.177.143
+vless://13f99069-a259-4422-a294-ee59d21b54b3@tuns.textin.ir:2096?type=ws&security=tls&path=/cdn-sync&sni=tuns.textin.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 79.175.177.143

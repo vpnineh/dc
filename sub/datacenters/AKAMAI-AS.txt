@@ -1,2 +1,1 @@
-vless://a6614783-b5d3-44f0-b4c3-88b4aacbceec@91.107.176.17:443?type=xhttp&security=reality&path=/aaa&sni=sribsrch.ecom.samsung.com&fp=chrome&pbk=6isWxkfoPFtpWsGYL91vA_qAYnBeBQH71Hgzqax1g2I&sid=24#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 91.107.176.17
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238

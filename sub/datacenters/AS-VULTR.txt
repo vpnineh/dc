@@ -1,7 +1,0 @@
-vless://818b2d06-0fc6-4fbf-96ee-7cca131cdead@uk.potter-head.ir:2087?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 78.141.226.59
-vless://acbbd356-b3fd-4509-bbe8-f66157ecfbde@ping.wargen-alkaline.ir:8080?type=httpupgrade&security=none&path=/nytfjmu#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 70.34.198.154
-vless://07a978bb-49ec-4dbe-827b-feb9243f3e63@panel.aminsec.ir:22338?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.194.206
-vless://dfe2f652-f5e5-4e32-bfb2-a7e313d75317@1omekke746ec.vv22rraayy.com:22337?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.217.167
-vless://3194e600-6ba7-4248-b121-a88bf76c88cf@ping.wargen-alkaline.ir:27804?type=httpupgrade&security=none&path=/#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 70.34.198.154
-vless://fcd7cf7d-c11a-4fdf-a69e-b4dcd2eb645c@usa1.g1tee.ir:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 66.42.95.0
-vless://f6c640df-838a-452a-84e4-30ae05b2ea3a@udf4532193.dadashinet10.ir:2044?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.32.193.172

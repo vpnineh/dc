@@ -1,2 +1,0 @@
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?type=tcp&security=none&path=/188.240.213.98:8443#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 63.141.128.45
-vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - BIGCOMMERCE ┇ 192.200.160.20

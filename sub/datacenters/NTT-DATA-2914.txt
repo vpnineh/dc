@@ -1,2 +1,0 @@
-vless://5d6c9eac-567d-4fc8-841b-a81170b52584@t3.zeus40.ir:14519?type=tcp&security=none&path=/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 91.92.250.28
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 130.94.1.144

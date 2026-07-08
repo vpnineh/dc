@@ -1,2 +1,1 @@
-vless://9b8a334b-e4e1-424c-99b4-4fd203ffb571@185.226.93.88:443?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.88
 vless://bbe20750-1718-414c-8ac6-041899cb0216@185.226.93.174:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.174

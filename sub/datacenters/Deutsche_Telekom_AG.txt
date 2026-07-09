@@ -1,1 +1,0 @@
-vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@switzen.topupaxme.icu:9443?type=ws&security=tls&path=/ws&sni=switzen.topupaxme.icu&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Deutsche Telekom AG ┇ 92.119.165.49

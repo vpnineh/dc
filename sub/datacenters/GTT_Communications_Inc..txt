@@ -1,2 +1,1 @@
-vless://3b813e04-11bc-42dc-a48a-6f71bfe47bba@nkoihgf.dadashinet10.ir:2044?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 66.92.161.13
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR1RUIENvbW11bmljYXRpb25zIEluYy4gXHUyNTA3IDIxNi4zNi45OC4yOSIsImFkZCI6IjIxNi4zNi45OC4yOSIsInBvcnQiOjQ0MywiaWQiOiIzNDMxNzZhZS0wMDgyLTQ5ZGMtYTlkZC03YWM0N2ZiMzE5NjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvSkFTT04uRVQifQ
+vless://f6c640df-838a-452a-84e4-30ae05b2ea3a@bbbhhgf.dadashinet10.ir:2044?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 66.92.161.13

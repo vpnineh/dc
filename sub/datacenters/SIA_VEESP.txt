@@ -1,1 +1,2 @@
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
+vless://3e725086-dabd-ae9d-ffa5-3bab782249e1@zadefree-hyperlink.hyperfreelink.com:443?type=xhttp&security=tls&path=/video&sni=zadefree-hyperlink.hyperfreelink.com&fp=chrome#SI 🇸🇮 ┇ VLESS-XHTTP-TLS - SIA VEESP ┇ 62.182.195.118

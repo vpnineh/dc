@@ -1,1 +1,0 @@
-vless://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:8443?type=xhttp&security=tls&path=/&fp=chrome#CY 🇨🇾 ┇ VLESS-XHTTP-TLS - JSC Severen-Telecom ┇ 185.5.75.151

@@ -1,1 +1,1 @@
-vless://7d9fdfb8-829f-46c9-a0ff-cb0b8a5c1bca@tr.corecloud.space:42268?type=httpupgrade&security=none&path=/#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Kaopu Cloud HK Limited ┇ 38.60.208.185
+vless://d5536e94-a523-4c40-85ec-f3a3fc444602@muscat.aroonsid.ir:2000?type=ws&security=none&path=/?ed=2560#OM 🇴🇲 ┇ VLESS-WS-NTLS - Kaopu Cloud HK Limited ┇ 38.54.116.167

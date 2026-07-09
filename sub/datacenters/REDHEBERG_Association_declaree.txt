@@ -1,1 +1,1 @@
-vless://670bd2e7-d12d-4db2-96b8-9c5b847be20b@170.39.216.98:1005?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - REDHEBERG Association declaree ┇ 170.39.216.98
+vless://670bd2e7-d12d-4db2-96b8-9c5b847be20b@170.39.216.98:1005?type=xhttp&security=none&path=/?ed=2048#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - REDHEBERG Association declaree ┇ 170.39.216.98

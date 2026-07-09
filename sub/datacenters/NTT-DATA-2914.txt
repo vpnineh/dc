@@ -1,1 +1,1 @@
-vless://9866035a-6301-44e3-acbc-0e094c834666@vecna.mikkel.ir:23321?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.108.34
+vless://0bef99f1-1ab7-4949-8991-80914d9c7535@207.57.129.74:51864?type=tcp&security=reality&pbk=p8vKj6rINds1EgmeSIFOv6uds8IxnN8y#US 🇺🇸 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 207.57.129.74

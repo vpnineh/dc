@@ -1,4 +1,4 @@
-vless://74d736fe-8ba6-42be-8a43-2973a18ef2ca@178.83.121.85:443?type=grpc&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Sunrise GmbH ┇ 178.83.121.85
-vless://4af9a819-428c-447b-9627-fd382879a791@fr.fizikade.ir:2082?type=ws&security=none&path=/ws#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.121.100
+vless://4af9a819-428c-447b-9627-fd382879a791@178.83.121.100:2082?type=ws&security=none&path=/ws#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.121.100
 vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.252
+vless://ab6410aa-664f-47ab-9ba7-7d9022ad2153@178.83.121.85:443?type=grpc&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Sunrise GmbH ┇ 178.83.121.85
 vless://4af9a819-428c-447b-9627-fd382879a791@178.83.121.100:1158?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.121.100

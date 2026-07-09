@@ -1,2 +1,0 @@
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@usa-efddr-343e-3rder-4r-4f4r-2-d2e-5f-tg-4eee.codesystem.ir:2026?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 45.32.200.171
-vless://e7ed45cc-a3aa-44f2-91ef-f860af61a8b3@nlll.serendpiti.ir:2060?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&sid=90cecfbf0c0a21ec#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-BF1 ┇ 154.83.186.63

@@ -1,1 +1,1 @@
-vless://e7ed45cc-a3aa-44f2-91ef-f860af61a8b3@italy-nm.serendpiti.ir:2060?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&sid=90cecfbf0c0a21ec#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-NE1 ┇ 154.83.186.63
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@de-vip-unlimited.relqino.ir:1020?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&sid=3fa2fdb7dce16b8b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-NE1 ┇ 95.133.236.90

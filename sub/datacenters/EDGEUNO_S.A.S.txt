@@ -1,0 +1,1 @@
+vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?type=xhttp&security=none&path=/mfa#BR 🇧🇷 ┇ VLESS-XHTTP-NTLS - EDGEUNO S.A.S ┇ 200.25.53.5

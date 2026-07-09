@@ -1,0 +1,1 @@
+vless://3788e28f-f48a-485e-9b90-482a6f8ca51d@gostar27.irtour123.com:443?type=ws&security=tls&path=/vr1027?ed=2560&sni=gostar27.irtour123.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Rasaneh Avabarid Private Joint Stock Company ┇ 5.160.47.146

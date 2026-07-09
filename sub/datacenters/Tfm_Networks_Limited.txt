@@ -1,0 +1,2 @@
+vless://0e25dbbf-9700-4c0c-9829-6afd28aa1e2d@api2.hexogate.net:80?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Tfm Networks Limited ┇ 85.234.73.213
+vless://0e25dbbf-9700-4c0c-9829-6afd28aa1e2d@sync2.hexogate.net:80?type=tcp&security=none&path=/#PT 🇵🇹 ┇ VLESS-TCP-NTLS - Tfm Networks Limited ┇ 85.234.86.213

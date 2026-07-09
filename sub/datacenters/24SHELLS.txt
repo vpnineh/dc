@@ -1,2 +1,2 @@
-vless://a4860d06-7779-4f63-99ad-e0f3ee627eab@pnl.useragm.kdns.fr:666?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 24SHELLS ┇ 23.229.66.234
 vless://a4860d06-7779-4f63-99ad-e0f3ee627eab@pnl.useragm.kdns.fr:443?type=ws&security=none&path=/agm#GB 🇬🇧 ┇ VLESS-WS-NTLS - 24SHELLS ┇ 23.229.66.234
+vless://a4860d06-7779-4f63-99ad-e0f3ee627eab@pnl.useragm.kdns.fr:666?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 24SHELLS ┇ 23.229.66.234

@@ -1,3 +1,2 @@
 vless://3194e600-6ba7-4248-b121-a88bf76c88cf@ping.wargen-alkaline.ir:27804?type=httpupgrade&security=none&path=/#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 70.34.198.154
-vless://dfe2f652-f5e5-4e32-bfb2-a7e313d75317@1omekke746ec.vv22rraayy.com:22337?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.217.167
 vless://07a978bb-49ec-4dbe-827b-feb9243f3e63@panel.aminsec.ir:22338?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.194.206

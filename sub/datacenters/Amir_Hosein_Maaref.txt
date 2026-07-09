@@ -1,2 +1,1 @@
-vless://d223c486-941e-41a2-8e68-ec30c07733ed@fgssesrfxdt.jgfrdeewar.pihuigrtsres.net.vpncitywg.com:202?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.201.49.168
 vless://d223c486-941e-41a2-8e68-ec30c07733ed@fgssesrfxdt.jgfrdeewar.pihuigrtsres.net.emir.vpncitywg.com:204?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.201.49.168

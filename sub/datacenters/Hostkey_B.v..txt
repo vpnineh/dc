@@ -1,2 +1,0 @@
-vless://8e29fe5e-6ad8-4a47-990b-1b5dcd321ce7@run.gigimystore.ir:2020?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 195.38.19.61
-vless://675a0e2d-4eda-4126-9bd5-c98c0158c6b9@italy-nm.serendpiti.ir:2060?type=tcp&security=reality&path=/path#SC 🇸🇨 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 154.83.186.63

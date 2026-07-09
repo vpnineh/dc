@@ -1,1 +1,0 @@
-vless://c3e48f27-b81f-488e-8d8f-d9aa5fd3ea52@orginal.iranlightspeed.xyz:8080?type=ws&security=tls&path=/d23rt4&sni=orginal.iranlightspeed.xyz&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Respina Networks & Beyond PJSC ┇ 5.160.131.64

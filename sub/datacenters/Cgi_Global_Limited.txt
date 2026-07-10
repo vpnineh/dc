@@ -1,0 +1,3 @@
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.71.176
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 104.252.127.234
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 104.252.127.234

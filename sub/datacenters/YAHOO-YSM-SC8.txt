@@ -1,0 +1,2 @@
+vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:2083?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=PgcUZxF6X569Gh3R54wi2HPzPfbVZ4kUhjAzhEO0jgk&sid=60#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO-YSM-SC8 ┇ 31.40.204.208
+vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:2087?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=2xTObIsraFGW1Vo08iw-rEZBKiKtZUQZ2At0N5zZ63Y&sid=6d60630453#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-YSM-SC8 ┇ 31.40.204.208

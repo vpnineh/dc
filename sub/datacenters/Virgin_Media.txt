@@ -1,2 +1,1 @@
 vless://ae76d105-86c8-42de-b6ce-025a2c4e9d52@pol.mrsolo5323.ir:2053?type=tcp&security=reality&path=/#GB 🇬🇧 ┇ VLESS-TCP-RLT - Virgin Media ┇ 82.40.62.138
-vless://cababb95-deb2-479e-9018-01a0d08a4047@zx.virgooli.site:443?type=grpc&security=reality&pbk=AoiR7QkqyMItFGxmd1a8TbAL5SJ9yqAERc_ePzv_0hI#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Virgin Media ┇ 82.40.62.125

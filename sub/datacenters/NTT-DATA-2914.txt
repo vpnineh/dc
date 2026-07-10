@@ -1,0 +1,1 @@
+vless://e7a475e2-58f8-43cc-b90a-4512b16cbeb6@t3.zeus40.ir:14519?type=tcp&security=none&path=/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 91.92.250.28

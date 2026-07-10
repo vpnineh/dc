@@ -1,2 +1,1 @@
-vless://4be7de5f-4ccb-455d-8f73-22d84294c904@book.korzelo.ir:2083?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.252
 vless://ab6410aa-664f-47ab-9ba7-7d9022ad2153@178.83.121.85:443?type=grpc&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Sunrise GmbH ┇ 178.83.121.85

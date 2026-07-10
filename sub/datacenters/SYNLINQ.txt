@@ -1,2 +1,1 @@
-vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&sni=static.lotussec.com&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - SYNLINQ ┇ 89.144.30.57
 vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@de-2-2-2.topupaxme.icu:7443?type=ws&security=tls&path=/ws&sni=de-2-2-2.topupaxme.icu&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 45.82.120.86

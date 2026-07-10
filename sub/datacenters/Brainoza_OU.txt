@@ -1,0 +1,1 @@
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@45.12.28.47:8443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - Brainoza OU ┇ 45.12.28.47

@@ -1,2 +1,2 @@
+vless://f5e6a36c-964b-4171-9202-a1940dd62289@85.192.30.27:8443?type=ws&security=tls&sni=rupg.rozhomatic.ir&fp=randomized#RU 🇷🇺 ┇ VLESS-WS-TLS - Aeza Group LLC ┇ 85.192.30.27
 vless://f5e6a36c-964b-4171-9202-a1940dd62289@85.192.30.27:8881?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 85.192.30.27
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@85.192.30.27:8443?type=ws&security=tls&sni=rupg.rozhomatic.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Aeza Group LLC ┇ 85.192.30.27

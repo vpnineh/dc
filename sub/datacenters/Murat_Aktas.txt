@@ -1,1 +1,1 @@
-vless://0921c99d-bf29-488e-9b1a-03534b5725ad@mehdy.mohrazai.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Murat Aktas ┇ 188.132.174.84
+vless://0921c99d-bf29-488e-9b1a-03534b5725ad@mehdy.mohrazai.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Murat Aktas ┇ 188.132.174.100

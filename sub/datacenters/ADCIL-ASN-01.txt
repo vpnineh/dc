@@ -1,1 +1,1 @@
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - ADCIL-ASN-01 ┇ 144.31.131.194
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.131.194:4443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - ADCIL-ASN-01 ┇ 144.31.131.194

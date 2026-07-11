@@ -1,2 +1,3 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDE2Ny4xNzkuOTkuODMiLCJhZGQiOiIxNjcuMTc5Ljk5LjgzIiwicG9ydCI6ODQ0MywiaWQiOiI3YTg2ZDhkNS0yZmRmLTRlMmItOWNlOS01NWI5OTU4NGY0MGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9yYXkifQ
-vless://d0bb0042-7b55-43dd-bd3b-7661c0adc4e5@courtois.aminsec.ir:22338?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.194.206
+vless://07a978bb-49ec-4dbe-827b-feb9243f3e63@panel.aminsec.ir:22338?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.194.206
+vless://47f35f85-1072-48db-a1a9-e5ef52dc4bd9@lopp.dearhossein-taktaz.ir:20292?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 70.34.215.94

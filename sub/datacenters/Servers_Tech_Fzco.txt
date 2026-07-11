@@ -1,3 +1,2 @@
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@109.107.173.97:8090?type=ws&security=none&path=/ws#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 109.107.173.97
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?type=ws&security=none&path=/ws#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 62.84.98.106
-vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 5.35.34.181

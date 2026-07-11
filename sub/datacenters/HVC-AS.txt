@@ -1,0 +1,1 @@
+vless://9520ec92-1db5-449e-8bc9-202cced06b56@192.166.82.69:8080?type=httpupgrade&security=none&path=/#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - HVC-AS ┇ 192.166.82.69

@@ -1,2 +1,2 @@
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@api.pl.pngv.top:4999?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - WINDSTREAM ┇ 216.236.30.30
 vless://49fc7afe-82b2-4141-b548-08dd944e38ef@gr-direct3.pngv.top:4999?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - WINDSTREAM ┇ 216.236.30.31
+vless://49fc7afe-82b2-4141-b548-08dd944e38ef@api.pl.pngv.top:4999?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - WINDSTREAM ┇ 216.236.30.30

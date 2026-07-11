@@ -1,1 +1,1 @@
-vless://b2d496b6-8f96-4909-92c2-7e17e67fb120@khasis3.pingeto.com:2083?type=ws&security=tls&path=/&sni=khasis3.pingeto.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Bandar Company (PJS) ┇ 37.32.45.44
+vless://b2d496b6-8f96-4909-92c2-7e17e67fb120@khasis3.pingeto.com:2083?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 37.32.45.44

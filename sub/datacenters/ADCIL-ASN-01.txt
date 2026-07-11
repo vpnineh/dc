@@ -1,2 +1,1 @@
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.131.194:4443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - ADCIL-ASN-01 ┇ 144.31.131.194
-vless://8d2fb90b-7111-4f2b-a21b-5f1d48f030cf@panel.tesst18.ir:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.225.65.101

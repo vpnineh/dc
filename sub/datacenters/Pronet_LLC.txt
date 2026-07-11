@@ -1,2 +1,0 @@
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@178.236.255.201:8881?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Pronet LLC ┇ 178.236.255.201
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@178.236.255.201:8443?type=ws&security=tls&sni=ne2.rozhomatic.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Pronet LLC ┇ 178.236.255.201

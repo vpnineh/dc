@@ -1,3 +1,4 @@
 vless://e7d6530a-632e-41db-b919-5a1f7a55f58c@allnet.sanaiehdasti.com:1323?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.201
 vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@ch.viralforge.ru:443?type=tcp&security=reality&sni=ch.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.239.255
+vless://26279ceb-2ab2-447d-8efb-bef2b22470d2@www.speedtest.net:8443?type=xhttp&security=tls&path=/Hi&sni=ViP1.Clover1.DPDNs.Org&fp=chrome#GB 🇬🇧 ┇ VLESS-XHTTP-TLS - IPXO ┇ 104.17.148.22
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22

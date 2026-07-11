@@ -1,1 +1,1 @@
-vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@de-2-2-2.topupaxme.icu:7443?type=ws&security=tls&path=/ws&sni=de-2-2-2.topupaxme.icu&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - SYNLINQ ┇ 45.82.120.86
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?type=xhttp&security=tls&path=/kavir&sni=dey.lnmarketplace.net&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - SYNLINQ ┇ 89.144.30.104

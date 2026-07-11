@@ -1,2 +1,2 @@
-vless://49fc7afe-82b2-4141-b548-08dd944e38ef@fr-po.pngv.top:4999?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.62.59
+vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@fr-po.pngv.top:4999?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.62.59
 vless://fdebd2b4-4c8f-474a-851a-981082195643@turkgame.soltankabos.ir:22337?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.201

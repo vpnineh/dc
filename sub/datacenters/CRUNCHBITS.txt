@@ -1,1 +1,1 @@
-vless://ace04439-e320-4c92-bd80-be8565c6cb12@panel.systemcont.ir:8080?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - CRUNCHBITS ┇ 64.49.12.106
+vless://ace04439-e320-4c92-bd80-be8565c6cb12@update.systemcont.ir:8080?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - CRUNCHBITS ┇ 64.49.12.106

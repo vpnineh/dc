@@ -1,1 +1,2 @@
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.30:8090?type=ws&security=none&path=/ws#PL 🇵🇱 ┇ VLESS-WS-NTLS - DOLSAT sp. z o.o. ┇ 87.199.200.30
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.199.186:8090?type=ws&security=none&path=/ws#PL 🇵🇱 ┇ VLESS-WS-NTLS - DOLSAT sp. z o.o. ┇ 87.199.199.186

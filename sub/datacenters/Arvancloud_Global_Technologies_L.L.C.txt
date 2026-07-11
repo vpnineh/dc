@@ -1,4 +1,4 @@
-vless://2674a67b-b8b4-4fd3-982c-d274b6514f9f@ziba.maxic.ir:2100?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.90
-vless://edd0d872-702c-42d4-bb3f-ded08ab89678@young.maxic.ir:2110?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.90
 vless://edd0d872-702c-42d4-bb3f-ded08ab89678@b1.maxic.ir:2121?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.90
+vless://2674a67b-b8b4-4fd3-982c-d274b6514f9f@ziba.maxic.ir:2100?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.90
 vless://dfca94c2-9a8d-40aa-8b48-3fb00be31cca@185.204.170.178:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.170.178
+vless://edd0d872-702c-42d4-bb3f-ded08ab89678@young.maxic.ir:2110?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.90

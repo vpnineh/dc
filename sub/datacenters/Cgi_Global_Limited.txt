@@ -1,5 +1,4 @@
 vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?type=tcp&security=false&path=/&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.226
-vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@rigaaaa.jorzel.ir:2060?type=xhttp&security=reality&path=/path#FI 🇫🇮 ┇ VLESS-XHTTP-RLT - Cgi Global Limited ┇ 46.8.232.168
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgOTUuMTgyLjk2LjI1MCIsImFkZCI6ImNvbnRlbnQubWl6YmFuaWNvLmlyIiwicG9ydCI6ODA4MCwiaWQiOiIyYWZkZWVhYy1mNTgyLTQyMzctYjg0Yy0wZWI5MmU3YTRjMDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvdmlkZW8vc3RyZWFtLm1wNCJ9
-vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.96.250
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.98.231
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.50
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.58
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.96.250

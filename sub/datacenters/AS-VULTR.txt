@@ -1,3 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDE2Ny4xNzkuOTkuODMiLCJhZGQiOiIxNjcuMTc5Ljk5LjgzIiwicG9ydCI6ODQ0MywiaWQiOiI3YTg2ZDhkNS0yZmRmLTRlMmItOWNlOS01NWI5OTU4NGY0MGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9yYXkifQ
-vless://3194e600-6ba7-4248-b121-a88bf76c88cf@ping.wargen-alkaline.ir:27804?type=httpupgrade&security=none&path=/#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-NTLS - AS-VULTR ┇ 70.34.198.154
-vless://07a978bb-49ec-4dbe-827b-feb9243f3e63@panel.aminsec.ir:22338?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.194.206
+vless://d0bb0042-7b55-43dd-bd3b-7661c0adc4e5@courtois.aminsec.ir:22338?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.194.206

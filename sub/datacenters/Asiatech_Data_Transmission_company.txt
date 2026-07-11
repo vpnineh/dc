@@ -1,1 +1,2 @@
 vless://3daa68f1-e240-4aea-a4c3-618924aab136@turk.sub-rock.ir:20364?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.203.70
+vless://9a11a034-5c17-4595-9145-317007b42e77@v.pvnetwork.ir:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.66.2

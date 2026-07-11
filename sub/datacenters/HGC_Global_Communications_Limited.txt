@@ -1,2 +1,1 @@
 vless://3bdb8c70-da05-483a-aa56-0e252c767f16@cache-5673.atlanta-games.com:443?type=grpc&security=tls&sni=cache-5673.atlanta-games.com#HK 🇭🇰 ┇ VLESS-GRPC-TLS - HGC Global Communications Limited ┇ 143.14.22.32
-vless://61512305-5ee8-4bea-8ac7-8bf4b6bcf1fd@cdn.paradoxidhffuyfoti.ir:11193?type=ws&security=none&path=/#HK 🇭🇰 ┇ VLESS-WS-NTLS - HGC Global Communications Limited ┇ 155.117.5.56

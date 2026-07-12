@@ -1,1 +1,1 @@
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&security=tls#RU 🇷🇺 ┇ VLESS-GRPC-TLS - PUREVOLTAGE-INC ┇ 45.138.100.226
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&security=tls&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - PUREVOLTAGE-INC ┇ 45.138.100.226

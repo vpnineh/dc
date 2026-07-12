@@ -1,2 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vless://cf938e27-b805-4330-b1a3-9b8d437980ca@f14on.sannest.ir:443?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.115.240.240
 vless://1e1f4395-fd7c-4408-8268-e663a24c2eaa@pl.karmatel.ir:8443?type=ws&security=tls&path=/&sni=pl.karmatel.ir&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 62.112.222.47

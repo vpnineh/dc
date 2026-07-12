@@ -1,1 +1,2 @@
+vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Soroush Rasanheh Company Ltd ┇ 62.220.123.228
 vless://003f8262-28b1-4f80-acd0-af251777a7b8@n4.zeneco.ir:8443?type=ws&security=tls&sni=n4.zeneco.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Soroush Rasanheh Company Ltd ┇ 62.220.123.228

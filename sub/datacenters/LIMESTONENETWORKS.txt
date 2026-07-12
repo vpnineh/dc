@@ -1,1 +1,1 @@
-vless://0bb4edf5-2841-440e-b68c-253219424c98@free4.playon.ir:443?type=ws&security=tls&path=/fd-ThRCNNQLD4AMZJ0FZFfP8kw&sni=free4.playon.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - LIMESTONENETWORKS ┇ 89.116.72.23
+vless://d28af976-478f-4e90-b8e1-cc29a2b91907@free4.playon.ir:443?type=ws&security=tls&path=/fd-FB7d2TS2jNhJcGAgQsswuCL&sni=free4.playon.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - LIMESTONENETWORKS ┇ 89.116.72.23

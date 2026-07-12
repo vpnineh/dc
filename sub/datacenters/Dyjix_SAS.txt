@@ -1,2 +1,2 @@
-vless://2a388220-e558-493c-97c8-97ccf32ef1f7@frms.sannest.ir:443?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.227
+vless://32d46014-7cbe-11f1-93e7-5254000006ff@frms.sannest.ir:443?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.227
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.13.119.219

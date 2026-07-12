@@ -1,2 +1,1 @@
-vless://7836f291-0abc-43c0-89f1-f30eb90f4818@7vk1g6pjec97.dx1dx.com:26180?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.241.208
 vless://07a978bb-49ec-4dbe-827b-feb9243f3e63@panel.aminsec.ir:22338?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 70.34.194.206

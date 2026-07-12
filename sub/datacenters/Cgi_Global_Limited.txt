@@ -1,3 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuNTcuNjIuODkiLCJhZGQiOiJjb250ZW50Lm1pemJhbmljby5pciIsInBvcnQiOjgwODAsImlkIjoiMmFmZGVlYWMtZjU4Mi00MjM3LWI4NGMtMGViOTJlN2E0YzA4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL3ZpZGVvL3N0cmVhbS5tcDQifQ
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.157
-vless://9adcf772-795a-4c95-a958-88792e707a17@www.speedtest.net:8443?type=xhttp&security=tls&path=/Hi&sni=vip2.pro1.dpdns.org&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 104.17.148.22
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.61.189

@@ -1,0 +1,1 @@
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.108.96

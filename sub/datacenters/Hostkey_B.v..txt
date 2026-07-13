@@ -1,2 +1,2 @@
 vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 195.162.69.241
-vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:4433?type=ws&security=false&path=/ws&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 195.162.69.241
+vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:4433?type=ws&security=none&path=/ws#TR 🇹🇷 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 195.162.69.241

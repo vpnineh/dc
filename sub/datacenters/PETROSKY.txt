@@ -1,1 +1,1 @@
-vless://65778b16-b285-43ba-b05f-70382a2d7e98@u72li.pastilbastani.ir:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - PETROSKY ┇ 38.128.251.191
+vless://26acab49-7cf6-489a-924d-7fae7b643f5a@ar4nh.sannest.ir:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - PETROSKY ┇ 38.128.251.191

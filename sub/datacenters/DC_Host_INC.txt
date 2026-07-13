@@ -1,1 +1,0 @@
-vless://d114f86f-2bee-4e0e-9e9d-1ec7326a31ce@pes.mamadhpbot.ir:2662?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - DC Host INC ┇ 103.83.87.75

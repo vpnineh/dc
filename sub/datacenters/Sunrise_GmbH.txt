@@ -1,0 +1,1 @@
+vless://5652430d-eef1-4b93-bf73-cdea9b445986@swiss.motorbazan.com:2087?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.226.125

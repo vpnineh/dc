@@ -1,3 +1,4 @@
 vless://8a9455bc-31f8-46a6-9cb1-88a6f7558289@189gm.sannest.ir:443?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.115.240.240
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vless://9a3d183f-f8ae-4a9d-8ece-cb7fccf87d3a@ainet.sanaiehdasti.com:1323?type=tcp&security=none#TH 🇹🇭 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.189
+vless://ac767c97-53a0-447d-93e0-0d974fa150a9@tr.game.goiramteam.ir:443?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.34

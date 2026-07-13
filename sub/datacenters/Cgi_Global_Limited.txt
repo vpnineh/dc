@@ -1,1 +1,0 @@
-vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@ge-nn.jorzel.ir:2060?type=tcp&security=reality&path=/path#FI 🇫🇮 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 46.8.232.168

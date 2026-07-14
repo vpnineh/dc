@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJT05PUyBTRSBcdTI1MDcgODcuMTA2LjkuMzQiLCJhZGQiOiJ3d3cudnBzbG9vay5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNDk5M2YxNGUtNWY5Yi00MjQ5LWRjNDMtOTlmNGZkZWE4NGJlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@eventloophub.org:8443?type=grpc&security=tls&sni=eventloophub.org&fp=chrome#FR 🇫🇷 ┇ VLESS-GRPC-TLS - IONOS SE ┇ 217.154.3.67

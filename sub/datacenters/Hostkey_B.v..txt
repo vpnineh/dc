@@ -1,4 +1,4 @@
-vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:4433?type=ws&security=false&path=/ws&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 195.162.69.241
 vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Hostkey B.v. ┇ 195.162.69.241
+vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:4433?type=ws&security=none&path=/ws#TR 🇹🇷 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 195.162.69.241
 vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 195.162.69.241
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGtleSBCLnYuIFx1MjUwNyAxNDguMTM1LjIwNy4xNDIiLCJhZGQiOiJteXZwc2hvc3RpbmcubmFtZS5uZyIsInBvcnQiOjgwLCJpZCI6Ijk2NDA4ZjlhLWRmMDMtNDQ4Yi1iN2U0LWVjOGUyYzIxNjY4MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9

@@ -1,2 +1,1 @@
 vless://8c1d69b6-4980-41b4-bd55-44e186897a87@5.35.18.193:1?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.35.18.193
-vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@37.9.4.22:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 37.9.4.22

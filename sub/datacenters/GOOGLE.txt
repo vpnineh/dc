@@ -1,2 +1,2 @@
-vless://bc7ede3d-3b8b-4ba5-b786-3bccbb4cc6dd@de.corecloud.space:3350?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=J3NK6M9a7I6s_GZDBBlUDxIn7D7jYkcoXRTj7NoSI20&sid=ce2076a570ee4fe7#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 51.159.236.186
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 94.156.250.56
+vless://bc7ede3d-3b8b-4ba5-b786-3bccbb4cc6dd@de.corecloud.space:3350?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=J3NK6M9a7I6s_GZDBBlUDxIn7D7jYkcoXRTj7NoSI20&sid=ce2076a570ee4fe7#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 212.100.171.154

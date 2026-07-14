@@ -1,2 +1,2 @@
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.75:5443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 94.126.204.75
 vless://e1eedede-c294-4742-a819-60a3cfa0bff7@84.201.173.79:80?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Yandex.Cloud LLC ┇ 84.201.173.79
+vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.75:5443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 94.126.204.75

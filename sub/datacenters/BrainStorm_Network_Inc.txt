@@ -1,2 +1,1 @@
-vless://5aca6fb1-b21a-4f63-9cab-54986613f6aa@91.148.135.191:54217?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - BrainStorm Network, Inc ┇ 91.148.135.191
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - BrainStorm Network, Inc ┇ 94.156.250.56

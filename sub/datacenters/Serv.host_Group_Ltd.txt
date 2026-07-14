@@ -1,1 +1,0 @@
-vless://5e9709cb-bfc3-487c-a8e1-7beea7dd72d8@xnod4x.artemida.live:443?type=grpc&security=reality&sni=xnod4x.artemida.live&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Serv.host Group Ltd ┇ 213.176.73.91

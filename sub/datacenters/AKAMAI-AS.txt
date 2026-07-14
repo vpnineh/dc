@@ -1,2 +1,1 @@
-vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@de2.sharkphotos.de:10443?type=tcp&security=reality&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&pbk=dE1MAhwsIQ1CzuDXlEq1qOQFR6t5MF5iCWa1NR3abEg&sid=0bd84008#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 89.36.32.145
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238

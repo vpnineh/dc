@@ -1,1 +1,1 @@
-vless://06e811a4-8f6f-41fe-a44a-9052209c104c@135.84.73.161:8880?type=httpupgrade&security=none&path=/?ed=8880#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - USG-PROD-WEST01 ┇ 135.84.73.161
+vless://06e811a4-8f6f-41fe-a44a-9052209c104c@135.84.73.161:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - USG-PROD-WEST01 ┇ 135.84.73.161

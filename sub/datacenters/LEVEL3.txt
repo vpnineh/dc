@@ -1,3 +1,2 @@
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?type=tcp&security=none&path=/friend#MY 🇲🇾 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.35.211.241
-vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@8.47.69.9:443?type=tcp&security=none#SK 🇸🇰 ┇ VLESS-TCP-NTLS - LEVEL3 ┇ 8.47.69.9
 vless://ac767c97-53a0-447d-93e0-0d974fa150a9@8.34.146.189:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEVEL3 ┇ 8.34.146.189

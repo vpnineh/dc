@@ -1,1 +1,1 @@
-vless://4ef24c96-db24-4f7a-b9e9-8676c409ae22@panel.k44lawm.ir:2053?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hydra-Shield ┇ 45.134.38.90
+vless://a7555676-0421-4307-bdaa-220b0c2299b4@45.134.38.116:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Hydra-Shield ┇ 45.134.38.116

@@ -1,0 +1,1 @@
+vless://ccc77dc6-68fc-40e3-8339-61f2fb0ce35d@176.109.94.127:2099?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - MTS PJSC ┇ 176.109.94.127

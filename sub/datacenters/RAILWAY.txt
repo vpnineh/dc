@@ -1,2 +1,0 @@
-vless://ba8f897a-753b-40a2-800b-bf716e65b54a@hayabusa.proxy.rlwy.net:36741?type=ws&security=none&path=/ws/29291442-0776-1745-2203-87388bf9f27c#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.223
-vless://abc5bdfd-dc13-4c3f-a8be-ec4c11160d05@thomas.proxy.rlwy.net:53345?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.225

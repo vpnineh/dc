@@ -1,1 +1,1 @@
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@gb.cache-4d8a.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=uZtXFNqixYWmhbmlK8HSo7r7pAIrdT7oCgXPSLOb1S0&sid=3e4d578f73d7d120#GB 🇬🇧 ┇ VLESS-TCP-RLT - 24SHELLS ┇ 23.229.66.38
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@gb.cache-4d8a.com:443?type=tcp&security=reality&sni=gb.cache-4d8a.com&flow=xtls-rprx-vision&pbk=uZtXFNqixYWmhbmlK8HSo7r7pAIrdT7oCgXPSLOb1S0&sid=3e4d578f73d7d120#GB 🇬🇧 ┇ VLESS-TCP-RLT - 24SHELLS ┇ 23.229.66.38

@@ -1,3 +1,0 @@
-vless://4ef24c96-db24-4f7a-b9e9-8676c409ae22@tu.k44lawm.ir:8880?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=w2P9SG1jGjNEy3vQyflw1V8NroYQBGZv86gNI976pS8&sid=f45bd67dae6006d3#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 64.49.15.67
-vless://4ef24c96-db24-4f7a-b9e9-8676c409ae22@tu.k44lawm.ir:2053?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=cG_btGO5Oix1aq-p1NAl5ABlMZLyUlt2gqDD9oQG-U8&sid=e6b55baf89162f8f#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 64.49.15.67
-vless://3e729536-6e34-4688-85aa-f26532cd3214@tun.temas-bor.ir:443?type=tcp&security=reality&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 89.167.1.199

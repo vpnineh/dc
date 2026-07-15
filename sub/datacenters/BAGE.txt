@@ -1,1 +1,1 @@
-vless://dabe4e44-39e1-4464-9491-521993f207d8@de1.linkto.sbs:443?type=tcp&security=tls&sni=de1.linkto.sbs&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - BAGE ┇ 213.179.69.102
+vless://dabe4e44-39e1-4464-9491-521993f207d8@de1.linkto.sbs:443?type=tcp&security=tls&sni=de1.linkto.sbs&fp=edge#DE 🇩🇪 ┇ VLESS-TCP-TLS - BAGE ┇ 213.179.69.102

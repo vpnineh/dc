@@ -1,0 +1,1 @@
+vless://736a07e4-16d6-4a4b-a813-8b9edbe005a4@node11.mxvpn.dev:443?type=tcp&security=reality&sni=node11.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Petersburg Internet Network ltd. ┇ 193.93.194.96

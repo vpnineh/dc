@@ -1,3 +1,3 @@
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - ADCIL-ASN-01 ┇ 144.31.131.194
 vless://ab291fd4-fa93-48e2-aea4-f10985d027c1@fin-2.novacorium.com:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.239.45
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.128.56
+vless://c0897097-4f59-439c-aab1-ae39004375b2@144.225.65.205:443?type=grpc&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#US 🇺🇸 ┇ VLESS-GRPC-RLT - ADCIL-ASN-01 ┇ 144.225.65.205

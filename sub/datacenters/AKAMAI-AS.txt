@@ -1,2 +1,1 @@
-vless://6340fa22-a129-4022-9f10-220100fb681f@thomas.proxy.rlwy.net:53345?type=xhttp&security=reality&path=/&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=fLzY5vcyTg30oDM_1wXqDiHS5aruDApiIi-21E0Uu1g&sid=ce75e0fb#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 66.33.22.225
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238

@@ -1,2 +1,2 @@
+vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@us.hagrid-connected.com:443?type=tcp&security=reality&sni=us.hagrid-connected.com&fp=chrome&flow=xtls-rprx-vision&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.77.172
 vless://5b053782-5442-4292-9864-25c38f6d56bd@132.243.212.25:443?type=ws&security=none&path=/api-pl#US 🇺🇸 ┇ VLESS-WS-NTLS - NCR-252 ┇ 132.243.212.25
-vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@us.hagrid-connected.com:443?type=tcp&security=reality&sni=us.hagrid-connected.com&fp=edge&flow=xtls-rprx-vision&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.77.172

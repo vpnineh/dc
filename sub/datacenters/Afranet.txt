@@ -1,0 +1,1 @@
+vless://e3c0b438-a4e7-4a38-8316-7512f6044eb3@78.109.198.25:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.198.25

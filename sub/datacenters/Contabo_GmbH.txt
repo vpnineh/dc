@@ -1,1 +1,1 @@
-vless://3406f753-6b3a-42d8-b3b9-6e5237e5ea9c@75.119.151.16:80?type=xhttp&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Contabo GmbH ┇ 75.119.151.16
+vless://c5e0bf56-cb31-4e50-8f1c-86f9131fd6c6@75.119.151.16:80?type=xhttp&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Contabo GmbH ┇ 75.119.151.16

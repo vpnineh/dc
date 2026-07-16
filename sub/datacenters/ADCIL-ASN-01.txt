@@ -1,4 +1,3 @@
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.131.194:4443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - ADCIL-ASN-01 ┇ 144.31.131.194
-vless://59da5351-5151-417d-b2f7-6923848b717e@pol2.helper-internet.com:443?type=tcp&security=reality&sni=pol2.helper-internet.com&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.4.180
-vless://576c33d8-2a0b-4ee1-bffb-3a12cae56d5b@trus.sannest.ir:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.225.65.15
-vless://ab291fd4-fa93-48e2-aea4-f10985d027c1@fin-2.novacorium.com:8443?type=xhttp&security=tls&path=/assets/b397970f00242542&sni=fin-2.novacorium.com&fp=qq#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ADCIL-ASN-01 ┇ 144.31.239.45
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - ADCIL-ASN-01 ┇ 144.31.131.194
+vless://59da5351-5151-417d-b2f7-6923848b717e@pol2.helper-internet.com:443?type=tcp&security=reality&path=/&sni=pol2.helper-internet.com&fp=chrome&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.4.180
+vless://ab291fd4-fa93-48e2-aea4-f10985d027c1@fin-2.novacorium.com:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.239.45

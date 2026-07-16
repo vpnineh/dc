@@ -1,1 +1,2 @@
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?type=ws&security=false&path=/ws&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 62.84.98.106
+vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@nl.hagrid-connected.com:443?type=tcp&security=reality&sni=nl.hagrid-connected.com&fp=chrome&flow=xtls-rprx-vision&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 146.103.125.5

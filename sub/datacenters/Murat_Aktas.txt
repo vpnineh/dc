@@ -1,1 +1,0 @@
-vless://Telegram@188.132.174.201:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.201

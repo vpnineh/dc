@@ -1,1 +1,2 @@
+vless://70d12802-0dfb-4304-b7a0-574f578cd90f@fn-shomboli.jorzel.ir:19302?type=xhttp&security=reality&path=/path#US 🇺🇸 ┇ VLESS-XHTTP-RLT - EGIHOSTING ┇ 104.252.53.171
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.53.46

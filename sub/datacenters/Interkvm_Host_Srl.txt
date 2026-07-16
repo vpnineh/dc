@@ -1,2 +1,0 @@
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?type=tcp&security=reality#RO 🇷🇴 ┇ VLESS-TCP-RLT - Interkvm Host Srl ┇ 195.74.93.254
-vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.210:448?type=tcp&security=reality#RO 🇷🇴 ┇ VLESS-TCP-RLT - Interkvm Host Srl ┇ 76.164.202.210

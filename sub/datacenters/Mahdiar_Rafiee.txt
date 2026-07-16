@@ -1,1 +1,0 @@
-vless://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@x.pars-azad.shop:9000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.39.9.123

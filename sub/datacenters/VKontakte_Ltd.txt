@@ -1,1 +1,1 @@
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#RU 🇷🇺 ┇ VLESS-TCP-RLT - VKontakte Ltd ┇ 141.98.87.48
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#RU 🇷🇺 ┇ VLESS-TCP-RLT - VKontakte Ltd ┇ 141.98.87.48

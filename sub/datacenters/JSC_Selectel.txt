@@ -1,1 +1,0 @@
-vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 84.38.187.134

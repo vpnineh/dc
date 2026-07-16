@@ -1,2 +1,2 @@
-vless://723214bb-4dc2-42e5-92d1-859b264d91b9@nzhsjdbb.belamona.ir:1418?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.189
 vless://de1743eb-b2c1-4d7f-ba8d-5cc8eccb1bb1@swiss.motorbazan.com:2087?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.226.125
+vless://81b8aac5-e22e-46aa-91f4-bdf6a686be51@nin9.gd.sanaiehdasti.com:1418?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.189

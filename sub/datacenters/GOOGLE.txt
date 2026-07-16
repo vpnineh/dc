@@ -1,3 +1,3 @@
+vless://eb7b6567-4115-4017-9c50-f5d074360a7f@pes.mamadhpbot.ir:4455?type=xhttp&security=reality&path=/ws&sni=play.google.com&fp=chrome&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&sid=a1e5ae73aa7d2e48#US 🇺🇸 ┇ VLESS-XHTTP-RLT - GOOGLE ┇ 103.83.87.75
 vless://03b61327-a519-4a73-a017-5e0001748928@95.217.16.41:4432?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=Di0QmKK7rRWwAzTMLtVX4-ND6jEYU_pNLmX4e3ES52Q&sid=2a7f6b8788caca70#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 95.217.16.41
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 94.156.250.56
-vless://eb7b6567-4115-4017-9c50-f5d074360a7f@pes.mamadhpbot.ir:4455?type=xhttp&security=reality&path=/ws&sni=play.google.com&fp=chrome&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&sid=a1e5ae73aa7d2e48#US 🇺🇸 ┇ VLESS-XHTTP-RLT - GOOGLE ┇ 103.83.87.75

@@ -1,0 +1,1 @@
+vless://603000e8-d0c4-44a8-9b10-9a114e7bfd30@1.1.1.1:443?type=ws&security=tls&path=/idea&sni=mygoldiran.com#DE 🇩🇪 ┇ VLESS-WS-TLS - Leaseweb Deutschland GmbH ┇ 1.1.1.1

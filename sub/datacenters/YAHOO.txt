@@ -1,0 +1,2 @@
+vless://3e729536-6e34-4688-85aa-f26532cd3214@tun.temas-bor.ir:443?type=tcp&security=reality&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 128.140.114.57
+vless://9aee181d-f156-4544-b7a3-aef75b5d5c2b@fr-namahdod.jorzel.ir:2060?type=xhttp&security=reality&path=/path&sni=www.yahoo.com&fp=chrome&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&sid=90cecfbf0c0a21ec#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO ┇ 57.130.46.48

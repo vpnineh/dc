@@ -1,3 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuNTYuMjIyLjIwOCIsImFkZCI6Im5ubmxsbG1taWJnaS5iZWxhbW9uYS5pciIsInBvcnQiOjE1ODIsImlkIjoiNzVjMDg2ZWMtNmMyNi00NDc3LWFmZDQtNWM4OTdmZTQ3NjQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://30153e0b-dd0d-41ea-8512-0d41f76465f0@nnnlllmmibgi.belamona.ir:6001?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.208
 vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@ge-nn.jorzel.ir:2060?type=tcp&security=reality&path=/path#FI 🇫🇮 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 46.8.232.168
+vless://aca7d615-8a1e-4f6e-8cb6-72193a44bd3d@188.130.154.75:14408?type=tcp&security=none&path=/Join-us-@VPNine1#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.154.75

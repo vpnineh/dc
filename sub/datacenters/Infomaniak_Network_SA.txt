@@ -1,1 +1,2 @@
 vless://fef61355-77d1-4523-9550-1e7b7cbcc47c@37.156.44.241:19551?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.44.241
+vless://603000e8-d0c4-44a8-9b10-9a114e7bfd30@1.1.1.1:443?type=ws&security=tls&path=/idea&sni=mygoldiran.com#CH 🇨🇭 ┇ VLESS-WS-TLS - Infomaniak Network SA ┇ 1.1.1.1

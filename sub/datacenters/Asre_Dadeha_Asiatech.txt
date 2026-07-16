@@ -1,0 +1,1 @@
+vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.150.135

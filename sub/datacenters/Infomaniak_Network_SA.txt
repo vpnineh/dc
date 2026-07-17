@@ -1,1 +1,0 @@
-vless://fef61355-77d1-4523-9550-1e7b7cbcc47c@37.156.44.241:19551?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.44.241

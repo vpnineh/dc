@@ -1,2 +1,2 @@
-vless://864f675f-2177-4cdb-967e-6bfc13792a24@test.dnmpropack.ir:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=OUhhbeFOCEY0IFnWfWCPn2-MRIRb3LsBU7W9zSk-ino&sid=f48e#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 130.185.123.230
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 78.17.38.238
+vless://864f675f-2177-4cdb-967e-6bfc13792a24@test.dnmpropack.ir:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=OUhhbeFOCEY0IFnWfWCPn2-MRIRb3LsBU7W9zSk-ino&sid=f48e#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 130.185.123.230

@@ -1,0 +1,1 @@
+vless://419bfbd4-3097-4cef-a6b3-aebd78506ed7@fin.themesh.site:443?type=tcp&security=reality&path=/&sni=fin.themesh.site&fp=chrome&flow=xtls-rprx-vision&pbk=yocysajpuAGT059wla3OHEQZ8yNQt8heojZuYM2MkSY&sid=8ccda4d8bbe0b881#IE 🇮🇪 ┇ VLESS-TCP-RLT - Magnet Networks Limited ┇ 87.232.123.140

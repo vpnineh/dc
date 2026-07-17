@@ -1,1 +1,2 @@
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.83.141
 vless://62694ff5-6954-4b9b-80fd-0436ae18b170@mabar130.mobail1010.ir:2082?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - First Digital TV Ltd ┇ 95.182.90.88

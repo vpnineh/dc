@@ -1,2 +1,2 @@
 vless://ab291fd4-fa93-48e2-aea4-f10985d027c1@fin-2.novacorium.com:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.239.45
-vless://59da5351-5151-417d-b2f7-6923848b717e@pol2.helper-internet.com:443?type=tcp&security=reality&sni=pol2.helper-internet.com&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.4.180
+vless://59da5351-5151-417d-b2f7-6923848b717e@pol2.helper-internet.com:443?type=tcp&security=reality&sni=pol2.helper-internet.com&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.1.215

@@ -1,0 +1,3 @@
+vless://96fdf2ec-8f42-4735-a176-1578c5d5ea67@110.2365855155.ir:8080?type=ws&security=tls&path=/join-telegram-xflani-xflani-xflani-xflani-xflani-xflani&sni=110.2365855155.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Hosteons Pte. Ltd. ┇ 84.32.45.56
+vless://96fdf2ec-8f42-4735-a176-1578c5d5ea67@110.2365855155.ir:2053?type=ws&security=tls&path=/JoiN-Telegram-of-xFLANi&sni=110.2365855155.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Hosteons Pte. Ltd. ┇ 84.32.45.56
+vless://96fdf2ec-8f42-4735-a176-1578c5d5ea67@110.2365855155.ir:2096?type=ws&security=tls&path=/JoiN-Telegram-of-xFLANi&sni=110.2365855155.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Hosteons Pte. Ltd. ┇ 84.32.45.56

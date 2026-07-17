@@ -1,1 +1,0 @@
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@swed1.panel11.ru:443?type=tcp&security=reality&path=/&sni=swed1.panel11.ru&fp=chrome&flow=xtls-rprx-vision&pbk=dotcvtU55OCUPuizRM0JAkzxHiaf1p0-ZgnxeAgrh3Y&sid=32c12b179291c5e8#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 78.40.117.252

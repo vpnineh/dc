@@ -1,5 +1,5 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.108.85
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.109.139:2090?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.109.139
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.26.117:2090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.26.117
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.26.117:2090?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.26.117
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.105.225
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.109.91:2090?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.109.91
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTlRULURBVEEtMjkxNCBcdTI1MDcgMTI4LjI0Mi4xMDkuMjAiLCJhZGQiOiIxMjguMjQyLjEwOS4yMCIsInBvcnQiOjE3NDMyLCJpZCI6IjZjYzRhMzEyLTJkMTgtNDY5NC1iOTJkLTBhZjFjMDM5ZTY5NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9

@@ -1,1 +1,1 @@
-vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@secget.ru:8443?type=tcp&security=reality&sni=secget.ru&fp=chrome&flow=xtls-rprx-vision&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&sid=f8a8ee8381529673#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 212.233.77.140
+vless://68d3fcbe-f025-2710-82d6-9455c5e5f6b5@secget.ru:8443?type=tcp&security=reality&sni=secget.ru&fp=chrome&flow=xtls-rprx-vision&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&sid=f8a8ee8381529673#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 212.233.77.140

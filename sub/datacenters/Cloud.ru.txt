@@ -1,4 +1,1 @@
-vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:18054?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://11c3c90f-d681-4f71-929e-68834d18b5cd@pobos-yezha.ru:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=QAuH8zM3gn1RhOc9g9gTU-8WCVVyRZ2gC4xFrS5C7mY&sid=a1b2c3d4#RU 🇷🇺 ┇ VLESS-TCP-RLT - Cloud.ru ┇ 176.108.240.88
-vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:45079?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
 vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@176.123.165.127:12672?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127

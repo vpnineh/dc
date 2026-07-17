@@ -1,4 +1,4 @@
-vless://0acbc72f-61f1-4404-bd8f-57015d10c899@samd.softupdl.ir:55974?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@samd.softupdl.ir:55974?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
 vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@samd.softupdl.ir:56792?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
 vless://0acbc72f-61f1-4404-bd8f-57015d10c899@samd.softupdl.ir:13908?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
 vless://SoonTeam@sexi.carderrr.com:443?type=ws&security=none&path=@SylphNet#US 🇺🇸 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.103.60

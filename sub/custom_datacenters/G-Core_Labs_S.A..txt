@@ -1,2 +1,1 @@
-vless://b42bc5f2-d25f-4af3-9376-fdf2e3cc2419@i.nonpath.ir:42542?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.34
-vless://9075494d-a949-4b3d-8f59-9073f32cba3f@helixgaming.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 213.156.152.227
+vless://aa4db980-87c1-4f45-b967-b2510a1fe709@helixgaming.ir:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 213.156.152.227

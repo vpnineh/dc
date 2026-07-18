@@ -1,1 +1,0 @@
-vless://75983a48-4573-4c07-9a34-22ef402fbe9f@tun.temas-bor.ir:443?type=tcp&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-CHA ┇ 128.140.114.57

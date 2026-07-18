@@ -1,2 +1,5 @@
-vless://ab291fd4-fa93-48e2-aea4-f10985d027c1@fin-2.novacorium.com:8443?type=xhttp&security=tls&path=/assets/b397970f00242542&sni=fin-2.novacorium.com&fp=qq#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ADCIL-ASN-01 ┇ 144.31.239.45
+vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.27.179
 vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.73.130
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.129.42
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.0.100
+vless://ab291fd4-fa93-48e2-aea4-f10985d027c1@fin-2.novacorium.com:8443?type=xhttp&security=tls&path=/assets/b397970f00242542&sni=fin-2.novacorium.com&fp=qq#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ADCIL-ASN-01 ┇ 144.31.239.45

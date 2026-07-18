@@ -1,1 +1,0 @@
-vless://1d8916e2-681d-4b6a-959d-af466905e293@masali.realm-of-ultramar.ru:443?type=grpc&security=reality&sni=masali.realm-of-ultramar.ru&fp=chrome&pbk=U7fKZd4GvXI0B1Bf8SxmqsY1MBslw-wZs1p23vdlu1A&sid=05266addb5feb649#RU 🇷🇺 ┇ VLESS-GRPC-RLT - JSC Selectel ┇ 45.12.66.212

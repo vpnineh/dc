@@ -1,3 +1,4 @@
-vless://f7559b56-fe33-41d0-b54e-8ebdfb491dbd@cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.154.91
+vless://3820aab5-ffaf-43b7-8741-af720c6690a4@94-183-224-55.sslip.io:8443?type=ws&security=tls&path=/yt&sni=94-183-224-55.sslip.io&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.224.55
 vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@pl.viralforge.ru:443?type=tcp&security=reality&sni=pl.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.209.22
 vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.162.131
+vless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.183.154.91

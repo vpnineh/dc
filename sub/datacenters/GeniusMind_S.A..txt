@@ -1,1 +1,1 @@
-vless://e19f0a00-0533-4dc3-862f-10d446fff9a4@cn.server-dev2.ir:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.178
+vless://e19f0a00-0533-4dc3-862f-10d446fff9a4@cn.server-dev2.ir:2083?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 109.95.67.178

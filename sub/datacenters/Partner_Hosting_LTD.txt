@@ -1,1 +1,0 @@
-vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@sw.srv.anti-zapret.com:443?type=tcp&security=reality&sni=sw.srv.anti-zapret.com&fp=chrome&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb#LV 🇱🇻 ┇ VLESS-TCP-RLT - Partner Hosting LTD ┇ 193.68.89.249

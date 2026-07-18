@@ -1,2 +1,0 @@
-vless://361faea2-99b7-4d62-b11f-f2471f75ab12@german2.tehran-game.ir:443?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.168.123
-vless://361faea2-99b7-4d62-b11f-f2471f75ab12@lion.lion-game.ir:443?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.206.50

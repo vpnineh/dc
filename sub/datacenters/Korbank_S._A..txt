@@ -1,1 +1,1 @@
-vless://1d8916e2-681d-4b6a-959d-af466905e293@aendros.realm-of-ultramar.ru:443?type=tcp&security=reality&sni=aendros.realm-of-ultramar.ru&fp=chrome&flow=xtls-rprx-vision&pbk=KrJoipVmgkTbWVQVLAgETeuJ1bsx39WTdTlNqdqkwUU&sid=d8304b069cdca8e4#PL 🇵🇱 ┇ VLESS-TCP-RLT - Korbank S. A. ┇ 83.168.78.130
+vless://1d8916e2-681d-4b6a-959d-af466905e293@aendros.realm-of-ultramar.ru:443?type=tcp&security=reality&sni=aendros.realm-of-ultramar.ru&fp=qq&flow=xtls-rprx-vision&pbk=KrJoipVmgkTbWVQVLAgETeuJ1bsx39WTdTlNqdqkwUU&sid=d8304b069cdca8e4#PL 🇵🇱 ┇ VLESS-TCP-RLT - Korbank S. A. ┇ 83.168.78.130

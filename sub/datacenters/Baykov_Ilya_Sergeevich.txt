@@ -1,1 +1,2 @@
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@sw.srv.anti-zapret.com:443?type=tcp&security=reality&path=/&sni=sw.srv.anti-zapret.com&fp=chrome&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb#SE 🇸🇪 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 192.145.30.252
 vless://d6238211-d34c-4197-b6f7-31fce4fc9314@85.209.134.58:443?type=tcp&security=reality&fp=chrome&pbk=zdUruFsb8e_EEIqEMyykFbpNaOZCk_RDRaYInsgD9y0&sid=0a076a46#US 🇺🇸 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 85.209.134.58

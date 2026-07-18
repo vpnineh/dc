@@ -1,1 +1,1 @@
-vless://1d8916e2-681d-4b6a-959d-af466905e293@iax.realm-of-ultramar.ru:443?type=tcp&security=reality&sni=iax.realm-of-ultramar.ru&fp=chrome&flow=xtls-rprx-vision&pbk=a5qD78vQIGxiGu168hh_2Ey-wMeNruLBcQrAABj7XiI&sid=8fa4cc5c822e8930#LV 🇱🇻 ┇ VLESS-TCP-RLT - 2 Cloud Ltd. ┇ 185.176.220.147
+vless://1d8916e2-681d-4b6a-959d-af466905e293@iax.realm-of-ultramar.ru:443?type=tcp&security=reality&sni=iax.realm-of-ultramar.ru&fp=qq&flow=xtls-rprx-vision&pbk=a5qD78vQIGxiGu168hh_2Ey-wMeNruLBcQrAABj7XiI&sid=8fa4cc5c822e8930#LV 🇱🇻 ┇ VLESS-TCP-RLT - 2 Cloud Ltd. ┇ 185.176.220.80

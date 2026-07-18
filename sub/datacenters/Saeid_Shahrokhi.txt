@@ -1,1 +1,0 @@
-vless://a9acf715-f597-4b42-8c87-ae8ae2b29226@5.10.249.125:16670?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 5.10.249.125

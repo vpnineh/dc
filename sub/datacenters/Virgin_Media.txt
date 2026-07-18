@@ -1,1 +1,0 @@
-vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=pn.lox30shop.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 104.17.148.22

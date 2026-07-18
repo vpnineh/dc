@@ -1,4 +1,1 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.83.68:2090?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.83.68
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.83.68
 vless://8564562a-f290-485a-a9a4-ae18eb27ec07@95.182.90.97:34883?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.90.97
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.81.193:2090?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.81.193

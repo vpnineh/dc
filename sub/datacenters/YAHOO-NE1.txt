@@ -1,2 +1,0 @@
-vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&sid=4eee3ae71639f189#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-NE1 ┇ 91.107.151.42
-vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@a.bazardam.shop:2056?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&sid=4eee3ae71639f189#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-NE1 ┇ 135.181.45.18

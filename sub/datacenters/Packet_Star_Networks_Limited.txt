@@ -1,1 +1,0 @@
-vless://4b85b160-0e97-442b-8199-812dcd32d449@de.plytob.ir:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Packet Star Networks Limited ┇ 111.235.151.107

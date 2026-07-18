@@ -1,1 +1,2 @@
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-SPRIO ┇ 45.38.23.195
 vless://9a3e9b08-6dbb-40a6-98a0-35bab48f074f@panel-3311.th3team.ir:43515?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-SPRIO ┇ 45.38.37.165

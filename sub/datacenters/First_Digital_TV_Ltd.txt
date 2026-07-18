@@ -1,1 +1,2 @@
-vless://8564562a-f290-485a-a9a4-ae18eb27ec07@95.182.90.97:34883?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.90.97
+vless://8eb7e8f4-10bf-498b-aefd-0497877b2920@95.182.90.97:34883?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.90.97
+vless://b2da112d-6b84-4c6e-8935-12eab65c63b6@mabar130.mobail1010.ir:2082?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - First Digital TV Ltd ┇ 95.182.90.88

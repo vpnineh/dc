@@ -1,0 +1,1 @@
+vless://f6b62cf8-3b92-4ff4-88f0-9ec50f937e90@script2.addressprovider.lat:2096?type=ws&security=tls&path=/heavy&sni=script2.addressprovider.lat&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Ertebatat Sabet Parsian Co. PJS ┇ 93.126.10.199

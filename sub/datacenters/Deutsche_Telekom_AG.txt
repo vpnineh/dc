@@ -1,1 +1,1 @@
-vless://367ff772-a8f4-4895-8e99-3702a868f0c6@osnl4.ghast.sbs:443?type=grpc&security=tls&sni=osnl4.ghast.sbs#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Deutsche Telekom AG ┇ 81.31.210.92
+vless://367ff772-a8f4-4895-8e99-3702a868f0c6@osnl4.ghast.sbs:443?type=grpc&security=tls&sni=osnl4.ghast.sbs&fp=chrome#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Deutsche Telekom AG ┇ 81.31.210.92

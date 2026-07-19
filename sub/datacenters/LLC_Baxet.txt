@@ -1,0 +1,1 @@
+vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@media2.hexogate.net:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC Baxet ┇ 46.29.163.95

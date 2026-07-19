@@ -1,2 +1,2 @@
-vless://5358651c-d958-4b7e-b597-a2419de0e700@s2.insta-service.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.27.192
 vless://5358651c-d958-4b7e-b597-a2419de0e700@s1.insta-service.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.27.47
+vless://5358651c-d958-4b7e-b597-a2419de0e700@s2.insta-service.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.27.192

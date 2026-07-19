@@ -1,1 +1,0 @@
-vless://1073a3f2-dc7c-46fb-aa7c-4378d4b27785@asl3.feeliran.org:449?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Azarakhsh Ava-e Ahvaz Co ┇ 93.126.31.19

@@ -1,2 +1,1 @@
-vless://7b912ab8-1f11-46fa-abe7-6d4bc1e45e61@188.209.153.97:36926?type=tcp&security=none&path=/freebox#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 188.209.153.97
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTZWZyb3llayBQYXJkYXogRW5naW5lZXJpbmcgUEpTQyBcdTI1MDcgMTUyLjg5LjQ2LjE4MCIsImFkZCI6InNpdGUuaG9vcmFjb2ZmZWUuaXIiLCJwb3J0Ijo0NDMsImlkIjoiZWQ5NTRkYmEtNWFkNS00Njg4LTgxNzQtMjQ3OTQ0MzYxYzM4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3d3IiwidGxzIjoidGxzIn0

@@ -1,2 +1,1 @@
 vless://25049cf9-47e9-4057-93a7-d3d53d32bb77@ue.horlutr.ir:2087?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 31.57.228.124
-vless://25049cf9-47e9-4057-93a7-d3d53d32bb77@uk-een-tswe.horlutr.ir:2087?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 31.57.35.158

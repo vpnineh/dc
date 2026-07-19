@@ -1,3 +1,4 @@
 vless://87d6d479-d637-4d3f-9666-2a4d9b936398@176.124.221.208:58500?type=ws&security=none&path=/free#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 176.124.221.208
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.124.61.172:50443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 138.124.61.172
 vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 109.120.140.248
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 62.60.159.137

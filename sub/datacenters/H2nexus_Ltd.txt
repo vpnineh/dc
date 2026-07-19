@@ -1,0 +1,1 @@
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?type=tcp&security=reality&sni=fi.buycloud.app&flow=xtls-rprx-vision&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.186

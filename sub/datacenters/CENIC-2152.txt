@@ -1,1 +1,1 @@
-vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?type=ws&security=tls&path=/fog&sni=2.fognet.ru#US 🇺🇸 ┇ VLESS-WS-TLS - CENIC-2152 ┇ 130.17.16.150
+vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?type=ws&security=tls&path=/fog&sni=2.fognet.ru&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - CENIC-2152 ┇ 130.17.16.150

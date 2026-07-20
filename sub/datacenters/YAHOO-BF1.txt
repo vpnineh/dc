@@ -1,2 +1,3 @@
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@c.bazardam.shop:2056?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&sid=4eee3ae71639f189#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-BF1 ┇ 91.107.151.42
+vless://74184983-dacb-4954-b9ce-80e225618da3@play.vcmta.ir:2087?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=ZMOxrvt_CJD6rUk2ygsorwQJ4ThDIPPjePTGThRafkg&sid=70f8#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO-BF1 ┇ 38.107.237.64
 vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@a.bazardam.shop:2056?type=xhttp&security=reality&path=/path&sni=yahoo.com&fp=chrome&pbk=qXZfqpQScWQea7Kpr69if9iHhiA7IMLwUgZflIvuWh8&sid=4eee3ae71639f189#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-BF1 ┇ 135.181.45.18

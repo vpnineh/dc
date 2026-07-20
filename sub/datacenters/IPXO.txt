@@ -1,1 +1,2 @@
+vless://bf0899bc-5abd-40b8-b376-f108e2d8cb6f@vs-pl2.vibesignal.space:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.254.141
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22

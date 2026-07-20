@@ -1,2 +1,1 @@
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 94.156.250.56
-vless://b18edde3-12d1-4e5d-820e-5e13a89e27a5@185.171.202.108:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 185.171.202.108

@@ -1,0 +1,2 @@
+vless://69c0e64c-363f-46da-865c-88d5075a9356@ninja.monak2.ir:20788?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - NETZONE TEKNOLOJI ve SAVUNMA SANAYI TICARET ANONIM SIRKETI ┇ 37.221.79.26
+vless://69cb9e07-517f-4c8a-8a41-7f02ec1cc7f7@sdr.servicebamaplus.ir:43945?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - NETZONE TEKNOLOJI ve SAVUNMA SANAYI TICARET ANONIM SIRKETI ┇ 37.221.79.195

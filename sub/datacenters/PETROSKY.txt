@@ -1,1 +1,0 @@
-vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - PETROSKY ┇ 38.128.251.191

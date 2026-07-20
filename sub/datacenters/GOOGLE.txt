@@ -1,6 +1,5 @@
-vless://b204bfe1-a97c-419e-b9ea-e3278db89b15@8.8.8.8:443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 8.8.8.8
-vless://c0404e11-5562-49ee-94f1-a8a3f3ba2f1a@pol.mrsolo5323.ir:2053?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=nUJ1k6Sb4Guh8dpD6ZE8Sm4SW4yzu-4Dfv1Om8fT4gk&sid=19d6a1fa4401#US 🇺🇸 ┇ VLESS-GRPC-RLT - GOOGLE ┇ 82.40.62.138
-vless://f7673cd7-f025-47dc-9251-46779643923e@subb.biscuitnazari.ir:443?type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=jZw-MfEB8JeoXgdUjMd1vdrzghBsBzZAzKwSdRndb1M&sid=012239#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 91.228.227.80
 vless://60c81efb-1a00-4224-a89f-9639f2c8b202@pol.mrsolo5323.ir:6232?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=esRC9feHQB3H1QsIHMpvMoEg7MCQC_TdCpolyrIEfxQ&sid=f50b591218df6dff#US 🇺🇸 ┇ VLESS-GRPC-RLT - GOOGLE ┇ 82.40.62.138
-vless://d427bc32-cc54-4a9b-b067-b33477bbe6fa@subb.biscuitnazari.ir:2086?type=xhttp&security=reality&path=/koko&sni=play.google.com&fp=chrome&pbk=csfYD3VvAGrvKyy1ppNxg6VX-iSKcLCrl1_nBRmnnkI&sid=7a#US 🇺🇸 ┇ VLESS-XHTTP-RLT - GOOGLE ┇ 91.228.227.80
+vless://9b7563dc-95d6-453a-8e38-8f2c94599229@pol.mrsolo5323.ir:2053?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=nUJ1k6Sb4Guh8dpD6ZE8Sm4SW4yzu-4Dfv1Om8fT4gk&sid=19d6a1fa4401#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 82.40.62.138
+vless://b204bfe1-a97c-419e-b9ea-e3278db89b15@8.8.8.8:443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - GOOGLE ┇ 8.8.8.8
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 94.156.250.56
+vless://b18edde3-12d1-4e5d-820e-5e13a89e27a5@185.171.202.108:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 185.171.202.108

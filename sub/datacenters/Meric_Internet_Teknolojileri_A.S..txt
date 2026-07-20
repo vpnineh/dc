@@ -1,1 +1,2 @@
+vless://63a7d5a1-11bb-4ee6-83a0-c59e540544c1@h6.capigodserv.ir:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.198.8
 vless://e56ab08d-4e35-448b-8825-2982a39ebe26@dfssfddsfdfdfffddfdfjdfjdjfdfd.parscon.ir:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.135

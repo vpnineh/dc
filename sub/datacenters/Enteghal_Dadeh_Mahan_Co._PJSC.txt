@@ -1,1 +1,0 @@
-vless://85bdef49-d564-4491-84dd-cf92d7fe3f9a@beta.fastsharp.xyz:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.175

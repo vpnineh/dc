@@ -1,2 +1,1 @@
-vless://9ec57dd0-9a45-41a2-b295-e529a8893a89@pol.mrsolo5323.ir:2082?type=xhttp&security=none&path=/#GB 🇬🇧 ┇ VLESS-XHTTP-NTLS - Virgin Media ┇ 82.40.62.138
 vless://613de70c-f1d7-4176-968d-86d0f20e8786@ips-----pro-----vip.nininet.xyz:1418?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.47.63.54

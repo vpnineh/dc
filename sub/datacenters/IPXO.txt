@@ -1,2 +1,1 @@
-vless://d6238211-d34c-4197-b6f7-31fce4fc9314@95.85.248.182:443?type=tcp&security=reality&fp=firefox&pbk=zdUruFsb8e_EEIqEMyykFbpNaOZCk_RDRaYInsgD9y0&sid=0a076a46#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.248.182
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22

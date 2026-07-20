@@ -1,2 +1,2 @@
-vless://763dd3ae-ace3-47f7-a88c-1387311af4d6@turkey.mrapanel.shop:64584?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.28
 vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@185.226.92.129:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.129
+vless://763dd3ae-ace3-47f7-a88c-1387311af4d6@turkey.mrapanel.shop:64584?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.28

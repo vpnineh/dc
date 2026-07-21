@@ -1,1 +1,0 @@
-vless://6b29163b-0f0d-489a-9245-0ee66c03978c@sofiamelnikova.com:443?type=tcp&security=reality&sni=sofiamelnikova.com&fp=chrome&flow=xtls-rprx-vision&pbk=IQC_rTBp7otrddEVjMW8XSJvAX4bY9cEVTaraIO7MVM&sid=a1b2c3d4#BG 🇧🇬 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 87.121.162.173

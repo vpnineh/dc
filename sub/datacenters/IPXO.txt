@@ -1,1 +1,2 @@
+vless://56a996c2-a7d0-49a1-8c4d-cd19d124f104@dir.herewegoo.com:8880?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.121
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22

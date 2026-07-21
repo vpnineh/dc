@@ -1,5 +1,5 @@
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@fnl-sont23oo-mk75gi8a.mobile-shahab.ir:2091?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.22
-vless://9d564717-cee2-482f-a841-f7a3af7a08d3@cdn2.beshdash.ir:61224?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.143.96
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.143.96
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.178.96.19
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.99.209
+vless://9d564717-cee2-482f-a841-f7a3af7a08d3@cdn2.beshdash.ir:61224?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 193.164.155.230
+vless://85633c30-f2a7-44dc-90f7-7f4a8034d53d@95.182.100.162:40867?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.100.162
 vless://0bccb309-d20c-4d8c-baf8-5938746f1bbc@run.gigimystore.ir:2020?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 195.211.124.209

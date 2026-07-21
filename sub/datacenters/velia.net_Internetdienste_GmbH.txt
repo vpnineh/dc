@@ -1,2 +1,0 @@
-vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.63:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - velia.net Internetdienste GmbH ┇ 5.253.66.63
-vless://8ecece64-b89d-421b-957c-7e23f5337c3f@de.boxypn.com:443?type=tcp&security=reality&sni=de.boxypn.com&flow=xtls-rprx-vision&pbk=TjxmFHJN-olJvkXLicHGzNIMxJyucaA_ht3w3J-YcHM#SC 🇸🇨 ┇ VLESS-TCP-RLT - velia.net Internetdienste GmbH ┇ 185.126.67.41

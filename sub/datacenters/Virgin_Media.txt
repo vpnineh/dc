@@ -1,1 +1,0 @@
-vless://e2d69ba7-dbce-442d-b5d7-c07f7944f7e0@ips-----pro-----vip.nininet.xyz:1418?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.47.63.54

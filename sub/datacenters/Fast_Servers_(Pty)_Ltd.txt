@@ -1,1 +1,0 @@
-vless://8bba3194-4856-46d1-8319-075817d87eb1@pl4.cyphervpn.pro:2443?type=tcp&security=reality&sni=pl4.cyphervpn.pro&flow=xtls-rprx-vision&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf#IL 🇮🇱 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 45.140.204.162

@@ -1,4 +1,5 @@
-vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.73.130
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.0.100
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.129.42
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.0.100
+vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.73.130
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.128.56
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?type=tcp&security=reality&sni=cdn.pinecloud.net&fp=chrome&flow=xtls-rprx-vision&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.150

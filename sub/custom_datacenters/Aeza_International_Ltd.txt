@@ -1,4 +1,5 @@
 vless://0c00d078-f90c-4e90-8c71-40e7504399f1@at1.fulli.net:443?type=xhttp&security=tls&path=/backapi/express/data#AT 🇦🇹 ┇ VLESS-XHTTP-TLS - Aeza International Ltd ┇ 212.113.106.79
+vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 109.120.140.248
 vless://4a7fce8c-99a0-4841-a223-4d1bac6299ea@176.124.221.208:58500?type=ws&security=none&path=/free#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 176.124.221.208
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.124.61.172:50443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 138.124.61.172
-vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 109.120.140.248
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.159.137

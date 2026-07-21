@@ -1,0 +1,2 @@
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?type=tcp&security=false&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 87.242.85.201
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?type=tcp&security=false&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 87.242.85.201

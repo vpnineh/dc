@@ -1,5 +1,5 @@
-vless://9d564717-cee2-482f-a841-f7a3af7a08d3@cdn2.beshdash.ir:61224?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.3
+vless://9d564717-cee2-482f-a841-f7a3af7a08d3@cdn2.beshdash.ir:61224?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.61.172
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.61.172
 vless://id_telegram_MimiTdl@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.144.179.95
-vless://TelegramJoin@31.15.18.102:80?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.18.102
 vless://0bccb309-d20c-4d8c-baf8-5938746f1bbc@run.gigimystore.ir:2020?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 195.211.124.209
+vless://TelegramJoin@31.15.18.102:80?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.18.102

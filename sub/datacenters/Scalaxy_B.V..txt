@@ -1,2 +1,1 @@
 vless://aa69483c-e8c4-43ad-886d-a825c6727614@cdn-ro.happier-link.com:443?type=xhttp&security=reality&path=/assets/rolove/sync/&sni=cdn-ro.happier-link.com&fp=chrome&pbk=9-2Ui7XRrlzZpYMC2HWaN3QeliZwEGYTM5WqfmLcwi0&sid=5e8b7eaf2f934d05#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - Scalaxy B.V. ┇ 89.37.192.10
-vless://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.70.206

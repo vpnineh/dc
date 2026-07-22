@@ -1,0 +1,1 @@
+vless://80e4b71e-ba87-4de6-9d47-65930d88caa9@geo-1.biscuitnazari.ir:80?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=OjYK2ZpYzCNxUwagB7mgwwgU2BMIl22opVWoN83Zvys&sid=a144#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 91.228.227.80

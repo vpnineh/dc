@@ -1,1 +1,1 @@
-vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - ahbr company limited ┇ 31.192.244.42
+vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?type=tcp&security=false&path=/&fp=chrome#SE 🇸🇪 ┇ VLESS-TCP-NTLS - ahbr company limited ┇ 31.192.244.42

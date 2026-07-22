@@ -1,6 +1,7 @@
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@cf380c40b2993608.nimaghaffarzadeh.ir:56625?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 136.244.82.117
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@209.250.238.60:57785?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 209.250.238.60
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@soskeynets.monopolitass.ir:56625?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 209.250.235.253
 vless://5eb3b129-e6d2-40cb-9924-f16d2f243953@199.247.6.74:12709?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.6.74
+vless://94ada67d-2d74-4e0b-a0d4-07a5198296a4@136.244.88.245:39942?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 136.244.88.245
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@soskeynets.monopolitass.ir:56625?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 209.250.235.253
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1Ljc2LjIwMi40NSIsImFkZCI6IjQ1Ljc2LjIwMi40NSIsInBvcnQiOjQwMTAsImlkIjoiMDcxYThhNzEtYzY1Ni00ZmI2LWE5MDgtNGU0MmViNzIyNDNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbGlrc3V6Y3AifQ
 vless://d2c548f1-27c4-4364-bd70-feb2c159f534@qzc6tbpu04c4.dop69.com:10962?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.77.171.254

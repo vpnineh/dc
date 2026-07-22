@@ -1,1 +1,0 @@
-vless://namedzadim@95.182.90.211:8080?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.90.211

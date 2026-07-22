@@ -1,1 +1,1 @@
-vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=tcp&security=none&path=/urdpjvws#US 🇺🇸 ┇ VLESS-TCP-NTLS - NETCARRIER ┇ 207.207.210.229
+vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=tcp&security=none&path=/urdpjvws#US 🇺🇸 ┇ VLESS-TCP-NTLS - NETCARRIER ┇ 207.207.210.107

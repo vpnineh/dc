@@ -1,1 +1,0 @@
-vless://fa75fd99-1ae6-4cb2-86a6-a41fb65ab4c4@5.10.249.14:29988?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saeid Shahrokhi ┇ 5.10.249.14

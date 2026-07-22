@@ -1,3 +1,2 @@
 vless://f72f6773-538e-436d-8a31-03ab7e841c86@german.lion-game.ir:8880?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 156.253.5.22
-vless://f72f6773-538e-436d-8a31-03ab7e841c86@82.115.8.121:53437?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.8.121
 vless://f72f6773-538e-436d-8a31-03ab7e841c86@turk1.lion-game.ir:29538?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 91.228.186.164

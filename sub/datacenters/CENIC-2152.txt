@@ -1,4 +1,5 @@
-vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?type=ws&security=tls&path=/fog&sni=2.fognet.ru#US 🇺🇸 ┇ VLESS-WS-TLS - CENIC-2152 ┇ 130.17.16.150
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?type=ws&security=none&path=/v1#US 🇺🇸 ┇ VLESS-WS-NTLS - CENIC-2152 ┇ 130.17.2.27
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:2200?type=ws&security=none&path=/v1#US 🇺🇸 ┇ VLESS-WS-NTLS - CENIC-2152 ┇ 130.17.2.67
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?type=tcp&security=none&path=/v1#US 🇺🇸 ┇ VLESS-TCP-NTLS - CENIC-2152 ┇ 130.17.2.67
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?type=ws&security=none&path=/v1#US 🇺🇸 ┇ VLESS-WS-NTLS - CENIC-2152 ┇ 130.17.2.27
+vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?type=ws&security=tls&path=/fog&sni=2.fognet.ru#US 🇺🇸 ┇ VLESS-WS-TLS - CENIC-2152 ┇ 130.17.16.150
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.48:4100?type=tcp&security=none&path=/v1#US 🇺🇸 ┇ VLESS-TCP-NTLS - CENIC-2152 ┇ 130.17.2.48

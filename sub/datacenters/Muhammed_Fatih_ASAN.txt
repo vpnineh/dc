@@ -1,0 +1,1 @@
+vless://aea30a00-4cbb-4acc-b1c2-cb53a7522d09@45.144.214.53:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Muhammed Fatih ASAN ┇ 45.144.214.53

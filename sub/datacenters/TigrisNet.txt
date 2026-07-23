@@ -1,2 +1,1 @@
 vless://44071682-0e02-49eb-9312-953613aaabbe@www.qelqira.ir:443?type=tcp&security=reality#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.29.89
-vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?type=tcp&security=reality#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.17.164

@@ -1,2 +1,1 @@
-vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@sw01.auragg.org:443?type=tcp&security=reality#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 87.121.105.52
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 94.156.112.71

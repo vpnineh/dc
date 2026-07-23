@@ -1,2 +1,2 @@
-vless://31649657-6c78-4c2c-b25b-5cd574b082b5@fi04.tunnely.ru:443?type=tcp&security=reality&sni=fi04.tunnely.ru&flow=xtls-rprx-vision&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 193.233.199.57
 vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@us.janusgate.org:443?type=tcp&security=reality&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 23.160.56.229
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@fi04.tunnely.ru:443?type=tcp&security=reality&sni=fi04.tunnely.ru&flow=xtls-rprx-vision&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 193.233.199.57

@@ -1,1 +1,1 @@
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@85.208.87.184:9443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Cloud.ru ┇ 85.208.87.184

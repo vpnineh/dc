@@ -1,1 +1,1 @@
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@77.222.35.10:2200?type=tcp&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc ru-center ┇ 77.222.35.10
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@77.222.35.10:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc ru-center ┇ 77.222.35.10

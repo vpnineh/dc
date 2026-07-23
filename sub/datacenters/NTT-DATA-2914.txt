@@ -1,1 +1,1 @@
-vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?type=ws&security=none&path=/chunkycorp#AE 🇦🇪 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 31.57.29.46
+vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?type=ws&security=false&path=/chunkycorp&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 31.57.29.46

@@ -1,0 +1,1 @@
+vless://340e4de3-144b-49c4-ad72-b49b35713728@funny1.oneok.name:443?type=grpc&security=reality&sni=funny1.oneok.name&fp=chrome&pbk=w5fBwTRrvLjDfKKfYM88Lrh7DpwSVlhnCCyo4FxLUSo&sid=096bb498#US 🇺🇸 ┇ VLESS-GRPC-RLT - NCR-252 ┇ 135.106.158.189

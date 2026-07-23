@@ -1,5 +1,6 @@
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.128.56
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.129.42
+vless://ab291fd4-fa93-48e2-aea4-f10985d027c1@fin-2.novacorium.com:8443?type=xhttp&security=tls&path=/assets/b397970f00242542&sni=fin-2.novacorium.com&fp=qq#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ADCIL-ASN-01 ┇ 144.31.239.45
 vless://f2f723f5-b97d-4414-997c-d2925013af28@144.31.108.46:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.108.46
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@144.31.213.150:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.150
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.128.56
 vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.73.130
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?type=tcp&security=reality&sni=cdn.pinecloud.net&flow=xtls-rprx-vision&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.150
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443?type=grpc&security=reality&sni=morphbinerkkw.ru&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#US 🇺🇸 ┇ VLESS-GRPC-RLT - ADCIL-ASN-01 ┇ 144.31.129.42

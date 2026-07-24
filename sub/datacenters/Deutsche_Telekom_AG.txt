@@ -1,1 +1,1 @@
-vless://157c2020-1c55-41d8-8431-6952fd4f4912@81.31.211.170:2085?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Deutsche Telekom AG ┇ 81.31.211.170
+vless://2f03aff6-7774-4bdc-a04f-5feb5b3c21b0@81.31.211.170:2085?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Deutsche Telekom AG ┇ 81.31.211.170

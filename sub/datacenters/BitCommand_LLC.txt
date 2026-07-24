@@ -1,2 +1,2 @@
-vless://fd0edb2d-9f41-4257-8987-be9858388670@german2.lion-game.ir:8088?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.19.66
-vless://722960f4-9ff9-4fb5-b428-bf276630f94d@gr.lion-game.ir:46646?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 46.249.99.176
+vless://0f790ae4-0bb1-40b1-95ca-99ff8756ecfa@german2.lion-game.ir:8088?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.19.66
+vless://fd0edb2d-9f41-4257-8987-be9858388670@gr.lion-game.ir:46646?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 46.249.99.176

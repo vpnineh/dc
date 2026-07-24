@@ -1,0 +1,1 @@
+vless://5c88e6bf-805a-4fac-92e0-70b57340e6cc@dege-exit.krotmonstr.online:8443?type=tcp&security=reality&sni=dege-exit.krotmonstr.online&fp=chrome&flow=xtls-rprx-vision&pbk=ZlHGuFEAxNghAM9OUdcYwaokVRVAsPt2MtM2Klf05WI&sid=d512199f50ec170b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.167

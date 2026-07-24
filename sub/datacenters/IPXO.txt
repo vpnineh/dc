@@ -1,2 +1,2 @@
-vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@95.85.226.143.tyr-agentstvo.tech:443?type=ws&security=tls&path=/websocket?ed=2560fp=chrome&sni=95.85.226.143.tyr-agentstvo.tech#CZ 🇨🇿 ┇ VLESS-WS-TLS - IPXO ┇ 95.85.226.143
+vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@95.85.226.143.tyr-agentstvo.tech:443?type=ws&security=tls&path=/websocket?ed&sni=95.85.226.143.tyr-agentstvo.tech#CZ 🇨🇿 ┇ VLESS-WS-TLS - IPXO ┇ 95.85.226.143
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22

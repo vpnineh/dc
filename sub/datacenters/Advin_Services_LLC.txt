@@ -1,2 +1,1 @@
-vless://f8735daf-60ed-443f-bd23-136bcb5319c1@smdata.softupdl.ir:56792?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
 vless://SoonTeam@sexi.carderrr.com:443?type=ws&security=none&path=@SylphNet#US 🇺🇸 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.103.60

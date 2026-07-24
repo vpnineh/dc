@@ -1,1 +1,0 @@
-vless://ef534e07-be21-4075-961b-b70f42cab10a@trip.roomode.ir:8443?type=tcp&security=none&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 203.202.232.67

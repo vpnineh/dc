@@ -1,1 +1,2 @@
-vless://d8f894b6-abc4-44b6-8d8a-980e9dd2f8fc@fn.fifapes.monster:2090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.143.244
+vless://d8f894b6-abc4-44b6-8d8a-980e9dd2f8fc@uk.fifapes.monster:21972?type=tcp&security=none#AL 🇦🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.139.120
+vless://d8f894b6-abc4-44b6-8d8a-980e9dd2f8fc@fn.fifapes.monster:2090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.170.230

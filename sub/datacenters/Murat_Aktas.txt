@@ -1,1 +1,0 @@
-vless://60eb42a3-04e5-4e02-a139-3ef8efae3d85@turkey2.nanaweb.ir:1080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.61

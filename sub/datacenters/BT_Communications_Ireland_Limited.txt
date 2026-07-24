@@ -1,1 +1,0 @@
-vless://8dd32d18-f32b-4204-b03b-74d5394a6487@pl02.myxasecure.space:443?type=tcp&security=reality&path=/&sni=pl02.myxasecure.space&fp=chrome&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#IE 🇮🇪 ┇ VLESS-TCP-RLT - BT Communications Ireland Limited ┇ 78.17.6.26

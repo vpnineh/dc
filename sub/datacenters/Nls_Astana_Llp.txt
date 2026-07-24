@@ -1,2 +1,1 @@
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?type=tcp&security=reality#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Nls Astana Llp ┇ 178.236.16.98
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?type=tcp&security=reality#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Nls Astana Llp ┇ 178.236.17.86

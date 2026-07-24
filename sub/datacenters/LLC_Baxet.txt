@@ -1,1 +1,0 @@
-vless://dee59997-f3f0-4dc5-bb26-ae24ae63ec5a@46.29.163.32:29311?type=tcp&security=false&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC Baxet ┇ 46.29.163.32

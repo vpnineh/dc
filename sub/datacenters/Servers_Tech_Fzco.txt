@@ -1,1 +1,0 @@
-vless://5c88e6bf-805a-4fac-92e0-70b57340e6cc@nidl-gate.krotmonstr.online:8443?type=tcp&security=reality&sni=nidl-gate.krotmonstr.online&fp=chrome&flow=xtls-rprx-vision&pbk=EtVRV1Dh4j1xrFM441RBEi62gWNtKB42lw55r680mWc&sid=7f2c22201c7bd166#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.111.89.215

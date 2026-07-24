@@ -1,0 +1,1 @@
+vless://153560b0-1a33-4b44-b059-ca5b22e55c19@corelink.su:443?type=tcp&security=reality&sni=corelink.su&fp=chrome&flow=xtls-rprx-vision&pbk=b0y3fVgL8jKbO3cNmh_qCoZWoWRsY6BYc6VDJFkNe2I&sid=b7fc0f11dda97edb#IE 🇮🇪 ┇ VLESS-TCP-RLT - BT Communications Ireland Limited ┇ 78.17.146.42

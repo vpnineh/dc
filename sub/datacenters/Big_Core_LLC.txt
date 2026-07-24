@@ -1,1 +1,0 @@
-vless://4f5dddeb-2728-4f0b-9ca8-029cb6052d9c@tr-tcp7733.th3team.ir:8080?type=tcp&security=tls&path=/&sni=tr-tcp7733.th3team.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - Big Core LLC ┇ 185.226.92.216

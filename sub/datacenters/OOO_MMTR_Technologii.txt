@@ -1,1 +1,0 @@
-vless://d385a48f-9f6f-406a-8d3c-e409b371c565@uk1.panel11.ru:443?type=tcp&security=reality&sni=uk1.panel11.ru&fp=chrome&flow=xtls-rprx-vision&pbk=L5qLDM9pWlBV6gU9yCT4_yc7jz982FiLi2CZWLo3Ki0&sid=dcbf3f13ce2dbe37#RU 🇷🇺 ┇ VLESS-TCP-RLT - OOO MMTR Technologii ┇ 46.8.41.25

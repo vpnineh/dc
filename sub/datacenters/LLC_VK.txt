@@ -1,1 +1,1 @@
-vless://5c375098-b366-490d-9a1f-8f77e239c07d@pro-ru-213.emrata.top:443?type=tcp&security=reality&sni=pro-ru-213.emrata.top&fp=chrome&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 213.219.212.14
+vless://5c375098-b366-490d-9a1f-8f77e239c07d@pro-ru-213.emrata.top:443?type=tcp&security=reality&sni=pro-ru-213.emrata.top&fp=chrome&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 213.219.212.24

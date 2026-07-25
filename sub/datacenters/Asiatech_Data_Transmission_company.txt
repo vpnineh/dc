@@ -1,0 +1,1 @@
+vless://e48cf70b-a9a5-4855-9330-e8649a11882e@193.134.100.23:12596?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.134.100.23

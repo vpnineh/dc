@@ -1,1 +1,1 @@
-vless://6824107b-7f94-420f-8532-6297a13e5168@gr.lion-game.ir:46646?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 46.249.99.176
+vless://466f13f5-61a3-447b-b593-cb09c583d8e7@gr.lion-game.ir:46646?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 46.249.99.176

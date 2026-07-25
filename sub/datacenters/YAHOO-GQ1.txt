@@ -1,0 +1,2 @@
+vless://80e4b71e-ba87-4de6-9d47-65930d88caa9@geo-1.biscuitnazari.ir:80?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=OjYK2ZpYzCNxUwagB7mgwwgU2BMIl22opVWoN83Zvys&sid=a144#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 91.228.227.80
+vless://e044297a-304f-40a9-a9fb-d17b744fa781@melinet6.sav-savteam.ir:44444?type=tcp&security=reality&sni=yahoo.com.&fp=chrome&pbk=79ji8OAmCVQTKcJmvf-iqZypOSKwuTD_sbatB4RHXXM&sid=f37329647c9a1886#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 178.104.225.122

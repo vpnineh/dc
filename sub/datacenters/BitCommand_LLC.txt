@@ -1,3 +1,2 @@
 vless://2f855dea-f4f4-4f82-812e-b075a80e74b3@gr2.sepahanatlas.ir:8080?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 82.115.24.52
-vless://fd0edb2d-9f41-4257-8987-be9858388670@gr.lion-game.ir:46646?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 46.249.99.176
-vless://9f139dd1-0f9b-4233-8226-a93a5a7a146e@england.lion-game.ir:443?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 194.146.123.76
+vless://fd0edb2d-9f41-4257-8987-be9858388670@gr.lion-game.ir:46646?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 46.249.99.176

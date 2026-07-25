@@ -1,0 +1,1 @@
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ger05.myxasecure.space:443?type=tcp&security=reality&path=/&sni=ger05.myxasecure.space&fp=chrome&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#TR 🇹🇷 ┇ VLESS-TCP-RLT - Ideal Hosting Teknoloji A.S. ┇ 139.28.241.37

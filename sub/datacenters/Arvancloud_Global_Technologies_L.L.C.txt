@@ -1,3 +1,1 @@
-vless://1d2717a5-7e88-40fd-a55d-ba506f44dc96@185.215.235.38:8080?type=ws&security=none&path=/?ed=2048#AE 🇦🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.215.235.38
-vless://1d2717a5-7e88-40fd-a55d-ba506f44dc96@185.215.235.195:80?type=ws&security=none&path=/?ed=2048#AE 🇦🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.215.235.195
 vless://1e1eeee1-0359-4fc0-9ec9-bf09b59088ca@185.204.170.178:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.170.178

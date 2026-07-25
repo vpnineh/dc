@@ -1,1 +1,2 @@
+vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.185.196
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@vl10.myxasecure.space:443?type=tcp&security=reality&path=/&sni=vl10.myxasecure.space&fp=chrome&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.187.71

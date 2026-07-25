@@ -1,0 +1,1 @@
+vless://f7d2c09e-f733-47c4-a611-397172b4df23@46.29.34.52:80?type=ws&security=none&path=/s/c21ab9e75c93#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 46.29.34.52

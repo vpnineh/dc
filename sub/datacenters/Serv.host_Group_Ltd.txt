@@ -1,1 +1,1 @@
-vless://a7a42d83-b810-4393-a321-a554ec2e75c9@ru.washing.help:8443?type=tcp&security=tls&sni=ru.washing.help&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - Serv.host Group Ltd ┇ 94.156.180.144
+vless://a7a42d83-b810-4393-a321-a554ec2e75c9@ru.washing.help:8443?type=tcp&security=tls&sni=ru.washing.help&fp=firefox#FI 🇫🇮 ┇ VLESS-TCP-TLS - Serv.host Group Ltd ┇ 94.156.180.144

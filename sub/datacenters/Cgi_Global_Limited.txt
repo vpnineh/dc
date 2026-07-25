@@ -1,4 +1,6 @@
-vless://d9af7d79-da64-8b5a-1b8d-a069469604fd@nl.qarvian.ir:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.99.125
-vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@gr1.fifapes.monster:8882?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.144.179.252
-vless://e061b5ef-8a10-4a35-8192-ef4f058f96d5@5.144.179.113:2044?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.144.179.113
-vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@uk.fifapes.monster:21972?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.178.96.232
+vless://f05645e7-b789-48b9-a98f-434fa8035d5c@31.57.46.165:443?type=xhttp&security=tls&path=/NormanVPN&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 31.57.46.165
+vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@fn.fifapes.monster:2090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.62.138
+vless://f05645e7-b789-48b9-a98f-434fa8035d5c@31.57.46.165:2053?type=ws&security=tls&path=/ws&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.57.46.165
+vless://d8f894b6-abc4-44b6-8d8a-980e9dd2f8fc@uk.fifapes.monster:21972?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.238.248
+vless://ec92d056-608c-7ffc-61b4-d249c16438c3@nl.qarvian.ir:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.99.125
+vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@fr.fifapes.monster:61224?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.144.179.252

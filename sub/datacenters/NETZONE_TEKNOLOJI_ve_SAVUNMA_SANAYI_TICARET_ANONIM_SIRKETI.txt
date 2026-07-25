@@ -1,0 +1,1 @@
+vless://eeb75ded-02ad-4e8f-9bb1-ccc5cd96e7cc@ab.gfdcty.ir:443?type=grpc&security=tls&sni=ab.gfdcty.ir#TR 🇹🇷 ┇ VLESS-GRPC-TLS - NETZONE TEKNOLOJI ve SAVUNMA SANAYI TICARET ANONIM SIRKETI ┇ 37.221.79.216

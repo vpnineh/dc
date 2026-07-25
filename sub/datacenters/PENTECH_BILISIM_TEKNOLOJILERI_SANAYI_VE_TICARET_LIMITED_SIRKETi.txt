@@ -1,1 +1,1 @@
-vless://8220283b-dd8a-4d37-baf6-348958c8058e@nl2.janusgate.org:443?type=tcp&security=reality&sni=nl2.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=04e65b7e170a5a4d#TR 🇹🇷 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.184.96
+vless://8220283b-dd8a-4d37-baf6-348958c8058e@nl2.janusgate.org:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.184.96

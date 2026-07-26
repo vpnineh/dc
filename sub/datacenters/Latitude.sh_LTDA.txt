@@ -1,0 +1,1 @@
+vless://8c663d00-ef80-4ec9-9c9b-3dd0a4f235f4@us-mr.horlutr.ir:2087?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Latitude.sh LTDA ┇ 95.169.180.242

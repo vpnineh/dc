@@ -1,3 +1,2 @@
 vless://7b745ce7-5501-4cf7-89e8-54d386be205f@89.39.121.131:10001?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 89.39.121.131
-vless://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?type=tcp&security=reality&sni=swe-one.quiet-rogue.site&flow=xtls-rprx-vision&pbk=wiqox4cXWo08IKTueVpIp5k0aC25Hcbuo0uAKvqlQ2Y&sid=ae5abf486d5dcd20#BG 🇧🇬 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 87.121.105.108
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 94.156.112.71

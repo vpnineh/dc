@@ -1,0 +1,1 @@
+vless://2c81908e-f6a2-4707-a783-9b031cde8ccd@paymant.khashinet.ir:443?type=ws&security=tls&path=/hiweb&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Mahdiar Rafiee ┇ 185.218.139.249

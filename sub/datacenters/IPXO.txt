@@ -1,4 +1,4 @@
-vless://9a88c105-9cb0-4092-acde-723eba07d762@95.85.252.202:31090?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.252.202
 vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@95.85.226.143.tyr-agentstvo.tech:443?type=ws&security=tls&path=/websocket?ed&sni=95.85.226.143.tyr-agentstvo.tech#CZ 🇨🇿 ┇ VLESS-WS-TLS - IPXO ┇ 95.85.226.143
+vless://9a88c105-9cb0-4092-acde-723eba07d762@95.85.252.202:31090?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.252.202
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ire03.myxasecure.space:443?type=tcp&security=reality&path=/&sni=ire03.myxasecure.space&fp=chrome&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#MT 🇲🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 193.24.234.220

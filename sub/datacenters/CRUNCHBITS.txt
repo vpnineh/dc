@@ -1,0 +1,1 @@
+vless://5215822a-49de-42f4-9abe-b862d30e4839@xusx.mobigen.ir:7070?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CRUNCHBITS ┇ 64.49.12.163

@@ -1,0 +1,2 @@
+vless://4b1d39f2-42d4-4850-8b8a-fd4fa2f1ae55@tun.temas-bor.ir:443?type=tcp&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 168.119.156.100
+vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@65.109.211.253:5039?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&sid=2e8424a2696cb606#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 65.109.211.253

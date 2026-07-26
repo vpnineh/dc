@@ -1,2 +1,2 @@
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@fr-po.pngv.top:4999?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.62.59
-vless://8bba3194-4856-46d1-8319-075817d87eb1@nl16.sodahub.online:443?type=tcp&security=reality&sni=nl16.sodahub.online&fp=chrome&flow=xtls-rprx-vision&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&sid=c334408a1056aaf8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 147.45.50.132
+vless://8bba3194-4856-46d1-8319-075817d87eb1@nl16.sodahub.online:443?type=tcp&security=reality&sni=nl16.sodahub.online&fp=firefox&flow=xtls-rprx-vision&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&sid=c334408a1056aaf8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 147.45.50.132

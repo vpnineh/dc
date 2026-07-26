@@ -1,2 +1,1 @@
-vless://7b102311-43fd-4e8f-877e-8090623c101d@94.159.101.36:443?type=ws&security=none&path=/Telegram🇨🇳#DE 🇩🇪 ┇ VLESS-WS-NTLS - H2nexus Ltd ┇ 94.159.101.36
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.186
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?type=tcp&security=reality&sni=fi.buycloud.app&flow=xtls-rprx-vision&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.165

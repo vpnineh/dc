@@ -1,2 +1,2 @@
-vless://c2312ed7-e1b4-4079-ada7-320409de5956@45.59.125.228:443?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=BjickB5Lt_-JIEj40uiaI1Sq4aDh1bzhWI1yBY9nbVc&sid=29fcba01#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 45.59.125.228
-vless://e718eb5f-61ec-4b5e-a314-d69f254ed8d8@thomas.proxy.rlwy.net:55033?type=grpc&security=reality&sni=is5-ssl.mzstatic.com&fp=ios&pbk=e3Ng2qvYUwk75CRLBPysi04vnay0T7VmUYuCm7pjJQs&sid=c692feba2e#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 66.33.22.225
+vless://994a6d8c-1b40-4e73-8fd1-4f35dcdec5b6@45.59.125.228:443?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=BjickB5Lt_-JIEj40uiaI1Sq4aDh1bzhWI1yBY9nbVc&sid=29fcba01#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 45.59.125.228
+vless://96831806-88a0-4c28-81df-d01fd26a2722@45.59.125.228:2083?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=_xxYDiTG0tQJtYPRe92U7wJOZ6hfNKFwBjNH5gP0eGA&sid=0e956352#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 45.59.125.228

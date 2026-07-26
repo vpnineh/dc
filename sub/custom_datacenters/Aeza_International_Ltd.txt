@@ -1,9 +1,6 @@
 vless://e2996b7b-abea-b773-66f7-20c4da51cab1@pinto7.wubbalubbadubdubb.ir:2089?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 147.45.71.199
 vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 109.120.140.248
 vless://d3aebc17-a731-40fb-a755-aac1a4cf80f2@95.181.167.171:9090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 95.181.167.171
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node12.mxvpn.dev:443?type=tcp&security=reality&sni=node12.mxvpn.dev&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 147.45.42.27
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node14.mxvpn.dev:443?type=tcp&security=reality&sni=node14.mxvpn.dev&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.110.106.98
 vless://e2996b7b-abea-b773-66f7-20c4da51cab1@nl.wubbalubbadubdubb.ir:2087?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 91.184.242.62
 vless://e2996b7b-abea-b773-66f7-20c4da51cab1@nl.wubbalubbadubdubb.ir:2105?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 91.184.242.62
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node1.mxvpn.dev:443?type=tcp&security=reality&sni=node1.mxvpn.dev&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 89.22.228.45
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.135

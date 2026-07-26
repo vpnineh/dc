@@ -1,2 +1,2 @@
-vless://80e4b71e-ba87-4de6-9d47-65930d88caa9@geo-1.biscuitnazari.ir:80?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=OjYK2ZpYzCNxUwagB7mgwwgU2BMIl22opVWoN83Zvys&sid=a144#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 91.228.227.80
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 204.216.216.23
+vless://80e4b71e-ba87-4de6-9d47-65930d88caa9@geo-1.biscuitnazari.ir:80?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=OjYK2ZpYzCNxUwagB7mgwwgU2BMIl22opVWoN83Zvys&sid=a144#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-GQ1 ┇ 91.228.227.80

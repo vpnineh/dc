@@ -1,1 +1,0 @@
-vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.136:2552?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 78.154.108.136

@@ -1,5 +1,6 @@
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.128.56
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?type=ws&security=none&path=/xray#US 🇺🇸 ┇ VLESS-WS-NTLS - ADCIL-ASN-01 ┇ 144.31.14.168
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBRENJTC1BU04tMDEgXHUyNTA3IDE0NC4yMjUuNjUuMjE2IiwiYWRkIjoiMTQ0LjIyNS42NS4yMTYiLCJwb3J0Ijo0NDMsImlkIjoiMjU0Njc4OTktOGQ0Mi00OTA3LTlhZGQtY2M3Yjk5MjA4ZGRmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.129.42
 vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.73.130
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.90.25
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.129.42

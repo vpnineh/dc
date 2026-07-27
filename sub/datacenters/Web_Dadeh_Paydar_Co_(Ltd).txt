@@ -1,2 +1,1 @@
 vless://42445cff-74ac-42f8-9409-fa2ef6295739@en.deepfast.pw:8080?type=tcp&security=tls&sni=en.deepfast.pw&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Web Dadeh Paydar Co (Ltd) ┇ 91.216.217.179
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBEYWRlaCBQYXlkYXIgQ28gKEx0ZCkgXHUyNTA3IDE4NS4yNDkuOS43NyIsImFkZCI6Imdlcm1hbnl6Lm1pcmFsbC5pciIsInBvcnQiOjQwNCwiaWQiOiJhM2E3NmQyZS00ZTlkLTRjZGYtYmIzYi0zYzg4ZWE4NmY0NmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9

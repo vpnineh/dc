@@ -1,1 +1,1 @@
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?type=tcp&security=reality#NO 🇳🇴 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 195.16.73.202
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?type=tcp&security=reality#NO 🇳🇴 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 195.16.73.132

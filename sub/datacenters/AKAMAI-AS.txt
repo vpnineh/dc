@@ -1,2 +1,0 @@
-vless://274e7cbc-887a-4502-8e1e-2302fb6e7bec@45.59.125.228:443?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=BjickB5Lt_-JIEj40uiaI1Sq4aDh1bzhWI1yBY9nbVc&sid=3000#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 45.59.125.228
-vless://96831806-88a0-4c28-81df-d01fd26a2722@45.59.125.228:2083?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=_xxYDiTG0tQJtYPRe92U7wJOZ6hfNKFwBjNH5gP0eGA&sid=0e956352#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 45.59.125.228

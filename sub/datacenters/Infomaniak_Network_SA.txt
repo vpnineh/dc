@@ -1,3 +1,5 @@
-vless://910c8f86-451c-48ad-96c7-bec1ed779c9e@best.kovira2.ir:8443?type=xhttp&security=none&path=/#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Infomaniak Network SA ┇ 83.228.229.139
-vless://910c8f86-451c-48ad-96c7-bec1ed779c9e@best.kovira2.ir:443?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.229.139
+vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@83.228.231.239:8080?type=tcp&security=reality&path=/#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.231.239
+vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@83.228.231.239:12001?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.231.239
 vless://910c8f86-451c-48ad-96c7-bec1ed779c9e@best.kovira2.ir:13424?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.229.139
+vless://910c8f86-451c-48ad-96c7-bec1ed779c9e@best.kovira2.ir:443?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.229.139
+vless://910c8f86-451c-48ad-96c7-bec1ed779c9e@best.kovira2.ir:8443?type=xhttp&security=none&path=/#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Infomaniak Network SA ┇ 83.228.229.139

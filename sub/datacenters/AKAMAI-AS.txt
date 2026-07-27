@@ -1,0 +1,1 @@
+vless://c913aaad-7c27-4639-a830-5c99c79da80e@62.238.44.10:50653?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=4lp5kcYnQrNUiXBwI4HOWOFtydwZuGF88OECrc7n6To&sid=3377f10596d510de#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 62.238.44.10

@@ -1,1 +1,2 @@
+vless://05ef0269-2dc0-45e5-953e-d599d9ffed18@rrrrrtttttttaaarr.fanzeka.ir:2044?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.246
 vless://e56ab08d-4e35-448b-8825-2982a39ebe26@dfssfddsfdfdfffddfdfjdfjdjfdfd.parscon.ir:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.135

@@ -1,1 +1,2 @@
-vless://c913aaad-7c27-4639-a830-5c99c79da80e@62.238.44.10:50653?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=4lp5kcYnQrNUiXBwI4HOWOFtydwZuGF88OECrc7n6To&sid=3377f10596d510de#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 62.238.44.10
+vless://11d4ee93-6dfa-42c7-b1bb-32f5ef0e43b3@31.77.149.177:1997?type=xhttp&security=reality&path=/&sni=www.samsung.com&fp=chrome&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&sid=c94528#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 31.77.149.177
+vless://a97c88d9-116e-4085-9f30-5f9b513feeeb@46.226.166.205:34034?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=vheledf-jaKtPd33wOXMj9FqOLRmcKXc4nlQUVTKeC4&sid=21cf#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 46.226.166.205

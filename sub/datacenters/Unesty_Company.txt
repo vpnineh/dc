@@ -1,1 +1,2 @@
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&sni=static.lotussec.com#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Unesty Company ┇ 179.61.138.105
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&sni=static.lotussec.com#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Unesty Company ┇ 181.214.99.162
+vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Unesty Company ┇ 5.175.249.199

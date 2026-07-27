@@ -1,1 +1,0 @@
-vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@germany2.avrilon.us:443?type=tcp&security=reality&sni=qapartners.sec.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=rA_ItMaIiG_OUjcaTLpxOoF-OHh4WJsNUfWh7QUn_xU&sid=0a3ff4a7#KR 🇰🇷 ┇ VLESS-TCP-RLT - SamsungSDS Inc. ┇ 57.131.129.192

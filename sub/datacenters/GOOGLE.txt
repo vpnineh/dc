@@ -1,3 +1,3 @@
-vless://fd99ab69-a662-4bea-9ce6-899d0e1925b3@geo-1.biscuitnazari.ir:9443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&sid=25ee#US 🇺🇸 ┇ VLESS-GRPC-RLT - GOOGLE ┇ 91.228.227.80
 vless://t-me-V2RayyNGvpn@51.75.92.34:443?type=tcp&security=reality&sni=g.co&fp=chrome&flow=xtls-rprx-vision&pbk=BdOYhjTlBVHO5KRQTwdEeSCyVIwnEUpzMhkXHEgAbn0&sid=05559e#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 51.75.92.34
+vless://fd99ab69-a662-4bea-9ce6-899d0e1925b3@geo-1.biscuitnazari.ir:9443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&sid=25ee#US 🇺🇸 ┇ VLESS-GRPC-RLT - GOOGLE ┇ 91.228.227.80
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 94.156.250.56

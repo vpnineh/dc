@@ -1,0 +1,1 @@
+vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@185.141.217.62.tyr-agentstvo.tech:443?type=ws&security=tls&path=/websocket?ed=2560fp=chrome&sni=185.141.217.62.tyr-agentstvo.tech#AE 🇦🇪 ┇ VLESS-WS-TLS - WorldStream B.V. ┇ 185.141.217.62

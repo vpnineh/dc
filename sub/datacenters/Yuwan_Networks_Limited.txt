@@ -1,0 +1,1 @@
+vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@jc.20120222.xyz:10443?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Yuwan Networks Limited ┇ 202.155.123.34

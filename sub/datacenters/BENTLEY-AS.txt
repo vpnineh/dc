@@ -1,1 +1,1 @@
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - BENTLEY-AS ┇ 141.133.172.222
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?type=tcp&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - BENTLEY-AS ┇ 141.133.172.222

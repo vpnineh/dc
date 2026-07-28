@@ -1,1 +1,0 @@
-vless://12fac61d-d94a-40d6-82ac-7cf86b2fbecc@77.104.95.250:8443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.95.250

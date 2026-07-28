@@ -1,1 +1,0 @@
-vless://dabbaad9-5ce7-4a02-b24d-0da91a49ea2a@64.49.13.89:38531?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CRUNCHBITS ┇ 64.49.13.89

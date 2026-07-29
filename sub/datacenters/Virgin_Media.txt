@@ -1,0 +1,1 @@
+vless://7e5e983a-ecd5-404f-b3a1-ab95f0c58aa3@82.40.62.226:110?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.226

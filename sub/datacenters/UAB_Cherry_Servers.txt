@@ -1,1 +1,1 @@
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?type=tcp&security=reality&sni=de.edge-9d7c.com&fp=safari&flow=xtls-rprx-vision&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9#DE 🇩🇪 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 185.191.118.67
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?type=tcp&security=reality&sni=de.edge-9d7c.com&flow=xtls-rprx-vision&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9#DE 🇩🇪 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 185.191.118.67

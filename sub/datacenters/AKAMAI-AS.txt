@@ -1,1 +1,0 @@
-vless://63f96e98-f83f-48d0-9cd0-f31e8071f67f@64.188.77.22:9443?type=grpc&security=reality&sni=www.amd.com&fp=chrome&pbk=2p65iLhJgMXoswUfcKqh-bcVRzGN_KwnPpNThu4g-2w&sid=f73f#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 64.188.77.22

@@ -1,1 +1,1 @@
-vless://11d4ee93-6dfa-42c7-b1bb-32f5ef0e43b3@31.77.149.177:1997?type=xhttp&security=reality&path=/&sni=www.samsung.com&fp=chrome&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&sid=c94528#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 31.77.149.177
+vless://784974f6-6289-4988-a51d-7d54f9e6915c@31.77.149.177:1997?type=xhttp&security=reality&path=/&sni=www.samsung.com&fp=chrome&pbk=G62WBAi-xUaN8_cArNygz5RQWsljCHOPJlPVMh-Qwm8&sid=71607c0fba717d33#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 31.77.149.177

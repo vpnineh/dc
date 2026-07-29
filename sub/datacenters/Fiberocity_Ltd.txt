@@ -1,1 +1,1 @@
-vless://e7299042-7d8f-440f-8368-2516b0e69341@tn.tmn141246.ru:2200?type=ws&security=none&path=/v1#GB 🇬🇧 ┇ VLESS-WS-NTLS - Fiberocity Ltd ┇ 217.177.74.111
+vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@217.177.74.111:2200?type=ws&security=none&path=/v1#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560#GB 🇬🇧 ┇ VLESS-WS-NTLS - Fiberocity Ltd ┇ 217.177.74.111

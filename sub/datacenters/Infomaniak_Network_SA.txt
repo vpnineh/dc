@@ -1,5 +1,6 @@
-vless://X_market2-X_market2-X_market2@83.228.224.216:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.224.216
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.229.139
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?type=xhttp&security=none&path=/#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Infomaniak Network SA ┇ 83.228.229.139
-vless://ea3e789a-4eaf-4d2d-be93-5032614546e0@195.15.241.170:34186?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 195.15.241.170
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.229.139
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 83.228.229.139
+vless://ea3e789a-4eaf-4d2d-be93-5032614546e0@195.15.241.170:34186?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 195.15.241.170
+vless://b91b809e-b5a7-4bc9-a9c5-c762e0e0b919@p4mos1.pumpjump.ir:4101?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.226.199
+vless://X_market2-X_market2-X_market2@83.228.224.216:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.224.216
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?type=xhttp&security=none&path=/#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Infomaniak Network SA ┇ 83.228.229.139

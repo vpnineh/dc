@@ -1,1 +1,0 @@
-vless://d7790b85-9659-4558-a405-e0ab57d32984@89.19.223.97:8443?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - DpkgSoft International Limited ┇ 89.19.223.97

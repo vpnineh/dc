@@ -1,0 +1,1 @@
+vless://3b55d419-fe26-474e-811b-88f436b47125@italy.lunaparkmaku.com:42542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - C1V ┇ 152.89.168.240

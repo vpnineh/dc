@@ -1,0 +1,1 @@
+vless://21648f63-adde-4981-b01b-1c48dc1cdfde@87.120.106.226:29267?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=GVzsZqyVmjJbWvAsX9wF4X-VoiauPUFFipRb-ignYE4&sid=0674f822#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 87.120.106.226

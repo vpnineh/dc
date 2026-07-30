@@ -1,3 +1,4 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 203.18.98.96
-vless://cb5b05f2-c598-4262-8a22-c900898663ea@188.130.207.89:8080?type=xhttp&security=none&path=/#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 188.130.207.89
-vless://TelegramjoinTurboConfigs@109.248.162.115:80?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.162.115
+vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@fr.fifapes.monster:61224?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 203.18.98.96
+vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 213.232.204.98
+vless://c4dd3305-6b81-4fbc-a6c7-59cc4cf8d970@188.130.207.89:8080?type=xhttp&security=none&path=/#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 188.130.207.89
+vless://TelegramjoinTurboConfigs@109.248.162.115:80?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.162.115

@@ -1,2 +1,1 @@
-vless://439c8516-b796-47ca-991a-7e18540213d1@64.188.77.157:2512?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - HURRICANE ┇ 64.188.77.157
 vless://63f96e98-f83f-48d0-9cd0-f31e8071f67f@64.188.77.22:2053?type=ws&security=false&path=/api&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - HURRICANE ┇ 64.188.77.22

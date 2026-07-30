@@ -1,7 +1,5 @@
-vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:36789?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 179.255.152.104
-vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:46784?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 179.255.152.104
+vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:36789?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 179.255.153.159
 vless://0eab0265-1a13-49a1-ac5c-c171a523d804@201.24.115.184:443?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.24.115.184
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443?type=tcp&security=reality&sni=uwu.spectrumproxy.shop&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.3.225.13
-vless://b50e9b6f-74bd-4876-9329-d8cf77d1577a@201.24.123.197:989?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.24.123.197
-vless://b50e9b6f-74bd-4876-9329-d8cf77d1577a@201.24.123.197:410?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.24.123.197
+vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:46784?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 179.255.153.159
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWIHRhbCBcdTI1MDcgMTc5LjI1NS4xMTIuMjIwIiwiYWRkIjoibG92ZW91cmxpdmUuY29tIiwicG9ydCI6NDQzLCJpZCI6IjE4M0FGRjdBLTAwMUItNEM1RS1BNzU0LUZFMTUwNkJGMzNBMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443?type=tcp&security=reality&sni=uwu.spectrumproxy.shop&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.3.225.13

@@ -1,0 +1,1 @@
+vless://6bd7815d-9fb0-41c6-87ef-ffc713bf6b8f@91.99.119.155:1963?type=xhttp&security=reality&path=/path&sni=www.yahoo.com&fp=chrome&pbk=qB3VrHnAPaet0yZwVC3hPH4YL7IkrZUcP_oW14e0GQA&sid=26a77d1265b5def1#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-CHA ┇ 91.99.119.155

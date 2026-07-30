@@ -1,1 +1,1 @@
-vless://1d8c30b9-3759-4552-8001-902233f1855c@178.176.128.128:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - PJSC MegaFon ┇ 178.176.128.128
+vless://1fecf299-efa6-45f1-b7f8-f1cc8814ef4a@178.176.128.128:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - PJSC MegaFon ┇ 178.176.128.128

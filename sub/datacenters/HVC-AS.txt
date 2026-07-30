@@ -1,1 +1,0 @@
-vless://fc64e874-656e-402e-a303-e0d161f907fb@us888.bearbeer.digital:443?type=tcp&security=reality&sni=us888.bearbeer.digital&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU#US 🇺🇸 ┇ VLESS-TCP-RLT - HVC-AS ┇ 23.227.187.193

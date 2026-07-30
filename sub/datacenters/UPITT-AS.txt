@@ -1,0 +1,1 @@
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@130.49.148.134:8880?type=ws&security=none&path=/rutube#US 🇺🇸 ┇ VLESS-WS-NTLS - UPITT-AS ┇ 130.49.148.134

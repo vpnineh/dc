@@ -1,2 +1,1 @@
 vless://097f9732-6dc9-40ef-a181-13a931314364@77.104.95.166:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.95.166
-vless://2d54d7ee-879a-4a97-8512-1e6a70b17ca7@z.cjclub.ir:2052?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 77.104.95.105

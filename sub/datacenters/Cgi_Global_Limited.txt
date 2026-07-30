@@ -1,1 +1,3 @@
-vless://cb5b05f2-c598-4262-8a22-c900898663ea@188.130.207.89:8080?type=xhttp&security=none&path=/#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 188.130.207.89
+vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@fr.fifapes.monster:61224?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.237.98
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.178.96.206
+vless://5c0411fc-84a6-408b-bfd3-8c49ccdd36f7@xo2p.xo2p.kdns.fr:2066?type=xhttp&security=none&path=/#HK 🇭🇰 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 46.8.226.103

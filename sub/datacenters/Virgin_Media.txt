@@ -1,1 +1,1 @@
-vless://0f6f70c1-af08-4275-b92b-64106f3f5c22@yashar.mexokj.ir:1234?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.103
+vless://8107aba3-b2bb-4dba-b965-259663821527@82.40.62.103:1234?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.103

@@ -1,0 +1,1 @@
+vless://583c9322-978f-4c40-9057-a763194dceb7@sub2.nkrmuna.ir:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=HuZ8Buv1h_WT1iMRRtOyfd095lvamFzgVdT8chje7jg&sid=16508ccb239635#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 91.107.140.58

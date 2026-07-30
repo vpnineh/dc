@@ -1,8 +1,6 @@
-vless://35ade5ff-5822-4392-bbd6-7e369e0008a4@namahdod.lion-game.ir:8044?type=grpc&security=none#AU 🇦🇺 ┇ VLESS-GRPC-NTLS - BitCommand LLC ┇ 82.115.24.52
 vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@namahdod.lion-game.ir:3257?type=xhttp&security=none&path=/#AU 🇦🇺 ┇ VLESS-XHTTP-NTLS - BitCommand LLC ┇ 82.115.24.52
-vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@namahdod.lion-game.ir:8444?type=grpc&security=tls&sni=namahdod.lion-game.ir&fp=chrome#AU 🇦🇺 ┇ VLESS-GRPC-TLS - BitCommand LLC ┇ 82.115.24.52
 vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@se1.lion-game.ir:8484?type=ws&security=tls&path=/&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 46.249.103.224
 vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@se1.lion-game.ir:4448?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - BitCommand LLC ┇ 46.249.103.224
-vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@tk2.lion-game.ir:8484?type=grpc&security=tls&sni=tk2.lion-game.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-GRPC-TLS - BitCommand LLC ┇ 91.228.186.215
+vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@tk2.lion-game.ir:8484?type=grpc&security=tls&fp=chrome#TR 🇹🇷 ┇ VLESS-GRPC-TLS - BitCommand LLC ┇ 91.228.186.215
+vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@tk2.lion-game.ir:4488?type=tcp&security=tls&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 91.228.186.215
 vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@tk2.lion-game.ir:8044?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - BitCommand LLC ┇ 91.228.186.215
-vless://a2ec0704-f70c-4b1e-b3ef-fc26d76dabdc@tk2.lion-game.ir:4488?type=tcp&security=tls&sni=tk2.lion-game.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 91.228.186.215

@@ -1,0 +1,1 @@
+vless://65115d6d-7c5b-45e5-929f-f50a86138f51@185.231.114.218:80?type=ws&security=none&path=/swgsth#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amnpardaz Soft Corporation ┇ 185.231.114.218

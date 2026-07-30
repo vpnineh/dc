@@ -1,1 +1,1 @@
-vless://01b4e1af-bfe6-476e-af87-4fbad86bdc28@188.72.103.3:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 188.72.103.3
+vless://cc3521ac-1fcc-45fa-8dce-0c6ec26f21ea@188.72.103.3:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 188.72.103.3

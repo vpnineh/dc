@@ -1,1 +1,0 @@
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:2087?type=xhttp&security=tls&path=/&sni=norway.alfather.ir&fp=chrome#NO 🇳🇴 ┇ VLESS-XHTTP-TLS - BrainStorm Network, Inc ┇ 8.6.112.7

@@ -1,2 +1,1 @@
-vless://101164aa-e054-446c-8776-dac53aed5406@31.57.46.167:443?type=xhttp&security=tls&path=/&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 31.57.46.167
-vless://8b6eb5b2-69bd-4d1f-b596-36666171f299@95.182.101.189:443?type=xhttp&security=tls&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 95.182.101.189
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.237.98

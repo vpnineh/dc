@@ -1,2 +1,2 @@
-vless://7a30eabc-aee8-4cd3-833a-5fc13f0015d2@87.242.85.201:13561?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 87.242.85.201
 vless://6556ea2e-494c-4c5f-8821-31a6efc2e916@176.123.165.127:12672?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://7a30eabc-aee8-4cd3-833a-5fc13f0015d2@87.242.85.201:13561?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 87.242.85.201

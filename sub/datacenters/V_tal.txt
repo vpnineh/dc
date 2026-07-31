@@ -1,5 +1,5 @@
-vless://10f3f47c-7a6d-483f-a485-e4315bf3f245@201.34.129.44:898?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.34.129.44
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443?type=tcp&security=reality&sni=uwu.spectrumproxy.shop&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.3.225.13
-vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWIHRhbCBcdTI1MDcgMTc5LjI1NS4xMTIuMjIwIiwiYWRkIjoibG92ZW91cmxpdmUuY29tIiwicG9ydCI6NDQzLCJpZCI6IjE4M0FGRjdBLTAwMUItNEM1RS1BNzU0LUZFMTUwNkJGMzNBMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
 vless://10f3f47c-7a6d-483f-a485-e4315bf3f245@201.34.129.44:443?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.34.129.44
+vless://10f3f47c-7a6d-483f-a485-e4315bf3f245@201.34.129.44:898?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.34.129.44
+vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWIHRhbCBcdTI1MDcgMTc5LjI1NS4xMTIuMjIwIiwiYWRkIjoibG92ZW91cmxpdmUuY29tIiwicG9ydCI6NDQzLCJpZCI6IjE4M0FGRjdBLTAwMUItNEM1RS1BNzU0LUZFMTUwNkJGMzNBMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443?type=tcp&security=reality&sni=uwu.spectrumproxy.shop&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.3.225.13
 vless://10f3f47c-7a6d-483f-a485-e4315bf3f245@201.34.129.44:420?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.34.129.44

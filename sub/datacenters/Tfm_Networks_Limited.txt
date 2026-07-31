@@ -1,1 +1,0 @@
-vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Tfm Networks Limited ┇ 85.234.69.247

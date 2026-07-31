@@ -1,2 +1,2 @@
-vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:36789?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 179.255.153.159
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWIHRhbCBcdTI1MDcgMTc5LjI1NS4xMTIuMjIwIiwiYWRkIjoibG92ZW91cmxpdmUuY29tIiwicG9ydCI6NDQzLCJpZCI6IjE4M0FGRjdBLTAwMUItNEM1RS1BNzU0LUZFMTUwNkJGMzNBMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
+vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:36789?type=grpc&security=tls&sni=t1.hhaakk9922.com&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 179.255.153.159

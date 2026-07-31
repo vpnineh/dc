@@ -1,0 +1,1 @@
+vless://ca3206b2-d8c5-4c5c-a932-0b1efc47538a@cos.degeristcs.ir:443?type=ws&security=tls&path=/SHJHSRJYYYYYYYYGDU&sni=cos.degeristcs.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 194.1.155.54

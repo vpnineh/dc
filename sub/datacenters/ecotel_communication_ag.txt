@@ -1,1 +1,0 @@
-vless://0f026ffa-077e-46cf-b35a-3425227bd462@195.63.136.235:443?type=ws&security=false&path=/rw&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - ecotel communication ag ┇ 195.63.136.235

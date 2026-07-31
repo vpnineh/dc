@@ -1,0 +1,3 @@
+vless://a9a8fbe2-879a-4e23-a8d9-87c98995143f@yashar.mexokj.ir:443?type=tcp&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-DNB ┇ 104.167.199.232
+vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@taoccqyacf7e.dop66.com:5039?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&sid=2e8424a2696cb606#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-DNB ┇ 57.131.17.228
+vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:443?type=tcp&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-DNB ┇ 91.99.119.155

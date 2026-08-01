@@ -1,1 +1,0 @@
-vless://a3a98818-757f-41a1-82b0-baad2d6a3807@dl1.helloworld.lornavps.ir:8380?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=xtMO91xo5JUl2SvkUtozmSr2lLBFEkghyVALchFrYRY&sid=50acf6#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-NE1 ┇ 2.27.10.254

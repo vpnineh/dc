@@ -1,1 +1,1 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?type=tcp&security=reality&path=/&sni=api-endpoint.rest&fp=chrome&flow=xtls-rprx-vision&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&sid=19fbc4c7dd3d3d5a#MT 🇲🇹 ┇ VLESS-TCP-RLT - MyFatDigital Ltd ┇ 193.24.233.175
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?type=tcp&security=reality&sni=api-endpoint.rest&flow=xtls-rprx-vision&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&sid=19fbc4c7dd3d3d5a#MT 🇲🇹 ┇ VLESS-TCP-RLT - MyFatDigital Ltd ┇ 193.24.233.175

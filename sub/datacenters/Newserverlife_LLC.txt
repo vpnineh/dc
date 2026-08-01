@@ -1,1 +1,1 @@
-vless://a9a8fbe2-879a-4e23-a8d9-87c98995143f@yashar.mexokj.ir:1234?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.211
+vless://eef9a5a1-2313-4d62-a197-de2d408ac054@104.167.199.211:1234?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.211

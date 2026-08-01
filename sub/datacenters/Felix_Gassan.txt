@@ -1,1 +1,1 @@
-vless://ee6950b1-5a5a-4bb6-ae54-814070840281@italia.lodkirmm.ru:443?type=tcp&security=reality&sni=italia.lodkirmm.ru&fp=chrome&flow=xtls-rprx-vision&pbk=6fwpt8WW46VND7VgVV5lQSteCUgJsZbRR092VDZ2nFs#DE 🇩🇪 ┇ VLESS-TCP-RLT - Felix Gassan ┇ 185.119.19.211
+vless://ee6950b1-5a5a-4bb6-ae54-814070840281@italia.lodkirmm.ru:443?type=tcp&security=reality&sni=italia.lodkirmm.ru&fp=firefox&flow=xtls-rprx-vision&pbk=6fwpt8WW46VND7VgVV5lQSteCUgJsZbRR092VDZ2nFs#DE 🇩🇪 ┇ VLESS-TCP-RLT - Felix Gassan ┇ 185.119.19.211

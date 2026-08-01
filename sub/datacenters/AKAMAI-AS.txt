@@ -1,1 +1,2 @@
+vless://381247e0-5a14-461b-8a87-19df5f53a172@45.38.170.239:8080?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=BcqGprogb7tICPbJq-UDG3w4NlZVeS8vrtlXKmMq-0c&sid=46ecc6630f0a9e55#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 45.38.170.239
 vless://381247e0-5a14-461b-8a87-19df5f53a172@45.38.170.239:80?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=d-R1BxpfaHszPD4h0jGY8DgyJaw8eB7E0SAJCxyy-go&sid=eac2a65333960a83#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 45.38.170.239

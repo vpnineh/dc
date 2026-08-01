@@ -1,0 +1,1 @@
+vless://6fa1b8eb-56f4-4f41-97dc-e0185bcfc575@sentinel.unlimitedprojects.fun:443?type=xhttp&security=tls&path=/api/v1/data&sni=sentinel.unlimitedprojects.fun&fp=chrome#GB 🇬🇧 ┇ VLESS-XHTTP-TLS - Host-Telecom.com s.r.o. ┇ 45.151.183.37

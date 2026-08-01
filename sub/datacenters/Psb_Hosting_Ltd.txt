@@ -1,1 +1,2 @@
 vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.4:443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NL 🇳🇱 ┇ VLESS-TCP-RLT - Psb Hosting Ltd ┇ 45.131.212.4
+vless://85329505-90c2-43d1-9c4a-689b1a0be884@45.131.212.22:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Psb Hosting Ltd ┇ 45.131.212.22

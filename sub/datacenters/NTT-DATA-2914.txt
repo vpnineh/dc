@@ -1,0 +1,1 @@
+vless://09513f27-b454-4769-ba55-82eaadbd000b@mmd-riga.gorqino.ir:8156?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.29.28

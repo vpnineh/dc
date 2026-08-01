@@ -1,0 +1,2 @@
+vless://381247e0-5a14-461b-8a87-19df5f53a172@45.38.170.239:8880?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=1E5GNUNYbekYMfivz6D-SuE9CascJrF-jHq4GfoT80c&sid=0df2ccd1f16089aa#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 45.38.170.239
+vless://28cb2674-f643-320e-3316-93049bd12ada@html.lornavps.ir:8379?type=xhttp&security=reality&path=/phpMyAdmin?q=一位處女在孫先生的農場工作。&sni=play.google.com&fp=chrome&pbk=qIRHacDVKAuyQJrOJMSpwYyKhw-5KwvOX0W3d-TiB3w&sid=07529200e1fe#US 🇺🇸 ┇ VLESS-XHTTP-RLT - GOOGLE ┇ 82.40.62.204

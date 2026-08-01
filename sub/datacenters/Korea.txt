@@ -1,1 +1,0 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@tir.tunnelpoint.space:443?type=tcp&security=reality&path=/&sni=tir.tunnelpoint.space&fp=chrome&flow=xtls-rprx-vision&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#US 🇺🇸 ┇ VLESS-TCP-RLT - Korea ┇ 103.214.69.250

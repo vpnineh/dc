@@ -1,1 +1,0 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@usa02.myxasecure.space:443?type=tcp&security=reality&path=/&sni=usa02.myxasecure.space&fp=chrome&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC RTComm.RU ┇ 78.153.155.112

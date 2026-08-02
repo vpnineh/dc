@@ -1,5 +1,1 @@
-vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:51370?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.176
 vless://e096af6b-24b5-4bae-a412-5773fb067ec1@vip.pro1.dpdns.org:57984?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.251
-vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:43293?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.176
-vless://d81a73a0-1173-452c-b64f-22497b44f96f@0in.pin.spaidan.ir:27594?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.176
-vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:32073?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.176

@@ -1,1 +1,1 @@
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&security=tls#LV 🇱🇻 ┇ VLESS-TCP-TLS - Sia Nano IT ┇ 185.81.129.167
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&security=tls&sni=lv-ddc.astralweb.tech&fp=firefox#LV 🇱🇻 ┇ VLESS-TCP-TLS - Sia Nano IT ┇ 185.81.129.167

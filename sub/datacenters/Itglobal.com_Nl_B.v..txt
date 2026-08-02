@@ -1,1 +1,0 @@
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.91.166

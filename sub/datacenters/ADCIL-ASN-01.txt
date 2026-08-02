@@ -1,5 +1,5 @@
 vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.73.130
+vless://6daae99a-82f8-4675-9069-a34a165b6c6b@secdn-105.nem-osh-rkp.net:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 193.23.200.105
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.129.42
 vless://6daae99a-82f8-4675-9069-a34a165b6c6b@plcdn-12.nem-osh-rkp.net:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.1.126
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBRENJTC1BU04tMDEgXHUyNTA3IDE0NC4yMjUuNjUuMjE2IiwiYWRkIjoiMTQ0LjIyNS42NS4yMTYiLCJwb3J0Ijo0NDMsImlkIjoiMjU0Njc4OTktOGQ0Mi00OTA3LTlhZGQtY2M3Yjk5MjA4ZGRmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.129.42
-vless://6daae99a-82f8-4675-9069-a34a165b6c6b@secdn-105.nem-osh-rkp.net:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 193.23.200.105

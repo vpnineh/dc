@@ -1,1 +1,0 @@
-vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@9bae1d148edc10e6.apruxdomain.xyz:80?type=ws&security=false&path=/&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-NTLS - FOP Samosenok Alexandr Sergeevich ┇ 185.147.27.169

@@ -1,2 +1,4 @@
-vless://6f5fd2f9-a1e5-49af-91eb-08f51930d4e5@31.57.46.171:8443?type=xhttp&security=tls&path=/&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 31.57.46.171
-vless://8b6eb5b2-69bd-4d1f-b596-36666171f299@95.182.101.189:443?type=xhttp&security=tls&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 95.182.101.189
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.62.68
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.62.68
+vless://7ac1116c-1796-4923-9269-9fe2abc0e1f6@95.182.114.15:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cgi Global Limited ┇ 95.182.114.15
+vless://7ac1116c-1796-4923-9269-9fe2abc0e1f6@95.182.114.15:2018?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.15

@@ -1,2 +1,1 @@
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@31.172.67.215:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Data Storage Center JSC ┇ 31.172.67.215
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - Data Storage Center JSC ┇ 31.172.67.215

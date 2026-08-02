@@ -1,3 +1,2 @@
 vless://58b67e1d-b203-4f12-8f26-e17ef9a3d1c7@api.sorvexa.ir:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.89.222
-vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.53.46
 vless://a3bf5677-eaa6-42c5-959c-38cfdcd58d48@104.252.53.195:21948?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.53.195

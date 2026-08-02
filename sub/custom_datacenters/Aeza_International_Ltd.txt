@@ -1,7 +1,7 @@
-vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 109.120.140.248
 vless://aa259670-7dbd-44d2-be2b-f8bdbf202c82@176.124.221.208:58500?type=ws&security=false&path=/free&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 176.124.221.208
+vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 109.120.140.248
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node5.mxvpn.dev:443?type=tcp&security=reality&sni=node5.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 138.124.112.196
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node12.mxvpn.dev:443?type=tcp&security=reality&path=/&sni=node12.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 147.45.42.27
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node13.mxvpn.dev:443?type=tcp&security=reality&sni=node13.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 147.45.42.200
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node2.mxvpn.dev:443?type=tcp&security=reality&sni=node2.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#NL 🇳🇱 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 213.176.64.244
-vless://0f3965de-fd00-40cb-94a6-d4c81a9b9216@nl10.roscomsosal.de:443?type=tcp&security=tls&sni=nl10.roscomsosal.de&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 45.150.33.52

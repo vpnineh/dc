@@ -1,1 +1,0 @@
-vless://7153fb3d-f357-42ac-b6db-ece1732f7f01@multi.fresedvpn.site:11443?type=ws&security=false&path=/api/v3/ws&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-NTLS - Partner Hosting LTD ┇ 193.233.112.22

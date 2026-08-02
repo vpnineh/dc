@@ -1,1 +1,3 @@
+vless://dc67c863-4549-4009-ba60-6131fbf14d02@cdn2.subo-kick.com:443?type=xhttp&security=tls&sni=cdn2.subo-kick.com#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.117:443?type=tcp&security=reality#MY 🇲🇾 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 94.126.206.117
 vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.205.65:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 94.126.205.65

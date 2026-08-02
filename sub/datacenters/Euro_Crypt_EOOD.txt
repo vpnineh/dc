@@ -1,1 +1,0 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@dedger.skorostnet.space:443?type=tcp&security=reality&path=/&sni=dedger.skorostnet.space&fp=chrome&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#BG 🇧🇬 ┇ VLESS-TCP-RLT - Euro Crypt EOOD ┇ 93.152.224.130

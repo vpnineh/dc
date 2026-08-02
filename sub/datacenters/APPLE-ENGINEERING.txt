@@ -1,1 +1,2 @@
 vless://7e25875e-50bb-47ed-9627-261e6d232f69@154.17.234.39:11015?type=raw&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=duROgt3oXYwI3DFMweAFzmQwGHreB-CIt1UYCNnDzW4&sid=9feec27b#US 🇺🇸 ┇ VLESS-RAW-RLT - APPLE-ENGINEERING ┇ 154.17.234.39
+vless://542bd1db-f5e7-4c81-a08a-d95da62a914b@69.63.204.31:65264?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=GNAY_vQKIyS4dYA1nKevc4_2vCM2_ZhsT2N9VmhL1T8&sid=a83e16b0#US 🇺🇸 ┇ VLESS-TCP-RLT - APPLE-ENGINEERING ┇ 69.63.204.31

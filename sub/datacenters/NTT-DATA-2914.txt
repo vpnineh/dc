@@ -1,1 +1,1 @@
-vless://83564060-4069-40b4-e657-adccef9c4b62@zjmy.zywm.eu.org:443?type=ws&security=tls&path=/mmy&sni=zjmy.zywm.eu.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 207.57.132.117
+vless://83564060-4069-40b4-e657-adccef9c4b62@zjmy.zywm.eu.org:443?type=ws&security=tls&path=/mmy&sni=zjmy.zywm.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 207.57.132.117

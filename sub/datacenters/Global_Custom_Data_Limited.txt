@@ -1,0 +1,1 @@
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@196.240.57.50:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Global Custom Data Limited ┇ 196.240.57.50

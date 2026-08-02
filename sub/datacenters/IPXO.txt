@@ -1,4 +1,2 @@
-vless://1a0bd0ba-df37-4d86-84ee-5f6eb4210d07@ne88.kubservice.icu:443?type=tcp&security=reality&sni=ne88.kubservice.icu&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.168
 vless://5083f498-4894-4c81-8648-40a2faf4b545@95.85.247.114.fwqfw783rg2dad.website:443?type=ws&security=tls&path=/websocket&sni=95.85.247.114.fwqfw783rg2dad.website#CZ 🇨🇿 ┇ VLESS-WS-TLS - IPXO ┇ 95.85.247.114
-vless://88652810-6723-4087-bc65-e7c65cb4fc90@95.85.228.84:31845?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.84
-vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22
+vless://1a0bd0ba-df37-4d86-84ee-5f6eb4210d07@ne88.kubservice.icu:443?type=tcp&security=reality&sni=ne88.kubservice.icu&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.168

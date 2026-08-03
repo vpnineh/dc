@@ -1,1 +1,0 @@
-vless://92d95e05-3f69-43ef-a303-36f03c3094e0@nim.server-dev2.ir:443?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 62.60.147.172

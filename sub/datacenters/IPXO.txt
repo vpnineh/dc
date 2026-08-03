@@ -1,2 +1,1 @@
-vless://88652810-6723-4087-bc65-e7c65cb4fc90@95.85.228.84:31845?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.84
 vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.223.22

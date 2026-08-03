@@ -1,1 +1,1 @@
-vless://779e9985-dcbe-4813-824f-60fbb8030748@ami.dearhossein-taktaz.ir:14611?type=tcp&security=reality&sni=api.semiconductor.samsung.com&fp=chrome&pbk=qZm_ES3VCjD7FuifdnCzb13IoTrckgm8Y4jg65LkoHc&sid=729d4a73753c#NL 🇳🇱 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 5.161.147.233
+vless://779e9985-dcbe-4813-824f-60fbb8030748@ami.dearhossein-taktaz.ir:14611?type=tcp&security=reality&sni=api.semiconductor.samsung.com&fp=chrome&pbk=qZm_ES3VCjD7FuifdnCzb13IoTrckgm8Y4jg65LkoHc&sid=729d4a73753c#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 5.161.147.233

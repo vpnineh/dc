@@ -1,1 +1,0 @@
-vless://d309d06f-a97f-46e4-b5f2-ee357f6a2bd1@31.57.47.123:8443?type=xhttp&security=tls&path=/&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 31.57.47.123

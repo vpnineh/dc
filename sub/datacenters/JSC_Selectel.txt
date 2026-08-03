@@ -1,0 +1,1 @@
+vless://aa91b870-8658-4dcb-a53a-423df017e35b@ru.rush-server.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 95.213.143.18

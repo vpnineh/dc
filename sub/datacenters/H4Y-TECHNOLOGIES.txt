@@ -1,2 +1,2 @@
-vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:51370?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.176
 vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:27594?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.176
+vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:51370?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.176

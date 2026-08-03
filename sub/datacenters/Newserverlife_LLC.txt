@@ -1,8 +1,6 @@
-vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOZXdzZXJ2ZXJsaWZlIExMQyBcdTI1MDcgMzguMTA3LjIzNC41NyIsImFkZCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsInBvcnQiOjgwLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6InRscyJ9
-vless://e9ec2c07-1365-4d7e-964c-b51c937a0511@91.224.74.47:80?type=ws&security=none&path=/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 91.224.74.47
+vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@38.107.237.89:1234?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 38.107.237.89
+vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@104.167.199.211:1234?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.211
+vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@104.167.199.245:1234?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.245
 vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@104.167.199.232:1234?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.232
 vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@104.167.199.76:1234?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.76
-vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@38.107.237.89:1234?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 38.107.237.89
 vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@104.167.199.126:1234?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.126
-vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@104.167.199.245:1234?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.245
-vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@104.167.199.211:1234?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.211

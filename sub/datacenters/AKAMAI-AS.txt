@@ -1,1 +1,0 @@
-vless://7ac1116c-1796-4923-9269-9fe2abc0e1f6@95.182.114.15:8443?type=tcp&security=reality&sni=gaming.radeon.com&fp=chrome&flow=xtls-rprx-vision&pbk=YrCrUbRCtn6NoPfE5fZ2JhWZO8nujvnHFaaXQZHIpmQ&sid=17cd91d645#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 95.182.114.15

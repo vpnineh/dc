@@ -1,2 +1,1 @@
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@151.243.182.21:25737?type=ws&security=none&path=/xray#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 151.243.182.21
-vless://535f0e03-24d4-4268-ac40-5af829e8e59b@38.246.226.240:57878?type=ws&security=none&path=/535f0e03#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 38.246.226.240

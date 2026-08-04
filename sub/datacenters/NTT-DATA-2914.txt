@@ -1,1 +1,1 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.115
+vless://a104a6c1-f725-467c-9701-6fe5d16b4ce8@pro.polnejat.ir:2053?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 31.57.28.35

@@ -1,1 +1,1 @@
-vless://e2c8fa8c-886d-4649-bd59-cf73bee48b55@45.125.32.115:443?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cloudie Limited ┇ 45.125.32.115
+vless://e2c8fa8c-886d-4649-bd59-cf73bee48b55@45.125.32.115:443?type=tcp&security=none&path=/#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cloudie Limited ┇ 45.125.32.115

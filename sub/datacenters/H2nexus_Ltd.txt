@@ -1,2 +1,2 @@
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.165
 vless://6daae99a-82f8-4675-9069-a34a165b6c6b@ficdn-17.nem-osh-rkp.net:443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.212
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 45.144.53.163

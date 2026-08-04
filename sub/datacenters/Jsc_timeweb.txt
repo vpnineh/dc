@@ -1,6 +1,7 @@
-vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@147.45.235.14:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 147.45.235.14
-vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@185.247.16.49:2237?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 185.247.16.49
-vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@185.247.16.49:2273?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 185.247.16.49
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 194.87.161.60
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 185.247.16.3
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 188.225.33.141
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@185.247.16.49:2237?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 185.247.16.49
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@185.247.16.49:2273?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 185.247.16.49
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 147.45.253.97
+vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@147.45.235.14:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 147.45.235.14

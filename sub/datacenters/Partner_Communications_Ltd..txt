@@ -1,0 +1,1 @@
+vless://45c876f9-4900-40c0-b269-94871e78df54@usa01.port-server.online:443?type=tcp&security=reality&sni=usa01.port-server.online&fp=chrome&flow=xtls-rprx-vision&pbk=8-o5k2qfxM8oG3LdKKA3AFViLIQm-gCO2YiwNBz1d3s&sid=e7d930d720f853d8#IL 🇮🇱 ┇ VLESS-TCP-RLT - Partner Communications Ltd. ┇ 185.95.231.96

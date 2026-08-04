@@ -1,1 +1,1 @@
-vless://aa9dfeec-9933-4b41-9154-daae02003c3d@84.75.220.173:1234?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 84.75.220.173
+vless://a9a8fbe2-879a-4e23-a8d9-87c98995143f@yashar.mexokj.ir:1234?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 84.75.220.230

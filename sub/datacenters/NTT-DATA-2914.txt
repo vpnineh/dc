@@ -1,1 +1,0 @@
-vless://34eaf2f3-894f-472e-a36c-0e08a30f0829@185.199.198.182:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 185.199.198.182

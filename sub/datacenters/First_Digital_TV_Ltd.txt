@@ -1,2 +1,2 @@
-vless://323a6ba1-9aed-4ca1-a898-8edc8ed32d95@uskonkori.sanjeshvipspeed.ir:5000?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.92.66
+vless://9c028a2f-e171-4a6f-83af-8b2a27072033@95.182.92.54:443?type=xhttp&security=tls&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - First Digital TV Ltd ┇ 95.182.92.54
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@fr-po.pngv.top:4999?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.88.184

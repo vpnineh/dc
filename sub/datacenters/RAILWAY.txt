@@ -1,0 +1,1 @@
+vless://3efee736-53bc-4cd5-83c4-a71fd1d6033a@sakura.proxy.rlwy.net:32619?type=tcp&security=none&path=/assets&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.221

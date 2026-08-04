@@ -1,1 +1,0 @@
-vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@vip.mexokj.ir:1234?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 84.75.220.173

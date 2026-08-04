@@ -1,0 +1,1 @@
+vless://36347721-d014-7531-8acd-c3b798f417a8@master-node.dylariz.ru:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=4cG01BPepPVFkwZcHzXzVXEHhA72Seko8oFLcPIVEzM&sid=154ebd513e2751#RU 🇷🇺 ┇ VLESS-TCP-RLT - Langame Software Solutions LLC ┇ 147.45.99.116

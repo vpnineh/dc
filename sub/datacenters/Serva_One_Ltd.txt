@@ -1,1 +1,0 @@
-vless://da54c327-4e3f-483c-9c48-705a6d739ab6@free.us2.laodavip.com:443?type=tcp&security=reality&sni=free.us2.laodavip.com&fp=chrome&flow=xtls-rprx-vision&pbk=fmgZqiXIsO-LWrQMCNsi8_o_EaShi4ubxajVI_m8TBA&sid=d4e718a6ea7cdb2d#US 🇺🇸 ┇ VLESS-TCP-RLT - Serva One Ltd ┇ 45.158.127.50

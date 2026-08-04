@@ -1,2 +1,2 @@
-vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.103
+vless://db8dc0ce-d9ef-4362-b2b3-72e0532bf166@82.40.62.103:1234?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.103
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@82.40.62.209:1234?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.209

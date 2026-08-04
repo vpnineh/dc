@@ -1,1 +1,0 @@
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@yashar.mexokj.ir:443?type=tcp&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO ┇ 104.167.199.211

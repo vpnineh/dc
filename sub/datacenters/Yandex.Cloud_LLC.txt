@@ -1,1 +1,1 @@
-vless://7cea2b9e-bf67-4fd7-9fe5-9461a089230f@51.250.111.183:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 51.250.111.183
+vless://5238521b-c5dd-42af-870e-c174a2aaaafe@r-media.morphai.cc:443?type=xhttp&security=tls&sni=r-media.morphai.cc#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3

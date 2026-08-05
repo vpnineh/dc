@@ -1,2 +1,0 @@
-vless://5c183e56-0f02-421e-a334-2fae45555395@ge1.app-sync-data.space:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 138.124.10.166
-vless://5c183e56-0f02-421e-a334-2fae45555395@nl1.app-sync-data.space:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 193.32.178.57

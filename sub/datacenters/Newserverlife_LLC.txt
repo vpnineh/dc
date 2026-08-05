@@ -1,4 +1,4 @@
 vless://c46e2605-be24-4555-b7db-0fc6773ad004@91.217.11.214:443?type=tcp&security=reality#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 91.217.11.214
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92bWVzcy8ifQ
-vless://a9a8fbe2-879a-4e23-a8d9-87c98995143f@yashar.mexokj.ir:1234?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.126
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@104.167.199.245:1234?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.245
+vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@vip.mexokj.ir:1234?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.126

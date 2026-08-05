@@ -1,2 +1,1 @@
-vless://72b2e405-0b49-4f2c-872a-61787fcedc45@78.17.129.108.fwqfw783rg2dad.website:443?type=ws&security=tls&path=/websocket&sni=78.17.129.108.fwqfw783rg2dad.website#IE 🇮🇪 ┇ VLESS-WS-TLS - BT Communications Ireland Limited ┇ 78.17.129.108
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@isp02.skorostnet.space:443?type=tcp&security=reality&sni=isp02.skorostnet.space&fp=chrome&flow=xtls-rprx-vision&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#IE 🇮🇪 ┇ VLESS-TCP-RLT - BT Communications Ireland Limited ┇ 78.17.180.104

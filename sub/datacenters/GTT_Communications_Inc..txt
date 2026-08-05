@@ -1,2 +1,1 @@
-vless://b7aaffba-a242-4064-a076-79cde879441d@bootik.teh.arayeshimohammadi.ir:8443?type=tcp&security=tls&sni=bootik.teh.arayeshimohammadi.ir&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - GTT Communications Inc. ┇ 194.77.220.208
-vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GTT Communications Inc. ┇ 194.77.220.111
+vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - GTT Communications Inc. ┇ 194.77.220.111

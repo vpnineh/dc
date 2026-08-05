@@ -1,2 +1,1 @@
-vless://b4f472de-b73d-45b3-aa94-dd1ba8ac4ce1@xfin.webnix.ir:2020?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.177.95
 vless://f61b2652-fb1a-4d21-91bd-c4829e400272@akede.ghostnode.lol:443?type=raw&security=reality&sni=akede.ghostnode.lol&fp=chrome&flow=xtls-rprx-vision&pbk=13-YskgqresFnDUuKJ9uapgX8lCm3k305btUqEKaf0k#TR 🇹🇷 ┇ VLESS-RAW-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.184.163

@@ -1,0 +1,1 @@
+vless://48987d2a-b236-4c3b-9bc3-f8560c572779@nvest.krusofiya.fun:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=YJOE0UHHC-JlH8tfOk6UfkRBWQ689HZGMkeK-EmWbDU&sid=11354770e710a7f7#NL 🇳🇱 ┇ VLESS-TCP-RLT - FastLayer ┇ 185.155.223.22

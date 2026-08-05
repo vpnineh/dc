@@ -1,1 +1,1 @@
-vless://04b9e828-43ed-4faf-8952-41069ec08355@ddc-akn.astralweb.tech:443?type=tcp&security=tls&sni=ddc-akn.astralweb.tech&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-TLS - MENTOS-INTERNET-SERVICE ┇ 217.60.193.3
+vless://04b9e828-43ed-4faf-8952-41069ec08355@ddc-akn.astralweb.tech:443?type=tcp&security=tls&sni=ddc-akn.astralweb.tech&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-TLS - MENTOS-INTERNET-SERVICE ┇ 217.60.193.4

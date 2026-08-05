@@ -1,3 +1,1 @@
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@fr-po.pngv.top:4999?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.88.184
-vless://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:8443?type=ws&security=tls&path=/Norman&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - First Digital TV Ltd ┇ 95.182.91.123
-vless://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:443?type=xhttp&security=tls&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - First Digital TV Ltd ┇ 95.182.91.123

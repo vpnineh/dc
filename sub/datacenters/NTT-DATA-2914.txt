@@ -1,1 +1,0 @@
-vless://e9508a2a-7848-4805-bf54-1eb84b64ec68@192.220.43.144:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 192.220.43.144

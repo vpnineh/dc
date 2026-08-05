@@ -1,1 +1,0 @@
-vless://36347721-d014-7532-8acd-c3b798f417a8@reserve-node.dylariz.ru:8443?type=tcp&security=reality&sni=reserve-node.dylariz.ru&fp=chrome&flow=xtls-rprx-vision&pbk=4cG01BPepPVFkwZcHzXzVXEHhA72Seko8oFLcPIVEzM&sid=f9db06260afa#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 109.107.189.71

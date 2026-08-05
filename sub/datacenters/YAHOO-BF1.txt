@@ -1,0 +1,2 @@
+vless://2bda81e2-2c0a-4f79-83bb-1f4ff80c817e@gotveran.sav-savteam.ir:2020?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=KGOwbWV6-WTfWioOvxI4ltCbVCCV2xifEy6iBDC-HmY&sid=7e534a10d6f0c683#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 167.233.168.21
+vless://7d30281b-ec98-e1a0-3c4d-bf051ed5e6b1@dl12sw.cdn-ir-prime.shop:2053?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&sid=f1e1aa97#US 🇺🇸 ┇ VLESS-GRPC-RLT - YAHOO-BF1 ┇ 195.15.245.152

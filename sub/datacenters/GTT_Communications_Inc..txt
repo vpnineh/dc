@@ -1,3 +1,4 @@
 vless://d8b42cd5-a149-4356-9e61-000000000000@217.79.125.105:2550?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 217.79.125.105
+vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - GTT Communications Inc. ┇ 194.77.220.111
 vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 194.77.220.152
-vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GTT Communications Inc. ┇ 194.77.220.111
+vless://f3d1a6ca-2435-4a7f-b5de-f2137adc65dd@p.pymmaster.shop:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - GTT Communications Inc. ┇ 194.77.220.226

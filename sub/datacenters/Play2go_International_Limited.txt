@@ -1,3 +1,3 @@
-vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@83.143.112.140.cdn-one.org:443?type=ws&security=tls&path=/29378/wQYeoLE7LS&sni=83.143.112.140.cdn-one.org&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-TLS - Play2go International Limited ┇ 83.143.112.140
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@83.143.112.140.cdn-one.org:443?type=ws&security=tls&path=/29378/wQYeoLE7LS&sni=83.143.112.140.cdn-one.org&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-TLS - Play2go International Limited ┇ 83.143.112.140
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 94.156.112.71
 vless://dd8b69d3-5ef6-418c-a94c-2f4f37d88a7f@germanag.online:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 185.246.223.158

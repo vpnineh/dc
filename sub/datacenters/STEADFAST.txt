@@ -1,1 +1,2 @@
 vless://2c66d559-9889-45c5-a712-d8b7a31fa04d@104.171.135.186:4100?type=ws&security=none&path=/v1#US 🇺🇸 ┇ VLESS-WS-NTLS - STEADFAST ┇ 104.171.135.186
+vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?type=ws&security=none&path=/v1#US 🇺🇸 ┇ VLESS-WS-NTLS - STEADFAST ┇ 104.171.134.67

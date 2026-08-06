@@ -1,4 +1,1 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.237.216
-vless://3d6d0d60-2a50-46e4-b186-ae3eb0c00151@france1.net.spaidan.ir:13933?type=xhttp&security=none&path=/#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 95.182.96.228
-vless://3d6d0d60-2a50-46e4-b186-ae3eb0c00151@france1.net.spaidan.ir:48528?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 95.182.96.228
-vless://3d6d0d60-2a50-46e4-b186-ae3eb0c00151@france1.net.spaidan.ir:19664?type=httpupgrade&security=none&path=/#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Cgi Global Limited ┇ 95.182.96.228
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.144

@@ -1,1 +1,0 @@
-vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@212.34.134.163:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 212.34.134.163

@@ -1,3 +1,2 @@
-vless://91e2c801-f150-4c35-a0f8-c85518d8021d@45.154.96.51:47145?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.51
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.13.119.219
 vless://81a41a03-a194-92bc-55f2-9633e064aee4@ipfa.cdn365d.com:369?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 185.171.202.233
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.13.119.219

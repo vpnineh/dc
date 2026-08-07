@@ -1,0 +1,1 @@
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 45.88.13.3

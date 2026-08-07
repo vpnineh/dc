@@ -1,0 +1,1 @@
+vless://48b84195-5c5e-3cac-1846-39d8c14d57b8@ww.fervian.ir:8443?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cuzdan Elektronik Para Ve Odeme Hizmetleri Anonim Sirketi ┇ 212.115.103.5

@@ -1,0 +1,2 @@
+vless://1633b472-dfce-48e7-a89d-de502494f9f3@usa-oss.lorqino.ir:9145?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - H4Y-TECHNOLOGIES ┇ 104.252.175.54
+vless://90919a53-cc25-46b0-99d6-3d219bea0962@dl.sorvexa.ir:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - H4Y-TECHNOLOGIES ┇ 45.38.41.144

@@ -1,1 +1,0 @@
-vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@gb1.azmov.ru:443?type=grpc&security=tls&sni=gb1.azmov.ru#KR 🇰🇷 ┇ VLESS-GRPC-TLS - Korea Telecom ┇ 163.5.16.39

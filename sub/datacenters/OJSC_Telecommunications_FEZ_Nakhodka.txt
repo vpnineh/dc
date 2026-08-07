@@ -1,3 +1,3 @@
-vless://ceee2f10-613d-4756-8e79-7ccafc2e1a25@217.149.19.213:445?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OJSC Telecommunications FEZ Nakhodka ┇ 217.149.19.213
 vless://ceee2f10-613d-4756-8e79-7ccafc2e1a25@217.149.19.213:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OJSC Telecommunications FEZ Nakhodka ┇ 217.149.19.213
 vless://ceee2f10-613d-4756-8e79-7ccafc2e1a25@217.149.19.213:420?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OJSC Telecommunications FEZ Nakhodka ┇ 217.149.19.213
+vless://ceee2f10-613d-4756-8e79-7ccafc2e1a25@217.149.19.213:445?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OJSC Telecommunications FEZ Nakhodka ┇ 217.149.19.213

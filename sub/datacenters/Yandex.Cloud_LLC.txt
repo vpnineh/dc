@@ -1,1 +1,0 @@
-vless://dd8b69d3-5ef6-418c-a94c-2f4f37d88a7f@cdnya.yashaper.site:443?type=xhttp&security=tls&path=/assets/media&sni=cdnya.yashaper.site&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3

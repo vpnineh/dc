@@ -1,0 +1,2 @@
+vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.21
+vless://411279b4-233f-4abe-950c-956b6ffc921b@87.76.154.18:16506?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.18

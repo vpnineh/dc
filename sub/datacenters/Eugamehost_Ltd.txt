@@ -1,1 +1,0 @@
-vless://c60388ae-0113-440c-a3c5-ab443924de94@8.47.69.0:443?type=ws&security=tls&sni=english.havray2025.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Eugamehost Ltd ┇ 8.47.69.0

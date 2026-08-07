@@ -1,2 +1,1 @@
 vless://c690fd2c-b6eb-41b0-97fd-4d45d218ac7e@5.159.49.157:13891?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 5.159.49.157
-vless://f17b5ba2-7dd5-41d1-8b51-88538c7af809@farzanegan.redjimbo.ir:8443?type=xhttp&security=none&path=/89ijh9g4HH94g4312jloptNBuf94jv94jgyag00aborREzzxo0opo?ed=2560#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 46.29.34.160

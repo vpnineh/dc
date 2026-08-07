@@ -1,3 +1,2 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.215.31.57
-vless://90406b4e-c149-4499-b429-c5e9dadfaf90@mesub.poorifast.ir:54022?type=ws&security=none&path=/PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1----PooriVpn1#NL 🇳🇱 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.15.16.69
-vless://d1a19775-826d-46d6-b464-4069bd4f8ef0@95.182.114.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.74
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.227.71
+vless://a72af2b5-a615-4b8a-8aee-015574934759@95.182.114.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.74

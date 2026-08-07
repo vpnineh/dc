@@ -1,1 +1,2 @@
 vless://2f178743-d95e-4817-9e37-df0f22e6dcb8@centerbeam.proxy.rlwy.net:33490?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.245
+vless://39459e4b-57b1-1703-2351-5c9aa5754059@66.33.23.80:443?type=tcp&security=none&path=/ws/39459e4b-57b1-1703-2351-5c9aa5754059#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.23.80

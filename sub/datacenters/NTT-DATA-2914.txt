@@ -1,1 +1,0 @@
-vless://d7e9b7e6-b704-49f5-aa9a-2db7382d0443@31.57.27.180:2083?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.180

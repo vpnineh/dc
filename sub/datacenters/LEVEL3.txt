@@ -1,1 +1,1 @@
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?type=ws&security=none&path=/#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.0
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?type=ws&security=false&path=/&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.0

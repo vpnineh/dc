@@ -1,1 +1,2 @@
+vless://43f17eda-6cd4-4aa0-bfd4-14582861b45a@vezarat.taguenaby-backend.com:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Contabo GmbH ┇ 31.220.86.213
 vless://71286f3b-ec0f-4d12-9d3b-8d2941dee6ae@75.119.151.16:80?type=xhttp&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Contabo GmbH ┇ 75.119.151.16

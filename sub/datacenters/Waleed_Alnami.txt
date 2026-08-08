@@ -1,0 +1,1 @@
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Waleed Alnami ┇ 194.5.65.36

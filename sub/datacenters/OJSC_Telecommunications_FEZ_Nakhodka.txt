@@ -1,2 +1,0 @@
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?type=grpc&security=reality&sni=rubr7.cheburnetnastalgia1998.com&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&sid=eb3b7e6bbc66552e#RU 🇷🇺 ┇ VLESS-GRPC-RLT - OJSC Telecommunications FEZ Nakhodka ┇ 217.149.30.124
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OJSC Telecommunications FEZ Nakhodka ┇ 217.149.30.124

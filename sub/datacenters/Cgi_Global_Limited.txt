@@ -1,1 +1,1 @@
-vless://c7548a9e-3db8-492e-bc83-ed20422f5595@95.182.114.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.74
+vless://a72af2b5-a615-4b8a-8aee-015574934759@95.182.114.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.74

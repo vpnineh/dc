@@ -1,2 +1,1 @@
-vless://5e7ca567-aef3-4e55-a64b-40910d7dd349@185.218.139.222:2018?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=qeFx0FMZb7mD-fBWb_sdQJaKyM4_9BDuDA7XUHMSAGo&sid=ac08#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.218.139.222
 vless://737910b4-5b20-428b-8a14-62f1f1b57e12@185.218.139.222:8080?type=xhttp&security=reality&path=/&sni=www.intel.com&fp=chrome&pbk=KKuA4eyhlE6PtHejltulCvKvC5TYgm8PfA38PqRhe3A&sid=799f7f490be9#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 185.218.139.222

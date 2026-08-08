@@ -1,0 +1,1 @@
+vless://bcade6b3-8a72-47d9-858d-4918c1a9ecad@185.218.139.222:8080?type=xhttp&security=reality&path=/&sni=www.intel.com&fp=chrome&pbk=KKuA4eyhlE6PtHejltulCvKvC5TYgm8PfA38PqRhe3A&sid=457500#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 185.218.139.222

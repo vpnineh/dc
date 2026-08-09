@@ -1,1 +1,0 @@
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OJSC Telecommunications FEZ Nakhodka ┇ 217.149.30.124

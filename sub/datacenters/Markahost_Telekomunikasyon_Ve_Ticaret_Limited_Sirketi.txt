@@ -1,1 +1,0 @@
-vless://0f1a8007-531d-4848-89d8-2c7a322b6ba3@104.16.7.70:2053?type=httpupgrade&security=tls&path=/&sni=api.cascoman.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-TLS - Markahost Telekomunikasyon Ve Ticaret Limited Sirketi ┇ 104.16.7.70

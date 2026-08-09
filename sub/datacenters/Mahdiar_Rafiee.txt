@@ -1,1 +1,2 @@
-vless://47b3baf9-e1f7-4fc7-b720-fc96b570afd9@193.39.9.241:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.39.9.241
+vless://60c5c8de-c6f1-42bb-bfa9-9d55fbaac19f@193.39.9.241:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.39.9.241
+vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:2000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 185.218.139.222

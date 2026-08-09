@@ -1,3 +1,3 @@
-vless://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.157.130
-vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.30
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFN1bnJpc2UgR21iSCBcdTI1MDcgODQuNzUuMjIxLjEwIiwiYWRkIjoic2hvbWFsLnNpa3V6ZGkudWsiLCJwb3J0IjozMDE3NiwiaWQiOiIzYjllMTVjOS0yMDBjLTQ0NzEtOTQ4Mi04N2ExMDk4OTE0NzIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.30
+vless://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.157.130

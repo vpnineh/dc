@@ -1,1 +1,1 @@
-vless://e22062a8-860c-487a-d755-ac12f646095d@s1.zynetraq.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s1.zynetraq.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.150
+vless://f3f57e4a-eebf-4189-df90-13c8d2402422@s1.zynetraq.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s1.zynetraq.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.150

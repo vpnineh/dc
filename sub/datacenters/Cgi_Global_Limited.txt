@@ -1,4 +1,5 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.227.115
+vless://0f1a8007-531d-4848-89d8-2c7a322b6ba3@188.130.154.252:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.154.252
 vless://f937575c-35c2-4889-832e-b67935d565d8@217.145.79.102:24478?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.145.79.102
-vless://888193f6-6818-42f4-b223-64c9fd323b76@31.15.18.92:42538?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.18.92
-vless://8a61dc0d-edd6-4357-a88b-c4bd93715456@95.182.114.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.74
+vless://f3a436a8-45c3-4c5d-bf97-b1ff6e9ced38@31.15.18.92:42538?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.18.92
+vless://e5d6e2f8-928b-4768-b60b-347223b8218c@46.8.229.223:2054?type=xhttp&security=tls&path=/apt/&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 46.8.229.223
+vless://1a52c8c7-48d2-4238-bd7b-8783289e83e6@95.182.114.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.74

@@ -1,7 +1,10 @@
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.202
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node16.mxvpn.dev:443?type=tcp&security=reality&sni=node16.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.226.178
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?type=tcp&security=reality&sni=cdn.pinecloud.net&fp=chrome&flow=xtls-rprx-vision&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.150
+vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.218.18
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBRENJTC1BU04tMDEgXHUyNTA3IDE0NC4yMjUuNjUuMjE2IiwiYWRkIjoiMTQ0LjIyNS42NS4yMTYiLCJwb3J0Ijo0NDMsImlkIjoiMjU0Njc4OTktOGQ0Mi00OTA3LTlhZGQtY2M3Yjk5MjA4ZGRmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
-vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.113.56
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node17.mxvpn.dev:443?type=tcp&security=reality&sni=node17.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.65.59
 vless://1fef5248-fdd2-40d6-b3b9-6c33d4e74724@144.31.0.34:7443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.0.34
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node17.mxvpn.dev:443?type=tcp&security=reality&sni=node17.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.65.59
+vless://3e0cbd37-467f-4988-a72f-b37cd4a97959@nodedivice.chickenkiller.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.73.130
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
+vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.113.56
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.202

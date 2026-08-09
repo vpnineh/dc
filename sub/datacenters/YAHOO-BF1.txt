@@ -1,1 +1,0 @@
-vless://75effd8d-a3cd-4f7d-bb17-4f15a8dba68f@swop-sx.lorqino.ir:9145?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&sid=5e06032a9c448538#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 195.15.202.182

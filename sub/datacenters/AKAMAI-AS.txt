@@ -1,2 +1,1 @@
-vless://60c5c8de-c6f1-42bb-bfa9-9d55fbaac19f@193.39.9.241:8443?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=gQ0Wb1JGVAthgCRHp71qxmUDKe6rrBSk_YwSIcHv8kE&sid=f368#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 193.39.9.241
-vless://e5d6e2f8-928b-4768-b60b-347223b8218c@46.8.229.223:2053?type=xhttp&security=reality&path=/api/stream/dugkhklo8&sni=www.samsung.com&fp=chrome&pbk=uucbl8LMEhB6dqDfxvHiYaGgsVhzE87kJNPGlVemMkk&sid=05bb2cd7a2#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 46.8.229.223
+vless://272dcdf4-0cbd-4b81-a1c2-702d15de605b@193.39.9.241:8443?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=gQ0Wb1JGVAthgCRHp71qxmUDKe6rrBSk_YwSIcHv8kE&sid=d7a66e6404dd96dc#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 193.39.9.241

@@ -1,0 +1,1 @@
+vless://7bf48496-b6d7-49c7-9c2c-d9d4c1fbe6ed@latvia.beshdash.ir:17448?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.107.134

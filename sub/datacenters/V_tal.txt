@@ -1,7 +1,9 @@
 vless://594f6aef-16f8-4a86-8e2e-a217344a96aa@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&sni=pro-ru-bridge.emrata.top&fp=chrome&flow=xtls-rprx-vision&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.1.199.3
-vless://e73e63ad-e22e-4a79-b565-25521ac22670@201.34.142.29:901?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.34.142.29
+vless://6cfcc1ae-0f00-4d9b-9c26-18acb75dcfa6@201.34.142.29:401?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.34.142.29
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443?type=tcp&security=reality&sni=uwu.spectrumproxy.shop&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.3.225.13
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@titandarkness.mooo.com:443?type=ws&security=tls&path=/21381/0kO2id8FMQ&sni=titandarkness.mooo.com&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 177.3.208.169
 vless://91748616-e778-464c-bbda-be0df3dbf166@201.24.114.29:88?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.24.114.29
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWIHRhbCBcdTI1MDcgMTc5LjI1NS4xMTIuMjIwIiwiYWRkIjoibG92ZW91cmxpdmUuY29tIiwicG9ydCI6NDQzLCJpZCI6IjE4M0FGRjdBLTAwMUItNEM1RS1BNzU0LUZFMTUwNkJGMzNBMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@titandarkness.mooo.com:443?type=ws&security=tls&path=/21381/0kO2id8FMQ&sni=titandarkness.mooo.com&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 177.3.208.169
-vless://bee21918-0933-430c-904b-c941b92256ba@201.24.118.145:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.118.145
 vless://SoonTeam@191.215.37.90:443?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 191.215.37.90
+vless://e73e63ad-e22e-4a79-b565-25521ac22670@201.34.142.29:901?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.34.142.29
+vless://bee21918-0933-430c-904b-c941b92256ba@201.24.118.145:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.118.145

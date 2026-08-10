@@ -1,2 +1,2 @@
-vless://695a935b-5d8b-4468-ba7c-5f2a02e3356e@193.58.122.41:2096?type=grpc&security=none#BG 🇧🇬 ┇ VLESS-GRPC-NTLS - Play2go International Limited ┇ 193.58.122.41
 vless://695a935b-5d8b-4468-ba7c-5f2a02e3356e@193.58.122.41:2053?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 193.58.122.41
+vless://695a935b-5d8b-4468-ba7c-5f2a02e3356e@193.58.122.41:2096?type=grpc&security=none#BG 🇧🇬 ┇ VLESS-GRPC-NTLS - Play2go International Limited ┇ 193.58.122.41

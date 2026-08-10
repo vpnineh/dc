@@ -1,1 +1,1 @@
-vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@nl.convert-flow.net:443?type=tcp&security=reality&sni=nl.convert-flow.net&flow=xtls-rprx-vision&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.60
+vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@nl.convert-flow.net:443?type=tcp&security=reality&sni=nl.convert-flow.net&flow=xtls-rprx-vision&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.64

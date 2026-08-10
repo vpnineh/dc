@@ -1,3 +1,2 @@
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.196.3
-vless://230a053f-0399-43a5-b019-3923a9c4f9cd@swop-sx.lorqino.ir:8088?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 195.15.202.182
 vless://5b3a8c7b-e17c-4eaf-bf42-38317548032d@swwwsxc.kipa2.ir:210?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.128.198
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.196.3

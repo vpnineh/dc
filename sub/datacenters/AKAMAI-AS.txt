@@ -1,3 +1,2 @@
-vless://SoonTeam@191.215.37.90:8443?type=xhttp&security=reality&path=/&sni=au2-images.shop.samsung.com&fp=chrome&pbk=X0rB8_cligC4-c7zKEWRqwjUdkG_SjbyiJ1QcHTgnS8&sid=303396#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 191.215.37.90
 vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:8080?type=xhttp&security=reality&path=/&sni=www.intel.com&fp=chrome&pbk=KKuA4eyhlE6PtHejltulCvKvC5TYgm8PfA38PqRhe3A&sid=457500#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 185.218.139.222
 vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:8880?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=nSm8X2IETT4-xYk-goRLHdQ4FlgeD-zCVrCstE2tPHQ&sid=b8#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.218.139.222

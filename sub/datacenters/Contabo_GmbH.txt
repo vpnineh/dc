@@ -1,2 +1,2 @@
-vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?type=tcp&security=none&path=/&fp=chrome&sid=49bcf0de6392f0#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 31.220.86.213
 vless://71286f3b-ec0f-4d12-9d3b-8d2941dee6ae@75.119.151.16:80?type=xhttp&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Contabo GmbH ┇ 75.119.151.16
+vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?type=tcp&security=none&path=/&fp=chrome&sid=49bcf0de6392f0#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 31.220.86.213

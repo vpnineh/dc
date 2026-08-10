@@ -1,0 +1,1 @@
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@de3.rexten.cc:443?type=tcp&security=reality&sni=de3.rexten.cc&flow=xtls-rprx-vision&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.222.209

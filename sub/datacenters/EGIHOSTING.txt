@@ -1,3 +1,1 @@
-vless://Tel-NamedZadim@104.252.19.69:443?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.19.69
-vless://488ab21c-577b-4dfb-8c78-91532294a352@104.253.18.250:8088?type=tcp&security=reality&path=/path#US 🇺🇸 ┇ VLESS-TCP-RLT - EGIHOSTING ┇ 104.253.18.250
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.53.46

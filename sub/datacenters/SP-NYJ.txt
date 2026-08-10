@@ -1,1 +1,0 @@
-vless://08d4e275-eb67-4878-949c-79a39e10cca1@136.0.110.35:16865?type=tcp&security=tls&path=/&sni=136.0.110.35&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - SP-NYJ ┇ 136.0.110.35

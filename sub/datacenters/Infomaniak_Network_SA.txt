@@ -1,2 +1,3 @@
 vless://5b3a8c7b-e17c-4eaf-bf42-38317548032d@swwwsxc.kipa2.ir:210?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.128.198
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.196.3
+vless://V2ret--v2ret--v2ret@83.228.250.103:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 83.228.250.103

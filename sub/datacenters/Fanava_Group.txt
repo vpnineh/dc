@@ -1,3 +1,2 @@
-vless://119f5e84-0923-48e9-97be-f0be9c6acead@95.38.182.182:996?type=ws&security=none&path=/mmd#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanava Group ┇ 95.38.182.182
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@varzesh3.com:2096?type=ws&security=tls&path=/&sni=Sha.artarona.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.235.201
-vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?type=ws&security=none&path=/arvan-tuel#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanava Group ┇ 95.38.176.251
+vless://119f5e84-0923-48e9-97be-f0be9c6acead@95.38.182.182:996?type=ws&security=none&path=/mmd#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanava Group ┇ 95.38.182.182

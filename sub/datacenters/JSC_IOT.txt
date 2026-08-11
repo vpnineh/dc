@@ -1,0 +1,1 @@
+vless://e3c40721-22bc-4862-a358-09502fc14af6@glidio.shieldix.top:443?type=tcp&security=reality&sni=glidio.shieldix.top&fp=chrome&flow=xtls-rprx-vision&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 188.120.228.61

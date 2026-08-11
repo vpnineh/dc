@@ -1,7 +1,7 @@
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@au-play.mobileemdad.top:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.158
-vless://06248fe6-4e6a-42e0-8b48-e1ba2e96db1e@kp-play.montago-shop.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.12
 vless://a379c14c-20d0-4e87-a230-d5c971ecf404@trs.mobileemdad.top:42538?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 202.78.174.109
-vless://208e6c9f-1b04-4892-816d-bdcf67181d8f@in-play.montago-shop.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.175
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@tr-play.mobileemdad.top:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.117
-vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@tri.montago-shop.ir:42538?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 202.78.174.17
+vless://208e6c9f-1b04-4892-816d-bdcf67181d8f@in-play.montago-shop.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.175
+vless://06248fe6-4e6a-42e0-8b48-e1ba2e96db1e@kp-play.montago-shop.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.12
+vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@tri.montago-shop.ir:42538?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 202.78.174.17

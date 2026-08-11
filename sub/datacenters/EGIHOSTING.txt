@@ -1,2 +1,1 @@
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.53.46
-vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?type=ws&security=none&path=/arvan-tuel#US 🇺🇸 ┇ VLESS-WS-NTLS - EGIHOSTING ┇ 104.252.89.183

@@ -1,4 +1,4 @@
-vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.126
 vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.126
 vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.126
+vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.126
 vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.126

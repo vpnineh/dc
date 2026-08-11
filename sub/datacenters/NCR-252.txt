@@ -1,1 +1,0 @@
-vless://60ba3369-9a78-40fe-98c3-233a6f107043@qwesd.rutendingaltos.top:443?type=xhttp&security=tls&path=/assets/build/_app/immutable/chunks/stream-one/&sni=qwesd.rutendingaltos.top&fp=edge#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NCR-252 ┇ 135.106.140.23

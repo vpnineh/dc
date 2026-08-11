@@ -1,0 +1,1 @@
+vless://75cb7482-9d0a-4115-b491-63d748694888@uk.roomode.ir:2023?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=8BDn49FU0vl7AhR3TtSUPEAlyEmPb3U1qgbPPlSOlUA&sid=6c690c224072e89a#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-NE1 ┇ 54.37.19.238

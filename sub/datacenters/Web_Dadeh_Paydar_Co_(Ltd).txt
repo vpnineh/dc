@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXZWIgRGFkZWggUGF5ZGFyIENvIChMdGQpIFx1MjUwNyAxOTQuMTQ2LjY4LjE0NiIsImFkZCI6InNpdGUuaG9vcmFjb2ZmZWUuaXIiLCJwb3J0Ijo0NDMsImlkIjoiZWQ5NTRkYmEtNWFkNS00Njg4LTgxNzQtMjQ3OTQ0MzYxYzM4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3d3IiwidGxzIjoidGxzIn0
+vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?type=ws&security=none&path=/arvan-tuel#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 46.29.34.100

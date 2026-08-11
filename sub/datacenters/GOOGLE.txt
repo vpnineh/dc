@@ -1,1 +1,2 @@
 vless://eda6b321-aa59-4b1e-b823-3616af020b4a@gr1.levikogjgfdd.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&sid=d6c3c9#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 194.5.207.6
+vless://14e3a0e0-2c0f-43d4-8ae1-d4e29c15f074@nno.dearhossein-taktaz.ir:1112?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=TE1q-N5NVZcx6yLm4MgER8mhX4_A2PsjHdm6aN6wdV8&sid=61#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 5.161.149.9

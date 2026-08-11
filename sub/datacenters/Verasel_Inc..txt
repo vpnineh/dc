@@ -1,1 +1,0 @@
-vless://50e636af-b554-4526-94ad-d0f4b34adecc@147.45.47.51:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Verasel, Inc. ┇ 147.45.47.51

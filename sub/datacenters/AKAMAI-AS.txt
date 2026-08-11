@@ -1,2 +1,3 @@
-vless://0e74dd37-f8c8-4e0a-ab6d-ce1dfcf8de90@set.gigimystore.ir:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=dQhOxYyb2wP63g7s_ZI61eS7aKJdHIhtuDzYKscWW28&sid=cf4d6f0364e49819#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 168.222.49.91
 vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:8880?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=nSm8X2IETT4-xYk-goRLHdQ4FlgeD-zCVrCstE2tPHQ&sid=b8#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.218.139.222
+vless://0e74dd37-f8c8-4e0a-ab6d-ce1dfcf8de90@set.gigimystore.ir:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=dQhOxYyb2wP63g7s_ZI61eS7aKJdHIhtuDzYKscWW28&sid=cf4d6f0364e49819#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 168.222.49.91
+vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:8080?type=xhttp&security=reality&path=/&sni=www.intel.com&fp=chrome&pbk=KKuA4eyhlE6PtHejltulCvKvC5TYgm8PfA38PqRhe3A&sid=457500#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 185.218.139.222

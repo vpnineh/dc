@@ -1,4 +1,2 @@
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@132.243.222.209:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.222.209
 vless://c3eec1b1-97d1-4a1f-a2d1-d9cb8a6c1fb1@skynet.grunor.ir:56470?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.50
-vless://f692629b-3557-488a-9c9b-60775331e423@132.243.225.182:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.225.182
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@qwesd.rutendingaltos.top:443?type=xhttp&security=tls&path=/assets/build/_app/immutable/chunks/stream-one/&sni=qwesd.rutendingaltos.top&fp=edge#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NCR-252 ┇ 135.106.140.23

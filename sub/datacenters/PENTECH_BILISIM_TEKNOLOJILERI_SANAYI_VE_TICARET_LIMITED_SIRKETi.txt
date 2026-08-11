@@ -1,3 +1,2 @@
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 217.60.99.49
-vless://f61b2652-fb1a-4d21-91bd-c4829e400272@akede.ghostnode.lol:443?type=raw&security=reality&sni=akede.ghostnode.lol&fp=chrome&flow=xtls-rprx-vision&pbk=13-YskgqresFnDUuKJ9uapgX8lCm3k305btUqEKaf0k#TR 🇹🇷 ┇ VLESS-RAW-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.184.163
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@nl2-akn.astralweb.tech:443?type=tcp&security=tls&sni=nl2-akn.astralweb.tech&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.185.20

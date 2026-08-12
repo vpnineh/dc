@@ -1,1 +1,1 @@
-vless://58c1b245-2ea0-40b9-b512-bd2bbe3cbe3f@209.94.90.4:80?type=ws&security=none&path=/pyip=Telegram🇨🇳 @WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.4
+vless://58c1b245-2ea0-40b9-b512-bd2bbe3cbe3f@209.94.90.4:80?type=ws&security=false&path=/pyip=Telegram🇨🇳 @WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.4

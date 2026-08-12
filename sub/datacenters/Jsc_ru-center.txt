@@ -1,2 +1,2 @@
-vless://2216b0ee-b94a-4ea9-8780-ccc21c4b5f31@80.93.52.44:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc ru-center ┇ 80.93.52.44
 vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc ru-center ┇ 31.177.82.106
+vless://2216b0ee-b94a-4ea9-8780-ccc21c4b5f31@80.93.52.44:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc ru-center ┇ 80.93.52.44

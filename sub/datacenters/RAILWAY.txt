@@ -1,1 +1,1 @@
-vless://79d85781-8b4b-4e67-a2d9-f299e92e46b8@crossover.proxy.rlwy.net:37145?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.252
+vless://c3a13cef-f00e-4951-89f8-8304013706d7@66.33.22.224:59614?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.224

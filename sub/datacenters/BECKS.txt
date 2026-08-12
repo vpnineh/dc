@@ -1,1 +1,0 @@
-vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@141.193.27.16:2087?type=tcp&security=none&path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==#US 🇺🇸 ┇ VLESS-TCP-NTLS - BECKS ┇ 141.193.27.16

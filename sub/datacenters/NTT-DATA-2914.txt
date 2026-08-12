@@ -1,2 +1,2 @@
-vless://2c6e77bd-e478-4cbe-b13c-3c728cf71fd9@web-8.zostoree.ir:2044?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.161
+vless://2c6e77bd-e478-4cbe-b13c-3c728cf71fd9@web-13.zostoree.ir:2044?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.161
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTlRULURBVEEtMjkxNCBcdTI1MDcgMjA3LjU2LjIyOS4yMDIiLCJhZGQiOiIyMDcuNTYuMjI5LjIwMiIsInBvcnQiOjIwNTIsImlkIjoiOWJiODFhMjgtMDBkMC00ZGNjLWJmODEtMzY5NzIxZDIwOGM5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiI5YmI4MWEyOC0wMGQwLTRkY2MtYmY4MS0zNjk3MjFkMjA4Yzktdm0ifQ

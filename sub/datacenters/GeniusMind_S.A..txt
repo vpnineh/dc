@@ -1,4 +1,4 @@
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@qa.hyperlinkbt.com:11146?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.248
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@iq.hyperlinkbt.com:11148?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.252
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@ae.pro-power-space.com:11125?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.252
 vless://917d6f07-d77d-693d-f8f7-150847ec68fe@bh.hyperlinkbt.com:11151?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.252
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@qa.hyperlinkbt.com:11146?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.253
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@iq.hyperlinkbt.com:11148?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.253
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@ae.pro-power-space.com:11125?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - GeniusMind S.A. ┇ 109.95.70.253

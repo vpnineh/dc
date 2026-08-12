@@ -1,1 +1,0 @@
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 88.218.44.4

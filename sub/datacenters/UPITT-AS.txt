@@ -1,1 +1,1 @@
-vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.185.196
+vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@youtube.superbuba.top:443?type=tcp&security=reality&sni=youtube.superbuba.top&fp=chrome&flow=xtls-rprx-vision&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.189.41

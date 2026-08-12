@@ -1,0 +1,1 @@
+vless://c83ee688-8f37-4f4c-94a2-5d6384950b5d@64.188.64.141:8443?type=ws&security=none&path=/#PT 🇵🇹 ┇ VLESS-WS-NTLS - Almouroltec Servicos De Informatica E Internet Lda ┇ 64.188.64.141

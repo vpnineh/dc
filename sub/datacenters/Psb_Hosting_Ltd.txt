@@ -1,1 +1,1 @@
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@de2.spectrum.vu:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=Vci2ab6lM0ezoLBj2LgE-ynvakjbWOqUUSZmk5vcNjE&sid=44d44d1c625a13aa#SC 🇸🇨 ┇ VLESS-TCP-RLT - Psb Hosting Ltd ┇ 45.145.56.163
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@de2.spectrum.vu:443?type=tcp&security=reality&sni=de2.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&pbk=Vci2ab6lM0ezoLBj2LgE-ynvakjbWOqUUSZmk5vcNjE&sid=44d44d1c625a13aa#SC 🇸🇨 ┇ VLESS-TCP-RLT - Psb Hosting Ltd ┇ 45.145.56.163

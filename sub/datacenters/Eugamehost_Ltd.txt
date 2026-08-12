@@ -1,1 +1,0 @@
-vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cdn.devmixa.ir:443?type=ws&security=tls&sni=english.havray2025.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Eugamehost Ltd ┇ 193.227.99.253

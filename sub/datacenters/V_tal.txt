@@ -1,5 +1,2 @@
-vless://SoonTeam@ge.imsoon.org:8443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 186.240.147.69
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@titandarkness.mooo.com:443?type=ws&security=tls&path=/21381/0kO2id8FMQ&sni=titandarkness.mooo.com&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 177.3.208.169
-vless://SoonTeam@191.215.37.90:443?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 191.215.37.90
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWIHRhbCBcdTI1MDcgMTc5LjI1NS4xMTIuMjIwIiwiYWRkIjoibG92ZW91cmxpdmUuY29tIiwicG9ydCI6NDQzLCJpZCI6IjE4M0FGRjdBLTAwMUItNEM1RS1BNzU0LUZFMTUwNkJGMzNBMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443?type=tcp&security=reality&sni=uwu.spectrumproxy.shop&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.3.225.13
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@titandarkness.mooo.com:443?type=ws&security=tls&path=/21381/0kO2id8FMQ&sni=titandarkness.mooo.com&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 177.3.208.169

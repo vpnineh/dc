@@ -1,3 +1,2 @@
-vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - BitCommand LLC ┇ 46.249.103.67
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQml0Q29tbWFuZCBMTEMgXHUyNTA3IDE4NS44MC4xOTYuOTAiLCJhZGQiOiJ1azIuc2VwYWhhbmF0bGFzLmlyIiwicG9ydCI6ODQzOCwiaWQiOiI4OTEzMTRmYS1kZGQ1LTQwZmYtYjIxOS03MTdiZmY3NmJiOGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1azIuc2VwYWhhbmF0bGFzLmlyIiwidGxzIjoidGxzIiwic25pIjoidWsyLnNlcGFoYW5hdGxhcy5pciJ9
-vless://1a59952d-55b0-4785-a21b-d9377fbcad69@sub.almavpn.shop:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.228.186.37
+vless://c1a89a86-cca2-48ab-87b4-3bd74b6c6a41@sub.almavpn.shop:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.228.186.37

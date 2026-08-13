@@ -1,1 +1,0 @@
-vless://SoonTeam@191.215.37.90:2086?type=tcp&security=reality&sni=qapartners.sec.samsung.com&fp=chrome&pbk=X0rB8_cligC4-c7zKEWRqwjUdkG_SjbyiJ1QcHTgnS8&sid=40568c35a5#KR 🇰🇷 ┇ VLESS-TCP-RLT - SamsungSDS Inc. ┇ 191.215.37.90

@@ -1,1 +1,1 @@
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-RLT - Korbank S. A. ┇ 83.168.108.200
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?type=tcp&security=reality&sni=pol3.freeinternat.com&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#PL 🇵🇱 ┇ VLESS-TCP-RLT - Korbank S. A. ┇ 83.168.108.200

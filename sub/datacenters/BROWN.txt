@@ -1,0 +1,1 @@
+vless://9dca5c67-095b-4de0-8516-ee9d183bc4cb@138.16.186.180:443?type=tcp&security=tls&path=/&sni=138.16.186.180&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - BROWN ┇ 138.16.186.180

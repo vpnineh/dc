@@ -1,1 +1,1 @@
-vless://0b63d039-8ad4-41a7-9c3c-09fef07ec4c9@185.8.172.140:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 185.8.172.140
+vless://12815cc0-a632-4b17-ab47-26ac2b16730f@185.8.172.140:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 185.8.172.140

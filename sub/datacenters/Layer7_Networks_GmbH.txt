@@ -1,2 +1,3 @@
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de151.mechvpn.online:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Layer7 Networks GmbH ┇ 185.55.243.151
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?type=tcp&security=tls&sni=fr76.mechvpn.online&fp=chrome&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - Layer7 Networks GmbH ┇ 88.214.24.76
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision-udp443#FR 🇫🇷 ┇ VLESS-TCP-TLS - Layer7 Networks GmbH ┇ 91.239.208.15
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision-udp443#FR 🇫🇷 ┇ VLESS-TCP-TLS - Layer7 Networks GmbH ┇ 88.214.24.76

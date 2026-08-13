@@ -1,0 +1,1 @@
+vless://de9f46e2-5785-4978-b1d0-c6b308a66b35@158.94.216.232:8088?type=xhttp&security=reality&path=/path&sni=www.yahoo.com&fp=chrome&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&sid=2acf8977eb67ea0c#US 🇺🇸 ┇ VLESS-XHTTP-RLT - YAHOO-BCST-AC2 ┇ 158.94.216.232

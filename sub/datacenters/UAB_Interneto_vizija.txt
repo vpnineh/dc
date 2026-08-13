@@ -1,1 +1,1 @@
-vless://965f5b8b-b762-4281-bb45-60fb1e346c94@212.24.107.219:37801?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Interneto vizija ┇ 212.24.107.219
+vless://3217c0c1-240b-4c98-8e06-4c364298fc64@212.24.107.219:37801?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Interneto vizija ┇ 212.24.107.219

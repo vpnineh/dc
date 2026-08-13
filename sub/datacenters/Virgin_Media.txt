@@ -1,3 +1,2 @@
-vless://9d440601-dafc-40fc-a844-f7328b303604@us02hk.lockdwn.com:443?type=ws&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.39.213.109
-vless://YOUR-UUID@82.40.62.22:8443?type=tcp&security=tls&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Virgin Media ┇ 82.40.62.22
 vless://9d440601-dafc-40fc-a844-f7328b303604@82.39.214.239:443?type=ws&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.39.214.239
+vless://9d440601-dafc-40fc-a844-f7328b303604@us02hk.lockdwn.com:443?type=ws&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.39.213.109

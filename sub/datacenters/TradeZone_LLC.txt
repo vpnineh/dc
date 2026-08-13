@@ -1,1 +1,1 @@
-vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083?type=tcp&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-TLS - TradeZone LLC ┇ 89.36.137.248
+vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-tr-ist.cdn.sx:2083?type=tcp&security=tls&sni=edge-tr-ist.cdn.sx&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-TLS - TradeZone LLC ┇ 89.36.137.35

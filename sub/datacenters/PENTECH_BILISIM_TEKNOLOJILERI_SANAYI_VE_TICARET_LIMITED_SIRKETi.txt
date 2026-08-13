@@ -1,1 +1,3 @@
+vless://869a1b63-b687-487b-bf7b-0d0d15fa9bc2@gr.nexovip.cyou:31945?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.57.250.87
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 217.60.99.49
+vless://869a1b63-b687-487b-bf7b-0d0d15fa9bc2@gr.nexovip.cyou:53098?type=httpupgrade&security=none&path=/us/tvs/qled-tv/32-inch-qled-q8f-4k-tv-sku-qn32q8faafxza/#AE 🇦🇪 ┇ VLESS-HTTPUPGRADE-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.57.250.87

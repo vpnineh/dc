@@ -1,2 +1,0 @@
-vless://8d6a1672-1afa-4143-f45e-958b80f5f676@185.126.236.181:31407?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - BrainStorm Network, Inc ┇ 185.126.236.181
-vless://b40482b0-c9f1-4b1d-977d-ec91ba7b2636@185.126.236.181:8080?type=tcp&security=none&path=/#AT 🇦🇹 ┇ VLESS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.126.236.181

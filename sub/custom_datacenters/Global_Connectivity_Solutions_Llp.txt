@@ -1,2 +1,3 @@
 vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xfr.saturn-cloud.net:443?type=tcp&security=reality&sni=xfr.saturn-cloud.net&flow=xtls-rprx-vision&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&sid=2762604ed2e0fa2f#FR 🇫🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 185.193.89.47
+vless://186724f8-2545-459b-b6e7-2644cca66d4b@xn--pol-dw33bda.netbazshop.ir:33017?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 2.59.163.87
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.155

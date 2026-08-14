@@ -1,1 +1,2 @@
 vless://954e582b-339e-482f-91ca-62a021469766@parsiran.amirrezamydamane.info:42951?type=tcp&security=tls&sni=parsiran.amirrezamydamane.info&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 91.234.39.227
+vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 91.234.39.183

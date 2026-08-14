@@ -1,1 +1,0 @@
-vless://e15b0798-45e6-4a02-8385-80dc4b0faa70@it.whit3.net:443?type=tcp&security=reality&sni=it.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=PhXmD8Mtiy_dZUXFBjlCYH9GGQm6Td-zATp6IHlQmT8&sid=bd9e788b94c9b0b6#US 🇺🇸 ┇ VLESS-TCP-RLT - Cyberzone S.A. ┇ 93.152.220.73

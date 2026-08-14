@@ -1,0 +1,1 @@
+vless://35066ccf-e303-4b0e-993b-aa2c2cef9c87@87.120.196.190:2443?type=tcp&security=reality#LK 🇱🇰 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.196.190

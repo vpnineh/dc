@@ -1,1 +1,0 @@
-vless://YOUR-UUID@82.40.62.22:8443?type=tcp&security=tls&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Virgin Media ┇ 82.40.62.22

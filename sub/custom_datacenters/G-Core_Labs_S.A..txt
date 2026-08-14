@@ -1,3 +1,4 @@
+vless://59c08d15-9b39-4aec-b105-a38b8befea4b@az.clouad-tech.ir:19265?type=xhttp&security=none#AZ 🇦🇿 ┇ VLESS-XHTTP-NTLS - G-Core Labs S.A. ┇ 180.149.45.38
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 vless://a379c14c-20d0-4e87-a230-d5c971ecf404@trs.mobileemdad.top:42538?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 202.78.174.109
 vless://fa926774-f4aa-45f3-a726-74c212202197@kp-play.mobileemdad.top:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.12

@@ -1,0 +1,1 @@
+vless://931dd7d0-3e04-4a7a-b8d1-cb4c4465c932@emarat.internetazad.com:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 181.215.205.55

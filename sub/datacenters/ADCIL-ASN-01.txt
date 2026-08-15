@@ -1,5 +1,6 @@
-vless://0435db04-5b38-45bc-8d46-b7c0d94f69bb@r5.teamspeak-service.ru:443?type=tcp&security=reality&sni=r5.teamspeak-service.ru&fp=chrome&flow=xtls-rprx-vision&pbk=6nJG7yiDEfrOCLGD_UfVfYhQ8AOh0w_86HOAPl_0TWQ&sid=62521d7ac8fc9119#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.18.184
-vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.218.18
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@144.31.213.150:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.150
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?type=tcp&security=reality&sni=cdn.pinecloud.net&fp=chrome&flow=xtls-rprx-vision&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.150
 vless://06ee3130-cb1e-4d66-b61c-d221eec984ed@144.31.54.85:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.54.85
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
+vless://0435db04-5b38-45bc-8d46-b7c0d94f69bb@r5.teamspeak-service.ru:443?type=tcp&security=reality&sni=r5.teamspeak-service.ru&fp=chrome&flow=xtls-rprx-vision&pbk=6nJG7yiDEfrOCLGD_UfVfYhQ8AOh0w_86HOAPl_0TWQ&sid=62521d7ac8fc9119#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.18.184
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.68:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.65.68
+vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.218.18

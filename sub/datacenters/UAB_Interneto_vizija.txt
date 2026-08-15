@@ -1,2 +1,1 @@
-vless://3217c0c1-240b-4c98-8e06-4c364298fc64@104.16.6.70:8443?type=xhttp&security=tls&path=/home/novinser/public_html/my/modules/servers/cdnserver/cdnserver.php&sni=cd.solidesign.uk&fp=chrome#LT 🇱🇹 ┇ VLESS-XHTTP-TLS - UAB Interneto vizija ┇ 104.16.6.70
 vless://965f5b8b-b762-4281-bb45-60fb1e346c94@212.24.107.219:37801?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Interneto vizija ┇ 212.24.107.219

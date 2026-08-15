@@ -1,1 +1,2 @@
 vless://02ecbb81-7e6b-485d-be68-d1f78f864210@31.56.222.59:19869?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.59
+vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 109.248.161.246

@@ -1,1 +1,1 @@
-vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?type=ws&security=false&path=/&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-NTLS - BrainStorm Network, Inc ┇ 185.126.236.181
+vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - BrainStorm Network, Inc ┇ 185.126.236.181

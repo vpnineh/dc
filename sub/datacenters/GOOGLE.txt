@@ -1,1 +1,1 @@
-vless://be362a73-a141-4a28-90b8-827ed7bcf388@158.94.216.232:8088?type=xhttp&security=reality&path=/path&sni=play.googleapis.com&fp=chrome&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&sid=2acf8977eb67ea0c#US 🇺🇸 ┇ VLESS-XHTTP-RLT - GOOGLE ┇ 158.94.216.232
+vless://eda6b321-aa59-4b1e-b823-3616af020b4a@gr1.levikogjgfdd.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&sid=d6c3c9#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 31.77.196.201

@@ -1,6 +1,4 @@
-vless://14fb52d9-aaab-4994-9b4d-f77c5b73b127@5.129.206.54:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 5.129.206.54
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 185.247.16.3
-vless://767d750a-065a-4908-8447-a1ad35b7c62f@5.129.206.54:989?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 5.129.206.54
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 194.87.161.60
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 147.45.253.97
 vless://5d0206d9-fb42-4c8b-a84b-3d95ab0f42c7@109.73.196.160:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 109.73.196.160
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 194.87.161.60

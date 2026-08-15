@@ -1,1 +1,1 @@
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?type=tcp&security=tls&sni=ru104.mechvpn.online&fp=chrome&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Kviktel LLC ┇ 45.139.26.104
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?type=tcp&security=tls&sni=ru104.mechvpn.online&fp=firefox&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Kviktel LLC ┇ 45.139.26.104

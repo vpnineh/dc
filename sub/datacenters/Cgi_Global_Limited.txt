@@ -1,1 +1,1 @@
-vless://bacbb776-dacf-40b7-aa5b-b06ce37e4ab4@31.56.222.59:19869?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.59
+vless://02ecbb81-7e6b-485d-be68-d1f78f864210@31.56.222.59:19869?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.59

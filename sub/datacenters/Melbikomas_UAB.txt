@@ -1,2 +1,2 @@
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:8443?type=xhttp&security=reality&path=/media/v2/library&sni=derman.neobo-tooth.ru&fp=chrome&pbk=nqtiSDaSO3QwovNGFdkU357K2p19qVaE1NEMmaG5-x8#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Melbikomas UAB ┇ 185.140.12.160
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:8443?type=xhttp&security=reality&path=/media/v2/library&sni=derman.neobo-tooth.ru&fp=qq&pbk=nqtiSDaSO3QwovNGFdkU357K2p19qVaE1NEMmaG5-x8#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Melbikomas UAB ┇ 185.140.12.160
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - Melbikomas UAB ┇ 89.36.161.222

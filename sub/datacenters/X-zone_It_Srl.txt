@@ -1,2 +1,2 @@
+vless://9627c5e0-9a11-4d36-a470-3ce64797149e@gr-direct.pngv.top:4999?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - X-zone It Srl ┇ 82.152.132.81
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@api.pl.pngv.top:4999?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - X-zone It Srl ┇ 82.152.132.28
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct.pngv.top:4999?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - X-zone It Srl ┇ 82.152.132.81

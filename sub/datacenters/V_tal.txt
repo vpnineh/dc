@@ -1,1 +1,1 @@
-vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@neth6.lckdwn.ru:443?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 177.3.212.127
+vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@neth6.lckdwn.ru:443?type=ws&security=false&path=/&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 177.3.212.127

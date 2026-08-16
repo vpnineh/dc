@@ -1,2 +1,1 @@
 vless://c5721b62-ba28-4cd0-b2e8-aad2eec644f4@188.132.174.237:22753?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.237
-vless://9ec9d41a-f56d-4460-8f80-3d5df1d664a4@cvb.panelvljh.site:17588?type=grpc&security=tls&sni=cvb.panelvljh.site&fp=chrome#TR 🇹🇷 ┇ VLESS-GRPC-TLS - Murat Aktas ┇ 78.135.77.62

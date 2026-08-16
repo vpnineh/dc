@@ -1,1 +1,3 @@
 vless://4bc4159b-3279-4946-8670-0352db45922b@170.39.216.98:1005?type=xhttp&security=none&path=/?ed=2048#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - REDHEBERG Association declaree ┇ 170.39.216.98
+vless://a120c243-324f-44b3-a77b-1e80bc28864a@170.39.216.98:1002?type=xhttp&security=none&path=/?ed=2048#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - REDHEBERG Association declaree ┇ 170.39.216.98
+vless://070537b1-c353-4518-afbd-a585231c5353@170.39.216.98:1001?type=xhttp&security=none&path=/?ed=2048#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - REDHEBERG Association declaree ┇ 170.39.216.98

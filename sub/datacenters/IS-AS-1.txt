@@ -1,0 +1,1 @@
+vless://629f88a6-b20b-4489-a22f-4d8b418c0488@nl-t3.vinnypuxtomoon.today:2053?type=tcp&security=reality&sni=nl-t3.vinnypuxtomoon.today&flow=xtls-rprx-vision&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#DE 🇩🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 178.18.147.227

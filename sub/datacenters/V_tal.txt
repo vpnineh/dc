@@ -1,4 +1,2 @@
 vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@neth6.lckdwn.ru:443?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 177.3.212.127
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.3.225.13
 vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.51.2.6
-vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 200.165.228.47

@@ -1,1 +1,2 @@
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 109.248.161.246
+vless://c527ff33-208a-45f8-96d2-07471759b6b9@gig.fifapes.monster:45058?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.69.138

@@ -1,1 +1,2 @@
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 194.76.154.31
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 194.55.189.249

@@ -1,1 +1,0 @@
-vless://d1b4fb49-f835-4c10-83e1-cb70238d39b5@deproxy2.lckdwn.ru:33843?type=tcp&security=tls&sni=deproxy2.lckdwn.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.120.84.32

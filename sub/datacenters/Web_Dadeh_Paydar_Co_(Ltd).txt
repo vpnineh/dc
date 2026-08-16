@@ -1,2 +1,1 @@
 vless://e06e18d0-cd11-485e-89dc-9ebc696ca906@respina.bluejimbo.ir:3443?type=xhttp&security=none&path=/uxzKgD37q7wtQp6gTHEyXuMC6UZkPByYNGprQajZ1M1khuYmeF?ed=2560#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 46.29.34.162
-vless://d40ad06b-8921-4a14-87ab-41a3b3604ad9@germany2.sarziva.ir:2030?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.207.18.88

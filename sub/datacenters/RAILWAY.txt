@@ -1,2 +1,2 @@
-vless://3df74c50-e0f5-4b72-a826-4e845753aa9d@mainline.proxy.rlwy.net:23360?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.234
 vless://9934e311-783e-4ae6-91e4-81247b2c3774@sakura.proxy.rlwy.net:53994?type=xhttp&security=none&path=/assets#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - RAILWAY ┇ 66.33.22.221
+vless://3df74c50-e0f5-4b72-a826-4e845753aa9d@mainline.proxy.rlwy.net:23360?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.234

@@ -1,1 +1,2 @@
-vless://9eb9de08-1b4b-4023-ae0d-cd28246b8778@82.40.62.221:27737?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.221
+vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@plconverter.teddylink.com:443?type=tcp&security=reality&sni=plconverter.teddylink.com&fp=chrome&flow=xtls-rprx-vision&pbk=byJasFxsj9lcOX8bx9b1yej_IS_8kt8tMbK9uoYaCCU&sid=3ba4299ca576b1#GB 🇬🇧 ┇ VLESS-TCP-RLT - Virgin Media ┇ 82.40.62.173
+vless://9eb9de08-1b4b-4023-ae0d-cd28246b8778@82.40.62.221:27737?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.221

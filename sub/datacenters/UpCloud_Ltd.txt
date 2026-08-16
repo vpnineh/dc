@@ -1,1 +1,1 @@
-vless://cb794985-2800-4d88-af43-018dcb678f2f@94.237.89.10:3389?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.89.10
+vless://50b9918d-8197-4278-876a-5939400998b8@94.237.91.161:3389?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.91.161

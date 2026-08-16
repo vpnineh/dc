@@ -1,3 +1,3 @@
-vless://34a506cf-b373-4cc2-8ed4-3954a234b208@91.228.186.215:8383?type=xhttp&security=tls&path=/&sni=91.228.186.215&fp=chrome#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 91.228.186.215
 vless://fbcef3f5-12d0-4f97-8309-c70ddf5c00b0@91.228.186.215:8585?type=ws&security=tls&path=/&sni=91.228.186.215&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 91.228.186.215
-vless://b10a6e5e-3743-43ab-b32f-cd4a9643567f@91.228.186.215:8787?type=xhttp&security=tls&path=/&sni=91.228.186.215&fp=chrome#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 91.228.186.215
+vless://b10a6e5e-3743-43ab-b32f-cd4a9643567f@91.228.186.215:8787?type=xhttp&security=tls&path=/&fp=chrome#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 91.228.186.215
+vless://34a506cf-b373-4cc2-8ed4-3954a234b208@91.228.186.215:8383?type=xhttp&security=tls&path=/&sni=91.228.186.215&fp=chrome#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 91.228.186.215

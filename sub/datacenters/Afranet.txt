@@ -1,1 +1,1 @@
-vless://1491afd0-a914-499d-bc59-2fa31abd97db@79.175.136.244:57594?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.136.244
+vless://34de490f-9cb9-48e5-b5ff-c2cf3f2719c5@tr.novatunel.site:8443?type=xhttp&security=reality&path=/opigureo123456789&sni=tapsi.ir&fp=chrome&pbk=27GORXPt8-weugeqLwsNWY6BmWcRVBn7Tdp_VbexoRs&sid=cec802c6941e9fb9#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Afranet ┇ 45.74.159.246

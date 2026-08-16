@@ -1,5 +1,5 @@
-vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 89.169.55.36
+vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 89.169.55.36
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
-vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 194.26.229.219
 vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 194.26.229.217
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@77.239.123.224:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.239.123.224
+vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 194.26.229.219
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node20.mxvpn.dev:443?type=tcp&security=reality&sni=node20.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.239.123.224

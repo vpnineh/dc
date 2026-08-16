@@ -1,1 +1,0 @@
-vless://d3c7e3cc-c426-4411-bd4b-0fca5ce1b2cb@195.211.124.220:443?type=tcp&security=reality&sni=samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=zePc9p-j-uikI1gbCgnOgOYkAid39wwivM7oAec3qBg&sid=475a9556#KR 🇰🇷 ┇ VLESS-TCP-RLT - SamsungSDS Inc. ┇ 195.211.124.220

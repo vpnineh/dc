@@ -1,2 +1,2 @@
-vless://00c68fef-5218-4d1d-8fdd-27c2fbfc39bd@dash.zendegizibast.ir:2087?type=ws&security=tls&path=/&sni=dash.zendegizibast.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - GeniusMind S.A. ┇ 62.60.144.143
 vless://00c68fef-5218-4d1d-8fdd-27c2fbfc39bd@dash.zendegizibast.ir:2096?type=ws&security=tls&path=/&sni=dash.zendegizibast.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - GeniusMind S.A. ┇ 62.60.144.143
+vless://00c68fef-5218-4d1d-8fdd-27c2fbfc39bd@dash.zendegizibast.ir:2087?type=ws&security=tls&path=/&sni=dash.zendegizibast.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - GeniusMind S.A. ┇ 62.60.144.143

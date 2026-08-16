@@ -1,7 +1,6 @@
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
 vless://f692629b-3557-488a-9c9b-60775331e423@144.31.218.18:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.218.18
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.68:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.65.68
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@144.31.213.150:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.150
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.59:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.65.59
-vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.237.206
 vless://06ee3130-cb1e-4d66-b61c-d221eec984ed@144.31.54.85:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.54.85
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.213.150
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.68:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.65.68
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.86.136:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.86.136

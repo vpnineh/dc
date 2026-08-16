@@ -1,1 +1,2 @@
 vless://0a036b1d-b915-439f-b4b3-caa637c61e3a@sakura.proxy.rlwy.net:44917?type=xhttp&security=reality&path=/assets&sni=www.samsung.com&fp=chrome&pbk=lnW0ggGLrSk5E4Iabw30DGHretuTV2KQcWlqDCcVKmc&sid=526a2c8a4326dad0#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 66.33.22.221
+vless://a8e99622-7407-4597-870e-5b40276abb30@185.126.236.181:443?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&pbk=XBHms04stZYJyhnT4nkyrgqZLXLiMw8qogCTBmGqiXI#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 185.126.236.181

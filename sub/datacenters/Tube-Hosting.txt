@@ -1,2 +1,1 @@
 vless://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Tube-Hosting ┇ 176.120.17.90
-vless://c5c76051-abad-4dfe-bf16-1ee0ee3aca31@82.26.74.5:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - Tube-Hosting ┇ 82.26.74.5

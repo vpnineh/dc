@@ -1,1 +1,1 @@
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@nl1.panel11.ru:443?type=tcp&security=reality&sni=nl1.panel11.ru&fp=firefox&flow=xtls-rprx-vision&pbk=2acMB9wUyI8FlUJQ6lI-Ig3qq4lYVSEQx18DReJyzAc&sid=ebaea79f00bd5b6f#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 77.246.111.156
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@nl1.panel11.ru:443?type=tcp&security=reality&sni=nl1.panel11.ru&fp=chrome&flow=xtls-rprx-vision&pbk=2acMB9wUyI8FlUJQ6lI-Ig3qq4lYVSEQx18DReJyzAc&sid=ebaea79f00bd5b6f#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 77.246.111.156

@@ -1,2 +1,1 @@
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 194.76.154.31
 vless://7d641c2e-6897-4b9f-8a82-3f0cc8980db1@magazinetut.online:8443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 5.180.52.186

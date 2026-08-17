@@ -1,1 +1,0 @@
-vless://0a036b1d-b915-439f-b4b3-caa637c61e3a@sakura.proxy.rlwy.net:44917?type=xhttp&security=reality&path=/assets&sni=www.samsung.com&fp=chrome&pbk=lnW0ggGLrSk5E4Iabw30DGHretuTV2KQcWlqDCcVKmc&sid=526a2c8a4326dad0#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 66.33.22.221

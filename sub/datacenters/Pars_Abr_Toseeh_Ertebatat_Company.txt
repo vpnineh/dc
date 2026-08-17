@@ -1,3 +1,3 @@
-vless://53426f60-add2-4118-9627-91adaedcd92f@sv33.lithiumhost.ir:41722?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 81.12.34.20
-vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl4.gooniforoshi.fun:443?type=ws&security=tls&path=/download.php&sni=dl4.gooniforoshi.fun#IR 🇮🇷 ┇ VLESS-WS-TLS - Pars Abr Toseeh Ertebatat Company ┇ 185.215.231.61
+vless://adc1e45e-78f9-4c4c-a127-d27401c40432@sv33.lithiumhost.ir:41722?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 81.12.34.20
+vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl3.gooniforoshi.fun:443?type=ws&security=tls&path=/download.php&sni=dl3.gooniforoshi.fun#IR 🇮🇷 ┇ VLESS-WS-TLS - Pars Abr Toseeh Ertebatat Company ┇ 5.160.144.164
 vless://273fd35b-bb19-4fec-8192-ab2c83e73d55@direct.mynor.ir:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Pars Abr Toseeh Ertebatat Company ┇ 81.12.35.225

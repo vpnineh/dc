@@ -1,1 +1,2 @@
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.155
+vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@193.233.126.97:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 193.233.126.97
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.155

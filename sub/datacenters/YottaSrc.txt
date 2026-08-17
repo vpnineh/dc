@@ -1,1 +1,0 @@
-vless://f4685d27-73e3-4588-9622-add50b84046a@45.67.139.50:9800?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.139.50

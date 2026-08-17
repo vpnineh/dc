@@ -1,1 +1,0 @@
-vless://c5721b62-ba28-4cd0-b2e8-aad2eec644f4@188.132.174.237:22753?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.237

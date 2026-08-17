@@ -1,3 +1,4 @@
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.206.128
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 109.248.161.246
 vless://c7333a4e-b8c9-44d4-aee6-f73bfe203902@france3.spaidan.ir:35974?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 46.8.69.240
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2dpIEdsb2JhbCBMaW1pdGVkIFx1MjUwNyA0NS4xMS45Mi4xMDAiLCJhZGQiOiI0NS4xMS45Mi4xMDAiLCJwb3J0Ijo4MCwiaWQiOiJlMDI2YWY2OS01ZTM2LTRjZDUtZDQwZS0zNDdmMjk1NWEzZjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ

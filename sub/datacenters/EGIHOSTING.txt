@@ -1,1 +1,0 @@
-vless://e4004cdb-3e66-44d0-a6b8-cd00ef4a72c8@45.38.60.179:21972?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 45.38.60.179

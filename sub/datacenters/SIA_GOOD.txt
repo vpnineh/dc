@@ -1,2 +1,0 @@
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@193.124.254.60:443?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 193.124.254.60
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@193.124.254.60:10443?type=grpc&security=reality&sni=lv.rexten.cc&fp=chrome&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - SIA GOOD ┇ 193.124.254.60

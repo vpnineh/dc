@@ -1,1 +1,2 @@
-vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@neth6.lckdwn.ru:443?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 177.3.212.127
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?type=ws&security=false&path=/&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 177.3.212.127
+vless://2ed9595b-97d7-4bee-8415-15c5471f8c56@api.yandex-api.org:443?type=tcp&security=reality&sni=api.yandex-api.org&fp=chrome&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 189.74.117.6

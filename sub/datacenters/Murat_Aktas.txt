@@ -1,1 +1,2 @@
 vless://1f4c8713-280d-45e3-8f06-8821ffa4c229@parham.diamondhope.ir:46856?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.176
+vless://c5721b62-ba28-4cd0-b2e8-aad2eec644f4@188.132.174.237:22753?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.237

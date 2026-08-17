@@ -1,1 +1,0 @@
-vless://62a08ea5-0564-47b4-a92c-25be07ad6358@w.upgrade101.club:443?type=ws&security=tls&path=/ws-abe57e7e3790d717a1ca0464&sni=w.upgrade101.club&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Domain names registrar REG.RU, Ltd ┇ 95.163.232.242

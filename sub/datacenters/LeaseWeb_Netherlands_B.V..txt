@@ -1,4 +1,5 @@
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://e2b46a5d-9346-4085-b174-3f878013cb5b@45.130.125.207:2086?type=xhttp&security=none&path=/?ed=2082#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.207
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160

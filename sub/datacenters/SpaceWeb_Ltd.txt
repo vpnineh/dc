@@ -1,2 +1,1 @@
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - SpaceWeb Ltd ┇ 77.222.46.162
-vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - SpaceWeb Ltd ┇ 77.222.37.89
+vless://c366f788-ea31-4a3a-897e-794c9f935896@77.222.32.201:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - SpaceWeb Ltd ┇ 77.222.32.201

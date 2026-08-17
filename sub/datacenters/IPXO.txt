@@ -1,4 +1,4 @@
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.224.3
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@pol4.o4ka-internet.com:443?type=tcp&security=reality&sni=pol4.o4ka-internet.com&fp=chrome&flow=xtls-rprx-vision&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.254.245
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.224.3
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@indianyoutuberty.horlutr.ir:2087?type=tcp&security=none&path=/#IN 🇮🇳 ┇ VLESS-TCP-NTLS - IPXO ┇ 103.227.210.113

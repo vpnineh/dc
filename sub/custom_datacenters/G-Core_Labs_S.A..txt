@@ -1,5 +1,10 @@
-vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vless://6f719ff5-cb04-4e94-b982-0bd94ba49d94@pk-play.mobileemdad.top:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.163
+vless://00b41e07-68e6-46b0-928f-a02becd4e398@site1.awextr.ir:2095?type=httpupgrade&security=none&path=/#AZ 🇦🇿 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 180.149.45.140
+vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
+vless://9a734231-b3cb-4d97-86e8-0207579d24f4@5.252.26.38:4433?type=tcp&security=none&path=/#TH 🇹🇭 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.38
+vless://9a734231-b3cb-4d97-86e8-0207579d24f4@5.252.26.38:443?type=tcp&security=tls&sni=zrh8h5xh9e63.dop4.com#TH 🇹🇭 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 5.252.26.38
 vless://9ffc5514-c744-4259-a270-8509918c9217@tri.mobileemdad.top:42538?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 202.78.174.17
-vless://93709520-71fe-4913-8e2e-5d8138f1e72f@au-play.mobileemdad.top:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.158
-vless://9ffc5514-c744-4259-a270-8509918c9217@kp-play.mobileemdad.top:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.12
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@tr-play.mobileemdad.top:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.117
+vless://9ffc5514-c744-4259-a270-8509918c9217@kp-play.mobileemdad.top:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.12
+vless://abef8e9b-e9e0-40ec-869e-4f753771d9dd@in-play.montago-shop.ir:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.175
+vless://93709520-71fe-4913-8e2e-5d8138f1e72f@au-play.mobileemdad.top:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.158

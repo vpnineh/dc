@@ -1,0 +1,2 @@
+vless://f9a8edf6-9dda-4f5c-9268-03fb883fc6b2@tr.novexone.ir:8443?type=tcp&security=reality&sni=GitHub.com&fp=chrome&pbk=Q9YNxz0AJyuKJYDvgKTkOUcCjuLQpH6DE1Ixdd0NFAI&sid=06928bf970cce9cc#US 🇺🇸 ┇ VLESS-TCP-RLT - GITHUB ┇ 213.142.159.87
+vless://187b1ee2-9b91-4dae-a59a-7af87621167f@pl154.slovovpn.com:26417?type=tcp&security=reality&sni=github.com&fp=chrome&pbk=UIW5K60pwiph20ht5dLF22CmD68KphGRiYTBK0wBXXw&sid=73b1#US 🇺🇸 ┇ VLESS-TCP-RLT - GITHUB ┇ 132.243.212.154

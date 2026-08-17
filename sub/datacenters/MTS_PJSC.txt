@@ -1,1 +1,0 @@
-vless://8071f3cc-994f-4fe2-bb87-cdc79559cb56@hgdsds.denditop.site:443?type=grpc&security=reality&sni=hgdsds.denditop.site&fp=chrome&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&sid=a1b2c3d4#RU 🇷🇺 ┇ VLESS-GRPC-RLT - MTS PJSC ┇ 176.109.88.224

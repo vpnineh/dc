@@ -1,1 +1,1 @@
-vless://13347ca1-8b18-43f8-b197-e970981054b2@direct.freelauner.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.233
+vless://ab5a2531-acc1-4a54-b16c-e14665dc88a5@direct.freelauner.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.233

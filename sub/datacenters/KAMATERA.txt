@@ -1,1 +1,2 @@
+vless://44824a9f-b551-41f3-b561-0c130978d540@kjfshdfdsfldskhfwe.horlutr.ir:2087?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - KAMATERA ┇ 45.147.250.142
 vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - KAMATERA ┇ 185.47.172.174

@@ -1,2 +1,2 @@
-vless://839236b3-a8e5-426d-94d3-3ffa53317b70@zula.ir:80?type=ws&security=none&path=/-@Shh_Proxy-@Shh_Proxy-@Shh_Proxy--@Shh_Proxy--?ed=1024#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.61
+vless://87d803c7-f879-478e-e1f2-738d804de98e@zula.ir:80?type=ws&security=none&path=/2FF4sNFEEm2rBDKp42yuiT3j1BVZCca79h2wzV#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.61
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU291cmVuYSBQYXJkYXplc2ggQXJ5YSBTb2Z0d2FyZSBjby4gTExDIFx1MjUwNyAxOTQuNTAuMjE2LjYxIiwiYWRkIjoid3d3Lnp1bGEuaXIiLCJwb3J0Ijo4MCwiaWQiOiIyZTBjZTZmMy03ZGM3LTQ2OWEtOTYxMS1jODQwNWE4ZWE1YzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0

@@ -1,1 +1,1 @@
-vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?type=tcp&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 70.39.197.9
+vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 70.39.197.9

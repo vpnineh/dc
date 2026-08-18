@@ -1,2 +1,1 @@
-vless://d97a084e-f7b2-421c-b7fc-7bce5ad2e066@713dec3f7bd33f.salzivo.ir:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Leaseweb Deutschland GmbH ┇ 109.70.74.26
-vless://58a38ebd-30e6-48bd-a1ab-d0babb1da37f@de2.mehab.me:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Leaseweb Deutschland GmbH ┇ 37.1.194.51
+vless://58a38ebd-30e6-48bd-a1ab-d0babb1da37f@de2.mehab.me:443?type=tcp&security=tls&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Leaseweb Deutschland GmbH ┇ 37.1.194.51

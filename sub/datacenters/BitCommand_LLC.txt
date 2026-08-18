@@ -1,3 +1,1 @@
-vless://d97a084e-f7b2-421c-b7fc-7bce5ad2e066@1988abf8b004.zelvian.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.88.209
 vless://ce3d89da-f418-4c38-a1f3-ef243be06044@sw.sinner.website:2087?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 82.115.8.160
-vless://34a506cf-b373-4cc2-8ed4-3954a234b208@91.228.186.215:8383?type=xhttp&security=tls&path=/&sni=91.228.186.215&fp=chrome#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - BitCommand LLC ┇ 91.228.186.215

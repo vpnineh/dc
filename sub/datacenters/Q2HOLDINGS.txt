@@ -1,2 +1,1 @@
-vless://58c1b245-2ea0-40b9-b512-bd2bbe3cbe3f@192.0.63.4:80?type=ws&security=false&path=/pyip=Telegram🇨🇳 @WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.4
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.30

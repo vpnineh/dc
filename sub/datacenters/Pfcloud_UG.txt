@@ -1,6 +1,4 @@
-vless://10af0a09-4a6a-4938-8fef-085c495d1c2f@176.65.151.215:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.215
-vless://e97997b7-15ea-4eb6-b259-ad8194086f62@176.65.151.197:24686?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.197
-vless://a2f6c503-e8b3-4c97-ad52-15807c20ee6c@176.65.151.215:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.215
-vless://10af0a09-4a6a-4938-8fef-085c495d1c2f@176.65.151.215:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pfcloud UG ┇ 176.65.151.215
+vless://10af0a09-4a6a-4938-8fef-085c495d1c2f@176.65.151.215:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.215
+vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.215
+vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pfcloud UG ┇ 176.65.151.215
 vless://f588839c-1f68-4317-9799-11deeb957690@report-omk.mobileahmad.ir:2091?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 45.135.194.198
-vless://6eff2ded-d36b-4d2e-8a93-896901e09d50@176.65.151.215:44260?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.215

@@ -1,1 +1,2 @@
+vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de-193-58.neobo-tooth.ru:2096?type=ws&security=false&path=/&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-NTLS - Play2go International Limited ┇ 193.58.121.95
 vless://d1b4fb49-f835-4c10-83e1-cb70238d39b5@deproxy2.lckdwn.ru:33843?type=tcp&security=tls&sni=deproxy2.lckdwn.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.120.84.32

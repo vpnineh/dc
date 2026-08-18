@@ -1,2 +1,2 @@
-vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.93.20
-vless://6a6f414c-0326-4764-8e90-04f53cdaac57@94.237.85.204:28961?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.85.204
+vless://4bea7803-9942-4cf7-ae48-283878dc6c0d@94.237.93.20:33651?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.93.20
+vless://6a6f414c-0326-4764-8e90-04f53cdaac57@94.237.81.50:28961?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.81.50

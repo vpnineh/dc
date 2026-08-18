@@ -1,6 +1,8 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi45My4xNzgiLCJhZGQiOiJubDQudWFybGl4by5pciIsInBvcnQiOjQ1NDUsImlkIjoiYmYzNjBiNTYtZTA4Ny00MTU4LTg3MmItZjBjNGVjOTIxMzg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.170.231
-vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.209.43
-vless://9500cf8b-020a-4a70-906c-e14bb5375875@94.183.254.26:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.254.26
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi45My4xODAiLCJhZGQiOiJubDMudWFybGl4by5pciIsInBvcnQiOjQ1NDUsImlkIjoiYmYzNjBiNTYtZTA4Ny00MTU4LTg3MmItZjBjNGVjOTIxMzg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.170.231
+vless://9500cf8b-020a-4a70-906c-e14bb5375875@94.183.254.26:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Aria Shatel PJSC ┇ 94.183.254.26
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi45My4xNzgiLCJhZGQiOiJubDQudWFybGl4by5pciIsInBvcnQiOjQ1NDUsImlkIjoiYmYzNjBiNTYtZTA4Ny00MTU4LTg3MmItZjBjNGVjOTIxMzg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://5ca83936-136d-4314-8453-4ba10a86cf60@94.183.157.60.fwqfw783rg2dad.website:443?type=ws&security=tls&path=/websocket&sni=94.183.157.60.fwqfw783rg2dad.website&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.183.157.60
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.170.69
+vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.209.43
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.170.135

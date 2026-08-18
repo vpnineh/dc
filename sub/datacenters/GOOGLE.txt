@@ -1,2 +1,1 @@
 vless://c00dfa61-737b-4f70-94c3-120bf98d8160@tkew.colener.ir:61555?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=sQFf0v_2dbbqa6Ey6yz8qeG8wmF2VPD1YyqIkG7NPT4&sid=71efcf4d101327c1#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 87.120.106.140
-vless://c00dfa61-737b-4f70-94c3-120bf98d8160@tkew.colener.ir:53783?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=wcquNvjs8WWpdRteMvIn6INLkNBpJpn4dMqi2_U0zWU&sid=73989ed7f29acfb5#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 87.120.106.140

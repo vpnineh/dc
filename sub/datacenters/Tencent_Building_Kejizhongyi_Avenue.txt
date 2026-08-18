@@ -1,2 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlbmNlbnQgQnVpbGRpbmcsIEtlaml6aG9uZ3lpIEF2ZW51ZSBcdTI1MDcgNDMuMTMyLjE5Mi4xNiIsImFkZCI6IjQzLjEzMi4xOTIuMTYiLCJwb3J0Ijo5NTI3LCJpZCI6ImFlODYyZTFkLTNiOGMtNDQzYS0wMjdiLTM3YzZjNjllZjQzYyIsImFpZCI6MCwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443?type=ws&security=tls&path=/ws&sni=43.167.239.81#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.167.239.81
+vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443?type=ws&security=tls&path=/ws&sni=43.167.239.81&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.167.239.81

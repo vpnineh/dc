@@ -1,2 +1,2 @@
-vless://2b217c2e-9913-4a75-9577-9f110788eef0@api.pushbyte.cc:443?type=xhttp&security=tls&path=/api/v2/&sni=api.pushbyte.cc&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - JSC Selectel ┇ 188.68.218.160
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - JSC Selectel ┇ 87.228.122.108
+vless://2b217c2e-9913-4a75-9577-9f110788eef0@api.pushbyte.cc:443?type=xhttp&security=tls&path=/api/v2/&sni=api.pushbyte.cc&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - JSC Selectel ┇ 188.68.218.160

@@ -1,2 +1,1 @@
 vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de-193-58.neobo-tooth.ru:2096?type=ws&security=false&path=/&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-NTLS - Play2go International Limited ┇ 193.58.121.95
-vless://4f562c6a-8446-4f45-bbde-495a6e6db338@pol.cryptoofarm.com:8443?type=tcp&security=reality&sni=pol.cryptoofarm.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZMoU6zdlhABeKKfsgRidv7o0-M_EtnHzeA6P_kXuv0g&sid=7e831024a7c0e7#US 🇺🇸 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 193.35.17.246

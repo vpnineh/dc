@@ -1,0 +1,1 @@
+vless://1066a72e-d262-424d-95b0-749e929dfed6@pasarguardpanel.nenenet1.ir:2044?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.51.237

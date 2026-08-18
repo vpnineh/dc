@@ -1,2 +1,1 @@
-vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 62.133.62.179
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.155
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.155

@@ -1,3 +1,4 @@
 vless://4f4e1a1d-456d-474b-aa88-c4baf54edc07@pro.awexco.shop:2082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160
+vless://dc1dca21-8e85-4a68-8ed7-b6cefb7b0b3e@135.106.193.180:54?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.193.180
 vless://730dd3ab-d706-002f-9987-4d4d1715cc5a@135.106.142.209:443?type=tcp&security=reality&path=/assets#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 135.106.142.209
 vless://65ef9922-6c08-4d57-9f1f-140ba21c36fb@estonyiamarz.horlutr.ir:2087?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.168.136

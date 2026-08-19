@@ -1,1 +1,0 @@
-vless://6607d677-f567-4692-af46-52d0e15808a1@pl.cryptoofarm.com:2053?type=grpc&security=reality&sni=pl.cryptoofarm.com&fp=chrome&pbk=H85geRdbY6aZ58fPqUA8XLpz9MUPbzM5ERo9_x-lX3Y&sid=1de4ce5a#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Scalaxy B.V. ┇ 103.102.229.150

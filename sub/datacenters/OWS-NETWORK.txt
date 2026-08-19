@@ -1,0 +1,1 @@
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.195.4.7:443?type=tcp&security=reality&sni=asia.cendora.ru&fp=chrome&flow=xtls-rprx-vision&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077#SG 🇸🇬 ┇ VLESS-TCP-RLT - OWS-NETWORK ┇ 103.195.4.7

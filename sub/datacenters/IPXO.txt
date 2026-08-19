@@ -1,4 +1,5 @@
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.224.3
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.228.161
 vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@dsech.mostserv.xyz:443?type=tcp&security=reality&sni=dsech.mostserv.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=g0mDPNlv3uOrnxXvBYP3cEjd0ewJuIFlBh93KE5bU3A&sid=d0ca141e839394a3#DE 🇩🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.49.223
 vless://f588839c-1f68-4317-9799-11deeb957690@report-omk.mobileahmad.ir:2091?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - IPXO ┇ 217.179.5.106
+vless://10c651c8-aeca-4817-8d85-a01f104ff88f@auth-start-cxz.mobileahmad.ir:9090?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - IPXO ┇ 217.179.5.106

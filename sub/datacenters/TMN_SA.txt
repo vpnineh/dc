@@ -1,0 +1,2 @@
+vless://10c651c8-aeca-4817-8d85-a01f104ff88f@account-cc9.mobileahmad.ir:2091?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - TMN SA ┇ 217.179.6.145
+vless://10c651c8-aeca-4817-8d85-a01f104ff88f@news-blf.mobileahmad.ir:9090?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - TMN SA ┇ 217.179.6.145

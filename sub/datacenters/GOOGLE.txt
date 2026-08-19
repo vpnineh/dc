@@ -1,0 +1,1 @@
+vless://fc3f9347-7542-483c-833c-cd561384783d@gr2.levikogjgfdd.ir:443?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d#US 🇺🇸 ┇ VLESS-GRPC-RLT - GOOGLE ┇ 169.58.143.21

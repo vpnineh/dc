@@ -1,2 +1,1 @@
-vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?type=tcp&security=reality&path=/#DE 🇩🇪 ┇ VLESS-TCP-RLT - Contabo GmbH ┇ 31.220.86.213
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 164.68.127.108

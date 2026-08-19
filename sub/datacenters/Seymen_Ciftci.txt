@@ -1,1 +1,0 @@
-vless://75d9fb2c-30fe-4aa1-9112-f0810e96882e@185.84.158.70:8080?type=ws&security=none&path=/api#IR 🇮🇷 ┇ VLESS-WS-NTLS - Seymen Ciftci ┇ 185.84.158.70

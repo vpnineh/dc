@@ -1,1 +1,1 @@
-vless://f6da8274-44be-4599-a8d8-66929c980677@92.255.78.9:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 92.255.78.9
+vless://96c4225e-119c-4259-9015-7f74e057db36@89.223.70.156:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 89.223.70.156

@@ -1,1 +1,1 @@
-vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@nl1.orpheous.ru:443?type=tcp&security=reality&sni=nl1.orpheous.ru&fp=firefox&flow=xtls-rprx-vision&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 146.103.122.129
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@nl1.orpheous.ru:443?type=tcp&security=reality&sni=nl1.orpheous.ru&fp=chrome&flow=xtls-rprx-vision&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 146.103.122.129

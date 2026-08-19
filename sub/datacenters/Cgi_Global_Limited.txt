@@ -1,8 +1,4 @@
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2dpIEdsb2JhbCBMaW1pdGVkIFx1MjUwNyA0Ni44LjIzNy4yNDIiLCJhZGQiOiI0Ni44LjIzNy4yNDIiLCJwb3J0Ijo0MjAzNCwiaWQiOiI3ZDg1ODI4YS05MDZiLTQzYzQtOGRjOS0wNzg1Y2Q0ODAxYWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.232.101
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDYuOC4yMzcuMjQyIiwiYWRkIjoiNDYuOC4yMzcuMjQyIiwicG9ydCI6ODAsImlkIjoiN2Q4NTgyOGEtOTA2Yi00M2M0LThkYzktMDc4NWNkNDgwMWFmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 109.248.161.246
-vless://f2c5c46f-3ebf-45f5-8685-abf9c95764a0@netherlands.me.hoomaxconnect.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.229.194
 vless://0da6bac1-644a-47d0-b9e8-03cb138079e8@netherlands.me.hoomaxconnect.ir:2056?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.229.194
-vless://0da6bac1-644a-47d0-b9e8-03cb138079e8@france.me.pingsf.ir:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.116.144
+vless://7badb118-3c57-4591-8b20-0ef1b5c209d1@france.me.pingsf.ir:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.116.144

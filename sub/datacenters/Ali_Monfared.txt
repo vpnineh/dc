@@ -1,0 +1,1 @@
+vless://44e3bf2e-155f-43c0-a270-651ecadd16ce@devip2.zeeshop.click:443?type=tcp&security=tls&sni=devip2.zeeshop.click&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Ali Monfared ┇ 212.23.214.130

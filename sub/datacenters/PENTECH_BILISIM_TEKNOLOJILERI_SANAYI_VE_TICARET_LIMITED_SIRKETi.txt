@@ -1,1 +1,0 @@
-vless://7badb118-3c57-4591-8b20-0ef1b5c209d1@finland.me.pingsf.ir:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.177.39

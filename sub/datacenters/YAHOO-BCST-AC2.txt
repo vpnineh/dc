@@ -1,1 +1,0 @@
-vless://13efddd3-1a20-49f3-bbbe-f5b530398bb6@tr.cellser.ir:57728?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=_msWT9DtUixMc55dabeo7IqbWGikrSNz35GkoGllFBM&sid=85436cc1#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 158.94.216.61

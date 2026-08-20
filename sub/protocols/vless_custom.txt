@@ -1,28 +1,29 @@
-vless://95da2faa-ef78-4662-8ec5-e336003fca1c@3c7ad558ddd4.welzora.ir:8080?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.2.234
+vless://474651c3-72c6-49c4-b747-ca7e2c838564@azerbaijan.zelnora.ir:64584?type=tcp&security=none#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.45.140
 vless://9720103b-9514-f22b-08d0-4ded47bec434@147.182.156.111:1161?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 147.182.156.111
 vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 89.169.55.36
-vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.230.180:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 164.92.230.180
 vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.251.106:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 104.248.251.106
-vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.117.146:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 64.226.117.146
 vless://25bc79f2-de57-4bd3-9183-b1031b8d5465@vip-de001.zzeytonn.shop:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 206.189.53.168
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.216.98
-vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.244.55
+vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.117.146:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 64.226.117.146
+vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.230.180:8880?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 164.92.230.180
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.82.11
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?type=tcp&security=none&path=/?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 94.130.132.180
-vless://CONFIG-WANCLOUDFA@49.12.64.220:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 49.12.64.220
+vless://62c259b6-a780-4066-acf4-2c3a407812a7@cf-mci.coixconqwe1.ir:443?type=ws&security=tls&path=/news&sni=91_107_174_12.coixconqwe2.ir.&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Hetzner Online GmbH ┇ 104.18.151.14
 vless://fcc26389-a451-4d51-b9d0-c75f0d7ce860@datisde2.datgame.ir:30305?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 23.88.123.157
-vless://1c3b5f09-d3f4-44cc-adfc-5d74a71d33f2@91.107.240.177:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.240.177
+vless://CONFIG-WANCLOUDFA@49.12.64.220:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 49.12.64.220
+vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.244.55
+vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.216.98
 vless://566c82d9-8652-452c-95d3-cc0b3538e866@94.130.141.81:29690?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 94.130.141.81
+vless://1c3b5f09-d3f4-44cc-adfc-5d74a71d33f2@91.107.240.177:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.240.177
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?type=tcp&security=none&path=/?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 94.130.132.180
+vless://@Cooonfig@65.109.188.123:50198?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.188.123
 vless://telegram-id-ArV2ray@135.181.41.45:443?type=grpc&security=reality#FI 🇫🇮 ┇ VLESS-GRPC-RLT - Hetzner Online GmbH ┇ 135.181.41.45
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.211.253
-vless://@Cooonfig@65.109.188.123:50198?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.188.123
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
+vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=false&path=/&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:8444?type=ws&security=tls&path=/api/v1/devices/d5e8188467/telemetry&sni=nl7.unlockvpn.online#NL 🇳🇱 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 79.137.205.35
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?type=ws&security=none&path=/&sni=usejh2.neobo-tooth.ru#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
-vless://My-chanel-3-%40ATOVPN@138.124.29.81:57021?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.29.81
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?type=ws&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
+vless://My-chanel-1-ATOVPN@138.124.29.81:57021?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.29.81
 vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.137
 vless://49c86212-ae0b-430e-9abb-244e715b533f@paid.sshehi.ggff.net:443?type=ws&security=tls&path=/&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - DIGITALOCEAN-ASN ┇ 152.42.221.198
-vless://855f8f52-d22a-4278-84ad-1dc968677626@93.114.98.129:443?type=httpupgrade&security=none&path=/hostiranrespina#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 93.114.98.129
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@tr-play.mobileemdad.top:42542?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.117
-vless://93e37208-ef50-47cf-97cc-8a099b16311c@trone.soundfiy.ir:61169?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.75
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.155
+vless://855f8f52-d22a-4278-84ad-1dc968677626@93.114.98.129:443?type=httpupgrade&security=none&path=/hostiranrespina#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 93.114.98.129
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.155
+vless://474651c3-72c6-49c4-b747-ca7e2c838564@usa.zelnora.ir:64584?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.123.127

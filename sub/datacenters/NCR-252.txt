@@ -1,1 +1,1 @@
-vless://9bf091a8-96af-4ccb-8b53-265c0d112ad0@estonyiamarz.horlutr.ir:2087?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.168.136
+vless://c9c11bab-04ba-4902-b49a-972a82a75775@tr.awexco.shop:2082?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160

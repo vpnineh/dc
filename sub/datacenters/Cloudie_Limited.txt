@@ -1,1 +1,0 @@
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@test.bridge.anti-zapret.com:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505#CN 🇨🇳 ┇ VLESS-TCP-RLT - Cloudie Limited ┇ 103.112.68.37

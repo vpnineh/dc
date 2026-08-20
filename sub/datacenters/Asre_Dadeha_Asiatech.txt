@@ -1,1 +1,0 @@
-vless://257c313c-36fa-4d99-ba06-bb4a02aae70d@adgof.mgodping12.xyz:2086?type=grpc&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Asre Dadeha Asiatech ┇ 193.151.141.5

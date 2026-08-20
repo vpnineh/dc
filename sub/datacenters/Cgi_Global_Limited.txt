@@ -1,4 +1,5 @@
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.237.148
 vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202
-vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 109.248.161.246
 vless://7badb118-3c57-4591-8b20-0ef1b5c209d1@netherlands.me.hoomaxconnect.ir:2056?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.229.194
-vless://0da6bac1-644a-47d0-b9e8-03cb138079e8@france.me.pingsf.ir:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.116.144
+vless://7badb118-3c57-4591-8b20-0ef1b5c209d1@netherlands.me.hoomaxconnect.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.229.194
+vless://7badb118-3c57-4591-8b20-0ef1b5c209d1@france.me.pingsf.ir:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.116.144

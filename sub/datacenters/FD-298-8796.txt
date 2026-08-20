@@ -1,1 +1,2 @@
+vless://d3e99826-5aeb-4d6f-a85a-3ef435255dee@199.30.90.148:2044?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - FD-298-8796 ┇ 199.30.90.148
 vless://b0979c88-5a95-45c7-a46b-16b213b3e841@mgxui.peng.mom:26602?type=tcp&security=tls&path=/&sni=mgxui.peng.mom&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - FD-298-8796 ┇ 23.138.12.138

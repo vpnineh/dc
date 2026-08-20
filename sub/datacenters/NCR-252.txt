@@ -1,4 +1,2 @@
-vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@tr.awexco.shop:2082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160
 vless://9bf091a8-96af-4ccb-8b53-265c0d112ad0@estonyiamarz.horlutr.ir:2087?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.168.136
-vless://48cb335c-2210-4f81-bde9-e9c8d454ed7b@pl154.slovovpn.com:26417?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.212.154
-vless://58984fe1-5f01-486b-bb68-c2f8352d7a92@132.243.212.205:41503?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.212.205
+vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@tr.awexco.shop:2082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160

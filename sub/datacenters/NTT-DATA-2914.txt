@@ -1,0 +1,1 @@
+vless://bf885c93-bec5-4175-a17f-3b038a92f2e3@dashboard.zostoree.ir:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.161

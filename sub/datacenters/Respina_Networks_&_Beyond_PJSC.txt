@@ -1,1 +1,2 @@
 vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?type=ws&security=tls&path=/&sni=new01.asaltabie.monster&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Respina Networks & Beyond PJSC ┇ 5.160.200.104
+vless://4af34a72-9750-4f6f-9668-bac1c5db1709@sos.speedit.ir:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 81.12.56.122

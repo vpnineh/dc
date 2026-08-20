@@ -1,0 +1,1 @@
+vless://ec9e4d1a-46e1-4405-a559-7fda3501cf7b@31.57.228.166:42538?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 31.57.228.166

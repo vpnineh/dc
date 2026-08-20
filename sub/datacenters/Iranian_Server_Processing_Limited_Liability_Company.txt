@@ -1,2 +1,0 @@
-vless://b7a70451-ea5e-43c4-af92-11075a950dca@5.160.132.5:22532?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 5.160.132.5
-vless://b7a70451-ea5e-43c4-af92-11075a950dca@5.160.132.5:47686?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 5.160.132.5

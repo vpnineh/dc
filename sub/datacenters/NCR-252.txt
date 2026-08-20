@@ -1,8 +1,7 @@
-vless://45742aa5-f373-46e5-8eb9-801227d5c235@153.52.92.112:10101?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.112
-vless://c63b5d3f-7417-4c8f-9262-5c603279f042@135.106.195.75:401?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.195.75
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5DUi0yNTIgXHUyNTA3IDE1My41Mi45Mi4xMTIiLCJhZGQiOiIxNTMuNTIuOTIuMTEyIiwicG9ydCI6MjA1MDUsImlkIjoiZGVjNGYxYzYtNjRhNy00M2IyLThiMmItMzA3MWE3Nzk4ZGIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://c63b5d3f-7417-4c8f-9262-5c603279f042@135.106.195.75:601?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.195.75
-vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@tr.awexco.shop:2082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160
-vless://c63b5d3f-7417-4c8f-9262-5c603279f042@135.106.195.75:501?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.195.75
 vless://c63b5d3f-7417-4c8f-9262-5c603279f042@135.106.195.75:633?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.195.75
 vless://c63b5d3f-7417-4c8f-9262-5c603279f042@135.106.195.75:701?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.195.75
+vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@tr.awexco.shop:2082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160
+vless://c63b5d3f-7417-4c8f-9262-5c603279f042@135.106.195.75:501?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.195.75
+vless://c63b5d3f-7417-4c8f-9262-5c603279f042@135.106.195.75:401?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.195.75
+vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@se1.se-cdn.ru:443?type=tcp&security=reality&sni=se1.se-cdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.231.164

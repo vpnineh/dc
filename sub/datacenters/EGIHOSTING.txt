@@ -1,1 +1,0 @@
-vless://f32b9470-4c85-4185-817a-b524ed94ffd9@cpanel.web-manage.com.tr:2044?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.19.137

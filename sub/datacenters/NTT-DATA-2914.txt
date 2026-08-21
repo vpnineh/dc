@@ -1,1 +1,1 @@
-vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?type=ws&security=false&path=/5adeccb9&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 157.238.208.110
+vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?type=ws&security=none&path=/5adeccb9#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 157.238.208.110

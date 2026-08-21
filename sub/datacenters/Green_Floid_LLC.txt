@@ -1,1 +1,0 @@
-vless://5ca83936-136d-4314-8453-4ba10a86cf60@195.123.209.50.fwqfw783rg2dad.website:443?type=ws&security=tls&path=/websocket&sni=195.123.209.50.fwqfw783rg2dad.website&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 195.123.209.50

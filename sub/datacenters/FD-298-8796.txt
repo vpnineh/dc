@@ -1,1 +1,0 @@
-vless://b0979c88-5a95-45c7-a46b-16b213b3e841@mgxui.peng.mom:26602?type=tcp&security=tls&path=/&sni=mgxui.peng.mom&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - FD-298-8796 ┇ 23.138.12.138

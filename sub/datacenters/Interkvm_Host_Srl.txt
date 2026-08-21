@@ -1,0 +1,1 @@
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@ro.getvlessvpn.com:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&sid=b9f8f9772217538f#RO 🇷🇴 ┇ VLESS-TCP-RLT - Interkvm Host Srl ┇ 103.126.50.203

@@ -1,1 +1,1 @@
-vless://50472630-5578-46c2-b6f0-dd3e2cccd542@v2fars.shop:8080?type=tcp&security=none&path=/api#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 193.111.236.47
+vless://50472630-5578-46c2-b6f0-dd3e2cccd542@v2fars.shop:8080?type=ws&security=tls&path=/api&sni=v2fars.shop&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 193.111.236.47

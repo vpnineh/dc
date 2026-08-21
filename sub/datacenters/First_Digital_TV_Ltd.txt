@@ -1,2 +1,3 @@
-vless://9627c5e0-9a11-4d36-a470-3ce64797149e@fr-po.pngv.top:4999?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.88.184
 vless://59086073-d6da-44ed-b604-241ecdf03e97@usa.me33.iranstoresf.ir:2056?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.91.142
+vless://9627c5e0-9a11-4d36-a470-3ce64797149e@fr-po.pngv.top:4999?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.88.184
+vless://d33d2dd1-04c1-4d43-b2e6-77c56297128e@usa.me33.iranstoresf.ir:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - First Digital TV Ltd ┇ 95.182.91.142

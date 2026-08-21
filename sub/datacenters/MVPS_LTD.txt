@@ -1,1 +1,1 @@
-vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@node2.onepanel123.ru:2087?type=tcp&security=none&path=/de-vless-ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - MVPS LTD ┇ 91.227.41.204
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@node2.onepanel123.ru:2087?type=ws&security=tls&path=/de-vless-ws&sni=node2.onepanel123.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - MVPS LTD ┇ 91.227.41.204

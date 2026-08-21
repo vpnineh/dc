@@ -1,1 +1,1 @@
-vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-RLT - ZEN-DPS ┇ 162.128.71.118
+vless://56971dae-1974-4ebe-a903-00e310828dd5@163.53.244.247:443?type=tcp&security=reality#MO 🇲🇴 ┇ VLESS-TCP-RLT - ZEN-DPS ┇ 163.53.244.247

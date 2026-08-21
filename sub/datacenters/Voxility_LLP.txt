@@ -1,1 +1,1 @@
-vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Voxility LLP ┇ 5.254.14.165
+vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Voxility LLP ┇ 5.254.14.165

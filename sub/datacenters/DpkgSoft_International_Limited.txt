@@ -1,2 +1,1 @@
-vless://9e1e2fad-b6ca-474b-a28d-4b52c7891da0@87.121.218.169:8443?type=tcp&security=tls#BG 🇧🇬 ┇ VLESS-TCP-TLS - DpkgSoft International Limited ┇ 87.121.218.169
 vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - DpkgSoft International Limited ┇ 89.19.223.136

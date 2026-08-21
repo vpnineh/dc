@@ -1,0 +1,1 @@
+vless://ccf1120f-bfc6-4e0c-8f07-5b73566dc598@dashboard.zostoree.ir:2044?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.176.103

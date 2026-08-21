@@ -1,0 +1,3 @@
+vless://7f082bc5-f127-4aca-88af-07eca43d6170@shop.jarorobo.ir:443?type=tcp&security=reality&sni=adn-stg.yourservice.samsung.com&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&sid=06b75703cbf1#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149
+vless://7f082bc5-f127-4aca-88af-07eca43d6170@record.sinafc.ir:8087?type=tcp&security=reality&sni=mars.amd.com&fp=chrome&pbk=fCYufMkCWiP1pkFPgZI3-PH0PYGCTsTdRck5rLZ_fXI&sid=d6670afcfc93062a#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149
+vless://8e7feb36-3ef5-4e70-a306-4362edd37854@record.sinafc.ir:8086?type=tcp&security=reality&sni=products.amd.com&fp=chrome&pbk=nnq5J3zXFDHUGvCza7e5CMa34oexEcXUqAfqz_YY7yo&sid=64523ae2#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149

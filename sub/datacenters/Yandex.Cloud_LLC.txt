@@ -1,0 +1,1 @@
+vless://f1f9dfbc-b81d-423d-a9c1-80287dad1d8e@cdn-fi2.24outlook.space:443?type=xhttp&security=tls&path=/&sni=cdn-fi2.24outlook.space&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

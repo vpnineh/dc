@@ -1,2 +1,0 @@
-vless://899677ed-5842-47e3-9aa1-d7a7562bc4c8@shop.jarorobo.ir:8443?type=tcp&security=reality&sni=github.com&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&sid=b5d663e4e2e19d#US 🇺🇸 ┇ VLESS-TCP-RLT - GITHUB ┇ 91.107.152.149
-vless://f9a8edf6-9dda-4f5c-9268-03fb883fc6b2@tr.novexone.ir:8443?type=tcp&security=reality&sni=GitHub.com&fp=chrome&pbk=Q9YNxz0AJyuKJYDvgKTkOUcCjuLQpH6DE1Ixdd0NFAI&sid=06928bf970cce9cc#US 🇺🇸 ┇ VLESS-TCP-RLT - GITHUB ┇ 107.161.174.25

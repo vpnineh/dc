@@ -1,1 +1,1 @@
-vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@lat.o4ka-internet.com:443?type=tcp&security=reality&sni=lat.o4ka-internet.com&fp=chrome&flow=xtls-rprx-vision&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA RixHost ┇ 185.28.47.111
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@lat.o4ka-internet.com:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA RixHost ┇ 185.28.47.111

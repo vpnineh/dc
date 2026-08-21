@@ -1,2 +1,1 @@
 vless://b031b39f-f9e3-45f1-bdec-6eabcaebecde@pro.awexco.shop:2082?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160
-vless://58984fe1-5f01-486b-bb68-c2f8352d7a92@132.243.212.205:41503?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.212.205

@@ -1,1 +1,2 @@
+vless://bf885c93-bec5-4175-a17f-3b038a92f2e3@user.mizban-b.site:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.27.161
 vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?type=ws&security=none&path=/5adeccb9#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 157.238.208.110

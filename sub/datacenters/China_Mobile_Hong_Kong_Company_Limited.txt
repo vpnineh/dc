@@ -1,1 +1,1 @@
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?type=tcp&security=tls&path=/&sni=xiweini.dpdns.org&fp=chrome#HK 🇭🇰 ┇ VLESS-TCP-TLS - China Mobile Hong Kong Company Limited ┇ 223.122.123.74
+vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?type=tcp&security=tls&sni=xiweini.dpdns.org&fp=chrome#HK 🇭🇰 ┇ VLESS-TCP-TLS - China Mobile Hong Kong Company Limited ┇ 223.122.123.74

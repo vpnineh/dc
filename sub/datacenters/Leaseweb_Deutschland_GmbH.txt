@@ -1,2 +1,2 @@
-vless://2860e569-4c06-4950-af3e-3b72d892cdf2@faranse.duravex.net:8443?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Leaseweb Deutschland GmbH ┇ 178.162.240.134
 vless://58a38ebd-30e6-48bd-a1ab-d0babb1da37f@de2.mehab.me:443?type=tcp&security=tls&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Leaseweb Deutschland GmbH ┇ 37.1.194.51
+vless://2860e569-4c06-4950-af3e-3b72d892cdf2@faranse.duravex.net:8443?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Leaseweb Deutschland GmbH ┇ 178.162.240.134

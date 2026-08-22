@@ -1,1 +1,0 @@
-vless://b55dd203-630d-46a3-b506-c52ebcafa77c@45.195.228.227:443?type=tcp&security=reality#VE 🇻🇪 ┇ VLESS-TCP-RLT - COLNETWORK C.A. ┇ 45.195.228.227

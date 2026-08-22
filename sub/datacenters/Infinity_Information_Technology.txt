@@ -1,0 +1,2 @@
+vless://42577c0b-758e-47b0-9080-e60def559168@ooo.zjuli.ir:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Infinity Information Technology ┇ 31.57.158.243
+vless://42577c0b-758e-47b0-9080-e60def559168@ooo.zjuli.ir:443?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Infinity Information Technology ┇ 31.57.158.243

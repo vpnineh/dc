@@ -1,1 +1,1 @@
-vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@tr.awexco.shop:2082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160
+vless://8ff538e4-330c-43c1-97c8-0c90bf989331@shop.gfdcty.ir:443?type=xhttp&security=tls&path=/graphql-xhttp-t7XyZ&sni=shop.gfdcty.ir#US 🇺🇸 ┇ VLESS-XHTTP-TLS - NCR-252 ┇ 153.52.92.111

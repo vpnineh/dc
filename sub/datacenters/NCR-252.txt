@@ -1,0 +1,1 @@
+vless://5ac0cd77-12e9-433b-a7ca-84548adb120d@dd-servicenodelayss.gameservice-iramn3.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.200

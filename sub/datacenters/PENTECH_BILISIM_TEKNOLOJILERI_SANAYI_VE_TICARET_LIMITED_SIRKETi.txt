@@ -1,1 +1,0 @@
-vless://ccf1120f-bfc6-4e0c-8f07-5b73566dc598@cpanel.linux-panel.com:2044?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.176.103

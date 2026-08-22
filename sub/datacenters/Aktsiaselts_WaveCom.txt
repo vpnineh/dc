@@ -1,1 +1,0 @@
-vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?type=tcp&security=tls&fp=chrome#EE 🇪🇪 ┇ VLESS-TCP-TLS - Aktsiaselts WaveCom ┇ 38.180.230.27

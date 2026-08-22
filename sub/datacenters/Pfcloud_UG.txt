@@ -1,2 +1,1 @@
 vless://bfd814a8-d377-4324-b23e-10d9dcd0a988@176.65.151.215:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.215
-vless://10af0a09-4a6a-4938-8fef-085c495d1c2f@176.65.151.215:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pfcloud UG ┇ 176.65.151.215

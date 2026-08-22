@@ -1,1 +1,1 @@
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@fin2.freeinternat.com:443?type=tcp&security=reality&sni=fin2.freeinternat.com&fp=chrome&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.223.84
+vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@tr.awexco.shop:2082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160

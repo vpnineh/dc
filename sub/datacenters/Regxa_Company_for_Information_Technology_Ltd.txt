@@ -1,1 +1,1 @@
-vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@91.108.249.222:443?type=ws&security=none&path=/api-pl#PL 🇵🇱 ┇ VLESS-WS-NTLS - Regxa Company for Information Technology Ltd ┇ 91.108.249.222
+vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@91.108.249.222:443?type=tcp&security=none&path=/api-pl#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Regxa Company for Information Technology Ltd ┇ 91.108.249.222

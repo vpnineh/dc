@@ -1,2 +1,2 @@
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk2.sywl4.uk:443?type=tcp&security=reality&sni=sk2.sywl4.uk&fp=chrome&flow=xtls-rprx-vision&pbk=ETeAUJpZugcGIO-dbjgx55mH835m026nveRvLYVsuU4&sid=abcdef99#SK 🇸🇰 ┇ VLESS-TCP-RLT - VNET a.s. ┇ 86.110.243.158
 vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk.sywl4.uk:443?type=tcp&security=reality&sni=sk.sywl4.uk&fp=chrome&flow=xtls-rprx-vision&pbk=vLixH3QobMv6Rg4UcGbMp49i-w1asnw3Bsgv_gwm4DQ&sid=abcdef99#SK 🇸🇰 ┇ VLESS-TCP-RLT - VNET a.s. ┇ 86.110.243.160
+vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk2.sywl4.uk:443?type=tcp&security=reality&sni=sk2.sywl4.uk&fp=chrome&flow=xtls-rprx-vision&pbk=ETeAUJpZugcGIO-dbjgx55mH835m026nveRvLYVsuU4&sid=abcdef99#SK 🇸🇰 ┇ VLESS-TCP-RLT - VNET a.s. ┇ 86.110.243.158

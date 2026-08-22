@@ -1,2 +1,2 @@
-vless://6419b6a6-87a1-4822-86a3-c5c391f80674@vip-ca-1.hkd4fwmg.xyz:44547?type=tcp&security=tls&path=/&fp=chrome&flow=xtls-rprx-vision#CA 🇨🇦 ┇ VLESS-TCP-TLS - IWEB-AS ┇ 184.107.141.34
 vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?type=tcp&security=tls&sni=lizca2.footballfantasyforum.com&fp=chrome#CA 🇨🇦 ┇ VLESS-TCP-TLS - IWEB-AS ┇ 184.107.106.68
+vless://6419b6a6-87a1-4822-86a3-c5c391f80674@vip-ca-1.hkd4fwmg.xyz:44547?type=tcp&security=tls&sni=vip-ca-1.hkd4fwmg.xyz&fp=chrome&flow=xtls-rprx-vision#CA 🇨🇦 ┇ VLESS-TCP-TLS - IWEB-AS ┇ 184.107.141.34

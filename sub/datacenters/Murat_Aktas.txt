@@ -1,3 +1,3 @@
-vless://34396530-289c-44d7-8653-4eaa3d110051@6nek12n5.helpower.ir:2036?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.251
 vless://ae685aee-6b93-4eb2-8998-537b0a9e7ad7@tr.hardvezoo.ir:2053?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Murat Aktas ┇ 188.132.174.253
 vless://ae685aee-6b93-4eb2-8998-537b0a9e7ad7@tr2.speed.hardvezoo.ir:9228?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Murat Aktas ┇ 188.132.174.253
+vless://34396530-289c-44d7-8653-4eaa3d110051@6nek12n5.helpower.ir:2036?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.251

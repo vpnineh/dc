@@ -1,1 +1,0 @@
-vless://86ff5721-87f2-4682-9bc2-b1b34a8ca91f@128.1.12.97:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 128.1.12.97

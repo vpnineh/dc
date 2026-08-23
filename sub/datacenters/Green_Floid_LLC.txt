@@ -1,0 +1,1 @@
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@lat.freeinternat.com:443?type=tcp&security=reality&sni=lat.freeinternat.com&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#LV 🇱🇻 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 195.123.208.170

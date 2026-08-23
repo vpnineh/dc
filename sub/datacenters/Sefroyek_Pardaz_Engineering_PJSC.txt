@@ -1,1 +1,0 @@
-vless://a78f7463-ca1c-4af2-8458-52f1f382268a@91.236.168.18:38850?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.168.18

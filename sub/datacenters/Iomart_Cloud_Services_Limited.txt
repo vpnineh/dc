@@ -1,1 +1,0 @@
-vless://4d583b2c-2f5a-47d0-8181-e95217fe8cd9@87.117.234.19:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 87.117.234.19

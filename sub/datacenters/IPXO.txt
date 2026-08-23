@@ -1,5 +1,4 @@
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - IPXO ┇ 95.85.224.3
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@kz.freeinternat.com:443?type=tcp&security=reality&path=/&sni=kz.freeinternat.com&fp=chrome&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#GB 🇬🇧 ┇ VLESS-TCP-RLT - IPXO ┇ 194.238.42.191
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.224.3
 vless://7efc901f-7862-40e8-902b-4bfad8f8ca88@213.165.40.175.sslip.io:2083?type=tcp&security=tls&sni=213.165.40.175.sslip.io&fp=chrome#JP 🇯🇵 ┇ VLESS-TCP-TLS - IPXO ┇ 213.165.40.175
 vless://20593145-d975-46f9-9bad-d9f3c8e2d899@vip-nl-1.hkd4fwmg.vip:31883?type=tcp&security=tls&sni=vip-nl-1.hkd4fwmg.vip&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - IPXO ┇ 143.20.79.93

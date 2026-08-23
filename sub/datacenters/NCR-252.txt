@@ -1,2 +1,2 @@
-vless://5ac0cd77-12e9-433b-a7ca-84548adb120d@dd-servicenodelayss.gameservice-iramn3.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.200
 vless://c81d5e39-0626-443c-8ce8-4f10273032c1@135.106.176.132:667?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.176.132
+vless://34c09c60-3fed-4ed6-9dbc-a9f0e488aaa2@pro.awexco.shop:2082?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.160

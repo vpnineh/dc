@@ -1,0 +1,1 @@
+vless://6d6f6286-1c99-4dfa-9698-72cc30665900@t1.digikalamagg.com:2096?type=ws&security=tls&path=/&sni=t1.digikalamagg.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - GeniusMind S.A. ┇ 213.176.0.193

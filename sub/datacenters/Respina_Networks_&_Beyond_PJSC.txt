@@ -1,2 +1,2 @@
-vless://2541787c-ecb7-497a-ad7f-c1a8a6456100@s1-cd-api.denmexa.ir:2087?type=ws&security=none&path=/?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.81.113
-vless://0d58de0b-7bc5-4950-8f3c-786ae34a61d1@s1-cdn.harfuna.ir:2096?type=ws&security=none&path=/?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 81.12.56.6
+vless://0d58de0b-7bc5-4950-8f3c-786ae34a61d1@s1-cd-api.denmexa.ir:2087?type=ws&security=none&path=/?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.81.113
+vless://2541787c-ecb7-497a-ad7f-c1a8a6456100@s1-cdn.harfuna.ir:2096?type=ws&security=none&path=/?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 81.12.56.6

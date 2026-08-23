@@ -1,1 +1,3 @@
+vless://34c09c60-3fed-4ed6-9dbc-a9f0e488aaa2@pro.awexco.shop:2082?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.160
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132-243-223-227.sslip.io:2101?type=grpc&security=tls&sni=132-243-223-227.sslip.io&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - NCR-252 ┇ 132.243.223.227
+vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.56.134.149

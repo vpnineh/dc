@@ -1,1 +1,1 @@
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@lit3.freeinternat.com:443?type=tcp&security=reality&sni=lit3.freeinternat.com&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#LT 🇱🇹 ┇ VLESS-TCP-RLT - Hostline, Uab ┇ 88.119.176.50
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@lit3.freeinternat.com:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-RLT - Hostline, Uab ┇ 88.119.176.50

@@ -1,3 +1,3 @@
-vless://ef2c48a7-c113-4610-9d81-b35779660d9e@de2.oblaco.bet:443?type=tcp&security=reality&sni=de2.oblaco.bet&fp=chrome&flow=xtls-rprx-vision&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.32.222
+vless://ef2c48a7-c113-4610-9d81-b35779660d9e@de2.oblaco.bet:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.32.222
 vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAxNzEuMjIuMTM0LjEyIiwiYWRkIjoiMTcxLjIyLjEzNC4xMiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwidGxzIjoidGxzIn0
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?type=ws&security=none&path=/&sni=usejh2.neobo-tooth.ru#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39

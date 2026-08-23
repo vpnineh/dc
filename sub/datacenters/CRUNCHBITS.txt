@@ -1,2 +1,0 @@
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok9.api3-max.ru:443?type=tcp&security=tls&sni=wok9.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - CRUNCHBITS ┇ 64.49.13.74
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok2.api3-max.ru:443?type=tcp&security=tls&sni=wok2.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - CRUNCHBITS ┇ 64.49.13.232

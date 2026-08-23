@@ -1,1 +1,1 @@
-vless://c81d5e39-0626-443c-8ce8-4f10273032c1@135.106.176.132:667?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 135.106.176.132
+vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.56.134.149

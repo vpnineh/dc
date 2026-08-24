@@ -1,6 +1,6 @@
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?type=ws&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65
-vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?type=ws&security=tls&path=/&sni=it2ws.wba-pn.ru#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 45.155.68.9
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?type=ws&security=tls&path=/&sni=be2.wba-pn.ru&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 113.30.152.6
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?type=ws&security=tls&path=/&sni=be2.wba-pn.ru#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 113.30.152.6
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?type=ws&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65
+vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?type=ws&security=tls&path=/&sni=it2ws.wba-pn.ru#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 45.155.68.9
 vless://244b9f7a-2bec-4558-bb64-2437896923f9@netherlands.raikporertior.ir:2082?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 94.75.223.40

@@ -1,1 +1,1 @@
-vless://419f25c1-bc35-412e-93fb-258efee859b5@nl3.murhost.network:443?type=tcp&security=reality&sni=nl3.murhost.network&fp=firefox&flow=xtls-rprx-vision&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&sid=f41bc0b00ca1a978#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 81.31.210.140
+vless://419f25c1-bc35-412e-93fb-258efee859b5@nl3.murhost.network:443?type=tcp&security=reality&sni=nl3.murhost.network&fp=chrome&flow=xtls-rprx-vision&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&sid=f41bc0b00ca1a978#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 81.31.210.140

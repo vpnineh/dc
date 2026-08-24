@@ -1,2 +1,1 @@
-vless://9bf8792b-7c64-4522-90d8-a720fd957914@bolguarmarz.horlutr.ir:2087?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 91.227.77.126
 vless://a622acbf-6990-4669-b7aa-39e42620e9cd@plelahoa.horlutr.ir:2087?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 91.211.27.178

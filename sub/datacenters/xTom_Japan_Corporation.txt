@@ -1,1 +1,0 @@
-vless://fdb25e5e-d99a-468c-aa13-0fe9892771b6@45.66.218.187:50159?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-RLT - xTom Japan Corporation ┇ 45.66.218.187

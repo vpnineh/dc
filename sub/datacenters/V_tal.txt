@@ -1,5 +1,9 @@
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@177.3.215.41:4443?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 177.3.215.41
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@idontknow.whit3.net:8443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.215.41
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:301?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.24.54.210
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.126.156
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@gd-0z.whit3.net:443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.212.189
 vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.34.137.15
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@gd-0z.whit3.net:443?type=tcp&security=reality&sni=gd-0z.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=I81tkGsfVOK0JNnjsHRluXcXI-DyV_4mLQ4e8QJuSxU&sid=d7d38e70e3362842#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.212.189
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@idontknow.whit3.net:8443?type=grpc&security=reality&sni=idontknow.whit3.net&fp=firefox&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&sid=ca9273f1a19a886e#BR 🇧🇷 ┇ VLESS-GRPC-RLT - V tal ┇ 177.3.215.41
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:701?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.24.54.210
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@idontknow.whit3.net:4443?type=xhttp&security=reality&path=/&sni=idontknow.whit3.net&fp=chrome&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&sid=ca9273f1a19a886e#BR 🇧🇷 ┇ VLESS-XHTTP-RLT - V tal ┇ 177.3.215.41
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:201?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.24.54.210
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:501?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.24.54.210

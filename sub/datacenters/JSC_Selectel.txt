@@ -1,1 +1,2 @@
+vless://2b092ee6-5e4b-0032-8236-a46bec9393fd@185.137.232.194:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.137.232.194
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - JSC Selectel ┇ 87.228.122.108

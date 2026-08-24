@@ -1,1 +1,1 @@
-vless://76634c8d-1529-4f9a-8933-efa95062c791@cdn1-64.cdn-vkvideo.com:2053?type=xhttp&security=reality&path=/api/v1/video/chunk&fp=chrome&pbk=fnKI190yDOSAgdLZkPKAI04fzr8W2Ss8XOCu1j5rBHg&sid=966eadda72000d70#IQ 🇮🇶 ┇ VLESS-XHTTP-RLT - TigrisNet ┇ 81.90.20.214
+vless://76634c8d-1529-4f9a-8933-efa95062c791@cdn1-64.cdn-vkvideo.com:2053?type=xhttp&security=reality&path=/api/v1/video/chunk&sni=cdn1-64.cdn-vkvideo.com&fp=chrome&pbk=fnKI190yDOSAgdLZkPKAI04fzr8W2Ss8XOCu1j5rBHg&sid=966eadda72000d70#IQ 🇮🇶 ┇ VLESS-XHTTP-RLT - TigrisNet ┇ 81.90.20.214

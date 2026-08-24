@@ -1,2 +1,2 @@
-vless://c3a47671-146d-4a66-9e23-8cc2da62b9c9@api-gmn.floxto.ir:2323?type=ws&security=none&path=/?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 81.12.56.153
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJlc3BpbmEgTmV0d29ya3MgJiBCZXlvbmQgUEpTQyBcdTI1MDcgODEuMTIuNTYuNDkiLCJhZGQiOiJ0b2tpZW4ubXJtdG4ueHl6IiwicG9ydCI6MjEyMSwiaWQiOiIyOWM0YTNiZC05ZDhjLTRhYzMtYjI3OS04YjIwMTU2MGMyMjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://c3a47671-146d-4a66-9e23-8cc2da62b9c9@api-gmn.floxto.ir:2323?type=ws&security=none&path=/?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 81.12.56.153

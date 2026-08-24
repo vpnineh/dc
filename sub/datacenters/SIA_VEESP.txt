@@ -1,1 +1,2 @@
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.252.28
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@swa.mythos-wargame.fun:443?type=grpc&security=tls&sni=swa.mythos-wargame.fun&fp=chrome#SE 🇸🇪 ┇ VLESS-GRPC-TLS - SIA VEESP ┇ 62.182.196.57

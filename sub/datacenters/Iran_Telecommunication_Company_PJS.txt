@@ -1,0 +1,1 @@
+vless://07e4cee1-fad4-4cb6-9b21-b6fc74bbc63a@46.100.133.11:2029?type=ws&security=none&path=/wls#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iran Telecommunication Company PJS ┇ 46.100.133.11

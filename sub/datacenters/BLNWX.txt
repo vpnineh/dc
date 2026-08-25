@@ -1,2 +1,2 @@
-vless://dd74ce5e-7ba0-4297-9fef-e9625c075f73@nlw.shanseto.com:443?type=xhttp&security=tls&path=/&sni=nlw.shanseto.com&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - BLNWX ┇ 168.100.9.198
-vless://dd74ce5e-7ba0-4297-9fef-e9625c075f73@ro.shanseto.com:443?type=xhttp&security=tls&path=/&sni=ro.shanseto.com&fp=chrome#RO 🇷🇴 ┇ VLESS-XHTTP-TLS - BLNWX ┇ 64.7.199.97
+vless://dd74ce5e-7ba0-4297-9fef-e9625c075f73@nlw.shanseto.com:443?type=xhttp&security=tls&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - BLNWX ┇ 168.100.9.198
+vless://dd74ce5e-7ba0-4297-9fef-e9625c075f73@ro.shanseto.com:443?type=xhttp&security=tls&path=/&fp=chrome#RO 🇷🇴 ┇ VLESS-XHTTP-TLS - BLNWX ┇ 64.7.199.97

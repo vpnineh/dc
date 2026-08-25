@@ -1,1 +1,0 @@
-vless://bf33c47c-9f3d-4307-b999-6adfad61ab3c@ad-1.yandex-cloud.org:443?type=tcp&security=reality&sni=ad-1.yandex-cloud.org&fp=chrome&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.88.2

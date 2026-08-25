@@ -1,3 +1,2 @@
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?type=ws&security=false&path=/&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.0
 vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?type=ws&security=none&path=/cdn/assets/stream#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.0
-vless://01c1c687-3bb8-4e71-bf4b-ade0570b00e7@8.39.125.130:2095?type=ws&security=none&path=/0fc8f4846fed?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.39.125.130
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?type=ws&security=false&path=/&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.0

@@ -1,2 +1,2 @@
-vless://aeac7038-3390-435b-a133-d12a6b4f71a5@ostad.torexa.ir:333?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - ENDOFFICE ┇ 45.91.248.185
 vless://7659430c-4124-4f15-aee5-2be5d76f7e44@ssalq.trafficfast.ir:3203?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ENDOFFICE ┇ 45.91.248.77
+vless://aeac7038-3390-435b-a133-d12a6b4f71a5@ostad.torexa.ir:333?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - ENDOFFICE ┇ 45.91.248.185

@@ -1,0 +1,1 @@
+vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@us.alcors.net:443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - DEDICATED ┇ 64.42.178.22

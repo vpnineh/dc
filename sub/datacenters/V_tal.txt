@@ -1,2 +1,1 @@
-vless://bf33c47c-9f3d-4307-b999-6adfad61ab3c@ad-1.yandex-cloud.org:443?type=tcp&security=reality&sni=ad-1.yandex-cloud.org&fp=chrome&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 189.74.106.134
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.126.156

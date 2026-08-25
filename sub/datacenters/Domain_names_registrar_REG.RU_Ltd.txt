@@ -1,0 +1,1 @@
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@80.78.245.48:8880?type=ws&security=none&path=/cdn/assets/stream#RU 🇷🇺 ┇ VLESS-WS-NTLS - Domain names registrar REG.RU, Ltd ┇ 80.78.245.48

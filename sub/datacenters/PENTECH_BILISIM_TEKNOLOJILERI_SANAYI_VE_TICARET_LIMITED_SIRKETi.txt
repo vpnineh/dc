@@ -1,0 +1,1 @@
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@s7.objcache.anti-zapret.com:443?type=tcp&security=reality&path=/&sni=s7.objcache.anti-zapret.com&fp=chrome&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.59.125.31

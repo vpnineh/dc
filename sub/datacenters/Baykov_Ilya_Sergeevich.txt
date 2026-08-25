@@ -1,1 +1,1 @@
-vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@usa.mythos-wargame.fun:443?type=grpc&security=tls&sni=usa.mythos-wargame.fun&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - Baykov Ilya Sergeevich ┇ 193.32.177.79
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@usa.mythos-wargame.fun:443?type=grpc&security=tls&sni=usa.mythos-wargame.fun&fp=qq#US 🇺🇸 ┇ VLESS-GRPC-TLS - Baykov Ilya Sergeevich ┇ 193.32.177.79

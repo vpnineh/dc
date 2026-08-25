@@ -1,2 +1,1 @@
-vless://c7dcddff-ef42-4c58-a36f-8d6c6ea1ac59@185.204.169.32:8080?type=tcp&security=tls&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.32
 vless://93ee032f-b67f-4cac-a239-da1295aec528@germanndnew.mamadhpbot.ir:50118?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.34

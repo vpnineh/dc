@@ -1,0 +1,1 @@
+vless://dbabde9e-c843-4a36-9835-b5056f4adaef@direct.asan-ps.ir:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=9OUSkOh5ZW6DZRtcNHvR7WeoXnZP9AwCrPT-5rW5fhM&sid=caa5c6067742710d#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-NE1 ┇ 85.155.228.27

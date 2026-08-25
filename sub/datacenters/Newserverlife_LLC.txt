@@ -1,2 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://3a2be404-958b-418f-a4ea-a5098a888495@38.107.237.101:33635?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 38.107.237.101
+vless://b3545d57-348b-454a-8aba-9f16fb018274@ux.miladux.ir:2087?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 38.107.237.101

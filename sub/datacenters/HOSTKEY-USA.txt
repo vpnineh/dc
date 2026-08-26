@@ -1,1 +1,1 @@
-vless://bbba2d10-b617-404c-a29a-cc2d29386fbf@us03hk.lockdwn.com:443?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - HOSTKEY-USA ┇ 162.120.19.101
+vless://bbba2d10-b617-404c-a29a-cc2d29386fbf@us03hk.lockdwn.com:443?type=ws&security=none&sni=us03hk.lockdwn.com#US 🇺🇸 ┇ VLESS-WS-NTLS - HOSTKEY-USA ┇ 162.120.19.101

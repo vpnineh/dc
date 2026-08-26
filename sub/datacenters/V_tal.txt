@@ -1,6 +1,5 @@
-vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&path=/&sni=pro-ru-bridge.emrata.top&fp=chrome&flow=xtls-rprx-vision&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.1.199.66
-vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@177.3.212.189:443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.212.189
-vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.126.156
 vless://b98e3ee9-a67f-465a-a8f9-1e59e3cda6a8@b2.cryptoofarm.com:8443?type=tcp&security=reality&sni=b2.cryptoofarm.com&fp=chrome&flow=xtls-rprx-vision&pbk=K28I3JdleSg0t7keUUZrS1CgtyC37WA32ViMkSXywHw&sid=0c22c11e7224#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.213.91
+vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&path=/&sni=pro-ru-bridge.emrata.top&fp=chrome&flow=xtls-rprx-vision&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.1.199.66
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=/api/connect#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 200.165.231.209
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.126.156
 vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 200.165.234.62

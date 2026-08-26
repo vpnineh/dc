@@ -1,2 +1,2 @@
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@lastchance.whit3.net:8443?type=grpc&security=reality&sni=lastchance.whit3.net&fp=firefox&pbk=1xq4kMV5MBlwzlXjAI7oFZqtfIPMZfP2_7fTNfjOVjU&sid=4b1b942b4dfcfdf8#FR 🇫🇷 ┇ VLESS-GRPC-RLT - GTT Communications Inc. ┇ 77.67.89.180
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@lastchance.whit3.net:443?type=tcp&security=reality&sni=lastchance.whit3.net&fp=firefox&flow=xtls-rprx-vision&pbk=1xq4kMV5MBlwzlXjAI7oFZqtfIPMZfP2_7fTNfjOVjU&sid=4b1b942b4dfcfdf8#FR 🇫🇷 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 77.67.89.180
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@lastchance.whit3.net:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 77.67.89.180
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@lastchance.whit3.net:8443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 77.67.89.180

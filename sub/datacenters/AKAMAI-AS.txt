@@ -1,2 +1,0 @@
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=29b21343ab4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 31.76.80.69
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2053?type=grpc&security=reality&sni=www.amd.com&fp=firefox&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=01aa#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 31.76.80.69

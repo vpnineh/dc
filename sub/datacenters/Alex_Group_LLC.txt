@@ -1,1 +1,1 @@
-vless://073758f2-9669-0001-9541-b8656bde49a2@node1.nebulacurse.space:443?type=grpc&security=reality&sni=node1.nebulacurse.space&fp=chrome&pbk=wGPdcHBZQD0Qhlf32ZKRRiUSbk_ndjcDnQxSG84X4HA&sid=ea57b80afd90326b#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Alex Group LLC ┇ 212.192.246.73
+vless://073758f2-9669-0001-9541-b8656bde49a2@node1.nebulacurse.space:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Alex Group LLC ┇ 212.192.246.73

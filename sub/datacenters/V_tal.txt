@@ -1,2 +1,1 @@
 vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 200.165.234.62
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=/api/connect#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 200.165.231.209

@@ -1,1 +1,1 @@
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@de.alertyagency.com:443?type=tcp&security=reality#GE 🇬🇪 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 77.91.66.223
+vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@77.91.66.178:443?type=tcp&security=reality#GE 🇬🇪 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 77.91.66.178

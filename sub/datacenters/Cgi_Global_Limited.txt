@@ -1,2 +1,1 @@
-vless://1a88f661-c972-4606-83a4-d10a6cf525c2@let2.orangesms.ir:61169?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.154.212
 vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202

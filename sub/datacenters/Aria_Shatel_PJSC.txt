@@ -1,9 +1,11 @@
-vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.209.43
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi45My4xNzgiLCJhZGQiOiJubDQudWFybGl4by5pciIsInBvcnQiOjQ1NDUsImlkIjoiZGExODY5NzctNjFkYS00MTU0LTg4MjUtNDk2MzgzNzFiY2I5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4yMTEuMjQ1IiwiYWRkIjoiZGFzaGJvYXJkLm5peGNtYXJrZXQudG9wIiwicG9ydCI6MzY4MjIsImlkIjoiZjczOWNjZjgtNzU4Ny00MThkLTlkMWUtOGI4ZDA3ZGNmYmU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.170.135
-vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.209.59
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Aria Shatel PJSC ┇ 94.183.170.135
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4yMTEuMjQyIiwiYWRkIjoic2hvcC5mYXNmb29kLnRvcCIsInBvcnQiOjczNDQsImlkIjoiYWQxYjNiOGMtOGQyYS00MDA5LWI3YjctMTFkOThiMmQ0M2JiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.170.69
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:8443?type=tcp&security=tls&path=/&sni=estproxy2.lockdwn.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Aria Shatel PJSC ┇ 94.183.170.231
+vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.209.59
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi45My4xNzgiLCJhZGQiOiJubDQudWFybGl4by5pciIsInBvcnQiOjQ1NDUsImlkIjoiZGExODY5NzctNjFkYS00MTU0LTg4MjUtNDk2MzgzNzFiY2I5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.209.43
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.170.231
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:8443?type=tcp&security=tls&path=/&sni=estproxy2.lockdwn.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Aria Shatel PJSC ┇ 94.183.170.231
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4My4yMTEuMjQ1IiwiYWRkIjoiZGFzaGJvYXJkLm5peGNtYXJrZXQudG9wIiwicG9ydCI6MzY4MjIsImlkIjoiZjczOWNjZjgtNzU4Ny00MThkLTlkMWUtOGI4ZDA3ZGNmYmU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:443?type=ws&security=false&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.209.58
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.183.170.135
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Aria Shatel PJSC ┇ 94.183.170.135

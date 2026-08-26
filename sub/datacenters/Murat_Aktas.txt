@@ -1,1 +1,2 @@
+vless://481d125d-11af-4d42-a2d7-ba7c09df60d2@sv2.helpower.ir:2036?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.251
 vless://93ee032f-b67f-4cac-a239-da1295aec528@turk.mamadhpbot.ir:50118?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.75

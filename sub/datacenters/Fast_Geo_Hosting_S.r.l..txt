@@ -1,2 +1,2 @@
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 194.55.189.249
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.253.28.189:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 5.253.28.189
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 5.180.42.103

@@ -1,0 +1,2 @@
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@188.214.35.66:443?type=tcp&security=none&path=/pg/10086-dfc816f117c491730|#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - COGENT-174 ┇ 188.214.35.66
+vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@151.243.182.249:443?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 151.243.182.249

@@ -1,0 +1,1 @@
+vless://5d662e7e-3d72-f4ae-30f6-553a4bdc6c0b@api.sw.pishima.ir:8880?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - ServeCentric Ltd. ┇ 212.147.224.57

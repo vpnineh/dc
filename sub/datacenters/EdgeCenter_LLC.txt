@@ -1,1 +1,3 @@
+vless://42edf47c-7dd2-4207-b061-87935222eec4@91.243.86.89:2053?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EdgeCenter LLC ┇ 91.243.86.89
+vless://42edf47c-7dd2-4207-b061-87935222eec4@91.243.86.89:2058?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EdgeCenter LLC ┇ 91.243.86.89
 vless://334386d6-0bc3-4962-8aaa-383d803f98fe@91.243.86.88:2053?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EdgeCenter LLC ┇ 91.243.86.88

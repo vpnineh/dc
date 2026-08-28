@@ -1,1 +1,0 @@
-vless://14c3d8cb-0073-4362-904f-f3bcd55ef22b@217.18.90.79:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.79

@@ -1,1 +1,0 @@
-vless://ef2c48a7-c113-4610-9d81-b35779660d9e@de2.oblaco.bet:443?type=tcp&security=reality&sni=de2.oblaco.bet&fp=firefox&flow=xtls-rprx-vision&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.130

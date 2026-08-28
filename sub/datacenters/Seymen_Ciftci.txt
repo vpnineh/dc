@@ -1,1 +1,0 @@
-vless://fb03abb3-53d2-4d6b-bbdb-fa0da87916ea@ger.x2net.top:443?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Seymen Ciftci ┇ 185.84.158.197

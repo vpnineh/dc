@@ -1,1 +1,3 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBVbHRhaG9zdCwgSW5jLiBcdTI1MDcgMTg4LjEzMi4xODQuOTgiLCJhZGQiOiJ0ci5wcml2YXRldmlwLmlyIiwicG9ydCI6MjUwMywiaWQiOiI4NWIyN2ZiZC0zM2Q2LTRhM2EtYmY1Yi1jM2NmOTc3NzI4OTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRyLnByaXZhdGV2aXAuaXIiLCJwYXRoIjoiL1dTIiwidGxzIjoidGxzIiwic25pIjoidHIucHJpdmF0ZXZpcC5pciJ9
+vless://85b27fbd-33d6-4a3a-bf5b-c3cf97772893@tr.privatevip.ir:2500?type=ws&security=none&path=/WS#TR 🇹🇷 ┇ VLESS-WS-NTLS - Ultahost, Inc. ┇ 188.132.184.98
+vless://85b27fbd-33d6-4a3a-bf5b-c3cf97772893@tr.privatevip.ir:2502?type=tcp&security=tls&sni=tr.privatevip.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - Ultahost, Inc. ┇ 188.132.184.98

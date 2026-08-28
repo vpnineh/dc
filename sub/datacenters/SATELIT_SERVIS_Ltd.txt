@@ -1,2 +1,1 @@
-vless://b59e2f19-d90e-4384-82ed-09e6c4266969@1-netvia.tdomainasite.ir:64428?type=tcp&security=none&path=/#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.238
 vless://eec12a0f-7ceb-417d-89c1-1332f703cd10@trt.pasarguardms.ir:5050?type=tcp&security=none&path=/#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.235

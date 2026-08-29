@@ -1,4 +1,1 @@
-vless://11992f2b-181b-403a-9521-813fcd7927a8@153.75.87.192:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192
-vless://11992f2b-181b-403a-9521-813fcd7927a8@153.75.87.192:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192
 vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.235.53
-vless://b4d8014d-5ff5-48b4-9b08-7137fc0cdb1d@153.75.87.192:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192

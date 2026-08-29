@@ -1,1 +1,0 @@
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?type=tcp&security=false&path=/&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ideal Hosting Teknoloji A.S. ┇ 139.28.241.77

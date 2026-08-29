@@ -1,7 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.243.30:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 72.167.243.30
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.68.30:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 104.238.68.30
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 45.40.145.30
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.12.145.30:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 198.12.145.30
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.30:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 160.153.1.30
-vless://e403856e-4e50-49e6-9edc-d9536a803a6a@45.40.155.4:80?type=ws&security=false&path=/pyip=Telegram🇨🇳 @WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 45.40.155.4
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.68.50:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 104.238.68.50

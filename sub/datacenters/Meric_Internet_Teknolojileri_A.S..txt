@@ -1,6 +1,6 @@
 vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2082?type=ws&security=none&path=/v-ws-de#TR 🇹🇷 ┇ VLESS-WS-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.76
 vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.122
 vless://d3b59f6e-fab9-46ca-afec-bc240c4899f9@212.87.199.63:64584?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.63
-vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2053?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.76
 vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.79:8080?type=ws&security=none&path=/v-ws#TR 🇹🇷 ┇ VLESS-WS-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.79
+vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2053?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.199.76
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1lcmljIEludGVybmV0IFRla25vbG9qaWxlcmkgQS5TLiBcdTI1MDcgMjEyLjg3LjE5OC4yMDYiLCJhZGQiOiJ0cjIucGkxMC5pciIsInBvcnQiOjEzMzAxLCJpZCI6IjExM2FlNjFiLWQ2ZGEtNGQwOC05MjIxLTQ4NTk1Y2I4NDM2YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ

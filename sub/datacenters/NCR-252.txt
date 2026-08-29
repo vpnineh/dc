@@ -1,4 +1,5 @@
+vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@153.75.87.192:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192
 vless://5ff36751-64d1-4598-9401-7db2f1d459a2@153.75.87.192:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192
+vless://5ff36751-64d1-4598-9401-7db2f1d459a2@153.75.87.192:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192
 vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@magazin5.mervi.icu:443?type=tcp&security=reality&sni=magazin5.mervi.icu&fp=chrome&flow=xtls-rprx-vision&pbk=spZ5EzB2A-lFTqmV_9JeUz_FitUv_JhNWiJ8S6w_zQM&sid=07818960cc7c3581#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.65.170
-vless://101b5fea-8201-4ff9-84b3-12bf49ce6645@153.75.87.192:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192
-vless://11992f2b-181b-403a-9521-813fcd7927a8@153.75.87.192:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.87.192
+vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.235.53

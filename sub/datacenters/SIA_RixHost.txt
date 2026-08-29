@@ -1,1 +1,0 @@
-vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@lat.o4ka-internet.com:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA RixHost ┇ 185.28.47.28

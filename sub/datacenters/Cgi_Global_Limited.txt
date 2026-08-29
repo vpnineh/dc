@@ -1,3 +1,4 @@
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.237.148
 vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDYuOC4yMjkuMTc2IiwiYWRkIjoiNDYuOC4yMjkuMTc2IiwicG9ydCI6NDQzLCJpZCI6ImZmOGU4MDdiLTFmNTktNDUxMC05ZjU5LTVkMzQ0YWZhOTljNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://d5948eae-ef1b-45e4-81aa-d27076b56530@95.182.114.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.74

@@ -1,4 +1,1 @@
-vless://1b9b3368-f613-4f5e-b464-63ffa6228e60@tr.s.hardvezoo.ir:2053?type=httpupgrade&security=tls&path=/&sni=tr.s.hardvezoo.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-TLS - Murat Aktas ┇ 188.132.174.212
 vless://93ee032f-b67f-4cac-a239-da1295aec528@turk.mamadhpbot.ir:50118?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.75
-vless://1b9b3368-f613-4f5e-b464-63ffa6228e60@tr.s.hardvezoo.ir:2052?type=xhttp&security=none&path=/#TR 🇹🇷 ┇ VLESS-XHTTP-NTLS - Murat Aktas ┇ 188.132.174.212
-vless://1b9b3368-f613-4f5e-b464-63ffa6228e60@tr.s.hardvezoo.ir:2054?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Murat Aktas ┇ 188.132.174.212

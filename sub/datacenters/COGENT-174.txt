@@ -1,2 +1,2 @@
-vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 151.243.182.249
-vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 151.243.198.104
+vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?type=ws&security=none&path=/&sni=itproxy4.lockdwn.com#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 151.243.198.104
+vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@151.243.182.249:443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 151.243.182.249

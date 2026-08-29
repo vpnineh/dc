@@ -1,1 +1,2 @@
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?type=tcp&security=reality#ES 🇪🇸 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 83.147.18.3
 vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@91.108.249.222:443?type=tcp&security=none&path=/api-pl#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Regxa Company for Information Technology Ltd ┇ 91.108.249.222

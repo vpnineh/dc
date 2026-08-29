@@ -1,2 +1,3 @@
-vless://c49248c3-662a-48b7-a683-83929e400aca@144.172.119.9:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CYBERPLANET ┇ 144.172.119.9
-vless://6d3a2549-9264-4f69-8d8c-f97a2489bf5f@144.172.119.9:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CYBERPLANET ┇ 144.172.119.9
+vless://11992f2b-181b-403a-9521-813fcd7927a8@144.172.119.9:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CYBERPLANET ┇ 144.172.119.9
+vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@144.172.119.9:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CYBERPLANET ┇ 144.172.119.9
+vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@144.172.119.9:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CYBERPLANET ┇ 144.172.119.9

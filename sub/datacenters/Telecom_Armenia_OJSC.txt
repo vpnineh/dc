@@ -1,1 +1,0 @@
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@178.160.229.238:443?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.229.238

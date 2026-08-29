@@ -1,1 +1,0 @@
-vless://626c0789-16d1-4815-be8b-bd03959d7d12@194.26.192.76:443?type=tcp&security=reality&sni=nl1.tsumshop.org&fp=chrome&flow=xtls-rprx-vision&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&sid=c8c75aaf699259b4#TR 🇹🇷 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 194.26.192.76

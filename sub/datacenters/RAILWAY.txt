@@ -1,1 +1,1 @@
-vless://fce642a3-ace8-4f28-ad9a-c82e45c36f81@altaria.proxy.rlwy.net:49129?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
+vless://8ee40067-e8f1-431b-8109-21eaa82a7a23@shortline.proxy.rlwy.net:31186?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.244

@@ -1,1 +1,1 @@
-vless://881b936b-2591-4ea8-d21d-8215a36d41a3@node.qingyi668.biz:23816?type=tcp&security=tls&sni=node.qingyi668.biz&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - GTT Communications Inc. ┇ 195.172.139.150
+vless://881b936b-2591-4ea8-d21d-8215a36d41a3@node.qingyi668.biz:23816?type=tcp&security=tls&path=/&sni=node.qingyi668.biz&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - GTT Communications Inc. ┇ 195.172.139.150

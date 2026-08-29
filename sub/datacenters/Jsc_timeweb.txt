@@ -1,4 +1,3 @@
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?type=ws&security=none&path=/v1#GR 🇬🇷 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 83.147.246.153
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@rf5.helper-internet.com:443?type=tcp&security=reality&sni=rf5.helper-internet.com&fp=chrome&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#NL 🇳🇱 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 176.124.200.214
-vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 87.249.54.103
 vless://f0528a17-863f-4160-a5a0-0d9ad03f2ee7@81.200.144.27:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 81.200.144.27
+vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 87.249.54.103

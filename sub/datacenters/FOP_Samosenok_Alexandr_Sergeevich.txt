@@ -1,1 +1,1 @@
-vless://404cd7f4-cee1-43c3-b55a-50dce11781d1@yt.orpheous.ru:443?type=tcp&security=reality&sni=yt.orpheous.ru&fp=chrome&flow=xtls-rprx-vision&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7#ES 🇪🇸 ┇ VLESS-TCP-RLT - FOP Samosenok Alexandr Sergeevich ┇ 185.147.26.175
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@yt.orpheous.ru:443?type=tcp&security=reality&sni=yt.orpheous.ru&fp=firefox&flow=xtls-rprx-vision&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4#ES 🇪🇸 ┇ VLESS-TCP-RLT - FOP Samosenok Alexandr Sergeevich ┇ 185.147.26.175

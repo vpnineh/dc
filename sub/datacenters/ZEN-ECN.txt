@@ -1,1 +1,2 @@
 vless://b0313ca9-5d08-420d-9ab5-19de7430d3e6@d.xorfuno.ir:16952?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 181.215.205.168
+vless://83c18ff2-0565-4b53-89ad-57357fef153b@rssm-1btto92.joxenly.com:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 172.96.121.6

@@ -1,1 +1,2 @@
+vless://60e2a548-96aa-4850-a279-1edab743c39b@109.176.229.45:2083?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Freakhosting ┇ 109.176.229.45
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?type=httpupgrade&security=none&path=/host#RO 🇷🇴 ┇ VLESS-HTTPUPGRADE-NTLS - Freakhosting ┇ 45.13.151.46

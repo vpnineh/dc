@@ -1,2 +1,1 @@
 vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@195.133.84.198:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Spacecore Solution Ltd ┇ 195.133.84.198
-vless://1c8206c7-231c-41a8-b807-ad23a354cc69@amter.klzvezdi.ru:7443?type=xhttp&security=reality&path=/&sni=amter.klzvezdi.ru&fp=chrome&pbk=QQyikonHb9wUazcu_wwSb8hOetZ7yUTN5kz09TAnTTw&sid=f9f07762bb667beb#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Spacecore Solution Ltd ┇ 94.156.117.148

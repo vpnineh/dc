@@ -1,0 +1,1 @@
+vless://d0abb929-afc2-4f09-9c77-baebdd6040c2@info.qorvex.ir:2087?type=tcp&security=none&path=/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.120.216.71

@@ -1,7 +1,7 @@
 vless://17a8e8c4-1b64-4e32-a239-c27b1dd0248a@altaria.proxy.rlwy.net:44224?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
+vless://3df74c50-e0f5-4b72-a826-4e845753aa9d@mainline.proxy.rlwy.net:23360?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.234
+vless://ffd5d710-29f9-4660-a04f-c3240f5030e3@turntable.proxy.rlwy.net:37949?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.229
 vless://8ee40067-e8f1-431b-8109-21eaa82a7a23@shortline.proxy.rlwy.net:31186?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.244
+vless://01ade7eb-38ee-4cab-8778-fe619d8b7442@altaria.proxy.rlwy.net:17280?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
 vless://c023398b-6bc8-4931-af27-8e2d9cbb5cb2@altaria.proxy.rlwy.net:25432?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
 vless://652eef9f-a99f-4a4d-b6c4-620ebe32cf70@reseau.proxy.rlwy.net:25709?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.224
-vless://ffd5d710-29f9-4660-a04f-c3240f5030e3@turntable.proxy.rlwy.net:37949?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.229
-vless://01ade7eb-38ee-4cab-8778-fe619d8b7442@altaria.proxy.rlwy.net:17280?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
-vless://3df74c50-e0f5-4b72-a826-4e845753aa9d@mainline.proxy.rlwy.net:23360?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.234

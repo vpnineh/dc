@@ -1,2 +1,2 @@
-vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?type=ws&security=tls&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 46.19.69.201
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=wsnl24.wba-pn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 147.45.226.155
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?type=ws&security=tls&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 46.19.69.201

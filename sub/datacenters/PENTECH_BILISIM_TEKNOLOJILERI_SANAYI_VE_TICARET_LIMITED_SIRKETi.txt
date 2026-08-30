@@ -1,2 +1,0 @@
-vless://82d145c1-d691-4eef-9de1-9c316db4859a@194.26.192.76:443?type=tcp&security=reality&sni=nl1.tsumshop.org&fp=firefox&flow=xtls-rprx-vision&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&sid=c8c75aaf699259b4#TR 🇹🇷 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 194.26.192.76
-vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:8765?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.189.27

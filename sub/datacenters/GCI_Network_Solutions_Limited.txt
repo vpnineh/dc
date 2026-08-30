@@ -1,0 +1,1 @@
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@public-auth.savesafe.cc:443?type=tcp&security=reality&path=/&sni=public-auth.savesafe.cc&fp=chrome&flow=xtls-rprx-vision&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&sid=c37c2ae6f6eb0d71#GB 🇬🇧 ┇ VLESS-TCP-RLT - GCI Network Solutions Limited ┇ 82.152.223.140

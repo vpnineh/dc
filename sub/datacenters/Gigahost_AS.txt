@@ -1,1 +1,0 @@
-vless://3aca1bad-80ce-4567-8e0a-4a6a12be61f1@194.110.207.70:443?type=tcp&security=reality#NO 🇳🇴 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 194.110.207.70

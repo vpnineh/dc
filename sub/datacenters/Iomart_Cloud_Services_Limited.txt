@@ -1,2 +1,1 @@
-vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 95.154.196.63
 vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 5.152.223.192

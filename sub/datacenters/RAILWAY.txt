@@ -1,3 +1,4 @@
-vless://c283e373-009d-4d30-b4ef-51426f3dbaf2@altaria.proxy.rlwy.net:59383?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
 vless://8e7eed53-dacc-4fcd-99ab-434096de92fb@altaria.proxy.rlwy.net:10474?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
+vless://27d5fb9d-7c11-4af3-ac7a-46252c6e8f57@turntable.proxy.rlwy.net:26450?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.229
 vless://8ee40067-e8f1-431b-8109-21eaa82a7a23@shortline.proxy.rlwy.net:31186?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.244
+vless://c283e373-009d-4d30-b4ef-51426f3dbaf2@altaria.proxy.rlwy.net:59383?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220

@@ -1,2 +1,1 @@
-vless://d9f5d8f5-eeac-48c6-b7a4-abf7c977d4b4@amzzzlu.amirrsub.ir:443?type=ws&security=tls&path=/nova-geo-psiphon-de#US 🇺🇸 ┇ VLESS-WS-TLS - EGIHOSTING ┇ 104.252.111.116
 vless://c77bef3d-4ace-4903-a76a-803e41bf1e38@finland2.sarziva.ir:2075?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 104.252.53.49

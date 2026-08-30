@@ -1,1 +1,0 @@
-vless://2e483b48-ad25-4c80-8806-73000fd5b031@82.202.177.148:5269?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Xeon LLC ┇ 82.202.177.148

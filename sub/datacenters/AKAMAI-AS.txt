@@ -1,3 +1,0 @@
-vless://bbff0604-8fdb-43fc-a3ab-bcb46c4e4807@shop.jarorobo.ir:443?type=tcp&security=reality&sni=www-ams.samsung.com&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&sid=7730d24eb50a0124#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149
-vless://38a2a2dc-f9e5-4fed-a732-a0c6a08023d8@sub.0192837465.xyz:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=unZqxWRvglRGxbvOBW3rY4PPcN5RGW-Idog9QKaUqSM&sid=962d8ffaef6f0107#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 158.51.78.54
-vless://bbff0604-8fdb-43fc-a3ab-bcb46c4e4807@download.mehdi-cpp.ir:8086?type=tcp&security=reality&sni=www.gpuopen.com&fp=chrome&pbk=nnq5J3zXFDHUGvCza7e5CMa34oexEcXUqAfqz_YY7yo&sid=85cb75e572#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149

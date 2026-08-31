@@ -1,1 +1,3 @@
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.15:2083?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Deutsche Telekom AG ┇ 82.24.203.15
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Deutsche Telekom AG ┇ 82.24.203.174
+vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?type=ws&security=none&path=/5c62e3c616d8#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.37

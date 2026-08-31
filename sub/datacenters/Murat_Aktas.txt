@@ -1,1 +1,2 @@
+vless://4f66c3fa-3b87-499b-ba67-06b316d1e9ba@tr.diginoisb.ir:443?type=tcp&security=tls&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - Murat Aktas ┇ 188.132.174.81
 vless://93ee032f-b67f-4cac-a239-da1295aec528@turk.mamadhpbot.ir:50118?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.75

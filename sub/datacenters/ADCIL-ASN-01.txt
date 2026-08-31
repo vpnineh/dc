@@ -1,3 +1,4 @@
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
+vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@144.31.106.40:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.106.40
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@144.31.224.72:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.224.72
-vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@plot.whit3.net:443?type=tcp&security=reality&sni=plot.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.207.4
+vless://d31aefb3-775b-4e87-a093-a4677addf10a@144.31.140.127:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.140.127

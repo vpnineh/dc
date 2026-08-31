@@ -1,3 +1,0 @@
-vless://c77bef3d-4ace-4903-a76a-803e41bf1e38@turkey4.rarqilo.ir:4020?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.132.202
-vless://c77bef3d-4ace-4903-a76a-803e41bf1e38@turkey3.rarqilo.ir:4010?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.132.203
-vless://c77bef3d-4ace-4903-a76a-803e41bf1e38@turkeygaming.sarziva.ir:3020?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.149.242

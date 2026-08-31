@@ -1,1 +1,1 @@
-vless://b35103d0-2e12-4a3b-ab50-99f6a4fca710@212.115.103.189:56539?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cuzdan Elektronik Para Ve Odeme Hizmetleri Anonim Sirketi ┇ 212.115.103.189
+vless://b5539644-22ce-4140-96c9-9e844318ce24@212.115.103.189:56539?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cuzdan Elektronik Para Ve Odeme Hizmetleri Anonim Sirketi ┇ 212.115.103.189

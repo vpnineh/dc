@@ -1,1 +1,2 @@
-vless://478b47fb-7a04-4550-8110-5d224540da42@trl.awextr.ir:2082?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160
+vless://bfb3f06c-e33f-41ac-b101-012c8325a689@gangroot.mrgang.shop:8082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.11
+vless://a2b48922-5729-42e6-90fc-24dcb2e71529@trp.awextr.ir:2082?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.52.92.160

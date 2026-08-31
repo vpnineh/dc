@@ -1,3 +1,4 @@
 vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 89.169.55.36
 vless://Luxynet_bot@150.241.86.139:8088?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.86.139
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.137
+vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.135
+vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@logomarket.mervi.icu:443?type=tcp&security=reality&sni=logomarket.mervi.icu&fp=chrome&flow=xtls-rprx-vision&pbk=9hU6AMKLyYk7iFeX-JF_6bd5ek-0CdHmk7t38raL9T4&sid=2e11269895800a3c#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.73.194

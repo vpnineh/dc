@@ -1,1 +1,1 @@
-vless://c4d438f8-d8e2-4fc4-ad2d-df94cb2a08b2@f----r---ench.cd2-ger1.ir:2087?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.139.184
+vless://b64a552e-988a-4f45-8c07-dc4ef3416985@f----r---ench.cd2-ger1.ir:2087?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.139.184

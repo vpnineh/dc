@@ -1,2 +1,1 @@
-vless://c1eb6258-a167-401c-a511-f45b12809f7c@t.fars-remen.ir:16213?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 78.135.77.24
 vless://93ee032f-b67f-4cac-a239-da1295aec528@turk.mamadhpbot.ir:50118?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.75

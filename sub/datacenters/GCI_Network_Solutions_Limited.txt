@@ -1,2 +1,1 @@
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@public-auth.savesafe.cc:443?type=tcp&security=reality&sni=public-auth.savesafe.cc&flow=xtls-rprx-vision&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&sid=c37c2ae6f6eb0d71#GB 🇬🇧 ┇ VLESS-TCP-RLT - GCI Network Solutions Limited ┇ 82.152.223.130
 vless://6aee447d-a7f5-4aa6-be7a-5999ab69e406@digikala.topdigit.ir:34770?type=tcp&security=none#MX 🇲🇽 ┇ VLESS-TCP-NTLS - GCI Network Solutions Limited ┇ 82.152.141.23

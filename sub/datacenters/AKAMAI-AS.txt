@@ -1,0 +1,1 @@
+vless://8e7feb36-3ef5-4e70-a306-4362edd37854@shop.jarorobo.ir:443?type=tcp&security=reality&sni=www.samsungebiz.com&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&sid=f4b9e88ba8fe8d#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149

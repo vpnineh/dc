@@ -1,2 +1,2 @@
-vless://f93cffab-a048-4d60-85d7-e9dbfe0e2df8@hollowcon-c5lo.onrender.com:443?type=ws&security=tls&path=/ws/f93cffab-a048-4d60-85d7-e9dbfe0e2df8&sni=hollowcon-c5lo.onrender.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.15
-vless://f40ef9e3-ce9d-438f-a421-2b3f3361c86a@hollowcon6.onrender.com:443?type=ws&security=tls&path=/ws/f40ef9e3-ce9d-438f-a421-2b3f3361c86a&sni=hollowcon6.onrender.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.7
+vless://f93cffab-a048-4d60-85d7-e9dbfe0e2df8@hollowcon-c5lo.onrender.com:443?type=ws&security=tls&path=/ws/f93cffab-a048-4d60-85d7-e9dbfe0e2df8&sni=hollowcon-c5lo.onrender.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.7
+vless://90eacce7-8baa-49a4-be0e-eb056e0f7a01@channelhollowcon.onrender.com:443?type=ws&security=tls&path=/ws/90eacce7-8baa-49a4-be0e-eb056e0f7a01&sni=channelhollowcon.onrender.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.15

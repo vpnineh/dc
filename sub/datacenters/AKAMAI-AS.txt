@@ -1,3 +1,1 @@
-vless://2cd7a655-fa47-44b0-b16f-d04cc5b238ce@download.mehdi-cpp.ir:8087?type=tcp&security=reality&sni=www.gpuopen.com&fp=chrome&pbk=fCYufMkCWiP1pkFPgZI3-PH0PYGCTsTdRck5rLZ_fXI&sid=2040#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149
 vless://8e7feb36-3ef5-4e70-a306-4362edd37854@shop.jarorobo.ir:443?type=tcp&security=reality&sni=www.samsungebiz.com&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&sid=f4b9e88ba8fe8d#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 91.107.152.149
-vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@8.sahanwickramasinghe.me:443?type=tcp&security=tls&sni=aka.ms&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - AKAMAI-AS ┇ 139.59.124.172

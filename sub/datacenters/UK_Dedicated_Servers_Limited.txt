@@ -1,2 +1,2 @@
-vless://32349ee8-8551-45fa-a265-8704cec72936@neth.lckdwn.ru:443?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - UK Dedicated Servers Limited ┇ 193.23.194.167
-vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?type=tcp&security=tls&sni=neth.lckdwn.ru&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - UK Dedicated Servers Limited ┇ 193.23.194.167
+vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - UK Dedicated Servers Limited ┇ 193.23.194.167
+vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?type=tcp&security=tls&path=/&sni=neth.lckdwn.ru&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - UK Dedicated Servers Limited ┇ 193.23.194.167

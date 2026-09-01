@@ -1,5 +1,5 @@
+vless://cd99c747-b5ba-414d-8d31-b5466bc9e655@parr.mechanicir.ir:10694?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 104.238.189.115
 vless://4283865b-7145-44d3-9855-96298c47424d@136.244.112.46:37710?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 136.244.112.46
-vless://d51cab5a-b800-4b6d-8d9a-cf96ec86e666@frl2.mechanicir.ir:38479?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 104.238.189.115
-vless://f75f6bfb-8354-4c60-a787-ea207be9ccfa@lanl1.mechanicir.ir:38479?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.228.13
+vless://523e5056-3d47-4ddb-ae55-c1ad54990bfc@lans1.milkabebar.ir:38479?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.228.13
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDY1LjIwLjg1LjE5NCIsImFkZCI6ImNjMzUuZ29pbmdzaWRlLnNpdGUiLCJwb3J0Ijo4OTk4LCJpZCI6IjRiMDE5ZmFhLTM4YjAtNDczZC1iYzQ5LTYwYmI2ODE1MWMzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
 vless://0d3713e4-74f7-4b05-8d6a-1515913725de@neth1.mechanicir.ir:38479?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.184.229

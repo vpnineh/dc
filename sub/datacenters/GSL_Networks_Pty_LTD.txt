@@ -1,1 +1,2 @@
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.222:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GSL Networks Pty LTD ┇ 203.23.179.222
+vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GSL Networks Pty LTD ┇ 203.23.179.147

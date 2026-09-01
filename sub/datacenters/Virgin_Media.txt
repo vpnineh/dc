@@ -1,1 +1,0 @@
-vless://Telegramjoin%3ATurboConfigs%20@82.40.62.178:9090?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.40.62.178

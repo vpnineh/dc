@@ -1,4 +1,4 @@
-vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?type=ws&security=none&path=/fd5ba98a3970#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.20
-vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?type=ws&security=none&path=/5c62e3c616d8#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.37
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.15:2083?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Deutsche Telekom AG ┇ 82.24.203.15
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Deutsche Telekom AG ┇ 82.24.203.174
+vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087?type=ws&security=none&path=/3bfc3e3ed603#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.10
+vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?type=ws&security=false&path=/fd5ba98a3970&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.20
+vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?type=ws&security=none&path=/5c62e3c616d8#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 82.24.203.37

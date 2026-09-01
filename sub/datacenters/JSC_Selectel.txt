@@ -1,2 +1,1 @@
-vless://2c66d559-9889-45c5-a712-d8b7a31fa04d@87.228.122.106:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - JSC Selectel ┇ 87.228.122.106
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - JSC Selectel ┇ 87.228.122.108

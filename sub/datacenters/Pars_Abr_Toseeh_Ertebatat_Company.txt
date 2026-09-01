@@ -1,1 +1,0 @@
-vless://bdc88354-fbc5-46d9-9462-289accca4d93@81.12.35.185:5002?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Pars Abr Toseeh Ertebatat Company ┇ 81.12.35.185

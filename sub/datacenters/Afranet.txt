@@ -1,1 +1,0 @@
-vless://54d1237a-4da0-4623-9afb-bc6e229acfff@81.12.35.185:5003?type=tcp&security=tls&sni=afr-data-16.myket.ir#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 81.12.35.185

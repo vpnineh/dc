@@ -1,2 +1,1 @@
-vless://888ace32-07d3-4000-b6c2-1268d9715f1b@neo.harmira.ir:2364?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.184.199
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@varzesh3.com:2096?type=ws&security=tls&path=/&sni=Sha.artarona.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanava Group ┇ 185.143.233.238

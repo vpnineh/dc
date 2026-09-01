@@ -1,4 +1,1 @@
-vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@144.31.106.40:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.106.40
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
-vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@144.31.224.72:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.224.72
-vless://d31aefb3-775b-4e87-a093-a4677addf10a@144.31.140.127:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.140.127
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104

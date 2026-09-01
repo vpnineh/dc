@@ -1,2 +1,0 @@
-vless://2ebd4c15-8aeb-4789-be11-4d119fb634d3@t1.syslogd.ir:9093?type=ws&security=none&path=/api/v2/com.trezor.io?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.81.202
-vless://2ebd4c15-8aeb-4789-be11-4d119fb634d3@t3.syslogd.ir:9093?type=ws&security=none&path=/api/v2/com.trezor.io?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 81.12.56.13

@@ -1,11 +1,10 @@
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.19
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.233
-vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?type=ws&security=none&path=/755276b33b6f#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 189.74.97.47
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@gd-0z.whit3.net:443?type=tcp&security=reality&sni=gd-0z.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=I81tkGsfVOK0JNnjsHRluXcXI-DyV_4mLQ4e8QJuSxU&sid=d7d38e70e3362842#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.212.189
 vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.53
-vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 200.165.234.62
+vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?type=ws&security=none&path=/755276b33b6f#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 189.74.97.47
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.69
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.233
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.19
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 200.165.234.119
 vless://6d662736-24ea-4f8e-9e73-acbc14d09cb1@201.24.49.213:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.213
-vless://09f2e2f4-3225-4342-bc92-cb58ee841f72@201.24.49.228:2200?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.228
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@gd-0z.whit3.net:443?type=tcp&security=reality&sni=gd-0z.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=I81tkGsfVOK0JNnjsHRluXcXI-DyV_4mLQ4e8QJuSxU&sid=d7d38e70e3362842#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.212.189
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.49.69
 vless://d46b4fca-2352-4557-a6d5-e8c45b27618c@201.24.124.99:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.24.124.99
+vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 200.165.234.62

@@ -1,4 +1,5 @@
-vless://c4ee7a89-eb01-462c-84d2-67e3fcdd5812@myleto.orangesms.ir:61169?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.154.212
+vless://2c4cac92-371b-4f8b-bec4-7d003fe257de@myleto.orangesms.ir:61169?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.154.212
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.232.100
 vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuMTUuMTguMjkiLCJhZGQiOiJuZWtvbmtvci52ZWxtb3IueHl6IiwicG9ydCI6NzA4OCwiaWQiOiIxYzQ2ZTdlZS1iYTAxLTRkM2QtODYyNS03NzUyMjUzZjcwYWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://d5948eae-ef1b-45e4-81aa-d27076b56530@95.182.114.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.74

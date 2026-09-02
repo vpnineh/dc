@@ -1,0 +1,1 @@
+vless://26b5d88d-098a-4a68-9996-ef1860f906e2@kurdnet.kurdmarivanzaribar.xyz:443?type=ws&security=tls&path=/&sni=kurdnet.kurdmarivanzaribar.xyz&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 82.40.62.197

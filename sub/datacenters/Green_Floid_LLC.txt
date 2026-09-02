@@ -1,3 +1,1 @@
-vless://e459d26c-0957-4695-b1ac-0719e8df64f6@82.118.20.109:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 82.118.20.109
 vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?type=tcp&security=reality#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 82.118.18.224
-vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?type=tcp&security=reality#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.64.242

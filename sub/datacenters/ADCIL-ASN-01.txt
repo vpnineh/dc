@@ -1,2 +1,2 @@
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.157.104
-vless://2569614f-879b-43de-9cd9-9bb304b68856@get4s.skystreamgame.com:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.179.21
+vless://2569614f-879b-43de-9cd9-9bb304b68856@get4s.skystreamgame.com:8443?type=tcp&security=reality&sni=get4s.skystreamgame.com&flow=xtls-rprx-vision&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.179.21

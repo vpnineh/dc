@@ -1,7 +1,4 @@
-vless://f13ec484-0d6f-468b-a683-9b7b22770446@153.75.88.69:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.88.69
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.88.69
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.88.69
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.88.69
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5DUi0yNTIgXHUyNTA3IDE1My41Mi45Mi4yMTciLCJhZGQiOiJ0cjQuYXNhc2luNS5pciIsInBvcnQiOjExMCwiaWQiOiI0MGZlOThhYS02NDAyLTQzNjAtODUzNi0yYWJmZjVkYzJjMjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://f13ec484-0d6f-468b-a683-9b7b22770446@153.75.88.69:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.88.69
-vless://40fe98aa-6402-4360-8536-2abff5dc2c23@tr4.asasin5.ir:49529?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - NCR-252 ┇ 153.52.92.217
-vless://40fe98aa-6402-4360-8536-2abff5dc2c23@tr4.asasin5.ir:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - NCR-252 ┇ 153.52.92.217
-vless://8c2c4ddd-26c1-43e9-8c1a-557c50762adc@153.75.88.69:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.75.88.69
-vless://40fe98aa-6402-4360-8536-2abff5dc2c23@tr4.asasin5.ir:555?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - NCR-252 ┇ 153.52.92.217

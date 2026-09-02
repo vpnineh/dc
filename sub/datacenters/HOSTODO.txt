@@ -1,3 +1,4 @@
-vless://c63d2c0f-786d-49ff-9891-f63bd1ac58d7@45.59.126.91:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HOSTODO ┇ 45.59.126.91
+vless://a4efbdb6-b72e-411d-b516-59919045957c@45.59.126.91:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HOSTODO ┇ 45.59.126.91
 vless://a4efbdb6-b72e-411d-b516-59919045957c@45.59.126.91:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HOSTODO ┇ 45.59.126.91
-vless://a4efbdb6-b72e-411d-b516-59919045957c@45.59.126.91:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HOSTODO ┇ 45.59.126.91
+vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:110?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HOSTODO ┇ 45.59.126.91
+vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:17622?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HOSTODO ┇ 45.59.126.91

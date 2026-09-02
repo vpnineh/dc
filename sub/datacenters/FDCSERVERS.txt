@@ -1,1 +1,0 @@
-vless://2f600710-9f4e-4eab-8de1-89f60a878e55@app17.jarvestip.ru:443?type=tcp&security=reality&sni=app17.jarvestip.ru&fp=chrome&flow=xtls-rprx-vision&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.193.134

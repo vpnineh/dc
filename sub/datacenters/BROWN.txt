@@ -1,1 +1,0 @@
-vless://f980aecd-d243-4910-b231-db172d434541@ne1385.cdn-video.pro:443?type=grpc&security=tls&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - BROWN ┇ 138.16.140.5

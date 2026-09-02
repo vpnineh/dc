@@ -1,1 +1,2 @@
+vless://99e5e9a0-1c6b-4cb0-805d-a810fd47eb15@185.69.123.106:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 185.69.123.106
 vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?type=ws&security=none&path=/5adeccb9#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 157.238.208.110

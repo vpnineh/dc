@@ -1,1 +1,2 @@
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?type=ws&security=none&path=/v1#GR 🇬🇷 ┇ VLESS-WS-NTLS - Jsc timeweb ┇ 83.147.246.153
+vless://bd7501b8-5c29-4b4d-a060-76446349c835@bz11.wba-pn.ru:2053?type=ws&security=tls&path=/&sni=bz11.wba-pn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 62.113.37.80

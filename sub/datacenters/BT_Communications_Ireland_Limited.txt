@@ -1,1 +1,0 @@
-vless://9f57df7b-0a59-4e6b-bbda-e6ce44619869@78.17.38.184:8443?type=tcp&security=reality#IE 🇮🇪 ┇ VLESS-TCP-RLT - BT Communications Ireland Limited ┇ 78.17.38.184

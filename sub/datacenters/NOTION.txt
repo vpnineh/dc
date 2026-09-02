@@ -1,1 +1,1 @@
-vless://2cf79e40-74fe-4de9-ae0e-e496620a09a6@mtn.v2plus.ovh:80?type=ws&security=false&path=/BMnajv3ovlpn8Abs&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - NOTION ┇ 208.103.161.33
+vless://4ee7a384-4312-4dcb-8043-2ae51a15252d@mtn.v2plus.ovh:80?type=ws&security=false&path=/yEehdR6POSWwzRXP&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - NOTION ┇ 208.103.161.33

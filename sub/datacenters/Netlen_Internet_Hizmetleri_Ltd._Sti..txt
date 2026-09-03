@@ -1,2 +1,0 @@
-vless://e4ad688b-9a6c-4ab2-8500-4ef7df01674c@turky.iranstoresf.ir:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 77.92.151.87
-vless://e4ad688b-9a6c-4ab2-8500-4ef7df01674c@turky.iranstoresf.ir:51336?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 77.92.151.87

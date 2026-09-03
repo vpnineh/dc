@@ -1,2 +1,1 @@
 vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.202.115:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - NovoServe B.V. ┇ 89.105.202.115
-vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@n4.steptofsvo.com:11443?type=xhttp&security=none&path=/my-bucket#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - NovoServe B.V. ┇ 89.105.208.108

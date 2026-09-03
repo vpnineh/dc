@@ -1,0 +1,3 @@
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@som7.api3-max.ru:443?type=tcp&security=tls&sni=som7.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC RTComm.RU ┇ 147.45.61.193
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@som3.api3-max.ru:443?type=tcp&security=tls&sni=som3.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC RTComm.RU ┇ 147.45.61.188
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@som9.api3-max.ru:443?type=tcp&security=tls&sni=som9.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC RTComm.RU ┇ 147.45.61.195

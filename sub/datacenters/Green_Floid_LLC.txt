@@ -1,1 +1,2 @@
-vless://aa6b9a9d-84d4-49e5-93f7-90404b112634@italyyyyy.banibus.ir:1280?type=ws&security=none&path=/?ed=1024#UA 🇺🇦 ┇ VLESS-WS-NTLS - Green Floid LLC ┇ 46.28.68.202
+vless://2e8077d9-7bd9-444b-b2e3-de940d2eb35e@45.90.58.216:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 45.90.58.216
+vless://e459d26c-0957-4695-b1ac-0719e8df64f6@82.118.20.109:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 82.118.20.109

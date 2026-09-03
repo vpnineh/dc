@@ -1,0 +1,1 @@
+vless://1579e32d-3322-4909-aa6c-61dec0a32344@sp.speedit.ir:2445?type=ws&security=tls&path=/fgfdc&sni=sp.speedit.ir&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - Iomart Cloud Services Limited ┇ 185.214.101.100

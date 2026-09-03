@@ -1,1 +1,0 @@
-vless://030bc293-1c0e-483c-a65f-0f73c0672bcd@31.15.17.68:18106?type=xhttp&security=reality&path=/&sni=qa.semiconductor.samsung.com&fp=chrome&pbk=rvA6u4hehkRSWsR7S6CXK-A0aBFlYqcCRsPJPYP1izQ&sid=637082fe#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 31.15.17.68

@@ -1,0 +1,1 @@
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-us.upd-media.com:443?type=tcp&security=reality&sni=api-us.upd-media.com&fp=chrome&flow=xtls-rprx-vision&pbk=T5Dj3GB5C8gtZ4H8x_eS0aZXik-8Yqzyi3F1AEmM4zE&sid=f3a9d24f68#GB 🇬🇧 ┇ VLESS-TCP-RLT - CharterDigital Ltd ┇ 217.177.75.93

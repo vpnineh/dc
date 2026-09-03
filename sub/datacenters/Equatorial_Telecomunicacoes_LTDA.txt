@@ -1,1 +1,0 @@
-vless://bfb3f06c-e33f-41ac-b101-012c8325a689@206.1.96.52:8082?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.96.52

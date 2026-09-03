@@ -1,3 +1,3 @@
-vless://1579e32d-3322-4909-aa6c-61dec0a32344@sp.speedit.ir:2445?type=ws&security=tls&path=/fgfdc&sni=sp.speedit.ir&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - Iomart Cloud Services Limited ┇ 185.214.101.100
-vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 109.169.84.94
+vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 95.154.196.63
+vless://16529590-1702-4e7d-90d8-e64f4e18c1e2@109.169.84.94:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 109.169.84.94
 vless://6b8fe542-f1d9-47cb-97d4-14aa52287879@5.152.223.115:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 5.152.223.115

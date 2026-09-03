@@ -1,3 +1,2 @@
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&security=tls#RU 🇷🇺 ┇ VLESS-GRPC-TLS - PUREVOLTAGE-INC ┇ 45.138.100.226
 vless://d3b59f6e-fab9-46ca-afec-bc240c4899f9@193.233.136.157:64584?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - PUREVOLTAGE-INC ┇ 193.233.136.157
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@som1.api3-max.ru:443?type=tcp&security=tls&sni=som1.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 193.233.82.32
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&security=tls#RU 🇷🇺 ┇ VLESS-GRPC-TLS - PUREVOLTAGE-INC ┇ 45.138.100.226

@@ -1,3 +1,1 @@
 vless://4c4b644f-10ab-41b6-8067-bdebeaf28733@nl-server-1.zelnora.ir:22189?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Tube-Hosting ┇ 176.120.17.105
-vless://f04828df-7021-44b3-8019-9db3a5a20cd6@176.120.17.126:54752?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Tube-Hosting ┇ 176.120.17.126
-vless://f04828df-7021-44b3-8019-9db3a5a20cd6@176.120.17.126:27725?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Tube-Hosting ┇ 176.120.17.126

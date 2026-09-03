@@ -1,1 +1,0 @@
-vless://01e4f6b0-acfa-4cac-a39d-6779d85eba65@tr.s.hardvezoo.ir:2052?type=httpupgrade&security=none&path=/#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Murat Aktas ┇ 188.132.174.212

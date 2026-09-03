@@ -1,2 +1,1 @@
-vless://307998ce-9dc2-473b-81bb-6c359817df5c@185.185.69.251:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Sprinthost.ru LLC ┇ 185.185.69.251
 vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Sprinthost.ru LLC ┇ 185.185.69.26

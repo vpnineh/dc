@@ -1,1 +1,0 @@
-vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Iksir Internet Hizmetleri A.S. ┇ 185.123.100.56

@@ -1,1 +1,1 @@
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@panel.freesavesafe.com:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=chrome&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c58fb#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Orange ┇ 213.130.137.80
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@panel.freesavesafe.com:443?type=xhttp&security=reality&path=/?v2rayNplus--v2rayNplus--v2rayNplus&sni=panel.freesavesafe.com&fp=chrome&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c58fb#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Orange ┇ 213.130.137.130

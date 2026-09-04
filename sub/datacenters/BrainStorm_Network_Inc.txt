@@ -1,2 +1,1 @@
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?type=grpc&security=none#GR 🇬🇷 ┇ VLESS-GRPC-NTLS - BrainStorm Network, Inc ┇ 185.126.238.87
-vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@it.monkora.org:443?type=tcp&security=reality&sni=it.monkora.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#IT 🇮🇹 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.213.20.133

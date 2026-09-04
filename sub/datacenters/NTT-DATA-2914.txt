@@ -1,3 +1,1 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.26.238
-vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?type=ws&security=false&path=/5adeccb9&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 157.238.208.110
 vless://84da6391-1539-4583-a3d9-d6efd796b4d6@130.94.29.111:2087?type=ws&security=none&path=/e17586a75123#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 130.94.29.111

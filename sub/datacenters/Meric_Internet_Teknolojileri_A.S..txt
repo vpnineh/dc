@@ -1,2 +1,1 @@
-vless://f6daccb5-1ac5-4c4d-b7b8-ac9c3c716c20@www.dd.mobilesari.ir:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Meric Internet Teknolojileri A.S. ┇ 212.87.198.241
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1lcmljIEludGVybmV0IFRla25vbG9qaWxlcmkgQS5TLiBcdTI1MDcgMjEyLjg3LjE5OC4yMDYiLCJhZGQiOiJ0cjIucGkxMC5pciIsInBvcnQiOjEzMzAxLCJpZCI6IjExM2FlNjFiLWQ2ZGEtNGQwOC05MjIxLTQ4NTk1Y2I4NDM2YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ

@@ -1,1 +1,0 @@
-vless://6b8fe542-f1d9-47cb-97d4-14aa52287879@5.152.223.115:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 5.152.223.115

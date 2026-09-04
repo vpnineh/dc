@@ -1,3 +1,4 @@
 vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 185.125.103.109
+vless://d3b59f6e-fab9-46ca-afec-bc240c4899f9@46.226.162.172:64584?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 46.226.162.172
 vless://675ee872-adb2-4c66-8358-bd360259311f@79.137.199.40:9090?type=xhttp&security=none&path=/&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - Aeza International Ltd ┇ 79.137.199.40
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.137
+vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.72.135

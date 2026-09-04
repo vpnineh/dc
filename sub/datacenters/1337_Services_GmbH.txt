@@ -1,1 +1,1 @@
-vless://935ed92d-68c3-42c7-8c32-2db2595737e6@histo.medic-ml.ru:443?type=xhttp&security=reality&path=/api/v2/telemetry&sni=histo.medic-ml.ru&fp=qq&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e#US 🇺🇸 ┇ VLESS-XHTTP-RLT - 1337 Services GmbH ┇ 124.198.132.223
+vless://935ed92d-68c3-42c7-8c32-2db2595737e6@histo.medic-ml.ru:443?type=tcp&security=none&path=/api/v2/telemetry#US 🇺🇸 ┇ VLESS-TCP-NTLS - 1337 Services GmbH ┇ 124.198.132.223

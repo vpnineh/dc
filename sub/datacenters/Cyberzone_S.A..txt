@@ -1,1 +1,0 @@
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@alca.foff.ch:443?type=tcp&security=reality&sni=alca.foff.ch&fp=chrome&flow=xtls-rprx-vision&pbk=BS25qHJWxx0kqrcrnA41jOx9HSZTyRVs9tLx-R66oQ4&sid=9a8df4ee3fdf#US 🇺🇸 ┇ VLESS-TCP-RLT - Cyberzone S.A. ┇ 93.152.220.203

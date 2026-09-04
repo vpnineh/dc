@@ -1,1 +1,1 @@
-vless://b487f9b9-904b-4d47-9a0b-f00b046fb7d1@route-3.s1n4-nexu.ir:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.34
+vless://d3022533-50fa-4770-9332-c6423ee48818@f----r---ench.cd2-ger1.ir:2087?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.139.184

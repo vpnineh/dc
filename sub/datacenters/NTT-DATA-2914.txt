@@ -1,1 +1,0 @@
-vless://84da6391-1539-4583-a3d9-d6efd796b4d6@130.94.29.111:2087?type=ws&security=false&path=/e17586a75123&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 130.94.29.111

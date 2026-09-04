@@ -1,3 +1,4 @@
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@axial.medic-ml.ru:443?type=xhttp&security=reality&path=/api/v2/telemetry&sni=axial.medic-ml.ru&fp=chrome&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - IPXO ┇ 95.85.247.98
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@95.85.232.112:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.232.112
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.224.3

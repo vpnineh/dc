@@ -1,1 +1,1 @@
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?type=tcp&security=reality&sni=api-de.data-media-social.org&fp=chrome&flow=xtls-rprx-vision&pbk=7X8ifHa-K72alW7ly5SRYwotXdjA-gEQoEGUK1EagVM&sid=f3c4d918e7c4f744#US 🇺🇸 ┇ VLESS-TCP-RLT - CENIC-2152 ┇ 130.17.6.235
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - CENIC-2152 ┇ 130.17.6.235

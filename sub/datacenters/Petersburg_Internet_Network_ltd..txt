@@ -1,1 +1,1 @@
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@yt-ads.adsmoba.com:443?type=tcp&security=reality&sni=yt-ads.adsmoba.com&fp=chrome&flow=xtls-rprx-vision&pbk=dAy-eqrUvXDYAIrhrYIqSThjAhbxSt7qMRdH30qm3X8&sid=f3a9d2b4c7e4f208#RU 🇷🇺 ┇ VLESS-TCP-RLT - Petersburg Internet Network ltd. ┇ 5.8.52.96
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@yt-ads.adsmoba.com:443?type=tcp&security=reality&sni=yt-ads.adsmoba.com&fp=safari&flow=xtls-rprx-vision&pbk=dAy-eqrUvXDYAIrhrYIqSThjAhbxSt7qMRdH30qm3X8&sid=f3a9d2b4c7e4f208#RU 🇷🇺 ┇ VLESS-TCP-RLT - Petersburg Internet Network ltd. ┇ 5.8.52.96

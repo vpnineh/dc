@@ -1,2 +1,0 @@
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?type=tcp&security=reality&sni=www.amd.com&fp=chrome&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=5caa2ef81132c306#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 31.76.80.69
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?type=xhttp&security=reality&path=/&sni=www.amd.com&fp=chrome&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=29b21343ab4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 31.76.80.69

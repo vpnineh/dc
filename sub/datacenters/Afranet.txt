@@ -1,0 +1,1 @@
+vless://09e90d43-f7de-48ef-947f-c584144f75d9@uae1-ravannet-dl-persianmusics.xirnaro.ir:20588?type=ws&security=tls&path=/api/v2/movies/download/&sni=uae1-ravannet-dl-persianmusics.xirnaro.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 79.175.134.231

@@ -1,1 +1,0 @@
-vless://2a0f8d3d-9b53-4173-9a32-ac7dcf51963b@cdnpol6.pguard.pro:443?type=xhttp&security=tls&path=/api/uploadFile/&sni=cdnpol6.pguard.pro&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

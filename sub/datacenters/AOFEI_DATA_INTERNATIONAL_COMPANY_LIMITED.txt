@@ -1,1 +1,1 @@
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@cdg.quicksavesafe.com:443?type=xhttp&security=reality&sni=cdg.quicksavesafe.com&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&sid=62b6d6e64d461d78#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - AOFEI DATA INTERNATIONAL COMPANY LIMITED ┇ 31.185.105.9
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@cdg.quicksavesafe.com:443?type=xhttp&security=reality&path=/&sni=cdg.quicksavesafe.com&fp=chrome&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&sid=62b6d6e64d461d78#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - AOFEI DATA INTERNATIONAL COMPANY LIMITED ┇ 31.185.105.9

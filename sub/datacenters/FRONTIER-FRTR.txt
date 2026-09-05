@@ -1,0 +1,1 @@
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@aesp.upd-media.com:443?type=tcp&security=reality&sni=aesp.upd-media.com&fp=chrome&flow=xtls-rprx-vision&pbk=_ileup_YdEL-hwQfw0y53sk19WagtvhBqqzlI6zlZFY&sid=f3c4d9b8e7e4f744#US 🇺🇸 ┇ VLESS-TCP-RLT - FRONTIER-FRTR ┇ 194.154.28.38

@@ -1,4 +1,4 @@
-vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@pets.whit3.net:443?type=tcp&security=reality&sni=pets.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=EOItkaiTnj916HzlichxGN4zXFBlESqtu_O6K-ygBk8&sid=dcbc82a5a2680dad#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.254.115.116
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.34.137.15
 vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?type=ws&security=false&path=/755276b33b6f&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 189.74.97.47
 vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@idontknow.whit3.net:443?type=tcp&security=reality&sni=idontknow.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&sid=ca9273f1a19a886e#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.215.41
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?type=ws&security=none&path=/v1#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 201.34.137.15
+vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@pets.whit3.net:443?type=tcp&security=reality&sni=pets.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=EOItkaiTnj916HzlichxGN4zXFBlESqtu_O6K-ygBk8&sid=dcbc82a5a2680dad#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.254.115.116

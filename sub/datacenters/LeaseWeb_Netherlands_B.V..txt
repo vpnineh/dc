@@ -1,6 +1,7 @@
+vless://d7430ae7-320c-4658-808b-3006d0627d82@mint.ubuntuhosting.host:443?type=grpc&security=reality&sni=mint.ubuntuhosting.host&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#NL 🇳🇱 ┇ VLESS-GRPC-RLT - LeaseWeb Netherlands B.V. ┇ 85.17.61.196
 vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?type=ws&security=none&path=/sync#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.201
-vless://d7430ae7-320c-4658-808b-3006d0627d82@mx.ubuntuhosting.host:443?type=grpc&security=reality&sni=mx.ubuntuhosting.host&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#NL 🇳🇱 ┇ VLESS-GRPC-RLT - LeaseWeb Netherlands B.V. ┇ 95.211.164.115
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://d7430ae7-320c-4658-808b-3006d0627d82@mx.ubuntuhosting.host:443?type=grpc&security=reality&sni=mx.ubuntuhosting.host&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#NL 🇳🇱 ┇ VLESS-GRPC-RLT - LeaseWeb Netherlands B.V. ┇ 95.211.164.115
 vless://0389f39c-0187-4331-8ed7-2211f0413afc@mtn2.6.6.6.6.divar.ir.hamrahaval.fun:9001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 89.149.242.118
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
-vless://d7430ae7-320c-4658-808b-3006d0627d82@mint.ubuntuhosting.host:443?type=grpc&security=reality&sni=mint.ubuntuhosting.host&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#NL 🇳🇱 ┇ VLESS-GRPC-RLT - LeaseWeb Netherlands B.V. ┇ 85.17.61.196
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?type=ws&security=none&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65

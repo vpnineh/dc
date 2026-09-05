@@ -1,4 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAxNzEuMjIuMTM0LjEyIiwiYWRkIjoiMTcxLjIyLjEzNC4xMiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwidGxzIjoidGxzIn0
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2083?type=grpc&security=tls&sni=usejh2.neobo-tooth.ru#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
-vless://d3022533-50fa-4770-9332-c6423ee48818@i---s---r---a.cd2-ger1.ir:2087?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 92.118.124.45
+vless://01ce1507-0197-4261-9b91-1baab455dd7f@i---s---r---a.cd2-ger1.ir:2087?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 92.118.124.45

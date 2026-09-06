@@ -1,7 +1,5 @@
-vless://c910cbe3-fd60-460d-a6a5-435ec333a107@cd4ac25848d0f349.zula.mtn.6.6.6.6.divar.ir.blubank.biz.id:9004?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 89.149.242.118
-vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?type=ws&security=none&path=/sync#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.201
-vless://c910cbe3-fd60-460d-a6a5-435ec333a107@9c95a8976a3bf160.zula.mtn.6.6.6.6.divar.ir.blubank.biz.id:9002?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 89.149.242.118
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
+vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://0389f39c-0187-4331-8ed7-2211f0413afc@mtn2.6.6.6.6.divar.ir.hamrahaval.fun:9001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 89.149.242.118
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?type=ws&security=none&path=/sync#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.201
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65

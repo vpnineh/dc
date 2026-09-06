@@ -1,0 +1,1 @@
+vless://814a6b74-8ed1-4597-bc30-5ed9f9c6ede1@s---t---o.cd2-ger1.ir:2087?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.168.136

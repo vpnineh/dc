@@ -1,1 +1,1 @@
-vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@bulgauryexi.horlutr.ir:2087?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 91.227.77.126
+vless://01ce1507-0197-4261-9b91-1baab455dd7f@b---u----l.cd2-ger1.ir:2087?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 91.227.77.126

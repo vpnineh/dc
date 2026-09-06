@@ -1,1 +1,1 @@
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@xs13.mcufa.pro:443?type=xhttp&security=tls&path=/api/v1/minecraft178/sync/&sni=xs13.mcufa.pro&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@xs13.mcufa.pro:443?type=xhttp&security=tls&path=/api/v1/minecraft178/sync/&sni=xs13.mcufa.pro&fp=firefox#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

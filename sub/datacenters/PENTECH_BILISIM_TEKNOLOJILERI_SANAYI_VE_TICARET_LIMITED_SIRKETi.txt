@@ -1,1 +1,0 @@
-vless://df9f5aca-eda0-428f-a752-e53866153d12@srv-21bac9.vless.monster:2087?type=grpc&security=tls&sni=srv-21bac9.vless.monster&fp=chrome#TR 🇹🇷 ┇ VLESS-GRPC-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.189.27

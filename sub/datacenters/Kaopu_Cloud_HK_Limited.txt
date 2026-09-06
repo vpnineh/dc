@@ -1,4 +1,2 @@
 vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?type=ws&security=false&path=/d1000b16fe76&fp=chrome#EG 🇪🇬 ┇ VLESS-WS-NTLS - Kaopu Cloud HK Limited ┇ 38.54.59.209
 vless://8a346b7c-5b95-4845-affa-0e5d9929e9ae@38.60.168.98:2087?type=ws&security=false&path=/db55c40bbc75&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-NTLS - Kaopu Cloud HK Limited ┇ 38.60.168.98
-vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1OT05FLU5UTFMgLSBLYW9wdSBDbG91ZCBISyBMaW1pdGVkIFx1MjUwNyAxMTkuNDYuNTEuNDUiLCJhZGQiOiIxMTkuNDYuNTEuNDUiLCJwb3J0IjozNzUxNSwiaWQiOiI5Yjc2YmMzMS0xN2E1LTQ0NTQtOTM0YS04ZDVmYjYwMmNkNzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJub25lIn0
-vless://746d16a2-c2c0-4829-a6ce-47a5aa28d19d@pturk1.plasdomain.ir:53147?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.255.111

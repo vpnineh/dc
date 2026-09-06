@@ -1,0 +1,1 @@
+vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?type=tcp&security=reality&sni=fr2.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=6ed1d644822b2951#FR 🇫🇷 ┇ VLESS-TCP-RLT - PETROSKY ┇ 83.136.211.28

@@ -1,1 +1,0 @@
-vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@usa-fd013f.atlanta-api.com:443?type=tcp&security=tls&sni=usa-fd013f.atlanta-api.com&fp=edge#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 76.164.200.157

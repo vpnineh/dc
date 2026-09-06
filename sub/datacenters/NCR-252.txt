@@ -1,1 +1,2 @@
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@de.routeliora.ru:7443?type=tcp&security=reality&sni=de.routeliora.ru&fp=chrome&flow=xtls-rprx-vision&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&sid=a1b2c3d4#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.228.209
 vless://30980395-1884-483f-95d1-2b7c26928e3c@trpsg20.horlutr.ir:11437?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.92.239

@@ -1,5 +1,6 @@
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.198:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.198
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.161:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.161
-vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.140:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.140
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.224
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?type=ws&security=false&path=/8f2690e2d016&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.245
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.181:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.181
-vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.224
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.140:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.67.140

@@ -1,8 +1,6 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl5.moritech.net:443?type=tcp&security=tls&sni=pl5.moritech.net&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.90
+vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@plot.whit3.net:443?type=tcp&security=reality&sni=plot.whit3.net&fp=chrome&flow=xtls-rprx-vision&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.207.4
 vless://2569614f-879b-43de-9cd9-9bb304b68856@get4s.skystreamgame.com:8443?type=tcp&security=reality&sni=get4s.skystreamgame.com&flow=xtls-rprx-vision&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.179.21
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn8.qemitra.ir:443?type=ws&security=tls&path=/happy-2026-winter#US 🇺🇸 ┇ VLESS-WS-TLS - ADCIL-ASN-01 ┇ 144.225.65.97
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?type=tcp&security=tls&sni=pl4.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.3
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?type=tcp&security=tls&sni=pl6.moritech.net&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.64
-vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@nice-route-nl.whit3.net:443?type=tcp&security=reality&sni=nice-route-nl.whit3.net&fp=firefox&flow=xtls-rprx-vision&pbk=yQb5Voem4MhNkHbRCvyP_taag5WWOpsLr3Si39gF-k4&sid=be3555d6fe118927#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.158.68
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?type=tcp&security=tls&sni=pl3.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.33
-vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@plot.whit3.net:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.207.4
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?type=tcp&security=tls&sni=pl4.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.3
+vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@nice-route-nl.whit3.net:443?type=tcp&security=reality&sni=nice-route-nl.whit3.net&fp=firefox&flow=xtls-rprx-vision&pbk=yQb5Voem4MhNkHbRCvyP_taag5WWOpsLr3Si39gF-k4&sid=be3555d6fe118927#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.158.68
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?type=tcp&security=tls&sni=pl6.moritech.net&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.64

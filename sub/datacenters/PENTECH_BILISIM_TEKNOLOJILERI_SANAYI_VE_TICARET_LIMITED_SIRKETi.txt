@@ -1,1 +1,2 @@
 vless://df9f5aca-eda0-428f-a752-e53866153d12@srv-21bac9.vless.monster:2087?type=grpc&security=tls&sni=srv-21bac9.vless.monster&fp=chrome#TR 🇹🇷 ┇ VLESS-GRPC-TLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.189.27
+vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@mg-42.whit3.net:443?type=tcp&security=reality&sni=mg-42.whit3.net&fp=firefox&flow=xtls-rprx-vision&pbk=nNg-TAbG5N2ZU2q2esoguL7gOIgcGu4iJ4BASrP5BFI&sid=08e09895b90eea7a#TR 🇹🇷 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.187.193

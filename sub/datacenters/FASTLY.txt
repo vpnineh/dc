@@ -1,27 +1,29 @@
-vless://1fe034be-053b-4077-8272-d361ab9c8745@146.75.119.82:80?type=ws&security=none&path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.119.82
+vless://2664d339-b5c1-4250-a391-8529a4a84b1c@146.75.119.82:80?type=ws&security=none&path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.119.82
 vless://3a8b70f1-0848-43b2-89d6-53ef23f62563@151.101.110.219:80?type=ws&security=none&path=/api#JP 🇯🇵 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.110.219
-vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?type=xhttp&security=none&path=/-AzV2ry?ed=2056#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.79.229
-vless://9866995e-7225-4919-8de8-19a3f941c4d4@zmaoz.faculty.ucdavis.edu:443?type=ws&security=tls&path=/@custom_config?ed=2560&sni=Zmaoz.Faculty.Ucdavis.Edu&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.38.228
-vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?type=xhttp&security=none&path=/xhttp#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.78.159
-vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.25.242
-vless://aa9aafdb-531d-4b72-8ad0-66ad9b226749@live.theworldwidewolf.com:80?type=xhttp&security=none&path=/vpnon4u#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 146.75.38.133
-vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.195.244:40792?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=CkuULNczLmaVd-vabRfj3UpPd__M7BlrXivZ728Toyg&sid=181892012d959b41#US 🇺🇸 ┇ VLESS-TCP-RLT - FASTLY ┇ 5.75.195.244
-vless://fe0de9ee-7e0b-4f93-8d11-abe860b9aae1@bounded-crammed.video-streams.org:443?type=ws&security=tls&path=/ws&sni=bounded-crammed.video-streams.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.37.242
-vless://abe29339-9ac1-48be-bc47-00d81c0a3019@151.101.192.223:80?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.192.223
-vless://d8b3f1c4-94c7-423e-a03a-bfa7f6af0ea1@151.101.56.9:80?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.56.9
-vless://3bd2eb83-ca98-4b03-bdf7-bbf6d33d0abd@grimness-backlogs.cdn-content.com:443?type=ws&security=tls&path=/ws&sni=grimness-backlogs.cdn-content.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.29.242
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.2.219
-vless://4dc21709-acf8-4b95-9857-cae726342929@151.101.3.8:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.3.8
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?type=xhttp&security=none&path=/login#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.65.57
-vless://caf0d393-101a-4ac6-81e4-172fd8f87f5b@zmaoz.faculty.ucdavis.edu:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 146.75.38.228
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5My41NyIsImFkZCI6IjE1MS4xMDEuMTkzLjU3IiwicG9ydCI6ODAsImlkIjoiYjdkYWUyMTEtNzQ3Mi00OGJmLTk5NmMtNTdkNjUzOGQxZWY0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoid3MvP2VkPTIwNDgifQ
-vless://424c2031-1add-4063-8fc0-d57dc8358b21@151.101.0.155:80?type=tcp&security=none&path=/de?ed=1048#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.0.155
 vless://InternetAzadRobot@151.101.1.57:80?type=xhttp&security=none&path=/TignaliSWithYou#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.1.57
-vless://b18410c3-4bd6-4a99-838a-5907da83d32e@manage.fastly.com:80?type=xhttp&security=none&path=/?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 146.75.30.36
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuMTkyLjE0NCIsImFkZCI6Imdvdi51ayIsInBvcnQiOjQ0MywiaWQiOiI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvNzc4NDg4MjQiLCJ0bHMiOiJ0bHMifQ
-vless://4c027fc2-adb0-44e5-9e40-33a8d6c83a4a@hajlab.ucdavis.edu:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.2.228
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 146.75.37.194
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNDYuNzUuMzguMTMzIiwiYWRkIjoibGl2ZS50aGV3b3JsZHdpZGV3b2xmLmNvbSIsInBvcnQiOjgwLCJpZCI6IjU2NzUwNTBhLWE1YjAtNDc0OC1iZTQ2LWM0NTY3ZTVkNGQyNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://InternetAzadRobot@fastly.com:80?type=xhttp&security=none&path=/tofan#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.193.57
-vless://InternetAzadRobot-AliKiller@151.101.129.57:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.129.57
+vless://3bd2eb83-ca98-4b03-bdf7-bbf6d33d0abd@bounded-crammed.video-streams.org:443?type=ws&security=tls&path=/ws&sni=bounded-crammed.video-streams.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 140.248.145.242
+vless://4dc21709-acf8-4b95-9857-cae726342929@151.101.3.8:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.3.8
+vless://b18410c3-4bd6-4a99-838a-5907da83d32e@manage.fastly.com:80?type=xhttp&security=none&path=/?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 140.248.146.36
+vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 140.248.145.194
+vless://9866995e-7225-4919-8de8-19a3f941c4d4@zmaoz.faculty.ucdavis.edu:443?type=ws&security=tls&path=/@custom_config?ed=2560&sni=Zmaoz.Faculty.Ucdavis.Edu&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 140.248.146.228
+vless://0e36cfc2-66e2-43d9-91b4-a62b26bcfe4c@199.232.78.159:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.78.159
+vless://a61abe08-05d6-f72d-58ab-b92576abd790@speedtest.net:80?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.130.219
+vless://df1ecf1d-ebc4-424c-9cef-b10930604d19@151.101.56.9:80?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.56.9
 vless://b18410c3-4bd6-4a99-838a-5907da83d32e@151.101.66.219:80?type=xhttp&security=none&path=/?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.66.219
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.2.219
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNDAuMjQ4LjE0Ni4xMzMiLCJhZGQiOiJsaXZlLnRoZXdvcmxkd2lkZXdvbGYuY29tIiwicG9ydCI6ODAsImlkIjoiNTY3NTA1MGEtYTViMC00NzQ4LWJlNDYtYzQ1NjdlNWQ0ZDI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.25.242
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?type=xhttp&security=none&path=/login#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.65.57
+vless://4c027fc2-adb0-44e5-9e40-33a8d6c83a4a@hajlab.ucdavis.edu:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.194.228
+vless://InternetAzadRobot@fastly.com:80?type=xhttp&security=none&path=/tofan#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.193.57
+vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&security=none&path=/rddeserfgg?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.194.219
+vless://abe29339-9ac1-48be-bc47-00d81c0a3019@151.101.192.223:80?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.192.223
+vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.195.244:40792?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=CkuULNczLmaVd-vabRfj3UpPd__M7BlrXivZ728Toyg&sid=181892012d959b41#US 🇺🇸 ┇ VLESS-TCP-RLT - FASTLY ┇ 5.75.195.244
+vless://caf0d393-101a-4ac6-81e4-172fd8f87f5b@zmaoz.faculty.ucdavis.edu:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 140.248.146.228
+vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?type=xhttp&security=none&path=/-AzV2ry?ed=2056#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.79.229
+vless://424c2031-1add-4063-8fc0-d57dc8358b21@151.101.0.155:80?type=tcp&security=none&path=/de?ed=1048#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.0.155
+vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?type=ws&security=tls&path=/&sni=speedtest.net#US 🇺🇸 ┇ VLESS-WS-TLS - FASTLY ┇ 151.101.110.219
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuMTkyLjE0NCIsImFkZCI6Imdvdi51ayIsInBvcnQiOjQ0MywiaWQiOiI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvNzc4NDg4MjQiLCJ0bHMiOiJ0bHMifQ
+vless://aa9aafdb-531d-4b72-8ad0-66ad9b226749@live.theworldwidewolf.com:80?type=xhttp&security=none&path=/vpnon4u#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 140.248.146.133
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5My41NyIsImFkZCI6IjE1MS4xMDEuMTkzLjU3IiwicG9ydCI6ODAsImlkIjoiYjdkYWUyMTEtNzQ3Mi00OGJmLTk5NmMtNTdkNjUzOGQxZWY0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoid3MvP2VkPTIwNDgifQ
+vless://InternetAzadRobot-AliKiller@151.101.129.57:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.129.57

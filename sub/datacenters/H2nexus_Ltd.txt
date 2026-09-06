@@ -1,1 +1,1 @@
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@de-3.kihsuyhf8jkiugsxb.cfd:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 109.120.137.79
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@de-3.kihsuyhf8jkiugsxb.cfd:443?type=tcp&security=reality&sni=de-3.kihsuyhf8jkiugsxb.cfd&fp=chrome&flow=xtls-rprx-vision&pbk=eBPoRhgoi1Wc3_CWGAfvF6dO_QqXzPWcpUKTycvx3Ck#DE 🇩🇪 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 109.120.137.79

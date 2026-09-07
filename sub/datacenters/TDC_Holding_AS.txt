@@ -1,2 +1,0 @@
-vless://8b44b39b-03ea-4475-b622-e2ac07daa27b@cdnir.caroptionz.ir:443?type=ws&security=tls&path=/pgcfws-r4&sni=cdnir.caroptionz.ir&fp=chrome#DK 🇩🇰 ┇ VLESS-WS-TLS - TDC Holding A/S ┇ 87.58.154.99
-vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?type=httpupgrade&security=none&path=/#DK 🇩🇰 ┇ VLESS-HTTPUPGRADE-NTLS - TDC Holding A/S ┇ 87.58.154.128

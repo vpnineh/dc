@@ -1,1 +1,0 @@
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@stream.benz.ink:443?type=ws&security=tls&path=/api/v2/stream/shamil2&sni=stream.benz.ink&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Storm Networks LLC ┇ 185.71.67.149

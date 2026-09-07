@@ -1,0 +1,2 @@
+vless://0afcdc48-917d-47e8-8adb-cbe6908baede@nl1.dzen-services.com:443?type=tcp&security=reality&sni=nl1.dzen-services.com&flow=xtls-rprx-vision&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=81ea#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.177.20
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-21.moriarty-web.com:443?type=tcp&security=tls&path=/&sni=viper-21.moriarty-web.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.226.171

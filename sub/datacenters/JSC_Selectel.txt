@@ -1,0 +1,1 @@
+vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@82.148.21.26:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 82.148.21.26

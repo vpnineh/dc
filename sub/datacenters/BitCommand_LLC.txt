@@ -1,4 +1,4 @@
 vless://d70e525c-67bd-4261-b7f5-96589be5b3b0@185.110.189.172:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 185.110.189.172
 vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?type=ws&security=tls&path=/6d2fed050b30&sni=fcs013.getdcz.me&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 89.106.206.57
-vless://04e46b64-c27c-4e86-bcbb-b694dcc03585@z1.tekno4.ir:990?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.90.145
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJpdENvbW1hbmQgTExDIFx1MjUwNyAyMDIuMTMzLjkwLjE0NSIsImFkZCI6InoxLnRla25vMy5pciIsInBvcnQiOjQ0LCJpZCI6ImEwNDAwZmFhLTU1M2MtNDcyOC1hZWZhLTgwYzNjNTE4OGQ5NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://04e46b64-c27c-4e86-bcbb-b694dcc03585@z1.tekno4.ir:990?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.90.145

@@ -1,3 +1,4 @@
-vless://ba66fa82-c342-4482-ae03-d097e6cafd7a@turkish2.fardad1.ir:18002?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 81.2.242.131
-vless://ba66fa82-c342-4482-ae03-d097e6cafd7a@ch.fardad1.ir:6666?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 81.2.242.131
 vless://ba66fa82-c342-4482-ae03-d097e6cafd7a@germany2.fardad1.ir:36637?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 81.2.242.131
+vless://ba66fa82-c342-4482-ae03-d097e6cafd7a@italy.fardad1.ir:5555?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 81.2.242.131
+vless://ba66fa82-c342-4482-ae03-d097e6cafd7a@ch.fardad1.ir:6666?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 81.2.242.131
+vless://ba66fa82-c342-4482-ae03-d097e6cafd7a@turkish2.fardad1.ir:18002?type=tcp&security=none&path=/#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 81.2.242.131

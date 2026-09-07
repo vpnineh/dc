@@ -1,1 +1,0 @@
-vless://ba470d34-1a7d-4deb-a83b-28ed09545847@95.135.125.19:23988?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - TEFEXIA ┇ 95.135.125.19

@@ -1,3 +1,4 @@
 vless://f0237f07-6578-413a-8c5c-58ce2947333f@portal.elvarin.ir:54852?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Respina Networks & Beyond PJSC ┇ 77.104.95.200
-vless://f0237f07-6578-413a-8c5c-58ce2947333f@db.dataharbor.ir:55486?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 5.160.77.206
+vless://9570e104-9f08-4a4e-94a4-5b8ffb588646@8970141323_e90f.t1a.syslogd.ir:9093?type=ws&security=none&path=/api/v2/com.trezor.io?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Respina Networks & Beyond PJSC ┇ 87.107.81.202
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJlc3BpbmEgTmV0d29ya3MgJiBCZXlvbmQgUEpTQyBcdTI1MDcgNS4xNjAuMTk4LjEzNSIsImFkZCI6Imh5cGVyLmphaGFuY29tcGFueS5zYnMiLCJwb3J0Ijo0NDMsImlkIjoiNTJkOGUxMTgtNzg1My00N2Y5LThlZmMtZTk5MGYzZjhlN2M5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://f0237f07-6578-413a-8c5c-58ce2947333f@db.dataharbor.ir:55486?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 5.160.77.206

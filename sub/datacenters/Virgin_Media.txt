@@ -1,1 +1,1 @@
-vless://3663d122-ade5-42eb-8ea0-388bce717807@srvpl1.e404ng.fun:2083?type=ws&security=tls&path=/&sni=srvpl1.e404ng.fun&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 82.47.63.221
+vless://b2f29d28-47a9-4d04-a709-250cc879fb5f@srvpl1.e404ng.fun:2083?type=ws&security=tls&path=/&sni=srvpl1.e404ng.fun&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 82.47.63.221

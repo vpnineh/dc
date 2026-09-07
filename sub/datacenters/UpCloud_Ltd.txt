@@ -1,1 +1,0 @@
-vless://8b44b39b-03ea-4475-b622-e2ac07daa27b@cana.caroptionz.ir:443?type=ws&security=tls&path=/pgcfws-r4&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - UpCloud Ltd ┇ 94.237.100.167

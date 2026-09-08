@@ -1,1 +1,1 @@
-vless://0f19432c-f64f-4312-bc70-8e58128cd258@neo.cutizeh.ir:8443?type=tcp&security=tls&sni=neo.cutizeh.ir#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Dadeha Asiatech ┇ 193.151.158.50
+vless://191446c2-fa6a-4103-a76b-88e4ce0cc368@ge2.node.sajjad.engineer:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.155.165

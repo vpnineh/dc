@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR2VuaXVzTWluZCBTLkEuIFx1MjUwNyA2Mi42MC4xNDQuMTk4IiwiYWRkIjoicm1hNC5ybWFhY2NzaG9wLmlyIiwicG9ydCI6NDQ4MDgsImlkIjoiMGE2YzZjMTItZDRiZC00ODVlLTliZjEtNTlhY2VjNTY0ZWVmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcm1hIn0
+vless://d2bf8658-06dc-4462-80d4-39c5c3bb0dd8@fr.masterpgd.com:6010?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 109.95.70.154

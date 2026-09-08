@@ -1,1 +1,0 @@
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?type=ws&security=tls&path=/tzws&sni=asd.coteite.pro&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 185.241.195.116

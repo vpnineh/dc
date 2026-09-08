@@ -1,5 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIyMCIsImFkZCI6ImFsdGFyaWEucHJveHkucmx3eS5uZXQiLCJwb3J0Ijo0NDUxOCwiaWQiOiI2ODUyODQ0OC01YzIzLTRhZGYtOGI5Zi1jMThmZDg4YTQxZGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.221
-vless://67a5a206-7bd8-43ec-8cff-769994f18db1@altaria.proxy.rlwy.net:18050?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
 vless://5d82925f-313a-45a3-8077-bae4e59edf88@centerbeam.proxy.rlwy.net:49530?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.245
 vless://5d1b0cb2-365c-4757-84bc-e7d1e0eb5321@ballast.proxy.rlwy.net:56854?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.248
+vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.221
+vless://67a5a206-7bd8-43ec-8cff-769994f18db1@altaria.proxy.rlwy.net:18050?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220

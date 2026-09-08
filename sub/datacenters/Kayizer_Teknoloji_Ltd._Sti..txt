@@ -1,5 +1,5 @@
-vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:41493?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94
-vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:32390?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94
-vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:44012?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94
-vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:42352?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94
 vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:26825?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94
+vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:44012?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94
+vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:41493?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94
+vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:42352?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94
+vless://14a3b7a6-ff25-4f51-8927-47391f04b6d7@lendesub2.lendcj.ir:32390?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Kayizer Teknoloji Ltd. Sti. ┇ 31.40.204.94

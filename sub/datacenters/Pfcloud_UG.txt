@@ -1,1 +1,1 @@
-vless://69eab0fb-eb02-4a65-8103-63221e934732@45.135.194.198:2083?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pfcloud UG ┇ 45.135.194.198
+vless://469c17ba-3f67-45a6-8246-e8ae9e1dfa56@45.135.194.196:52775?type=ws&security=none&path=/netpath#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pfcloud UG ┇ 45.135.194.196

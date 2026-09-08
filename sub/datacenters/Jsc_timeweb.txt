@@ -1,1 +1,2 @@
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 91.210.169.181
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?type=tcp&security=tls&sni=mx.bexumconnect.ltd&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 109.196.101.145

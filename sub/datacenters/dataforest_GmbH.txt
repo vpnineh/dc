@@ -1,3 +1,2 @@
 vless://81cce7c3-d6c9-4bd2-8091-c7e74eb32e54@31.58.144.31:1000?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 31.58.144.31
-vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@gp2.steptofsvo.com:18443?type=grpc&security=reality&sni=gp2.steptofsvo.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 45.145.40.10
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@avczx.cloudvk.cc:443?type=tcp&security=reality&sni=avczx.cloudvk.cc&fp=firefox&flow=xtls-rprx-vision&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 45.145.42.43

@@ -1,1 +1,2 @@
+vless://13040d5f-5d8c-45ad-88cf-2e8834d5eb67@tunafra.clonecloudcenter.ir:6066?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Afranet ┇ 31.14.116.7
 vless://09e90d43-f7de-48ef-947f-c584144f75d9@uae1-ravannet-dl-persianmusics.xirnaro.ir:20588?type=ws&security=tls&path=/api/v2/movies/download/&sni=uae1-ravannet-dl-persianmusics.xirnaro.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 79.175.134.231

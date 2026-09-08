@@ -1,1 +1,1 @@
-vless://e7099864-b110-493c-9541-4a4638dc8299@de.hvumyrpstghekb.top:443?type=ws&security=tls&path=/jryRJzwfISH4eaAVKgp2Zfw&sni=de.hvumyrpstghekb.top&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Regxa Company for Information Technology Ltd ┇ 146.103.42.161
+vless://e7099864-b110-493c-9541-4a4638dc8299@de.hvumyrpstghekb.top:443?type=ws&security=tls&path=/jryRJzwfISH4eaAVKgp2Zfw&sni=de.hvumyrpstghekb.top&fp=safari#DE 🇩🇪 ┇ VLESS-WS-TLS - Regxa Company for Information Technology Ltd ┇ 146.103.42.161

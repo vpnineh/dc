@@ -1,0 +1,1 @@
+vless://57441186-17bd-40c6-ae68-e557099c9d77@de.save-node.com:443?type=tcp&security=reality&sni=de.save-node.com&fp=chrome&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=45ee70d18247e5#KR 🇰🇷 ┇ VLESS-TCP-RLT - Ntte Global Network Brand Name ┇ 88.216.70.65

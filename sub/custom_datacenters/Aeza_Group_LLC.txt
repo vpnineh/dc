@@ -1,2 +1,1 @@
-vless://be3a80da-9bda-44b7-97ea-8794b88633d8@mashinbazi.athforce.ir:2376?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 85.192.30.123
 vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&security=tls&sni=files.toriva.click&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 83.147.255.26

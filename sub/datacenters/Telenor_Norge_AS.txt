@@ -1,2 +1,0 @@
-vless://da57dfef-d209-45a1-bfd8-56081a9cd85a@159.194.231.222:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Telenor Norge AS ┇ 159.194.231.222
-vless://da57dfef-d209-45a1-bfd8-56081a9cd85a@159.194.241.4:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Telenor Norge AS ┇ 159.194.241.4

@@ -1,1 +1,1 @@
-vless://8dcb1d5e-b100-4929-ab6d-59f998f37817@goh.iranpuls.ir:443?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - DC Host INC ┇ 103.83.86.31
+vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@goh.iranpuls.ir:443?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - DC Host INC ┇ 103.83.86.31

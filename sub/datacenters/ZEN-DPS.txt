@@ -1,1 +1,2 @@
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.143:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ZEN-DPS ┇ 194.34.175.143
+vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ZEN-DPS ┇ 162.128.71.118
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.11:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ZEN-DPS ┇ 194.34.175.11

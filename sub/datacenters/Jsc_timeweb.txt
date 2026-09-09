@@ -1,2 +1,1 @@
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 91.210.169.181
-vless://57441186-17bd-40c6-ae68-e557099c9d77@eehfgs.save-node.com:443?type=tcp&security=reality&sni=eehfgs.save-node.com&fp=chrome&flow=xtls-rprx-vision&pbk=mrWlgdMs8fEGDHvw3zdJYUw9oHm5LyGeeMo7ZiWc11Q&sid=45ee70d18247e5#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 176.53.161.208

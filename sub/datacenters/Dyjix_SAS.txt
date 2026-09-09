@@ -1,1 +1,0 @@
-vless://dca7ad76-8d97-8e85-3f3c-fe53953aea97@fd.lamzifa.ir:8443?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.13.119.96

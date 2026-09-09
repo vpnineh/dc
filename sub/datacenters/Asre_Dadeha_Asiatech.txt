@@ -1,1 +1,0 @@
-vless://191446c2-fa6a-4103-a76b-88e4ce0cc368@ge2.node.sajjad.engineer:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.155.165

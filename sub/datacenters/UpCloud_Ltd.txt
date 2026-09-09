@@ -1,2 +1,0 @@
-vless://be3a80da-9bda-44b7-97ea-8794b88633d8@94.237.50.95:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.50.95
-vless://65ab0a28-a77f-4853-ac4b-c426310276d5@95.111.197.114:80?type=ws&security=none&path=/FREE by Tharuwa (0767597317)#SG 🇸🇬 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 95.111.197.114

@@ -1,1 +1,1 @@
-vless://ffa722c8-da3f-4371-a0e0-6afcc9f3f93b@185.87.24.3:2085?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Ideal Hosting Teknoloji A.S. ┇ 185.87.24.3
+vless://fe1d6e16-d6ed-4f93-a44c-bea0750b68db@185.87.24.7:2085?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Ideal Hosting Teknoloji A.S. ┇ 185.87.24.7

@@ -1,1 +1,1 @@
-vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?type=tcp&security=tls&sni=mx.bexumconnect.ltd&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 109.196.101.145
+vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@mine-host.mcufa.pro:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 188.225.45.99

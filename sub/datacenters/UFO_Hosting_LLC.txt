@@ -1,1 +1,1 @@
-vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@az-hti-de.ramzshadi.ir:8088?type=tcp&security=none&path=/bmi.ir#RU 🇷🇺 ┇ VLESS-TCP-NTLS - UFO Hosting LLC ┇ 171.22.119.160
+vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@az-hti-de.ramzshadi.ir:8088?type=ws&security=none&path=/bmi.ir#RU 🇷🇺 ┇ VLESS-WS-NTLS - UFO Hosting LLC ┇ 171.22.119.160

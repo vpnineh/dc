@@ -1,5 +1,4 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.105.210
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.42
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-new-ded.moritech.net:443?type=tcp&security=tls&sni=at-new-ded.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.37.155
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.105.210
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@en-new.moriarty-web.com:443?type=tcp&security=tls&path=/&sni=en-new.moriarty-web.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.226.174
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-new-ded2.moritech.net:443?type=tcp&security=tls&sni=at-new-ded2.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.36.27
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-33.moriarty-web.com:443?type=tcp&security=tls&sni=viper-33.moriarty-web.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.182.19

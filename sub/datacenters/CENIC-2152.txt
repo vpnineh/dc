@@ -1,1 +1,0 @@
-vless://70e46815-9cae-46e5-8224-d35f6bd7897d@130.17.23.196:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - CENIC-2152 ┇ 130.17.23.196

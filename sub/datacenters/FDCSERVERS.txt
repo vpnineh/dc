@@ -1,0 +1,1 @@
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-33.moriarty-web.com:443?type=tcp&security=tls&sni=viper-33.moriarty-web.com&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.182.19

@@ -1,1 +1,0 @@
-vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@188.225.45.99:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 188.225.45.99

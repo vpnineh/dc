@@ -1,1 +1,0 @@
-vless://ba036bad-6098-4736-ad6d-8707e9f2a50e@193.148.253.210:2080?type=httpupgrade&security=tls&path=/&sni=193.148.253.210&fp=chrome#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-TLS - RELIABLESITE ┇ 193.148.253.210

@@ -1,3 +1,3 @@
-vless://%40awlix_ir@213.163.207.91:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 213.163.207.91
-vless://4f1fbb96-4978-4799-ba50-4add49819898@dashboard.xavino-shop.ir:26153?type=ws&security=none&path=/mmd#FI 🇫🇮 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 94.237.25.65
 vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gVXBDbG91ZCBMdGQgXHUyNTA3IDg1LjkuMjE5LjQ1IiwiYWRkIjoibm5iZnloY2dpaWl1dGZjLnZhaGlkemh2LmlyIiwicG9ydCI6NDA4NjQsImlkIjoiMmZmZTRlZDAtYjlkMS00NDViLTgwZjItM2VkMDZhMGIzNmQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://@awlix_ir@213.163.207.91:443?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 213.163.207.91
+vless://4f1fbb96-4978-4799-ba50-4add49819898@dashboard.xavino-shop.ir:26153?type=ws&security=none&path=/mmd#FI 🇫🇮 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 94.237.25.65

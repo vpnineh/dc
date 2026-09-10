@@ -1,1 +1,2 @@
+vless://0fd9369e-68a8-4f3a-b21d-bae61033ff3e@upf.appcity-download.ir:26131?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.139.203
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@7.ala71.ir:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.131

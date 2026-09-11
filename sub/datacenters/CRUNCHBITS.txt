@@ -1,5 +1,0 @@
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - CRUNCHBITS ┇ 64.49.13.77
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2053?type=xhttp&security=tls&path=/&sni=64.49.13.77&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - CRUNCHBITS ┇ 64.49.13.77
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2087?type=tcp&security=tls&sni=64.49.13.77&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - CRUNCHBITS ┇ 64.49.13.77
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8080?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - CRUNCHBITS ┇ 64.49.13.77
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2083?type=xhttp&security=none&path=/archive/gawdfaGA2faG@$!32ga#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - CRUNCHBITS ┇ 64.49.13.77

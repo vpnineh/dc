@@ -1,2 +1,1 @@
-vless://64c3ae71-4874-4a05-8d52-73b2fbb8a207@tw2.apruxdomain.website:443?type=ws&security=tls&path=/api/v1/connect/7a21b2d668&sni=tw2.apruxdomain.website&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 188.225.43.89
 vless://64c3ae71-4874-4a05-8d52-73b2fbb8a207@tw1.apruxdomain.website:443?type=ws&security=tls&path=/api/v1/pipe/b1bb509248&sni=tw1.apruxdomain.website&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 188.225.56.157

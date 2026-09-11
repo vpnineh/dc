@@ -1,1 +1,0 @@
-vless://028f3908-8885-4f06-ba95-777a435074bd@nt-irancell.xelfona.ir:20018?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG ┇ 176.65.151.242

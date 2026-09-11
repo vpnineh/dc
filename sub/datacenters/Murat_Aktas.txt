@@ -1,0 +1,1 @@
+vless://c9b9a18e-96ac-4249-999f-e253b81500da@d.socialxxmedia.com:200?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 78.135.77.79

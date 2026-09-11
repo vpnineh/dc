@@ -1,7 +1,6 @@
-vless://75c77866-89a1-458b-9e47-e5f9a55dd06e@crossover.proxy.rlwy.net:51123?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.252
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIyMCIsImFkZCI6ImFsdGFyaWEucHJveHkucmx3eS5uZXQiLCJwb3J0Ijo0NDUxOCwiaWQiOiI2ODUyODQ0OC01YzIzLTRhZGYtOGI5Zi1jMThmZDg4YTQxZGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://1ab1702d-f60d-4f06-bf63-a7063c17a0e7@junction.proxy.rlwy.net:35705?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.241
-vless://67a5a206-7bd8-43ec-8cff-769994f18db1@altaria.proxy.rlwy.net:18050?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
-vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.221
-vless://102f1d02-e52a-4dd7-b5f6-558fac00b5a5@zephyr.proxy.rlwy.net:40405?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.227
 vless://5a0a6cc6-a6be-4988-a6f4-97fbb272d3a2@crossover.proxy.rlwy.net:20699?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.252
+vless://2056da96-dbbe-45c6-9444-30586dcc265f@junction.proxy.rlwy.net:35705?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.241
+vless://67a5a206-7bd8-43ec-8cff-769994f18db1@altaria.proxy.rlwy.net:18050?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.220
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIyMCIsImFkZCI6ImFsdGFyaWEucHJveHkucmx3eS5uZXQiLCJwb3J0Ijo0NDUxOCwiaWQiOiI2ODUyODQ0OC01YzIzLTRhZGYtOGI5Zi1jMThmZDg4YTQxZGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://102f1d02-e52a-4dd7-b5f6-558fac00b5a5@zephyr.proxy.rlwy.net:40405?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.227
+vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.221

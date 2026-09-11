@@ -1,1 +1,0 @@
-vless://ee80dce9-3102-4afb-bb88-1f153bfd3ed2@newsgroups.miniseries.ir:2019?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Orange ┇ 163.5.214.116

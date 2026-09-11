@@ -1,3 +1,2 @@
 vless://ef3595fb-72f4-430d-9bf8-fff90327903a@no-1.lunoa.ru:8443?type=xhttp&security=tls&path=/assets/v1/&sni=no-1.lunoa.ru&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - NTT-DATA-2914 ┇ 31.57.107.40
-vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?type=ws&security=none&path=/5adeccb9#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 157.238.208.110
-vless://8a51f3d9-30cc-44e6-8d31-700211a29066@130.94.115.231:2087?type=ws&security=none&path=/721740e567c7#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 130.94.115.231
+vless://8a51f3d9-30cc-44e6-8d31-700211a29066@130.94.115.231:2087?type=ws&security=false&path=/721740e567c7&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - NTT-DATA-2914 ┇ 130.94.115.231

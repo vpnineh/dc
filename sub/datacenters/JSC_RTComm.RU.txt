@@ -1,0 +1,1 @@
+vless://7e083480-e6f2-44ef-bc3b-c254a7f8bb83@thumbs.medic-ml.ru:443?type=xhttp&security=reality&path=/api/v2/telemetry&sni=thumbs.medic-ml.ru&fp=chrome&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - JSC RTComm.RU ┇ 147.45.61.56

@@ -1,1 +1,1 @@
-vless://a0f14fe6-4e69-463d-b96e-c29a63e68b4f@94.237.81.88:80?type=ws&security=none&path=/pgcfws-r4#FI 🇫🇮 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 94.237.81.88
+vless://c600d298-2d16-4e5d-b760-2b405ef1ab03@94.237.6.214:80?type=ws&security=none&path=/pgcfws-r4#NL 🇳🇱 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 94.237.6.214

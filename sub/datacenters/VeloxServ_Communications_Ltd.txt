@@ -1,0 +1,1 @@
+vless://97ecaad4-452c-45ec-b591-d68d3308aad4@kama1.api3-max.ru:443?type=tcp&security=tls&sni=kama1.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - VeloxServ Communications Ltd ┇ 152.89.253.169

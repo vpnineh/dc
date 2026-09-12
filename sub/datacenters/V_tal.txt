@@ -1,3 +1,3 @@
+vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@uwu.whit3.net:4443?type=tcp&security=none&path=/#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 179.254.115.195
 vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?type=ws&security=none&path=/755276b33b6f#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 189.74.97.47
-vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@uwu.whit3.net:4443?type=xhttp&security=reality&path=/&sni=uwu.whit3.net&fp=chrome&pbk=C2XnuI5u9BimF8b9VeE4mLvT-ikI3NK45hJIVCEgVxE&sid=a7d8a993400d471c#BR 🇧🇷 ┇ VLESS-XHTTP-RLT - V tal ┇ 179.254.115.195
 vless://10f7eb2d-d96d-4778-9d36-aff11e9d6629@189.74.97.43:2087?type=ws&security=none&path=/73b6faea2d00#BR 🇧🇷 ┇ VLESS-WS-NTLS - V tal ┇ 189.74.97.43

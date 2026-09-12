@@ -1,2 +1,1 @@
-vless://02722550-1915-4629-a653-cbe95e594f70@public.betust.net:443?type=tcp&security=reality&sni=public.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=j4F4oe2w0O7oqpWeUSa44C9FdBHZEH5fTiXBvEVLIyk&sid=c51d359c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 188.225.58.153
 vless://64c3ae71-4874-4a05-8d52-73b2fbb8a207@tw1.apruxdomain.website:443?type=ws&security=tls&path=/api/v1/pipe/b1bb509248&sni=tw1.apruxdomain.website&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 188.225.56.157

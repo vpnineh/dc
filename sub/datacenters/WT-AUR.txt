@@ -1,2 +1,2 @@
-vless://675ee872-adb2-4c66-8358-bd360259311f@185.173.147.141:9090?type=xhttp&security=none&path=/&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - WT-AUR ┇ 185.173.147.141
 vless://7c1edf38-3a67-4fba-be28-c31907d41ba8@pereslavl.gosgenarchive.com:443?type=xhttp&security=reality&sni=pereslavl.gosgenarchive.com&fp=chrome&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#US 🇺🇸 ┇ VLESS-XHTTP-RLT - WT-AUR ┇ 185.173.147.68
+vless://675ee872-adb2-4c66-8358-bd360259311f@185.173.147.141:9090?type=xhttp&security=none&path=/&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - WT-AUR ┇ 185.173.147.141

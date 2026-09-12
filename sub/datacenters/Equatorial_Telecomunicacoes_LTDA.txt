@@ -1,2 +1,2 @@
+vless://bfb3f06c-e33f-41ac-b101-012c8325a689@206.1.96.228:8082?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.96.228
 vless://c9da5fd7-62bb-46c0-8006-f89a18e38f4b@static.onevanet.ir:1128?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.97.60
-vless://79f98593-6a21-4783-a425-3d5609a79df1@app.life-pro.ir:8082?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.96.228

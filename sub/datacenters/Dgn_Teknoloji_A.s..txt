@@ -1,0 +1,1 @@
+vless://Telegram_ATOVPN@185.71.219.237:47660?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Dgn Teknoloji A.s. ┇ 185.71.219.237

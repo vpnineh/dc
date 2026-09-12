@@ -1,2 +1,1 @@
 vless://ef3595fb-72f4-430d-9bf8-fff90327903a@no-1.lunoa.ru:8443?type=xhttp&security=tls&path=/assets/v1/&sni=no-1.lunoa.ru&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - NTT-DATA-2914 ┇ 31.57.107.40
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.107.61

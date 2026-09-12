@@ -1,3 +1,3 @@
-vless://01ce1507-0197-4261-9b91-1baab455dd7f@b---u----l.cd2-ger1.ir:2087?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 91.227.77.126
+vless://987dc113-20eb-4696-baa7-0364af4511f1@bulopksdhfoioppanelmarzjkyios.horlutr.ir:2087?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 91.227.77.126
 vless://857e4397-7c54-4c19-ba7e-2fbc28ab1068@polandpanelmarzband.horlutr.ir:2087?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 91.211.27.178
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJsdWVWUFMgT1UgXHUyNTA3IDQ1LjY2LjI0OC4xNjAiLCJhZGQiOiJkYXNoYm9hcmQuYWZyYW1hbGwudG9wIiwicG9ydCI6NTM4NiwiaWQiOiI3NmNlZmNkNy02YjUzLTRjNjUtYWQyOS0xYTkyNzM0ZmM5NjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9

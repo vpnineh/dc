@@ -1,2 +1,1 @@
-vless://8445a583-5093-4fd3-8fb2-2223371c937a@qfmbojoulqys.comcuisvxcjxr.top.pkmgoztkw.net.variantech.ir:443?type=tcp&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Web Dadeh Paydar Co (Ltd) ┇ 81.30.108.240
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBEYWRlaCBQYXlkYXIgQ28gKEx0ZCkgXHUyNTA3IDE5My4yNC4xMjAuNiIsImFkZCI6Im5scDEuaHVwY2xvdWQuY29tIiwicG9ydCI6MTA3MCwiaWQiOiJkYTQxMGRmNy1jZGUxLTQxNWMtYTQ2ZS04NzYzN2U5NzQ4ZjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9

@@ -1,1 +1,2 @@
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 89.47.55.8
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@193.233.217.22:4100?type=ws&security=none&path=/v1#US 🇺🇸 ┇ VLESS-WS-NTLS - Fast Servers (Pty) Ltd ┇ 193.233.217.22

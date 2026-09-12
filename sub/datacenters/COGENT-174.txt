@@ -1,2 +1,1 @@
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl-new-ded2.moritech.net:443?type=tcp&security=tls&sni=pl-new-ded2.moritech.net&fp=chrome&flow=xtls-rprx-vision#UA 🇺🇦 ┇ VLESS-TCP-TLS - COGENT-174 ┇ 50.7.249.66
-vless://1b8ec962-6e6f-4fc3-a9a4-c8a6fc907796@38.175.203.11:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - COGENT-174 ┇ 38.175.203.11

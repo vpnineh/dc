@@ -1,6 +1,5 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?type=tcp&security=tls&sni=pl3.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.33
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBRENJTC1BU04tMDEgXHUyNTA3IDEwOC4xNjUuMjM2LjE0MiIsImFkZCI6IjEwOC4xNjUuMjM2LjE0MiIsInBvcnQiOjQ0MywiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ
-vless://3def775e-8ccd-46f5-87d6-ce299d89d6c1@secdn-51.ktuda-skp.net:443?type=tcp&security=tls&sni=secdn-51.ktuda-skp.net&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 193.23.200.201
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?type=tcp&security=tls&sni=pl6.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.64
-vless://e9397b2d-eb0a-541f-bb14-bd0e818c36aa@144.31.30.76:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ADCIL-ASN-01 ┇ 144.31.30.76
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.3
+vless://3def775e-8ccd-46f5-87d6-ce299d89d6c1@secdn-51.ktuda-skp.net:443?type=tcp&security=tls&sni=secdn-51.ktuda-skp.net&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 193.23.200.201
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBRENJTC1BU04tMDEgXHUyNTA3IDEwOC4xNjUuMjM2LjE0MiIsImFkZCI6IjEwOC4xNjUuMjM2LjE0MiIsInBvcnQiOjQ0MywiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?type=tcp&security=tls&sni=pl4.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?type=tcp&security=tls&sni=pl3.moritech.net&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.33

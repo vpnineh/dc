@@ -1,1 +1,0 @@
-vless://ec849d14-cbc0-4c76-a84a-658effe5ce56@130.185.76.162:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 130.185.76.162

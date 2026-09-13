@@ -1,1 +1,1 @@
-vless://ed46de0c-c070-471b-8c7d-b282a54a2c3e@tr-t1.easyodin.ir:443?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 154.53.164.149
+vless://993cd4f7-c8b6-4de2-a594-c9eb13913bc7@tr-t1.easyodin.ir:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 154.53.164.149

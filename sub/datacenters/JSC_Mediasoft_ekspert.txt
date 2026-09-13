@@ -1,1 +1,0 @@
-vless://d3be3cda-7289-400c-b5a8-8301386df64b@news.bryansk-news.site:8443?type=grpc&security=tls&sni=news.bryansk-news.site&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - JSC Mediasoft ekspert ┇ 193.124.58.78

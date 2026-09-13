@@ -1,0 +1,2 @@
+vless://811ad1dd-fdf7-4e0c-8639-f6d479cb8d02@170.39.216.98:1005?type=xhttp&security=none&path=/?ed=2048#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - REDHEBERG Association declaree ┇ 170.39.216.98
+vless://811ad1dd-fdf7-4e0c-8639-f6d479cb8d02@www.samanehha.io:80?type=xhttp&security=none&path=/?ed=2048#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - REDHEBERG Association declaree ┇ 170.39.216.98

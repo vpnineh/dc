@@ -1,1 +1,2 @@
 vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?type=tcp&security=tls&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 202.133.90.93
+vless://49958fcb-5a73-4c89-98cc-b3df613b5d83@89.251.8.205:6060?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 89.251.8.205

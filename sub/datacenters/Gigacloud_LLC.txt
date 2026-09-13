@@ -1,0 +1,1 @@
+vless://a11906b5-27a9-4ce5-a825-3bcd0f4661e9@185.250.21.196:5090?type=tcp&security=none&path=/#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Gigacloud LLC ┇ 185.250.21.196

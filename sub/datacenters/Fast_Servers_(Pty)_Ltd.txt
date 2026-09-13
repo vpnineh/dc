@@ -1,1 +1,2 @@
+vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@s.yourvibe.my:443?type=xhttp&security=tls&path=/media/a32a5d&sni=s.yourvibe.my&fp=firefox#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Fast Servers (Pty) Ltd ┇ 193.233.217.135
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@193.233.217.22:4100?type=ws&security=none&path=/v1#US 🇺🇸 ┇ VLESS-WS-NTLS - Fast Servers (Pty) Ltd ┇ 193.233.217.22

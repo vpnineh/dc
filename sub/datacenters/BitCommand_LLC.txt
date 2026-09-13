@@ -1,1 +1,1 @@
-vless://fb9b7935-e1d8-4342-b26c-d71c439fa29d@185.110.189.172:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 185.110.189.172
+vless://d70e525c-67bd-4261-b7f5-96589be5b3b0@185.110.189.172:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 185.110.189.172

@@ -1,0 +1,1 @@
+vless://dc52da15-12f5-4404-8dc2-e5e713ca4a60@64.49.15.95:11072?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TENNANT-SOFTWARE ┇ 64.49.15.95

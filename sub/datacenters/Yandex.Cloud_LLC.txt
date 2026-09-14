@@ -1,0 +1,1 @@
+vless://dde5fad9-b5df-4691-b68c-04bfbdb91f36@oneru1.gorecvpn.ru:443?type=xhttp&security=tls&path=/uploadfiles/&sni=oneru1.gorecvpn.ru#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

@@ -1,0 +1,1 @@
+vless://a85ba9f6-ec48-40d1-ba5e-0ebbb7487789@ys6n-mveg4s.truvexel.com:443?type=ws&security=tls&path=/a85ba9f6-ec48-40d1-ba5e-0ebbb7487789&sni=ys6n-mveg4s.truvexel.com&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - GTT Communications Inc. ┇ 82.110.224.44

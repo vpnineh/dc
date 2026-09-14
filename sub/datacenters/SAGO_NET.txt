@@ -1,1 +1,1 @@
-vless://11f21602-47aa-42e2-9149-69120f2e6df6@us05.shifor01.life:443?type=tcp&security=reality&sni=us05.shifor01.life&fp=chrome&flow=xtls-rprx-vision&pbk=36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE&sid=169fc2df88419465#FR 🇫🇷 ┇ VLESS-TCP-RLT - SAGO NET ┇ 45.91.138.179
+vless://11f21602-47aa-42e2-9149-69120f2e6df6@us05.shifor01.life:443?type=tcp&security=reality&path=/&sni=us05.shifor01.life&fp=chrome&flow=xtls-rprx-vision&pbk=36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE&sid=169fc2df88419465#FR 🇫🇷 ┇ VLESS-TCP-RLT - SAGO NET ┇ 45.91.138.179

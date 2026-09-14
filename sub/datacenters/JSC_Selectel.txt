@@ -1,1 +1,0 @@
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@46.182.24.147:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 46.182.24.147

@@ -1,3 +1,2 @@
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161
-vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.230.35
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.224.3
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - IPXO ┇ 95.85.228.161

@@ -1,1 +1,0 @@
-vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&security=tls&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - South Park Networks LLC ┇ 104.17.147.22

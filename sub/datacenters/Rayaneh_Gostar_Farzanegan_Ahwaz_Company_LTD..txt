@@ -1,2 +1,2 @@
-vless://df3a4880-02dc-4dc5-ad3c-f0098d4cd3ba@zs.lanzivo.ir:443?type=xhttp&security=tls&path=/&sni=zs.lanzivo.ir#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 91.108.145.111
 vless://df3a4880-02dc-4dc5-ad3c-f0098d4cd3ba@zs.lanzivo.ir:2083?type=xhttp&security=tls&path=/&sni=zs.lanzivo.ir#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 91.108.145.111
+vless://4b6978d2-bebb-4c81-ba5b-77ec8f31c8bb@zs.lanzivo.ir:443?type=xhttp&security=tls&path=/&sni=zs.lanzivo.ir#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 91.108.145.111

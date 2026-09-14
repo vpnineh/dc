@@ -1,0 +1,1 @@
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.80.82:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.80.82

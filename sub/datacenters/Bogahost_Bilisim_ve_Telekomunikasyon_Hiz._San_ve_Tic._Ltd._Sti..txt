@@ -1,2 +1,2 @@
-vless://d6e792d5-ea82-4e6c-b679-89f49ff7996e@194.87.59.7:2085?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Bogahost Bilisim ve Telekomunikasyon Hiz. San ve Tic. Ltd. Sti. ┇ 194.87.59.7
 vless://c9373ff0-c263-4949-885f-366671f3c6a1@194.87.59.6:2085?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Bogahost Bilisim ve Telekomunikasyon Hiz. San ve Tic. Ltd. Sti. ┇ 194.87.59.6
+vless://d6e792d5-ea82-4e6c-b679-89f49ff7996e@194.87.59.7:2085?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Bogahost Bilisim ve Telekomunikasyon Hiz. San ve Tic. Ltd. Sti. ┇ 194.87.59.7

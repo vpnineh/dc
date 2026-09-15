@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVxdWF0b3JpYWwgVGVsZWNvbXVuaWNhY29lcyBMVERBIFx1MjUwNyAyMDYuMS45Ni4xODciLCJhZGQiOiIyMDYuMS45Ni4xODciLCJwb3J0Ijo0NDMsImlkIjoiMzJjMDE3ZTctMmZhNi00YTQzLTk4ZWYtYjIxYmI2M2Q5MmU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://94295543-2c49-442d-bfc4-c5fb33d049ae@tr.iranomid.tr:2052?type=httpupgrade&security=none&path=/#BR 🇧🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.96.63

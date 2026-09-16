@@ -1,1 +1,2 @@
 vless://awlix_ir@87.58.159.20:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - TDC Holding A/S ┇ 87.58.159.20
+vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?type=httpupgrade&security=none&path=/#DK 🇩🇰 ┇ VLESS-HTTPUPGRADE-NTLS - TDC Holding A/S ┇ 87.58.154.128

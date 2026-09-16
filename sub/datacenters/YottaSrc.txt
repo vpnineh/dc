@@ -1,2 +1,0 @@
-vless://ae0dc695-4e12-400b-9db3-550b4e1d7c3b@wsfrmarz.horlutr.ir:1280?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - YottaSrc ┇ 45.67.139.184
-vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@3.sharsna51.ir:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - YottaSrc ┇ 185.117.0.131

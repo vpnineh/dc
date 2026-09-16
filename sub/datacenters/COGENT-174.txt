@@ -1,0 +1,1 @@
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-dedic-2.failspace.top:443?type=tcp&security=tls&path=/&sni=poland-new-dedic-2.failspace.top&fp=chrome&flow=xtls-rprx-vision#UA 🇺🇦 ┇ VLESS-TCP-TLS - COGENT-174 ┇ 50.7.249.187

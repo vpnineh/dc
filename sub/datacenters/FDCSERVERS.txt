@@ -1,4 +1,6 @@
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.105.210
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@app1.betust.net:443?type=tcp&security=reality&sni=app1.betust.net&fp=firefox&flow=xtls-rprx-vision&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7#SE 🇸🇪 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.38.243
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@os.betust.net:443?type=tcp&security=reality&sni=os.betust.net&fp=firefox&flow=xtls-rprx-vision&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.193.140
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?type=tcp&security=tls&sni=ir-new.failspace.top&fp=chrome&flow=xtls-rprx-vision#IE 🇮🇪 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.5.166
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic.failspace.top:443?type=tcp&security=tls&sni=at-dedic.failspace.top&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.37.157
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@uk-dedic-new-1.failspace.top:443?type=tcp&security=tls&sni=uk-dedic-new-1.failspace.top&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.227.251
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nether.failspace.top:443?type=tcp&security=tls&sni=nether.failspace.top&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.182.21
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub.failspace.top:443?type=tcp&security=tls&sni=hub.failspace.top&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.197.204

@@ -1,0 +1,1 @@
+vless://655a8d80-5f6a-4dfa-a30a-dc79eaddd1c8@152.89.253.176:2044?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - VeloxServ Communications Ltd ┇ 152.89.253.176

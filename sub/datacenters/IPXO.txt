@@ -1,2 +1,2 @@
-vless://e5e20d7b-86c0-44c0-87d1-5499bcb6e1cc@mci.fullserver.sbs:8080?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.197
-vless://f3e762c5-a4ca-0002-b8c8-1d29cb8d5683@estsd1.ggisopi.su:443?type=tcp&security=reality&sni=estsd1.ggisopi.su&fp=chrome&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.228.231
+vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJUFhPIFx1MjUwNyA5NS44NS4yMzMuMTM4IiwiYWRkIjoiOTUuODUuMjMzLjEzOCIsInBvcnQiOjQ0MywiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.241.209

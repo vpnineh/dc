@@ -1,3 +1,3 @@
-vless://5e0d4371-23c1-4f16-89db-99c9c055af94@ve9373773jsjdbshaz.hormozmobile10.ir:80?type=ws&security=none&path=/bmi.ir#AT 🇦🇹 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 95.163.153.70
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDQ1LjE0NC41NC4xNDkiLCJhZGQiOiJ1cHUuYXBwY2l0eS1kb3dubG9hZC5pciIsInBvcnQiOjIwODYsImlkIjoiMzJiYjM0OTYtZTA4OS00ZWZlLThlNzMtZTEyZmQwYTYwY2E3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://cfffb81e-5034-49ce-8729-18b60c7f1e89@150.241.79.210:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.79.210
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.123.127

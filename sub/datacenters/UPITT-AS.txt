@@ -1,0 +1,2 @@
+vless://8f9c5260-9456-472b-8ee2-444500ba6cab@deutch.snappycore.com:443?type=tcp&security=reality&sni=deutch.snappycore.com&flow=xtls-rprx-vision&pbk=SCuasCPva4lPGu-QRP955zZB8f6i7ydHBQh6bsSlrgo&sid=3d87c490ddd41305#US 🇺🇸 ┇ VLESS-TCP-RLT - UPITT-AS ┇ 130.49.177.31
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@130.49.77.5:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPITT-AS ┇ 130.49.77.5

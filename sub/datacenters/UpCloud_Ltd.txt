@@ -1,0 +1,2 @@
+vless://30be805e-7266-4207-8f0c-8075ef4874fe@f.farshadqw1.ir:8880?type=ws&security=none&path=/pgcfws-r4#FI 🇫🇮 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 94.237.93.243
+vless://30be805e-7266-4207-8f0c-8075ef4874fe@u.farshadqw1.ir:8880?type=ws&security=none&path=/pgcfws-r4#GB 🇬🇧 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 83.136.251.10

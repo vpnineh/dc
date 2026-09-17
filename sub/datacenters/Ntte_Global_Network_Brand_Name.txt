@@ -1,0 +1,1 @@
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@check.betust.net:443?type=tcp&security=reality&sni=check.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=AFmyx-wVGXMttT1jmiatBxJs6ecLGMkfsMxeNakdHVM&sid=3e8c7752#KR 🇰🇷 ┇ VLESS-TCP-RLT - Ntte Global Network Brand Name ┇ 88.216.70.41

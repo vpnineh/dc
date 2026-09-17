@@ -1,1 +1,1 @@
-vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?type=ws&security=none&path=/api#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.205.16
+vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?type=ws&security=false&path=/api&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-NTLS - Sky UK Limited ┇ 188.220.205.16

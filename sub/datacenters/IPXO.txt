@@ -1,1 +1,1 @@
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.241.209
+vless://e5e20d7b-86c0-44c0-87d1-5499bcb6e1cc@mci.fullserver.sbs:8080?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.77

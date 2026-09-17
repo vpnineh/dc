@@ -1,1 +1,1 @@
-vless://a86b8bc9-3412-4b4b-bb56-b2cb90be5680@sync-01.omarchyguidline.cyou:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Psb Hosting Ltd ┇ 103.114.43.224
+vless://a86b8bc9-3412-4b4b-bb56-b2cb90be5680@sync-01.omarchyguidline.cyou:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Psb Hosting Ltd ┇ 103.114.43.229

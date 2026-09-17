@@ -1,1 +1,1 @@
-vless://cdd61c79-8eb5-4939-a8b6-36e430da62c5@apt.athforce.ir:10801?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 146.103.111.224
+vless://cdd61c79-8eb5-4939-a8b6-36e430da62c5@apt.athforce.ir:10801?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 146.103.111.224

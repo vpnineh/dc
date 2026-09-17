@@ -1,7 +1,7 @@
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?type=tcp&security=tls&sni=pl6.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.64
 vless://0e7b66f1-567a-4527-b330-5a7b006d198c@finland.biznes.lol:443?type=tcp&security=reality&sni=finland.biznes.lol&fp=chrome&flow=xtls-rprx-vision&pbk=T0hPoN_eVwntNZZ3Djyfi8AQK8U0dGRmygP5jNJ6bk8#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.28.21
-vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@plot.whit3.net:443?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.207.4
-vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@plot.whit3.net:4443?type=xhttp&security=reality&path=/&sni=plot.whit3.net&fp=firefox&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a#US 🇺🇸 ┇ VLESS-XHTTP-RLT - ADCIL-ASN-01 ┇ 144.31.207.4
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.64
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.33
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?type=tcp&security=tls&sni=pl3.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.2.33
 vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@plot.whit3.net:8443?type=grpc&security=reality&sni=plot.whit3.net&fp=firefox&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a#US 🇺🇸 ┇ VLESS-GRPC-RLT - ADCIL-ASN-01 ┇ 144.31.207.4
+vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@plot.whit3.net:4443?type=xhttp&security=reality&path=/&sni=plot.whit3.net&fp=firefox&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a#US 🇺🇸 ┇ VLESS-XHTTP-RLT - ADCIL-ASN-01 ┇ 144.31.207.4
+vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@plot.whit3.net:443?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.207.4
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?type=tcp&security=tls&sni=pl4.moritech.net&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ADCIL-ASN-01 ┇ 144.31.5.3

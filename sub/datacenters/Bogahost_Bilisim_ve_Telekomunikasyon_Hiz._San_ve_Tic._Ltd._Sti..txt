@@ -1,1 +1,0 @@
-vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@194.87.59.11:2085?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Bogahost Bilisim ve Telekomunikasyon Hiz. San ve Tic. Ltd. Sti. ┇ 194.87.59.11

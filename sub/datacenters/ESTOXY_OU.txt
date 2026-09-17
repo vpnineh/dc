@@ -1,1 +1,1 @@
-vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@minecraft.blackbigdog.com:443?type=xhttp&security=reality&path=/assets/v1/sync&sni=minecraft.blackbigdog.com&fp=firefox&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc#EE 🇪🇪 ┇ VLESS-XHTTP-RLT - ESTOXY OU ┇ 37.49.228.80
+vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@minecraft.blackbigdog.com:443?type=xhttp&security=reality&path=/assets/v1/sync&sni=minecraft.blackbigdog.com&fp=chrome&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc#EE 🇪🇪 ┇ VLESS-XHTTP-RLT - ESTOXY OU ┇ 37.49.228.80

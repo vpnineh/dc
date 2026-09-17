@@ -1,0 +1,1 @@
+vless://c3834468-15bc-4263-bfc2-487479604d70@bridge6.maxleshax.icu:443?type=tcp&security=reality&sni=bridge6.maxleshax.icu&fp=firefox&flow=xtls-rprx-vision&pbk=JsuICXqXankgFuFEAkeqNxKrGE1ct-ICo1ywxQqJQwE&sid=57cfb1f1bb51f896#RU 🇷🇺 ┇ VLESS-TCP-RLT - EuroByte LLC ┇ 185.22.234.160

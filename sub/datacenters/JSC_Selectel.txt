@@ -1,2 +1,0 @@
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@wl2.alertyagency.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 92.53.74.129
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9894?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 31.184.219.147

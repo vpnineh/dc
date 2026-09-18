@@ -1,1 +1,0 @@
-vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 195.123.235.177

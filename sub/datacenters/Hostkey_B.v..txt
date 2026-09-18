@@ -1,2 +1,2 @@
 vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8888?type=grpc&security=tls&sni=adm.moshtaaf.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-GRPC-TLS - Hostkey B.v. ┇ 191.101.113.72
-vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?type=tcp&security=tls&sni=adm.moshtaaf.ir#AE 🇦🇪 ┇ VLESS-TCP-TLS - Hostkey B.v. ┇ 191.101.113.72
+vless://608f3899-3147-4510-b6f9-0edc8eeecf2d@adm.moshtaaf.ir:8008?type=httpupgrade&security=tls&path=/&sni=adm.moshtaaf.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-HTTPUPGRADE-TLS - Hostkey B.v. ┇ 191.101.113.72

@@ -1,1 +1,1 @@
-vless://300c402f-692f-4e80-836a-43db48581a95@wepod.irsoft98.ir.horlutr.ir:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 176.96.131.251
+vless://c04bfdea-a7e5-4a23-87d9-425151c140cc@wepod.irsoft98.ir.horlutr.ir:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 176.96.131.251

@@ -1,2 +1,5 @@
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5DUi0yNTIgXHUyNTA3IDE1My41Mi45Mi4xOTMiLCJhZGQiOiJuaW5qYS5tb25hazIuaXIiLCJwb3J0IjoxMTAsImlkIjoiNzAzNGYyNzQtYzUzYS00ZDczLTlmMGMtYjI4YmFjMGQ5ZTdhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOQ1ItMjUyIFx1MjUwNyAxMzIuMjQzLjIyLjgwIiwiYWRkIjoiMTMyLjI0My4yMi44MCIsInBvcnQiOjQ0MywiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ
 vless://6e8b8adc-8782-4f42-b260-81b03ab5fbb2@us.sharkygames.fun:443?type=grpc&security=reality&sni=us.sharkygames.fun&fp=chrome&pbk=GtRDWsSY_OKZq0Nu0_KlBeWLM7m46EQCWFl9NVZr8jM&sid=5145ab05854122b4#US 🇺🇸 ┇ VLESS-GRPC-RLT - NCR-252 ┇ 153.52.77.171
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@132.243.172.183:8081?type=ws&security=none&path=/vless-test#US 🇺🇸 ┇ VLESS-WS-NTLS - NCR-252 ┇ 132.243.172.183
+vless://b487f9b9-904b-4d47-9a0b-f00b046fb7d1@route-1.s1n4-nexu.ir:2083?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.76.112.79
+vless://b487f9b9-904b-4d47-9a0b-f00b046fb7d1@warp-1.s1n4-nexu.ir:2096?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 153.76.112.79

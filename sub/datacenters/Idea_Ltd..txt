@@ -1,0 +1,1 @@
+vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@2.dzen-kz-1.com:8443?type=tcp&security=reality&sni=2.dzen-kz-1.com&fp=chrome&pbk=gNIk9M0_JAgXNkEoWxPFBkZYyLBSbXEyRgpTg63W8xE&sid=19aa25f681923dc8#RU 🇷🇺 ┇ VLESS-TCP-RLT - Idea Ltd. ┇ 109.248.247.151

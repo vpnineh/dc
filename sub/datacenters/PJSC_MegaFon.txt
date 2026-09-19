@@ -1,0 +1,1 @@
+vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@ivox7.nevcore.ru:443?type=xhttp&security=tls&path=/content/media/stream/&sni=ivox7.nevcore.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - PJSC MegaFon ┇ 178.176.128.203

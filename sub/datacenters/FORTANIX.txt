@@ -1,1 +1,1 @@
-vless://1e001568-66ec-4027-bab9-ae1b476fe87d@serr-arnrr-5.blook.democrat:443?type=xhttp&security=tls&path=/VLSpdG9k&sni=serr-arnrr-5.blook.democrat&fp=chrome#AU 🇦🇺 ┇ VLESS-XHTTP-TLS - FORTANIX ┇ 88.216.130.78
+vless://1e001568-66ec-4027-bab9-ae1b476fe87d@serr-arnrr-5.blook.democrat:443?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - FORTANIX ┇ 88.216.130.78

@@ -1,0 +1,1 @@
+vless://218ae360-0e5f-4856-91f3-1823adfc9037@mrs.sepporated.com:443?type=ws&security=tls&path=/ws&sni=mrs.sepporated.com#US 🇺🇸 ┇ VLESS-WS-TLS - BEDGE-CO-LIMITED ┇ 149.104.79.85

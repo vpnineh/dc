@@ -1,1 +1,1 @@
-vless://2a7d20bf-e65f-49a8-9e60-889776701a7c@cardpayment.cleanfoodshop.org:443?type=ws&security=tls&path=/media/ws/&sni=cardpayment.cleanfoodshop.org&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi ┇ 89.144.20.144
+vless://2a7d20bf-e65f-49a8-9e60-889776701a7c@cardpayment.cleanfoodshop.org:443?type=ws&security=tls&path=/media/ws/&sni=cardpayment.cleanfoodshop.org&fp=firefox#TR 🇹🇷 ┇ VLESS-WS-TLS - Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi ┇ 89.144.20.144

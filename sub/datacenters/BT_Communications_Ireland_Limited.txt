@@ -1,0 +1,1 @@
+vless://218ae360-0e5f-4856-91f3-1823adfc9037@ams.sepporated.com:443?type=ws&security=tls&path=/ws&sni=ams.sepporated.com#IE 🇮🇪 ┇ VLESS-WS-TLS - BT Communications Ireland Limited ┇ 78.17.185.99

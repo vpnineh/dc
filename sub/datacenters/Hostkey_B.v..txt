@@ -1,2 +1,0 @@
-vless://d2c3a659-bfd6-48f7-b5d1-2080c59476f2@191.101.113.19:2053?type=xhttp&security=tls&path=/&sni=191.101.113.19&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Hostkey B.v. ┇ 191.101.113.19
-vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?type=tcp&security=tls&sni=adm.moshtaaf.ir#AE 🇦🇪 ┇ VLESS-TCP-TLS - Hostkey B.v. ┇ 191.101.113.72

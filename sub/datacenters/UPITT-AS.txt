@@ -1,1 +1,0 @@
-vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@130.49.77.7:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPITT-AS ┇ 130.49.77.7

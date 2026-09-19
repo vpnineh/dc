@@ -1,1 +1,0 @@
-vless://7b72f74b-ec38-4869-8fb8-cb6ed178e714@s21.cdn-vk.org:443?type=tcp&security=reality&sni=s21.cdn-vk.org&fp=chrome&flow=xtls-rprx-vision&pbk=0tfrusoupKKToFiiH22RbwgyXA97O-6zSFvxF-7dngs&sid=b1602ea55fabe7e6#BE 🇧🇪 ┇ VLESS-TCP-RLT - Colibri Consulting B.V.B.A. ┇ 185.114.49.85

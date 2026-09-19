@@ -1,0 +1,1 @@
+vless://b2141c97-76af-ff6f-839b-70a53e23aad9@140.235.168.5:8443?type=grpc&security=reality&sni=www.lenovo.com&fp=chrome&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY#US 🇺🇸 ┇ VLESS-GRPC-RLT - AKAMAI-AS ┇ 140.235.168.5

@@ -1,0 +1,1 @@
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?type=ws&security=none&path=/?ed=2082#TR 🇹🇷 ┇ VLESS-WS-NTLS - Murat Aktas ┇ 78.135.77.106

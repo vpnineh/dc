@@ -1,2 +1,1 @@
-vless://22ac8d19-9eec-493d-a492-e024cdba594b@simia.northforex.ir:8443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 85.198.51.31
-vless://465b777b-292d-4b95-8744-955551630700@85.198.51.102:443?type=ws&security=none&path=/mciws#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 85.198.51.102
+vless://22ac8d19-9eec-493d-a492-e024cdba594b@simia.northforex.ir:8443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 85.198.51.83

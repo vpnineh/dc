@@ -1,2 +1,1 @@
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de3.edge-9d7c.com:443?type=tcp&security=reality&sni=de3.edge-9d7c.com&fp=chrome&flow=xtls-rprx-vision&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9#GB 🇬🇧 ┇ VLESS-TCP-RLT - Jisc Services Limited ┇ 136.148.71.9
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de2.edge-9d7c.com:443?type=tcp&security=reality&sni=de2.edge-9d7c.com&fp=chrome&flow=xtls-rprx-vision&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9#GB 🇬🇧 ┇ VLESS-TCP-RLT - Jisc Services Limited ┇ 136.148.71.4

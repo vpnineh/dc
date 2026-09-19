@@ -1,2 +1,0 @@
-vless://e4371581-c418-4770-b09a-d630f18290a6@cassiopeia.yokkastars.com:40443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 194.59.245.250
-vless://588456a5-f724-46a7-a08b-5d336d9f8f56@194.76.155.80:40443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 194.76.155.80

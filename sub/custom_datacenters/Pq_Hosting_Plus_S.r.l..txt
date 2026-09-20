@@ -1,0 +1,1 @@
+vless://f07d9192-9d39-49fc-ba70-610fcb7fb176@siennacedarantler.tealbutton.one:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=VE90NqtKCg1Kqc8XCYjLIFmcpOnQDtbMIjtBHbtfHwQ&sid=9c4a1ec4ae97eb29#PT 🇵🇹 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 171.22.129.27

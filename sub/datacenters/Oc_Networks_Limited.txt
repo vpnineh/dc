@@ -1,1 +1,1 @@
-vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@est1313.ggisopi.su:443?type=tcp&security=reality&path=/&sni=est1313.ggisopi.su&fp=chrome&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#FI 🇫🇮 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 83.219.97.26
+vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@est1313.ggisopi.su:443?type=tcp&security=reality&sni=est1313.ggisopi.su&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#FI 🇫🇮 ┇ VLESS-TCP-RLT - Oc Networks Limited ┇ 83.219.97.26

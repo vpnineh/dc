@@ -1,0 +1,1 @@
+vless://2a0cf163-bdc9-490a-90ff-124bd03fcbd1@45.88.12.12:10443?type=xhttp&security=none&path=/my-bucket#AE 🇦🇪 ┇ VLESS-XHTTP-NTLS - BAXET-GROUP ┇ 45.88.12.12

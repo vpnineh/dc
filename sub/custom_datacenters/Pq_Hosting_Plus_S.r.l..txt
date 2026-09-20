@@ -1,0 +1,1 @@
+vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?type=tcp&security=none&path=/api/v2/stream#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.91.52.140

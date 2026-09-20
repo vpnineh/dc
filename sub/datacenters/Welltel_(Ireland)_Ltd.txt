@@ -1,1 +1,0 @@
-vless://c1060910-076d-4a51-99f3-f3cb156f8357@br-gru-1.blook.network:443?type=tcp&security=reality&sni=br-gru-1.blook.network&fp=chrome&flow=xtls-rprx-vision&pbk=GYqQl8suX6lgrJZ27CkhMwtxmDGkd45QxKBJGaHUgQM&sid=08f0e85ad7cc#IE 🇮🇪 ┇ VLESS-TCP-RLT - Welltel (Ireland) Ltd ┇ 45.159.172.71

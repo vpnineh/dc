@@ -1,1 +1,1 @@
-vless://f6b58665-c524-4c60-a939-d8f27123e079@de-3.bnc-gt.co.uk:443?type=xhttp&security=tls&path=/api/v2/&sni=de-3.bnc-gt.co.uk&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Tom Gewiese ┇ 94.249.148.20
+vless://f6b58665-c524-4c60-a939-d8f27123e079@de-3.bnc-gt.co.uk:443?type=ws&security=tls&path=/ws/&sni=de-3.bnc-gt.co.uk&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Tom Gewiese ┇ 94.249.148.20

@@ -1,1 +1,0 @@
-vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@flax-spinel23895.my-vm.work:8088?type=ws&security=false&path=/api&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - VIRMACH ┇ 104.234.24.13

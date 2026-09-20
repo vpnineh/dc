@@ -1,1 +1,9 @@
-vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
+vless://6f97389a-b42a-4a05-9890-87646eecce48@180.149.44.189:1300?type=tcp&security=none&path=/#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.189
+vless://6f97389a-b42a-4a05-9890-87646eecce48@85.90.217.31:1300?type=tcp&security=none&path=/#ES 🇪🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.217.31
+vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDg1LjkwLjIxNy40MiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://6f97389a-b42a-4a05-9890-87646eecce48@45.80.215.6:1300?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.80.215.6
+vless://6f97389a-b42a-4a05-9890-87646eecce48@5.101.216.44:1300?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.101.216.44
+vless://6f97389a-b42a-4a05-9890-87646eecce48@180.149.46.122:1300?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.46.122
+vless://6f97389a-b42a-4a05-9890-87646eecce48@5.8.32.83:1300?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.8.32.83
+vless://6f97389a-b42a-4a05-9890-87646eecce48@89.223.91.23:1300?type=tcp&security=none&path=/#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 89.223.91.23
+vless://6f97389a-b42a-4a05-9890-87646eecce48@5.8.41.41:1300?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.8.41.41

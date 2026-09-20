@@ -1,1 +1,0 @@
-vless://465b777b-292d-4b95-8744-955551630700@104.156.151.217:2445?type=ws&security=none&path=fr-direct#FR 🇫🇷 ┇ VLESS-WS-NTLS - Serverbike LTD ┇ 104.156.151.217

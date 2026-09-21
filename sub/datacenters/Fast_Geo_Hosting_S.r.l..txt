@@ -1,1 +1,0 @@
-vless://416b35f4-7cba-4023-a915-b22af73cd0c2@edge-kz1.lovely.my:443?type=tcp&security=reality&sni=edge-kz1.lovely.my&fp=firefox&flow=xtls-rprx-vision&pbk=nNeAdcF__Tg3jBFRRPgpmKPNJGfqMGy4rG3Z3eO-T24&sid=24fc325b440818ce#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 5.180.42.57

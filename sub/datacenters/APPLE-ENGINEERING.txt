@@ -1,1 +1,0 @@
-vless://5e6ee068-5a29-4098-a14f-52d70167b8b1@de9.bexait.ir:2434?type=tcp&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#US 🇺🇸 ┇ VLESS-TCP-RLT - APPLE-ENGINEERING ┇ 2.28.14.250

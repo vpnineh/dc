@@ -1,4 +1,2 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.42
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.105.210
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@uk-dedic-new-1.failspace.top:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.227.251
-vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 67.159.17.62

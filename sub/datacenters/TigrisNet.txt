@@ -1,0 +1,1 @@
+vless://01f71144-39d2-401a-9dc3-dda5ccdcb0bd@kpiqasf9n1vzmnuo.client.lightningcdn.cc:443?type=tcp&security=reality&sni=kpiqasf9n1vzmnuo.client.lightningcdn.cc&fp=edge&flow=xtls-rprx-vision&pbk=QLu2h7-oywCUDhQf6rN5W1WUoNxnDggwt51LkxJyGW4&sid=b0d8f964b7ac8ac0#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.20.71

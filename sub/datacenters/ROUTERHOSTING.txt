@@ -1,0 +1,2 @@
+vless://3f82db32-7e9d-4f59-8755-040b371c10b8@107.189.20.88:8890?type=httpupgrade&security=none&path=/api1#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - ROUTERHOSTING ┇ 107.189.20.88
+vless://3f82db32-7e9d-4f59-8755-040b371c10b8@107.189.20.88:9990?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - ROUTERHOSTING ┇ 107.189.20.88

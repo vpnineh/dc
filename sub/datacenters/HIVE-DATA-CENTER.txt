@@ -1,2 +1,1 @@
 vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?type=grpc&security=none#CA 🇨🇦 ┇ VLESS-GRPC-NTLS - HIVE-DATA-CENTER ┇ 37.221.110.245
-vless://2f3f58c9-7a49-4783-9722-7fcae7e3a203@37.221.110.249:2085?type=grpc&security=none#CA 🇨🇦 ┇ VLESS-GRPC-NTLS - HIVE-DATA-CENTER ┇ 37.221.110.249

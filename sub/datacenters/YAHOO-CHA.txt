@@ -1,3 +1,0 @@
-vless://39cd736f-d129-4e75-ac39-77f6cf233450@116.202.2.27:80?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=KDmlFjsZuxHYEHYtFZh-3sLmrkt_KmcxA-sG8twBqxM&sid=d2549f367a3ed3cc#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-CHA ┇ 116.202.2.27
-vless://b88a54a0-501c-4acf-930b-305354452f4e@5.78.28.48:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=XB7peN-a_9j_WGBHvs3DIMDlsOzJAOehGnziOE9OvwE&sid=884dffd8e62a5c48#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-CHA ┇ 5.78.28.48
-vless://d78de562-872e-43dd-be48-e9d7b06c87a3@95.217.24.119:2083?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=tADYkZWWksM_mCqqwlRHCciSCXnP3JMYrPi5eoRHh2s&sid=d059fb98048c5318#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-CHA ┇ 95.217.24.119

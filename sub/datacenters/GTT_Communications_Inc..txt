@@ -1,0 +1,2 @@
+vless://8f67e374-53d9-43bb-85c9-a459a959cd1b@194.77.71.152:443?type=tcp&security=reality&sni=1.1.1.1&fp=chrome&flow=xtls-rprx-vision&pbk=e7i5my9c3knQgYrKCJ0pVJEPt8ZDTdbcmCtzK7IQU2Y&sid=74bd7db505e16e3f#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 194.77.71.152
+vless://8f67e374-53d9-43bb-85c9-a459a959cd1b@fi-xhttp.lunoa.ru:8443?type=xhttp&security=tls&path=/assets/v1/&sni=fi-xhttp.lunoa.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - GTT Communications Inc. ┇ 194.77.71.152

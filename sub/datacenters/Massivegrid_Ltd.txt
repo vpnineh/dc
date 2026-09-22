@@ -1,1 +1,1 @@
-vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?type=tcp&security=tls&sni=185.189.58.195&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Massivegrid Ltd ┇ 185.189.58.195
+vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Massivegrid Ltd ┇ 185.189.58.195

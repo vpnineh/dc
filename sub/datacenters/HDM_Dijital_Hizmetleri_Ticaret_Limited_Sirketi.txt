@@ -1,1 +1,0 @@
-vless://35c8e21b-a656-427c-bfa7-ecc14881a72b@45.95.65.142:49136?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - HDM Dijital Hizmetleri Ticaret Limited Sirketi ┇ 45.95.65.142

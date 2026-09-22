@@ -1,1 +1,0 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-dedic1.failspace.top:443?type=tcp&security=tls&sni=austria-dedic1.failspace.top&fp=chrome&flow=xtls-rprx-vision-udp443#AT 🇦🇹 ┇ VLESS-TCP-TLS - COGENT-174 ┇ 50.7.184.190

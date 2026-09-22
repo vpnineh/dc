@@ -1,1 +1,1 @@
-vless://713b6b35-3aa9-488b-afbd-ab4a72ae1a64@love-iran.akbar1999.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 5.160.132.3
+vless://713b6b35-3aa9-488b-afbd-ab4a72ae1a64@love-iran.akbar1999.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 5.160.132.192

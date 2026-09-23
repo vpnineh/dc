@@ -1,2 +1,0 @@
-vless://b88a54a0-501c-4acf-930b-305354452f4e@5.78.28.48:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=XB7peN-a_9j_WGBHvs3DIMDlsOzJAOehGnziOE9OvwE&sid=884dffd8e62a5c48#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 5.78.28.48
-vless://1bbef2cd-2851-4f00-b37e-a2478a1e5a70@159.69.103.251:80?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=0Ag8wyoyN-M84yS4cbZ04wtqawZCHAzfKFT1A1xBFms&sid=253126232f9bb9be#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BCST-AC2 ┇ 159.69.103.251

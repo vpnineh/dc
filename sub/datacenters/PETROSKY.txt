@@ -1,0 +1,1 @@
+vless://21fc62af-c683-4cba-8e3f-d4c3c0234cdb@fr3.green-tg.com:443?type=ws&security=tls&path=/ws&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - PETROSKY ┇ 83.136.208.168

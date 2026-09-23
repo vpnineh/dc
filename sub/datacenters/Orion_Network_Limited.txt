@@ -1,0 +1,1 @@
+vless://31f71b0a-7572-4be1-89c7-e4180b56bfb9@uk.astra-world.top:443?type=tcp&security=reality&sni=uk.astra-world.top&fp=chrome&flow=xtls-rprx-vision&pbk=FI1YlHUJg2eWEW4wTuNyyZgiMrRNziOEnCDPHwkoAxM&sid=4e60c1a539c8e823#GB 🇬🇧 ┇ VLESS-TCP-RLT - Orion Network Limited ┇ 165.231.34.2

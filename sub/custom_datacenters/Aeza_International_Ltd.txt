@@ -1,3 +1,3 @@
-vless://1f87cbe7-316b-49ba-a416-d3c2af72ed50@chatgpt.com:443?type=ws&security=tls&path=/ws/1f87cbe7-316b-49ba-a416-d3c2af72ed50&sni=spidertest.vibenest.net&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 172.64.155.209
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.101.80
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDQ1LjE0NC41NC4xNDkiLCJhZGQiOiJ1cHUuYXBwY2l0eS1kb3dubG9hZC5pciIsInBvcnQiOjIwODYsImlkIjoiMzJiYjM0OTYtZTA4OS00ZWZlLThlNzMtZTEyZmQwYTYwY2E3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.123.127

@@ -1,1 +1,0 @@
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@swebz.loozerp.wiki:443?type=tcp&security=reality&sni=swebz.loozerp.wiki&fp=chrome&flow=xtls-rprx-vision&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#SE 🇸🇪 ┇ VLESS-TCP-RLT - Angelnet Limited ┇ 5.157.10.250

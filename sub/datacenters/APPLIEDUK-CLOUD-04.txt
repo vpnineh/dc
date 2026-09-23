@@ -1,1 +1,1 @@
-vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@217.163.76.118:2086?type=xhttp&security=none&path=/#GB 🇬🇧 ┇ VLESS-XHTTP-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.118
+vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@217.163.76.118:2086?type=xhttp&security=none&path=/?@MARAMBASHI_MARAMBASHI?ed=2048#GB 🇬🇧 ┇ VLESS-XHTTP-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.118

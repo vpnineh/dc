@@ -1,2 +1,2 @@
-vless://b2cddf0c-4b1e-4c65-9457-8dd331c9fc41@185.204.171.83:14120?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.83
 vless://877317b3-c7e4-4f1d-af37-4f32e670bbd4@chitoz.montago-shop.ir:25260?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.163
+vless://b2cddf0c-4b1e-4c65-9457-8dd331c9fc41@185.204.171.83:14120?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.83

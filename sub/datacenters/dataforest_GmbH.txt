@@ -1,1 +1,1 @@
-vless://31f71b0a-7572-4be1-89c7-e4180b56bfb9@de-hn.spacev67.com:4443?type=ws&security=tls&path=/ws&sni=de-hn.spacev67.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 104.167.24.210
+vless://31f71b0a-7572-4be1-89c7-e4180b56bfb9@de-hn.spacev67.com:4443?type=ws&security=tls&path=/ws&sni=de-hn.spacev67.com&fp=qq#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 104.167.24.210

@@ -1,0 +1,1 @@
+vless://a56a3bda-e89a-4182-a671-a1858bb0f47c@185.138.90.95:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yug-Link Ltd. ┇ 185.138.90.95

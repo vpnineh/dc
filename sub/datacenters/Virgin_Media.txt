@@ -1,1 +1,2 @@
-vless://31f71b0a-7572-4be1-89c7-e4180b56bfb9@fraa.spacev67.com:443?type=ws&security=tls&path=/ws&sni=fraa.spacev67.com&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 82.47.1.72
+vless://38df5518-26c5-449b-98d9-a4f456f5f689@tun.temas-bor.ir:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Virgin Media ┇ 82.40.62.136
+vless://31f71b0a-7572-4be1-89c7-e4180b56bfb9@fraa.spacev67.com:443?type=ws&security=tls&path=/ws&sni=fraa.spacev67.com&fp=qq#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 82.47.1.72

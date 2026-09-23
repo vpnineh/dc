@@ -1,1 +1,5 @@
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?type=tcp&security=tls&sni=185.71.219.128&fp=chrome#CY 🇨🇾 ┇ VLESS-TCP-TLS - Dgn Teknoloji A.s. ┇ 185.71.219.128
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:80?type=ws&security=none&path=/#CY 🇨🇾 ┇ VLESS-WS-NTLS - Dgn Teknoloji A.s. ┇ 185.71.219.128
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2052?type=tcp&security=tls&sni=185.71.219.128&fp=ios#CY 🇨🇾 ┇ VLESS-TCP-TLS - Dgn Teknoloji A.s. ┇ 185.71.219.128
 vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERnbiBUZWtub2xvamkgQS5zLiBcdTI1MDcgMTg1LjcxLjIxOS4xOTEiLCJhZGQiOiJ0cjQuY2luZW1hZmE5OC5pciIsInBvcnQiOjU1NDIwLCJpZCI6IjU5YmU2MzViLWZkYzUtNDI1Mi1iMWIwLWFmMWJkMmMxMDUzYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?type=httpupgrade&security=tls&path=/&sni=185.71.219.128&fp=chrome#CY 🇨🇾 ┇ VLESS-HTTPUPGRADE-TLS - Dgn Teknoloji A.s. ┇ 185.71.219.128

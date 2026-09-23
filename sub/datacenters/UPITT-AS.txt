@@ -1,0 +1,1 @@
+vless://cc01f435-d561-4525-bf1f-7a9876d33207@130.49.218.208:5432?type=tcp&security=tls&fp=qq&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - UPITT-AS ┇ 130.49.218.208

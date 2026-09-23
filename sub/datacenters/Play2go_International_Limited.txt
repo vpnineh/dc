@@ -1,4 +1,4 @@
-vless://cc01f435-d561-4525-bf1f-7a9876d33207@178.215.236.95:5432?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 178.215.236.95
-vless://e38ea054-8398-4fc9-ae18-f5776ae59234@ma.maxili.ir:8080?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 93.123.84.176
+vless://cc01f435-d561-4525-bf1f-7a9876d33207@178.215.236.95:5432?type=tcp&security=tls&fp=safari&flow=xtls-rprx-vision#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 178.215.236.95
 vless://cc01f435-d561-4525-bf1f-7a9876d33207@193.58.121.224:5432?type=tcp&security=tls&fp=safari&flow=xtls-rprx-vision#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 193.58.121.224
+vless://e38ea054-8398-4fc9-ae18-f5776ae59234@ma.maxili.ir:8080?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 93.123.84.176
 vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBsYXkyZ28gSW50ZXJuYXRpb25hbCBMaW1pdGVkIFx1MjUwNyA5NC4xNTYuMTc5LjEzOCIsImFkZCI6Ijk0LjE1Ni4xNzkuMTM4IiwicG9ydCI6MTEwLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9

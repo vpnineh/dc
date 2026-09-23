@@ -1,0 +1,1 @@
+vless://2b4645bb-d673-464e-8049-5cec5cd51d46@zcsagftt.selqora.ir:51595?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - Vodafone Spain ┇ 62.83.34.244

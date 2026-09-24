@@ -1,1 +1,0 @@
-vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@159.194.217.26:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Telenor Norge AS ┇ 159.194.217.26

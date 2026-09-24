@@ -1,3 +1,2 @@
-vless://7f2f5b89-b4b1-435e-8e31-3d78f65fb9cf@pan.farshadqw1.ir:80?type=ws&security=none&path=/pgcfws-r4#ES 🇪🇸 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 194.62.99.155
 vless://7f2f5b89-b4b1-435e-8e31-3d78f65fb9cf@panel.romapanel.ir:8880?type=ws&security=none&path=/pgcfws-r4#FI 🇫🇮 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 94.237.86.235
 vless://7f2f5b89-b4b1-435e-8e31-3d78f65fb9cf@all.farshadqw1.ir:8880?type=ws&security=none&path=/pgcfws-r4#FI 🇫🇮 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 85.9.214.180

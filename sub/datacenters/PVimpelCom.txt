@@ -1,1 +1,1 @@
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?type=ws&security=tls&path=/ws&sni=fbsv6.guardora.pro&fp=firefox#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 217.19.122.65
+vless://1cc07f3d-0217-4dc3-8137-b8f7c05a1c3b@217.19.122.65:443?type=ws&security=tls&path=/api/v1/task&sni=8sdev.guardora.pro&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 217.19.122.65

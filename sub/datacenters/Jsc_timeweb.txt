@@ -1,3 +1,1 @@
-vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.25.195:443?type=tcp&security=reality&pbk=Fe_144ALuRRedGs06ljDnE1f_G2B2wE4i9_diqw5LnY#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 188.225.25.195
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 91.210.169.181
 vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@api.betust.net:443?type=tcp&security=reality&sni=api.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&sid=d6c172d3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 188.225.77.241

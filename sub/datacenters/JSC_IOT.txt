@@ -1,1 +1,0 @@
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@91.240.86.12:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 91.240.86.12

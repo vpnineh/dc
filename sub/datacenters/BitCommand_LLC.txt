@@ -1,3 +1,1 @@
-vless://ce2bd817-7fb1-4b94-8125-d6161de31962@nova.freshnet.ir:2082?type=ws&security=tls&path=/cats/FslNz&sni=nova.freshnet.ir&fp=chrome#AU 🇦🇺 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 82.115.20.206
-vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 202.133.90.93
 vless://d9ce62fc-851b-49db-b52a-d015357a2f3a@netsecureteam5.ir:4444?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.90.48

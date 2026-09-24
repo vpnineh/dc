@@ -1,1 +1,1 @@
-vless://df4a4511-8562-42f1-bc46-431b73f8cff3@trmarztcpwshjf.horlutr.ir:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 176.96.131.251
+vless://aeb7da2f-1eed-4bfa-8185-8788ca1c89cb@trmarztcpwshjf.horlutr.ir:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 176.96.131.251

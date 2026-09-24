@@ -1,1 +1,0 @@
-vless://b3e950f6-b446-4fe1-808b-29e10a1c2479@194.146.47.87:443?type=ws&security=tls&path=/media/ws/&sni=trcdn2.nome-rkp.net&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ 194.146.47.87

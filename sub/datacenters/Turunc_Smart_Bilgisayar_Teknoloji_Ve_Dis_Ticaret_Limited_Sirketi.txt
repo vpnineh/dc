@@ -1,1 +1,1 @@
-vless://1cb6d474-f564-4db6-b544-e196d0ac8fd5@tr.koomeh.net:80?type=xhttp&security=none&path=/?ed=2048#TR 🇹🇷 ┇ VLESS-XHTTP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 185.227.138.53
+vless://de52e9ac-547b-4dba-a303-c587f58a267f@tr.koomeh.net:80?type=xhttp&security=none&path=/?ed=2048#TR 🇹🇷 ┇ VLESS-XHTTP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 77.87.122.6

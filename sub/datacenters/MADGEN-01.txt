@@ -1,0 +1,1 @@
+vless://21fc62af-c683-4cba-8e3f-d4c3c0234cdb@gm1.green-tg.com:443?type=ws&security=tls&path=/ws&sni=gm1.green-tg.com&fp=firefox#IQ 🇮🇶 ┇ VLESS-WS-TLS - MADGEN-01 ┇ 178.17.51.192

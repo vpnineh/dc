@@ -1,0 +1,1 @@
+vless://Channel@61.245.11.28:9090?type=tcp&security=none&path=/#PH 🇵🇭 ┇ VLESS-TCP-NTLS - CARRIERDOMAIN-NYC ┇ 61.245.11.28

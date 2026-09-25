@@ -1,2 +1,1 @@
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de2.edge-9d7c.com:443?type=tcp&security=reality&sni=de2.edge-9d7c.com&fp=chrome&flow=xtls-rprx-vision&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9#GB 🇬🇧 ┇ VLESS-TCP-RLT - Jisc Services Limited ┇ 136.148.71.4
-vless://a1b71e32-598c-4a69-9916-aff3787a1c24@hi.bangmyshop.ir:13453?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - Jisc Services Limited ┇ 136.148.67.29

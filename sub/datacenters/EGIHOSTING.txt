@@ -1,1 +1,0 @@
-vless://8715c0e4-7936-4e3d-a41f-6cd4c80d6fc7@fr1.gtunnel.co:2053?type=grpc&security=reality&sni=fr1.gtunnel.co&fp=firefox&pbk=7keh_IFpU5kwSPYXGOi3PK4lvkCCy7THoAGa1-3xFFg&sid=6aa3d5ec54843001#US 🇺🇸 ┇ VLESS-GRPC-RLT - EGIHOSTING ┇ 45.38.228.127

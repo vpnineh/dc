@@ -1,1 +1,2 @@
 vless://8077caf3-dfec-4439-b5d2-06dea7f7933a@xn--france-h19cz3dkw57sgucawa090d.netbazshop.ir:33017?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.65
+vless://57c43227-ab71-4147-b479-e18035c9e03e@tr.mlbaz.ir:1000?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.77

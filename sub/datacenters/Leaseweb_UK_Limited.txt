@@ -1,1 +1,2 @@
 vless://94459532-f38d-40a2-9bbe-74deb93b3a22@vn74kujn.selqora.ir:51595?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 173.208.50.117
+vless://42351e98-f2e0-41c9-b3bb-4f89c543cece@uk.movieypung11.ir:63718?type=tcp&security=none&path=/&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 173.208.50.117

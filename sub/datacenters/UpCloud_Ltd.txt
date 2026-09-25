@@ -1,1 +1,1 @@
-vless://50eab502-c796-4805-900e-fc33fb5ddccf@kat.romapanel.ir:8880?type=ws&security=none&path=/pgcfws-r4#FI 🇫🇮 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 94.237.86.235
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVwQ2xvdWQgTHRkIFx1MjUwNyA5NC4yMzcuODcuMTEyIiwiYWRkIjoidnBuaHViLmFybWFuc3BlZWQuaXIiLCJwb3J0Ijo2NDYyOCwiaWQiOiIzODkxNTAwNS01ZmU0LTQ4NmUtYjEwYi1iZTI5ZjFkOWFkYTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9

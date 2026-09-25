@@ -1,1 +1,0 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@polkakurvich.hohoterz.beer:443?type=tcp&security=reality&sni=polkakurvich.hohoterz.beer&fp=firefox&flow=xtls-rprx-vision&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6#GB 🇬🇧 ┇ VLESS-TCP-RLT - TalkTalk ┇ 80.47.6.12

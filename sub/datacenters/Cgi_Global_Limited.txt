@@ -1,21 +1,20 @@
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:55082?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:15409?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:36587?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:30696?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:39884?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:13133?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:41260?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:45286?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:35550?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
 vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:47450?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:17852?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:15409?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:13077?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:36587?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:34739?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:59006?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:55082?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
 vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:50521?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
 vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:40610?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:34739?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:17852?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:13077?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:59006?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
-vless://7373d60e-c000-4e51-b979-339e0601e4ad@warpe.caroptionz.ir:443?type=ws&security=tls&path=/pgcfws-r4&sni=warpe.caroptionz.ir&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 46.8.228.79
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:45286?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:30696?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:39884?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:13133?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:35550?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:41260?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.61
+vless://7373d60e-c000-4e51-b979-339e0601e4ad@warp.caroptionz.ir:443?type=ws&security=tls&path=/pgcfws-r4&sni=warp.caroptionz.ir&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 46.8.228.79
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.173
 vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMTA5LjI0OC4xNjEuMjA3IiwiYWRkIjoiYXBpLm5lZXhieXRlLmlyIiwicG9ydCI6MjQ5NSwiaWQiOiJiODM0ZjBjNC05NTYyLTQ1MDctOGIyMS1lNjE2MzMzYWMyN2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuMTUuMTguMjkiLCJhZGQiOiJuZWtvbmtvci52ZWxtb3IueHl6IiwicG9ydCI6NzA4OCwiaWQiOiIxYzQ2ZTdlZS1iYTAxLTRkM2QtODYyNS03NzUyMjUzZjcwYWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9

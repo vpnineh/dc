@@ -1,2 +1,1 @@
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - YottaSrc ┇ 45.92.219.170
 vless://57c43227-ab71-4147-b479-e18035c9e03e@tr.mlbaz.ir:1000?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.77

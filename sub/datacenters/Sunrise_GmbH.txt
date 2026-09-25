@@ -1,2 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTdW5yaXNlIEdtYkggXHUyNTA3IDg0Ljc1Ljc2LjE2IiwiYWRkIjoiODQuNzUuNzYuMTYiLCJwb3J0Ijo0NDMsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIn0
-vless://7373d60e-c000-4e51-b979-339e0601e4ad@tala.caroptionz.ir:443?type=ws&security=tls&path=/pgcfws-r4&sni=tala.caroptionz.ir&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-TLS - Sunrise GmbH ┇ 178.83.45.220
+vless://a4937faa-98da-43f8-a677-2b54dc73cde3@tala.caroptionz.ir:443?type=ws&security=tls&path=/pgcfws-r4&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-TLS - Sunrise GmbH ┇ 178.83.45.220

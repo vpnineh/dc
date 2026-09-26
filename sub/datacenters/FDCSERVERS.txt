@@ -1,6 +1,7 @@
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.105.211
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.43
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.42
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.43
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?type=tcp&security=tls&sni=ireland-new-ded1.failspace.top&flow=xtls-rprx-vision#IE 🇮🇪 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.5.187
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-at-at.failspace.top:443?type=tcp&security=tls&path=/&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 66.90.106.194
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@uk-dedic-new-1.failspace.top:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.227.251
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub-mori-new.failspace.top:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.197.206

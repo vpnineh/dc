@@ -1,1 +1,2 @@
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@usanewspeed1234554321.soft355.ir:33017?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Jisc Services Limited ┇ 136.148.77.203
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de2.edge-9d7c.com:443?type=tcp&security=reality&sni=de2.edge-9d7c.com&fp=chrome&flow=xtls-rprx-vision&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9#GB 🇬🇧 ┇ VLESS-TCP-RLT - Jisc Services Limited ┇ 136.148.71.4

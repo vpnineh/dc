@@ -1,0 +1,1 @@
+vless://80f72027-2201-4541-9abb-7070c9b0869e@ger1.serverslocal.ru:443?type=tcp&security=reality&sni=ger1.serverslocal.ru&fp=chrome&flow=xtls-rprx-vision&pbk=BDifo9eyFfF6tveoCrZSq4_8Wm_N5U-_1cWiR2muiU8&sid=10fd007b783ca62f#AE 🇦🇪 ┇ VLESS-TCP-RLT - Felix Gassan ┇ 151.242.161.182

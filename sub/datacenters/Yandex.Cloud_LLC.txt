@@ -1,1 +1,1 @@
-vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@amus.konus.buzz:443?type=xhttp&security=tls&path=/api/garden/feed&sni=amus.konus.buzz&fp=qq#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://26d493a6-e1fc-4813-8f6d-49010ae97d7f@qyk5x30.videoruru.shop:443?type=tcp&security=tls&path=/v1/4caceb81/segments/#AE 🇦🇪 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

@@ -1,0 +1,1 @@
+vless://a56a3bda-e89a-4182-a671-a1858bb0f47c@45.140.204.34:8443?type=tcp&security=none#IL 🇮🇱 ┇ VLESS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 45.140.204.34

@@ -1,1 +1,1 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@surstreming.vvzzkontaktezzvv.garden:443?type=tcp&security=reality&sni=surstreming.vvzzkontaktezzvv.garden&fp=chrome&flow=xtls-rprx-vision&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836#SE 🇸🇪 ┇ VLESS-TCP-RLT - Angelnet Limited ┇ 5.157.10.148
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.157.10.148:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Angelnet Limited ┇ 5.157.10.148

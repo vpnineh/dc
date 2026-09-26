@@ -1,0 +1,1 @@
+vless://25284368-40d5-4abe-9f56-54a07e88a7af@nl2.dzvn.space:37951?type=tcp&security=reality&sni=nl2.dzvn.space&fp=chrome&flow=xtls-rprx-vision&pbk=O6ZOpoz4sxon8iHxCd5EEvx2K9NUThd4SvOCBEvADEI&sid=a9e21fd097d019c6#US 🇺🇸 ┇ VLESS-TCP-RLT - UIDAHO ┇ 129.101.120.5

@@ -3,9 +3,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDY0LjE3Ni41MS4yMTQiLCJhZGQiOiI2NC4xNzYuNTEuMjE0IiwicG9ydCI6MjM0NjIsImlkIjoiOTVjNWFiYzEtMDE4ZC00NjI4LTg5YTctMjVhYjljNjJhYjc0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vless://877317b3-c7e4-4f1d-af37-4f32e670bbd4@nl.club.montago-shop.ir:25260?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.179.136
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA0NS4zMi4xMjAuMTczIiwiYWRkIjoiNDUuMzIuMTIwLjE3MyIsInBvcnQiOjQ0MywiaWQiOiJYRVhFVklMIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&security=none&path=/platform117#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.228.106
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?type=ws&security=false&path=/platform109&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.250.128
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&security=none&path=/platform108#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.245.154
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?type=ws&security=none&path=/platform118#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.234.100
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&security=none&path=/platform101#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.243.189
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&security=none&path=/platform117#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.228.106
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&security=none&path=/platform106#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.250.125
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&security=none&path=/platform102#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.249.25
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&security=none&path=/platform108#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.245.154

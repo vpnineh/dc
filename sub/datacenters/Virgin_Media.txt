@@ -1,0 +1,1 @@
+vless://627fc193-3824-4e77-94e9-0f674e3a41e2@3esmyq9w12e9.dop16.com:8080?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.47.63.196

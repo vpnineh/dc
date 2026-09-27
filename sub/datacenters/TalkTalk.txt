@@ -1,0 +1,1 @@
+vless://06c28afa-8b66-4326-b9b0-6b81414297f4@finland.sepahanatlas.ir:8238?type=ws&security=tls&path=/&sni=finland.sepahanatlas.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - TalkTalk ┇ 80.47.227.243

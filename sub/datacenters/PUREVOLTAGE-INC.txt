@@ -1,0 +1,2 @@
+vless://25284368-40d5-4abe-9f56-54a07e88a7af@de2.dzvn.space:2291?type=tcp&security=reality&path=/&sni=de2.dzvn.space&fp=chrome&flow=xtls-rprx-vision&pbk=tLWqTzKtCCMxxOzSskvSwDB2an1bxxZ706kcNDqGNWg&sid=50ace5ab34f6df9b#IL 🇮🇱 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.202.10.137
+vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?type=tcp&security=reality#IL 🇮🇱 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.202.10.248

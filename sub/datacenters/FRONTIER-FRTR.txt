@@ -1,1 +1,0 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?type=tcp&security=none&path=/retrieve/txt?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - FRONTIER-FRTR ┇ 194.154.29.139

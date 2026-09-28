@@ -1,5 +1,4 @@
-vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@s2.nimhubnet.ir:1010?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.4
-vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@s9.nimhubnet.ir:1018?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.14
-vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@s12.nimhubnet.ir:1022?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.21
 vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@s10.nimhubnet.ir:1019?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.15
-vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@s8.nimhubnet.ir:7017?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.13
+vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@s12.nimhubnet.ir:1022?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.21
+vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@s9.nimhubnet.ir:1018?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.14
+vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@s2.nimhubnet.ir:1010?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.4

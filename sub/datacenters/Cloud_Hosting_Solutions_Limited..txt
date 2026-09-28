@@ -1,1 +1,1 @@
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&security=tls&sni=assets-de2.pleiades.codes&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - Cloud Hosting Solutions, Limited. ┇ 37.46.18.49
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&security=tls&sni=assets-de2.pleiades.codes&fp=qq#US 🇺🇸 ┇ VLESS-GRPC-TLS - Cloud Hosting Solutions, Limited. ┇ 37.46.18.49

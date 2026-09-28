@@ -1,1 +1,1 @@
-vless://c96767fe-fdc1-4af0-9666-9ba108603de4@61effb0eb0dbebd7.revfuna.ir:1310?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 2.56.125.97
+vless://9acec722-150a-4e47-924e-581af675d668@b9be62544aa460d5.revfuna.ir:1310?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 2.56.125.97

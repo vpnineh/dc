@@ -1,6 +1,1 @@
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&security=none&path=/platform102#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 216.173.67.169
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&security=none&path=/platform106#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 155.254.60.222
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&security=none&path=/platform101#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 23.27.200.115
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&security=none&path=/platform108#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 23.27.200.37
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?type=ws&security=false&path=/platform109&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 45.195.69.240
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?type=ws&security=none&path=/platform113#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 45.195.76.127
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&security=false&path=/platform101&fp=chrome#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 23.27.200.115

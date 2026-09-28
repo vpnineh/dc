@@ -1,0 +1,1 @@
+vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@64.188.126.56:43000?type=tcp&security=reality&sni=64.188.126.56&fp=chrome&flow=xtls-rprx-vision&pbk=jjbMUO41S9JE7ou_zbbDStzSYLzJVN_0O-j0f6b380E&sid=bf4e20af99d3042d#US 🇺🇸 ┇ VLESS-TCP-RLT - ABUL-14-7385 ┇ 64.188.126.56

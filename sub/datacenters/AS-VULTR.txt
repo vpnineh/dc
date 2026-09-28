@@ -1,12 +1,14 @@
+vless://4c250d79-700a-4968-b50d-bae96983e1d7@199.247.7.55:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 199.247.7.55
 vless://2787849c-1a49-4457-9db7-efcdb2578268@192.248.179.81:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 192.248.179.81
+vless://8ccc4581-eba9-4226-abbc-64e7d8fb415e@45.77.143.204:80?type=ws&security=false&path=/&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.77.143.204
+vless://9be7fcec-5b90-4cf7-828c-ccbd889fd03c@136.244.85.41:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 136.244.85.41
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDY1LjIwLjg1LjE5NCIsImFkZCI6ImNjMzUuZ29pbmdzaWRlLnNpdGUiLCJwb3J0Ijo4OTk4LCJpZCI6IjRiMDE5ZmFhLTM4YjAtNDczZC1iYzQ5LTYwYmI2ODE1MWMzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDY0LjE3Ni41MS4yMTQiLCJhZGQiOiI2NC4xNzYuNTEuMjE0IiwicG9ydCI6MjM0NjIsImlkIjoiOTVjNWFiYzEtMDE4ZC00NjI4LTg5YTctMjVhYjljNjJhYjc0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2ExNTIwNiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AjXHVkODNjXHVkZmExOTBAT05FQ0xJQ0tWUE5LRVlTLU5UTFMgLSBBUy1WVUxUUiBcdTI1MDcgNDUuMzIuNTcuMTE4IiwiYWRkIjoiNDUuMzIuNTcuMTE4IiwicG9ydCI6NDQzMywiaWQiOiIzNWI4OTgzMi0wYTdjLTQ4ZGQtOGQxYy1hMjg5MWI1MjIxOTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AjXHVkODNjXHVkZmExOTBAb25lY2xpY2t2cG5rZXlzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA0NS4zMi41Ny4xMTgiLCJhZGQiOiI0NS4zMi41Ny4xMTgiLCJwb3J0Ijo0NDMzLCJpZCI6IjM1Yjg5ODMyLTBhN2MtNDhkZC04ZDFjLWEyODkxYjUyMjE5NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&security=none&path=/platform106#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.250.125
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?type=ws&security=none&path=/platform118#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.234.100
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?type=ws&security=none&path=/platform113#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.246.73
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&security=none&path=/platform117#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.228.106
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&security=none&path=/platform102#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.249.25
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&security=none&path=/platform101#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.243.189
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&security=none&path=/platform102#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.249.25
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?type=ws&security=none&path=/platform113#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.246.73
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?type=ws&security=none&path=/platform118#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.234.100
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&security=none&path=/platform117#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.228.106
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&security=none&path=/platform108#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.245.154
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?type=ws&security=false&path=/platform103&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 139.84.246.240

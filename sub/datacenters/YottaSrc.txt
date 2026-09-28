@@ -1,2 +1,1 @@
-vless://64d64c94-79bb-4404-8195-63e2bc4622fb@45.67.139.241:2041?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.139.241
 vless://363e5ed1-ad1d-40d6-bfad-33f29ba0cc87@4.spotify24.ir:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.93

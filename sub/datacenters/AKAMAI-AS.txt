@@ -1,3 +1,5 @@
+vless://06765620-7fd9-4927-bf74-fa4b551f26b7@95.85.252.223:8443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=4IFrK2mEJSNBJEqyiWLvPgXGNjV8vK49SxPI0RmheWg#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 95.85.252.223
+vless://saint@66.33.22.234:29903?type=tcp&security=reality&sni=search.led.samsung.com&fp=chrome&pbk=TPAUGoh_ExyDxbSvZB0yFRXUMo-1tbmM9RcgFEReAEk&sid=5ce805377aa6#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 66.33.22.234
 vless://4cb23ec6-c295-47b8-800a-315d8e43d1ac@66.33.22.234:47078?type=tcp&security=reality&sni=au-images.shop.samsung.com&fp=chrome&pbk=GVAbecF6i4oCyWF7VrfM0UXfTmqXmDkCQLNRjXIcEjQ&sid=76ea8d6be88f0c56#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 66.33.22.234
 vless://saint@66.33.22.236:13842?type=tcp&security=reality&sni=cdn.samsung.com&fp=chrome&pbk=TPAUGoh_ExyDxbSvZB0yFRXUMo-1tbmM9RcgFEReAEk&sid=42#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 66.33.22.236
-vless://saint@66.33.22.234:29903?type=tcp&security=reality&sni=search.led.samsung.com&fp=chrome&pbk=TPAUGoh_ExyDxbSvZB0yFRXUMo-1tbmM9RcgFEReAEk&sid=5ce805377aa6#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 66.33.22.234
+vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:443?type=xhttp&security=reality&path=/?&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 122.8.45.2

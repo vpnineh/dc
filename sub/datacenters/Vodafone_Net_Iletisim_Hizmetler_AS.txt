@@ -1,0 +1,1 @@
+vless://807cd1e0-f4ce-4785-b7a3-cde0c1614b8d@80.91.79.136:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-RLT - Vodafone Net Iletisim Hizmetler AS ┇ 80.91.79.136

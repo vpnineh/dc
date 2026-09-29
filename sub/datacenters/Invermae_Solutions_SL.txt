@@ -1,1 +1,1 @@
-vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@sp35.mech-pro.online:443?type=tcp&security=reality&sni=sp35.mech-pro.online&fp=firefox&flow=xtls-rprx-vision&pbk=azv9I1WcbDAga3vWg62KSaRi1eRwZsDU4tg3T63al1o&sid=3ea0e22c#ES 🇪🇸 ┇ VLESS-TCP-RLT - Invermae Solutions SL ┇ 45.150.195.35
+vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@sp35.mech-pro.online:443?type=tcp&security=reality&sni=sp35.mech-pro.online&fp=chrome&flow=xtls-rprx-vision&pbk=azv9I1WcbDAga3vWg62KSaRi1eRwZsDU4tg3T63al1o&sid=3ea0e22c#ES 🇪🇸 ┇ VLESS-TCP-RLT - Invermae Solutions SL ┇ 45.150.195.35

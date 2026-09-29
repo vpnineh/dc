@@ -1,1 +1,1 @@
-vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@yw0ein72.denditop.site:443?type=tcp&security=reality&sni=yw0ein72.denditop.site&fp=chrome&flow=xtls-rprx-vision&pbk=UpOOm5-gcSp3fLuCzWl2HJnnqtUHpnbyOWU2yUCcsRI&sid=0492eabdb9#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.12.1
+vless://c934b37d-f794-4b7d-a590-13f736ea5cab@31.57.24.177:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.24.177

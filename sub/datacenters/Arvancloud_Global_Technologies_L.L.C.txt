@@ -1,6 +1,1 @@
-vless://b2a508ff-99d6-4286-9e9e-e1a895cb4c6d@panel.vortexservice.ir:2083?type=ws&security=tls&path=/?ed&sni=panel.vortexservice.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 194.5.207.247
-vless://b2a508ff-99d6-4286-9e9e-e1a895cb4c6d@panel.vortexservice.ir:8443?type=xhttp&security=tls&path=/?ed&sni=panel.vortexservice.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Arvancloud Global Technologies L.L.C ┇ 194.5.207.247
 vless://d9ef394a-ea70-4f7f-b648-0e21d805d35e@gt1.matinnetworkz.com:8092?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.168.201
-vless://b2a508ff-99d6-4286-9e9e-e1a895cb4c6d@panel.vortexservice.ir:2082?type=ws&security=tls&path=/?ed&sni=panel.vortexservice.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 194.5.207.247
-vless://b2a508ff-99d6-4286-9e9e-e1a895cb4c6d@panel.vortexservice.ir:443?type=ws&security=tls&path=/?ed&sni=panel.vortexservice.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 194.5.207.247
-vless://b2a508ff-99d6-4286-9e9e-e1a895cb4c6d@panel.vortexservice.ir:433?type=ws&security=tls&path=/home/?ed&sni=panel.vortexservice.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 194.5.207.247

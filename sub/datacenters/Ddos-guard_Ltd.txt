@@ -1,2 +1,1 @@
 vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@sport.sowt2.app:443?type=ws&security=tls&path=/gateway/v1/ws/fd6b5f8ebef9d896772121a7712743ce&sni=sport.sowt2.app&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.77
-vless://a7d07a78-93db-4662-9f0f-8bbca9d1a33a@my.console.pc-club.app:443?type=ws&security=tls&path=/v1/data/sync/&sni=my.console.pc-club.app&fp=firefox#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.171

@@ -1,2 +1,1 @@
-vless://26d493a6-e1fc-4813-8f6d-49010ae97d7f@s55xd3o.videoruru.shop:443?type=tcp&security=tls&path=/v3/4c0e1f29/segments/#AE 🇦🇪 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
-vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@188.72.103.3:443?type=tcp&security=tls&path=/api/v102/uptodown/#AE 🇦🇪 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
+vless://26d493a6-e1fc-4813-8f6d-49010ae97d7f@qyk5x30.videoruru.shop:443?type=tcp&security=tls&path=/v1/4caceb81/segments/#AE 🇦🇪 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

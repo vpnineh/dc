@@ -1,2 +1,1 @@
-vless://ecbd7b27-9a49-46df-8fe1-2ec135c29cdf@node.de1.uefibios.ru:2085?type=ws&security=tls&path=/chat/socket/&sni=node.de1.uefibios.ru&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-TLS - Play2go International Limited ┇ 94.156.115.120
 vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBsYXkyZ28gSW50ZXJuYXRpb25hbCBMaW1pdGVkIFx1MjUwNyA5NC4xNTYuMTc5LjEzOCIsImFkZCI6Ijk0LjE1Ni4xNzkuMTM4IiwicG9ydCI6MTEwLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9

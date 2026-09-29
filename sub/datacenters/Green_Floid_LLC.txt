@@ -1,2 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.12.206.160:81?type=tcp&security=none&path=/members/playlist?ed=2560#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 217.12.206.160
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@spanish67.kovsh.lol:443?type=tcp&security=reality&sni=spanish67.kovsh.lol&fp=chrome&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.71.154

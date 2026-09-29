@@ -1,1 +1,1 @@
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?type=tcp&security=reality#SC 🇸🇨 ┇ VLESS-TCP-RLT - Psb Hosting Ltd ┇ 45.95.96.236
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3#SC 🇸🇨 ┇ VLESS-TCP-RLT - Psb Hosting Ltd ┇ 45.95.96.236

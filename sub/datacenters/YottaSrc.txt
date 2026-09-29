@@ -1,2 +1,1 @@
-vless://7fdc74fa-51d3-4a83-8018-e9a8fe53b40e@xn--france-h19cz3dkw57sgucawa090d.netbazshop.ir:33017?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.65
-vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@francenewspeed1234554321.soft355.ir:33017?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.197
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@usanewspeed1234554321.soft355.ir:33017?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.197

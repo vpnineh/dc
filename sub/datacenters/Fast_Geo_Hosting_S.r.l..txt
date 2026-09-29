@@ -1,1 +1,0 @@
-vless://ce64591a-fe2d-48cd-b738-e5f591eea784@israel.talon.su:443?type=tcp&security=reality&sni=israel.talon.su&fp=chrome&flow=xtls-rprx-vision&pbk=aFKabnTUYntZckEjCaLHXSM83WkPW-AmOkRDA8fYjm0&sid=c9e9dc8b87bd7d28#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 85.209.158.63

@@ -1,1 +1,0 @@
-vless://25bc9eee-e900-49c5-b195-7e6a6a323189@cayosh.fastshot.net:443?type=ws&security=tls&path=/&sni=cayosh.fastshot.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Korea ┇ 103.214.69.97

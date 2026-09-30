@@ -1,26 +1,21 @@
-vless://81c957de-8fb0-49af-8205-beea6d1ce6ee@146.75.119.82:80?type=ws&security=none&path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.119.82
+vless://765d977f-0d47-4d4b-af1c-6eb69d798e0f@146.75.119.82:80?type=ws&security=none&path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.119.82
 vless://b7a9d994-a3cf-4d83-a2d2-f4083c678d6d@u9318abd84c85c48d.tanzora.ir:80?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.121.194
-vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.78.159
-vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?type=xhttp&security=none&path=/category/music#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.130.219
-vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&sid=45#US 🇺🇸 ┇ VLESS-TCP-RLT - FASTLY ┇ 107.181.155.189
-vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.25.242
-vless://6f791d88-899d-4740-8bb2-0cf2790f9b00@pinterest.com:80?type=ws&security=none&path=/De-Fast?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.0.84
-vless://ea8932f2-e630-4bd6-8cdd-57e55d77089c@23.235.33.98:80?type=xhttp&security=none&path=/fast#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 23.235.33.98
-vless://900f92aa-4154-4c06-9046-204d949035a5@167.82.76.31:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 167.82.76.31
-vless://4dc21709-acf8-4b95-9857-cae726342929@151.101.3.8:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.3.8
-vless://InternetAzadRobot@fastly.com:80?type=xhttp&security=none&path=/tofan#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.193.57
-vless://InternetAzadRobot-AliKiller@151.101.129.57:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.129.57
-vless://InternetAzadRobot@151.101.1.57:80?type=xhttp&security=none&path=/TignaliSWithYou#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.1.57
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5My41NyIsImFkZCI6IjE1MS4xMDEuMTkzLjU3IiwicG9ydCI6ODAsImlkIjoiZDY0YWJkYjctYWVlYS00NzhjLTgxOTctYzMyMTU5ZjQ2MGMwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoid3MvP2VkPTIwNDgifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjIyLjEzMyIsImFkZCI6ImxpdmUudGhld29ybGR3aWRld29sZi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1Njc1MDUwYS1hNWIwLTQ3NDgtYmU0Ni1jNDU2N2U1ZDRkMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?type=ws&security=none&path=/download#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.2.219
+vless://b7a9d994-a3cf-4d83-a2d2-f4083c678d6d@199.232.78.159:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.78.159
 vless://0e9f7d2a-2f92-475e-b484-e79568a8a1a2@167.82.101.251:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 167.82.101.251
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuMTI4LjE0NCIsImFkZCI6Imdvdi51ayIsInBvcnQiOjQ0MywiaWQiOiI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvNzc4NDg4MjQiLCJ0bHMiOiJ0bHMifQ
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.21.194
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.194.219
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?type=tcp&security=none&path=/download#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.64.155
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.2.219
-vless://424c2031-1add-4063-8fc0-d57dc8358b21@151.101.0.155:80?type=tcp&security=none&path=/de?ed=1048#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.0.155
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?type=xhttp&security=none&path=/login#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.65.57
+vless://ed8e4525-2d90-4a22-aa04-6d08efa0041a@151.101.3.8:80?type=xhttp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.3.8
+vless://6f791d88-899d-4740-8bb2-0cf2790f9b00@pinterest.com:80?type=ws&security=none&path=/De-Fast?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.0.84
+vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 140.248.145.194
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5My41NyIsImFkZCI6IjE1MS4xMDEuMTkzLjU3IiwicG9ydCI6ODAsImlkIjoiZDY0YWJkYjctYWVlYS00NzhjLTgxOTctYzMyMTU5ZjQ2MGMwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoid3MvP2VkPTIwNDgifQ
+vless://b742d8e7-ed7d-4f7d-bb16-bf49bdb4cb44@23.235.33.98:80?type=xhttp&security=none&path=/fast#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 23.235.33.98
+vless://900f92aa-4154-4c06-9046-204d949035a5@167.82.76.31:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 167.82.76.31
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuNjQuMTQ0IiwiYWRkIjoiZ292LnVrIiwicG9ydCI6NDQzLCJpZCI6Ijc3ODQ4ODI0LTkzYjctNGI4OS1mZmQwLWU5MWFmZmY0MDZjZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii83Nzg0ODgyNCIsInRscyI6InRscyJ9
+vless://InternetAzadRobot-AliKiller@151.101.129.57:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.129.57
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNDAuMjQ4LjE0Ni4xMzMiLCJhZGQiOiJsaXZlLnRoZXdvcmxkd2lkZXdvbGYuY29tIiwicG9ydCI6ODAsImlkIjoiNTY3NTA1MGEtYTViMC00NzQ4LWJlNDYtYzQ1NjdlNWQ0ZDI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?type=tcp&security=none&path=/download#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.0.155
+vless://InternetAzadRobot@151.101.1.57:80?type=xhttp&security=none&path=/TignaliSWithYou#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.1.57
+vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.25.242
 vless://d8b3f1c4-94c7-423e-a03a-bfa7f6af0ea1@151.101.56.9:80?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.56.9
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.197.131
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?type=xhttp&security=none&path=/login#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.65.57
+vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&sid=45#US 🇺🇸 ┇ VLESS-TCP-RLT - FASTLY ┇ 107.181.155.189
 vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@140.248.189.57:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 140.248.189.57

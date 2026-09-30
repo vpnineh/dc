@@ -1,0 +1,1 @@
+vless://420b49c9-fff4-4f39-b3b2-b13cbc378b3d@sub.armanx.space:2053?type=grpc&security=tls&sni=sub.armanx.space&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Iomart Cloud Services Limited ┇ 109.122.246.130

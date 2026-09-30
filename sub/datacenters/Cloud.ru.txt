@@ -1,3 +1,3 @@
 vless://8340b1af-8d36-4b1b-b117-28528c273f72@86v99n-10.p.portshaper.com:8448?type=grpc&security=reality&sni=86v99n-10.p.portshaper.com&fp=chrome&pbk=ZgSVwP_wlM4-oG8E03W3cMqK_VrS8oHXF4wzyBkISWo&sid=a1b2c3d4#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Cloud.ru ┇ 45.9.24.125
-vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@shprcdn.homes:7443?type=xhttp&security=reality&path=/content/dash/segments/&sni=shprcdn.homes&fp=chrome&pbk=ypzgxQ7VhTlTqjT0pAzWBIyotcG7SYqMpErwMBDci0g#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Cloud.ru ┇ 45.9.24.199
 vless://e9844617-e393-4876-afa7-11859695f4ee@shprcdn.net:10443?type=grpc&security=reality&sni=shprcdn.net&fp=firefox&pbk=kOLtC9EOXheVt6YbBSqbXiKGpa52QIXTEnIRIZ07jDA#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Cloud.ru ┇ 94.139.255.254
+vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@shprcdn.homes:7443?type=xhttp&security=reality&path=/content/dash/segments/&sni=shprcdn.homes&fp=chrome&pbk=ypzgxQ7VhTlTqjT0pAzWBIyotcG7SYqMpErwMBDci0g#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Cloud.ru ┇ 45.9.24.199

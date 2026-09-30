@@ -1,1 +1,1 @@
-vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@tickets.betust.net:443?type=tcp&security=reality&sni=tickets.betust.net&fp=firefox&flow=xtls-rprx-vision&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8#KR 🇰🇷 ┇ VLESS-TCP-RLT - Ntte Global Network Brand Name ┇ 88.216.70.128
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@tickets.betust.net:443?type=tcp&security=reality&sni=tickets.betust.net&fp=firefox&flow=xtls-rprx-vision&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8#KR 🇰🇷 ┇ VLESS-TCP-RLT - Ntte Global Network Brand Name ┇ 88.216.70.125

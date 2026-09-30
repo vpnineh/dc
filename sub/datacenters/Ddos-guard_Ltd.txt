@@ -1,1 +1,0 @@
-vless://a7d07a78-93db-4662-9f0f-8bbca9d1a33a@my.console.pc-club.app:443?type=ws&security=tls&path=/v1/data/sync/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.171

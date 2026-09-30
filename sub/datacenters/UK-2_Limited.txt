@@ -1,0 +1,1 @@
+vless://5f424b45-29e5-4cbe-b752-88ac535c11b7@api.asamping.ir:2105?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - UK-2 Limited ┇ 45.39.84.102

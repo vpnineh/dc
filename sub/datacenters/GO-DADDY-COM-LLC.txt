@@ -1,3 +1,2 @@
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.150.140:80?type=ws&security=none&path=/Telegram @WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 45.40.150.140
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.148.140:80?type=ws&security=none&path=Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 45.40.148.140
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@198.71.189.140:80?type=ws&security=none&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - GO-DADDY-COM-LLC ┇ 198.71.189.140

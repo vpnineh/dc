@@ -1,1 +1,1 @@
-vless://8de0e6f4-d365-fa64-d5ba-eed9ea513e06@latvia-3.kochvpn.pw:443?type=ws&security=tls&path=/stream/ws&sni=latvia-3.kochvpn.pw&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 91.239.23.241
+vless://8de0e6f4-d365-fa64-d5ba-eed9ea513e06@latvia-3.kochvpn.pw:443?type=ws&security=tls&path=/stream/ws&sni=latvia-3.kochvpn.pw&fp=firefox#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 91.239.23.241

@@ -1,3 +1,4 @@
 vless://9b1a8875-4916-4320-99bf-260423a827cf@ouv.wingerdt.org:20811?type=ws&security=tls&path=/&sni=ouv.wingerdt.org&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 185.126.15.26
 vless://9b1a8875-4916-4320-99bf-260423a827cf@ws.varqino.ir:3265?type=ws&security=tls&path=/#IR 🇮🇷 ┇ VLESS-WS-TLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 185.126.15.27
+vless://91a45a01-970c-46b7-8044-b4f2121bb79e@lndtes.fastshieldd.sbs:443?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 5.202.14.168
 vless://bfb8547f-2789-4446-a3e8-fb353b66bea0@zoi.zelmuro.ir:44443?type=ws&security=tls&path=/&sni=zoi.zelmuro.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 185.126.15.150

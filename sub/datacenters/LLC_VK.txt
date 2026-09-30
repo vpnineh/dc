@@ -1,0 +1,1 @@
+vless://7902aedf-ad9b-427a-b5ad-29d3575d0e2f@birthdaysale.net:8443?type=xhttp&security=tls&path=/api/v1/upload&sni=birthdaysale.net&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - LLC VK ┇ 185.241.195.242

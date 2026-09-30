@@ -1,1 +1,0 @@
-vless://a368752a-32fc-42f3-980a-6b049218b23f@usa-3.letsconnectpoint.com:443?type=tcp&security=reality&sni=usa-3.letsconnectpoint.com&fp=chrome&flow=xtls-rprx-vision&pbk=Fd6VTTHCVNkP_H9EZBlSXEsHp_J3aRKeBpoYZ5gRiQc&sid=a2b95f1d#US 🇺🇸 ┇ VLESS-TCP-RLT - EGIHOSTING ┇ 136.0.213.120

@@ -1,0 +1,1 @@
+vless://8e6104da-f178-49ea-b559-1fd69562baae@finland.sishka.network:443?type=tcp&security=reality&sni=finland.sishka.network&fp=chrome&flow=xtls-rprx-vision&pbk=RRLWiexnslYbEANDk133HfWlAJDrA0P3GUvA6F-a0Qg&sid=8d99977339f5338b#FI 🇫🇮 ┇ VLESS-TCP-RLT - Web1 Oy ┇ 185.188.30.29

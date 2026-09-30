@@ -1,2 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJyYWluU3Rvcm0gTmV0d29yaywgSW5jIFx1MjUwNyAzNy4xNDMuMTMxLjIyOSIsImFkZCI6IjM3LjE0My4xMzEuMjI5IiwicG9ydCI6ODA4MCwiaWQiOiJmOGFhYzJiZS00ZDNjLTRmYTMtOWFmYi04OWI2YzdlMTQ1OTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://162ff214-21c8-4963-a80a-6200cbad787e@rfr2svuxvm.paslanmaz.ir:4060?type=httpupgrade&security=none&path=/#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - BrainStorm Network, Inc ┇ 185.226.172.149
+vless://162ff214-21c8-4963-a80a-6200cbad787e@xn--gabjkk-hta.bizimoglan.ir:4060?type=httpupgrade&security=none&path=/#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - BrainStorm Network, Inc ┇ 185.226.172.149
+vless://0cf9b17a-d6e9-406c-9c85-996cd1a53f51@46.16.131.122:443?type=tcp&security=none&path=/#IE 🇮🇪 ┇ VLESS-TCP-NTLS - BrainStorm Network, Inc ┇ 46.16.131.122

@@ -1,1 +1,1 @@
-vless://452f869f-7720-47c3-a175-b6673e31d3e8@pl-irancell7.xelfona.ir:2095?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Virgin Media ┇ 82.47.63.74
+vless://452f869f-7720-47c3-a175-b6673e31d3e8@pl-irancell7.xelfona.ir:2095?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Virgin Media ┇ 82.40.63.64

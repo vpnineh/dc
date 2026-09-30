@@ -1,1 +1,0 @@
-vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@monitor-c8.paruscamp.com:443?type=tcp&security=reality&sni=monitor-c8.paruscamp.com&fp=chrome&flow=xtls-rprx-vision&pbk=G2VoB_1IQMC9UeiDzHRuEETYT4nx6FShlRkkNnxpYHk&sid=69b625088e5dfb76#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Smart Ape ┇ 31.177.111.4

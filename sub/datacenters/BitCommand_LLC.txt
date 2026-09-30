@@ -1,1 +1,1 @@
-vless://554152b4-7819-4e3b-9971-74d6fd8b3975@146.19.130.192:57890?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 146.19.130.192
+vless://2a701f21-2347-4eb2-813e-4867ad819272@146.19.130.192:57890?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 146.19.130.192

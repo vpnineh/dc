@@ -1,3 +1,4 @@
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.101.17
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDc3LjExMC4xMDguNjgiLCJhZGQiOiJGaU5sMS1SZUFsSXkuMTJsLmlSIiwicG9ydCI6NTY3NTUsImlkIjoiMTk5OTUxZWUtNTkzNi00M2Y3LWIxODMtMjczMjk1MjYzMzE0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://89a0fe83-dcb3-4e3c-92ed-407fc668e7b1@77.110.105.102:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.110.105.102
+vless://1f7ffcae-2f87-4088-9cca-d472a04fb41b@fast_s24.slopllex.app:443?type=tcp&security=tls&sni=fast_s24.slopllex.app&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.110.105.58
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.123.127

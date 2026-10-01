@@ -1,2 +1,3 @@
 vless://1f7ffcae-2f87-4088-9cca-d472a04fb41b@fast_s24.slopllex.app:443?type=tcp&security=tls&sni=fast_s24.slopllex.app&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.110.105.58
+vless://2cd90015-3349-49b5-b00c-a915848cffa5@sweden.biznes.lol:443?type=tcp&security=reality&sni=sweden.biznes.lol&fp=chrome&flow=xtls-rprx-vision&pbk=SG0oIguDhzoiNsBFqfyaRInrrJjKuts7UIfI1K2KYjo#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.65.252
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.123.127

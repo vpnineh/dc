@@ -1,1 +1,0 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?type=tcp&security=none&path=/channels/act#BZ 🇧🇿 ┇ VLESS-TCP-NTLS - Privex Inc. ┇ 202.181.177.8

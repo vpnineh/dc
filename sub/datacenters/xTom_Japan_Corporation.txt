@@ -1,1 +1,0 @@
-vless://71b460a1-8f78-45c5-fb3c-ab26a2a1f7b9@qp.lichao0223.cn:49152?type=ws&security=tls&path=/&sni=qp.lichao0223.cn&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 45.159.50.233

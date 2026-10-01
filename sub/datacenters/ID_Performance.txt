@@ -1,1 +1,1 @@
-vless://f0a52dd3-4377-4402-a450-210bc81bcf25@id-nl-01.mintrocket.org:443?type=tcp&security=reality&sni=id-nl-01.mintrocket.org&fp=safari&flow=xtls-rprx-vision&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&sid=fee1f986a72444db#DE 🇩🇪 ┇ VLESS-TCP-RLT - ID Performance ┇ 109.176.202.7
+vless://f0a52dd3-4377-4402-a450-210bc81bcf25@id-nl-01.mintrocket.org:443?type=tcp&security=reality&sni=id-nl-01.mintrocket.org&flow=xtls-rprx-vision&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&sid=fee1f986a72444db#DE 🇩🇪 ┇ VLESS-TCP-RLT - ID Performance ┇ 109.176.202.7

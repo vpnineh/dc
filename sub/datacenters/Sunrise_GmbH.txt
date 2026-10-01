@@ -1,2 +1,1 @@
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@178.83.46.216:2053?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.46.216
-vless://452f869f-7720-47c3-a175-b6673e31d3e8@pl-irancell7.xelfona.ir:2095?type=httpupgrade&security=none&path=/#CH 🇨🇭 ┇ VLESS-HTTPUPGRADE-NTLS - Sunrise GmbH ┇ 178.83.122.133

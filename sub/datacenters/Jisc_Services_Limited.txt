@@ -1,1 +1,0 @@
-vless://d8a4f6be-cfb5-4f7f-9609-0db7e82cd3c0@panelm.fastraytel9880.ir:25516?type=tcp&security=tls&sni=panelm.fastraytel9880.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Jisc Services Limited ┇ 136.148.67.41

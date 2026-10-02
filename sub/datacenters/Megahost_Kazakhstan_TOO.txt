@@ -1,0 +1,1 @@
+vless://dd1fa083-8b36-41f6-ae09-e7fe33a3be4e@45.136.57.28:43000?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=Jsz8nO5H9QEL7w7bXaXhS0sel3EAThuWOCh-jVDuYxE&sid=57057263#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Megahost Kazakhstan TOO ┇ 45.136.57.28

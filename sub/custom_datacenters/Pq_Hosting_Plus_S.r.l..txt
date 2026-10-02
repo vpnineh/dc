@@ -1,1 +1,1 @@
-vless://a368752a-32fc-42f3-980a-6b049218b23f@usa-3.letsconnectpoint.com:443?type=tcp&security=reality&sni=usa-3.letsconnectpoint.com&fp=chrome&flow=xtls-rprx-vision&pbk=Fd6VTTHCVNkP_H9EZBlSXEsHp_J3aRKeBpoYZ5gRiQc&sid=a2b95f1d#ES 🇪🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 50.114.179.2
+vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@cdn.bulkavpn.top:443?type=tcp&security=reality&path=/&sni=cdn.bulkavpn.top&fp=chrome&flow=xtls-rprx-vision&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&sid=94f32cfc#ES 🇪🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 185.166.154.111

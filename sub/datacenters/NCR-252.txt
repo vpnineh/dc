@@ -1,7 +1,8 @@
-vless://082a675f-129d-4828-89ca-80428f5f0bdb@sub.titanix.ir:3032?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - NCR-252 ┇ 153.52.92.236
-vless://43b15d01-8cc5-40ea-b42a-cb1a727224dc@153.76.185.155:3090?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - NCR-252 ┇ 153.76.185.155
 vless://b24348cd-38f3-483c-aff4-f5355f254f0a@153.76.185.160:3090?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - NCR-252 ┇ 153.76.185.160
 vless://082a675f-129d-4828-89ca-80428f5f0bdb@sub.titanix.ir:6060?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - NCR-252 ┇ 153.52.92.236
-vless://4d08aa81-f729-4857-a2e9-06e48b8b9556@132.243.65.161:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.65.161
+vless://082a675f-129d-4828-89ca-80428f5f0bdb@sub.titanix.ir:3032?type=ws&security=none&path=/ws#US 🇺🇸 ┇ VLESS-WS-NTLS - NCR-252 ┇ 153.52.92.236
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5DUi0yNTIgXHUyNTA3IDE1My41Mi45Mi4xOTMiLCJhZGQiOiJuaW5qYS5tb25hazIuaXIiLCJwb3J0IjoxMTAsImlkIjoiNzAzNGYyNzQtYzUzYS00ZDczLTlmMGMtYjI4YmFjMGQ5ZTdhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://082a675f-129d-4828-89ca-80428f5f0bdb@sub.titanix.ir:8080?type=xhttp&security=none&path=/ws#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - NCR-252 ┇ 153.52.92.236
+vless://4d08aa81-f729-4857-a2e9-06e48b8b9556@132.243.65.161:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.65.161
+vless://43b15d01-8cc5-40ea-b42a-cb1a727224dc@153.76.185.155:3090?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - NCR-252 ┇ 153.76.185.155
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOQ1ItMjUyIFx1MjUwNyAxMzIuMjQzLjIyLjgwIiwiYWRkIjoiMTMyLjI0My4yMi44MCIsInBvcnQiOjQ0MywiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ

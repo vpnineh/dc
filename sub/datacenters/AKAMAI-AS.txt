@@ -1,2 +1,1 @@
 vless://saint@66.33.22.234:29903?type=tcp&security=reality&sni=search.led.samsung.com&fp=chrome&pbk=TPAUGoh_ExyDxbSvZB0yFRXUMo-1tbmM9RcgFEReAEk&sid=5ce805377aa6#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 66.33.22.234
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@103.27.157.120:443?type=tcp&security=reality&sni=download.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=k0883nIGfstbzb8hES-dQ1yPcBwbUbnsyg4w-UA5gkA&sid=68aaa5222092bbea#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 103.27.157.120

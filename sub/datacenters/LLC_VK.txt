@@ -1,2 +1,2 @@
-vless://4643976f-85fa-40cf-9e58-ea28b50f253b@37.139.42.225:7448?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 37.139.42.225
 vless://7902aedf-ad9b-427a-b5ad-29d3575d0e2f@birthdaysale.net:8443?type=xhttp&security=tls&path=/api/v1/upload&sni=birthdaysale.net&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - LLC VK ┇ 185.241.195.242
+vless://4643976f-85fa-40cf-9e58-ea28b50f253b@37.139.42.225:7448?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 37.139.42.225

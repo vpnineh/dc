@@ -1,2 +1,1 @@
-vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@31.14.123.220:49433?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.220
 vless://c6e2dba6-5a81-42f8-ad13-001ac5d834a5@dls2.abrokoh.ir:443?type=tcp&security=tls&sni=dls2.abrokoh.ir#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 78.109.195.137

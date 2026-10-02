@@ -1,1 +1,2 @@
-vless://a7ec0f75-880b-41c3-ba83-7d85b4861b3b@fast_s6.hutsharing.com:443?type=tcp&security=tls&sni=fast_s6.hutsharing.com&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Chernyshov Aleksandr Aleksandrovich ┇ 62.76.142.32
+vless://a7ec0f75-880b-41c3-ba83-7d85b4861b3b@fast_s10.hutsharing.com:443?type=tcp&security=tls&sni=fast_s10.hutsharing.com&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Chernyshov Aleksandr Aleksandrovich ┇ 62.76.142.32
+vless://a7ec0f75-880b-41c3-ba83-7d85b4861b3b@gem8.hutsharing.com:443?type=tcp&security=tls&sni=gem8.hutsharing.com&fp=edge&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Chernyshov Aleksandr Aleksandrovich ┇ 46.8.21.222

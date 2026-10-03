@@ -1,1 +1,1 @@
-vless://1eaed465-d720-400b-9f9f-439600a2d093@cloud.ghostdev.lk:80?type=ws&security=none&path=/#SG 🇸🇬 ┇ VLESS-WS-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 173.234.15.84
+vless://1eaed465-d720-400b-9f9f-439600a2d093@cloud.ghostdev.lk:80?type=ws&security=false&path=/&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 173.234.15.84

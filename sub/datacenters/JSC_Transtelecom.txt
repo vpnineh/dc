@@ -1,1 +1,0 @@
-vless://57f03653-3af9-4f11-895b-23672338b0ac@194.58.42.166:8081?type=grpc&security=none#KZ 🇰🇿 ┇ VLESS-GRPC-NTLS - JSC Transtelecom ┇ 194.58.42.166

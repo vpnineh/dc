@@ -1,2 +1,0 @@
-vless://57f03653-3af9-4f11-895b-23672338b0ac@46.254.17.46:8080?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - EuroByte LLC ┇ 46.254.17.46
-vless://57f03653-3af9-4f11-895b-23672338b0ac@46.254.17.46:8081?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - EuroByte LLC ┇ 46.254.17.46

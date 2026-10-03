@@ -1,1 +1,0 @@
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&security=none&path=/platform117#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 166.88.35.245

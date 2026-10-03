@@ -1,1 +1,1 @@
-vless://9cb2520c-148b-4bbc-a149-9d5a43ff0db3@germany.tofreedom.ru:8444?type=ws&security=tls&path=/c7f5317cd04691bc&sni=germany.tofreedom.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - Pronet LLC ┇ 94.228.171.219
+vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@nl-03-10.zetnik.site:443?type=tcp&security=reality&sni=nl-03-10.zetnik.site&fp=chrome&flow=xtls-rprx-vision&pbk=BPV8HJ-kqcYDM4o7BDXDv3M9VAMWStDfXkkXmyPICWQ&sid=88e13e67db3f1a32#RU 🇷🇺 ┇ VLESS-TCP-RLT - Pronet LLC ┇ 94.228.160.245

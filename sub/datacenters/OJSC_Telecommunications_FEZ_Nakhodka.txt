@@ -1,1 +1,0 @@
-vless://67b2ca4c-250d-49b4-8be2-570d95429b89@msk2.youtubesaver.ru:443?type=tcp&security=reality&sni=msk2.youtubesaver.ru&fp=chrome&flow=xtls-rprx-vision&pbk=1PgkQO9RYmNah5Fk-fBTg92kIubqzmw4XsE37ATGhy8&sid=f595937c4d26ba0f#RU 🇷🇺 ┇ VLESS-TCP-RLT - OJSC Telecommunications FEZ Nakhodka ┇ 217.149.23.46

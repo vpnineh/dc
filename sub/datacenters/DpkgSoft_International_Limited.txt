@@ -1,0 +1,1 @@
+vless://6a3c68b1-d4b8-0004-975f-a01da4184225@lk-1.yes-on.ru:443?type=tcp&security=reality&sni=lk-1.yes-on.ru&fp=chrome&flow=xtls-rprx-vision&pbk=EroArXWVxIMXclqgp4WNolB5vtfWSZEF1wjb_t1QrBE&sid=a150dcf9#BG 🇧🇬 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 85.209.135.145

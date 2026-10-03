@@ -1,1 +1,0 @@
-vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@nl119.mech-pro.online:443?type=tcp&security=reality&path=/&sni=nl119.mech-pro.online&fp=chrome&flow=xtls-rprx-vision&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&sid=16e0f049#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.59.217.119

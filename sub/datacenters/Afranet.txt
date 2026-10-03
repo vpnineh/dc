@@ -1,3 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDkzLjExMy4yMzAuMjQ3IiwiYWRkIjoiejEudGVrbm8zLmlyIiwicG9ydCI6NDQsImlkIjoiYTA0MDBmYWEtNTUzYy00NzI4LWFlZmEtODBjM2M1MTg4ZDk2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://0e5e16ec-c36d-468f-8d90-5a1e69151fa8@crm2.play98.ir:32606?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.134.39
 vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@31.14.123.220:49433?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.220

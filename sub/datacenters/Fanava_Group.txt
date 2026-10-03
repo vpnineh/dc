@@ -1,2 +1,0 @@
-vless://06278d74-9385-42e8-be1b-49c78ebc49ea@ist1d.lynch.ir:2045?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.180.201
-vless://06278d74-9385-42e8-be1b-49c78ebc49ea@lv2d.lynch.ir:2044?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanava Group ┇ 95.38.180.201

@@ -1,0 +1,2 @@
+vless://d2bf8658-06dc-4462-80d4-39c5c3bb0dd8@fr.masterpgd.com:6010?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 109.95.70.221
+vless://1cc6bd10-e414-4171-9220-09aaba23a6fa@az.masterpgd.com:6004?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - GeniusMind S.A. ┇ 109.95.70.221

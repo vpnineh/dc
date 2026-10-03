@@ -1,5 +1,5 @@
-vless://7ffa6de1-8ebe-4322-533a-219d106a65ad@s3.zynetraq.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s3.zynetraq.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.152
-vless://d50ac6bf-6cd0-4043-f3d4-88e708f7fcde@s4.zynetrax.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s4.zynetrax.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.153
-vless://22c6684b-cd4f-4c8e-62e3-a17fc698471f@s2.zynetraq.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s2.zynetraq.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.145
-vless://f068ed8e-f552-406f-47d4-479ad538b66f@s5.zynetrax.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s5.zynetrax.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.157
+vless://4b16045b-77e9-4b87-9926-27d6f1fc765c@s3.zynetraq.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s3.zynetraq.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.152
 vless://186eb738-3580-4296-0fd3-1892acec2149@bs.cexora.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=bs.cexora.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.156
+vless://e3450564-038a-4e2c-f23b-6e217ea98b64@s2.yorqino.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s2.yorqino.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.145
+vless://d50ac6bf-6cd0-4043-f3d4-88e708f7fcde@s4.zynetrax.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s4.zynetrax.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.153
+vless://f068ed8e-f552-406f-47d4-479ad538b66f@s5.zynetrax.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s5.zynetrax.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.157

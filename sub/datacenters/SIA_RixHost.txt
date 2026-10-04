@@ -1,0 +1,1 @@
+vless://8f6e49e6-7f03-4f10-9da9-1716158d80ed@latinki.pumpkinpie.study:443?type=tcp&security=reality&path=/&sni=latinki.pumpkinpie.study&fp=chrome&flow=xtls-rprx-vision&pbk=wHTq_owme8N6237B37GhneBcNJQtzRdIFouRkSscgnQ&sid=40fac5d64bc6a540#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA RixHost ┇ 185.28.47.28

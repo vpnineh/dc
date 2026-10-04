@@ -1,1 +1,1 @@
-vless://d5283f16-a552-4a0b-9767-770b7e760306@trkeh75.speed1vipsarbaziclick.site:80?type=ws&security=none&path=/profile#TR 🇹🇷 ┇ VLESS-WS-NTLS - Murat Aktas ┇ 188.132.174.12
+vless://e688f2f5-ad67-4530-a3ad-8ea042171217@taha2021.farshadsdrnz.ir:555?type=xhttp&security=tls&path=/nabzyzyzghsdbdbch&sni=taha2021.farshadsdrnz.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - Murat Aktas ┇ 78.135.77.214

@@ -1,1 +1,0 @@
-vless://7078e8e7-94d0-4736-97cd-b981419a41ef@t-rom1.fpradius.com:443?type=grpc&security=reality&sni=t-rom1.fpradius.com&fp=chrome&pbk=HJ1xGv4tHeCG9WwbarahLZj_dvRDPwVQYcnxMgIWqBs&sid=9c24902143cfd2bf#RO 🇷🇴 ┇ VLESS-GRPC-RLT - Promo Plus SRL ┇ 31.6.1.67

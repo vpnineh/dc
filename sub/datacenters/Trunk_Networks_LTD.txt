@@ -1,1 +1,0 @@
-vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@singanew.click:443?type=tcp&security=reality&sni=singanew.click&fp=qq&flow=xtls-rprx-vision&pbk=Gze5BmP_4HTNuAQLz54-ecTkHkB0fElV-aGa1dPm6FQ#SG 🇸🇬 ┇ VLESS-TCP-RLT - Trunk Networks LTD ┇ 176.97.117.18

@@ -1,2 +1,1 @@
-vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@torka6.povrak.ir:52228?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 77.92.151.89
 vless://1e645c10-a7d2-4eed-908a-3427bf167964@tot5.povrak.ir:15952?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 77.92.151.89

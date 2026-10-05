@@ -1,2 +1,2 @@
-vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@at-04-10.zetnik.site:443?type=tcp&security=reality&sni=at-04-10.zetnik.site&fp=chrome&flow=xtls-rprx-vision&pbk=SRiCmlDq2MeazWpOaQRW0vX9biFHR-mXNFWRUjJ3LQc&sid=35dd8abf1a7df7d0#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 95.163.176.170
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.101.17
 vless://2cd90015-3349-49b5-b00c-a915848cffa5@sweden.biznes.lol:443?type=tcp&security=reality&sni=sweden.biznes.lol&fp=chrome&flow=xtls-rprx-vision&pbk=SG0oIguDhzoiNsBFqfyaRInrrJjKuts7UIfI1K2KYjo#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.65.252

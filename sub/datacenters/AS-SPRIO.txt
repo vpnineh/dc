@@ -1,3 +1,2 @@
-vless://5ed7f88c-d73d-48ec-9355-3ccfa5dca099@104.234.138.246:2085?type=ws&security=none&path=/#CA 🇨🇦 ┇ VLESS-WS-NTLS - AS-SPRIO ┇ 104.234.138.246
-vless://76cbf63a-cdf3-40ab-8315-33af5bf27c9f@104.234.138.246:2084?type=ws&security=none&path=/#CA 🇨🇦 ┇ VLESS-WS-NTLS - AS-SPRIO ┇ 104.234.138.246
 vless://436ae796-c75f-4b5f-816d-48a0d0ba3a1b@104.234.138.246:2083?type=ws&security=none&path=/#CA 🇨🇦 ┇ VLESS-WS-NTLS - AS-SPRIO ┇ 104.234.138.246
+vless://76cbf63a-cdf3-40ab-8315-33af5bf27c9f@104.234.138.246:2084?type=ws&security=none&path=/#CA 🇨🇦 ┇ VLESS-WS-NTLS - AS-SPRIO ┇ 104.234.138.246

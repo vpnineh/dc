@@ -1,0 +1,1 @@
+vless://d3b51264-5ac9-476b-baad-d3c23d7c4b04@138.124.249.90:2096?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.249.90

@@ -2,5 +2,4 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?type=grpc&securi
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.43
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.42
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@cool-place.failspace.top:443?type=tcp&security=tls&sni=cool-place.failspace.top&fp=firefox&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.120.165
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-tati.failspace.top:443?type=tcp&security=tls&sni=at-tati.failspace.top&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 66.90.106.195
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@polkadot03.failspace.top:443?type=tcp&security=tls&sni=polkadot03.failspace.top&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 67.159.11.3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nl-new-ded-once.failspace.top:443?type=tcp&security=tls&sni=nl-new-ded-once.failspace.top&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.182.27

@@ -1,2 +1,2 @@
-vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@de-1.srv.dvzh.net:443?type=ws&security=tls&path=/upload/session&sni=de-1.srv.dvzh.net&fp=firefox#NL 🇳🇱 ┇ VLESS-WS-TLS - Psb Hosting Ltd ┇ 45.131.213.33
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3#SC 🇸🇨 ┇ VLESS-TCP-RLT - Psb Hosting Ltd ┇ 45.95.96.236
+vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@de-1.srv.dvzh.net:443?type=ws&security=tls&path=/upload/session&sni=de-1.srv.dvzh.net&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Psb Hosting Ltd ┇ 45.131.213.33
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?type=tcp&security=reality&sni=gesmankos.sadiepinki.com&flow=xtls-rprx-vision&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3#SC 🇸🇨 ┇ VLESS-TCP-RLT - Psb Hosting Ltd ┇ 45.95.96.236

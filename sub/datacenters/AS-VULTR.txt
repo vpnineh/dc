@@ -1,14 +1,12 @@
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&security=false&path=/platform106&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.25.168
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?type=ws&security=false&path=/platform107&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.22.185
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?type=ws&security=false&path=/platform115&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.21.217
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?type=ws&security=false&path=/platform118&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.19.77
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&security=false&path=/platform102&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.10.89
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?type=ws&security=false&path=/platform109&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.2.25
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&security=false&path=/platform106&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.25.168
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?type=ws&security=false&path=/platform113&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.16.32
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&security=false&path=/platform117&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.7.121
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&security=false&path=/platform108&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.24.232
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?type=ws&security=false&path=/platform109&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.2.25
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&security=false&path=/platform102&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.10.89
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&security=false&path=/platform101&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.15.134
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?type=ws&security=false&path=/platform118&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.19.77
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?type=ws&security=false&path=/platform103&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.5.68
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&security=false&path=/platform101&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.15.134
 vless://68fce20f-04a8-4d16-ab0b-aa84fc1ae7c5@bot-gw-eafo6p.samanidempire.org:443?type=ws&security=tls&path=/05e3593c&sni=bot-gw-eafo6p.samanidempire.org#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 140.82.32.89
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDY1LjIwLjg1LjE5NCIsImFkZCI6ImNjMzUuZ29pbmdzaWRlLnNpdGUiLCJwb3J0Ijo4OTk4LCJpZCI6IjRiMDE5ZmFhLTM4YjAtNDczZC1iYzQ5LTYwYmI2ODE1MWMzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
 vless://a889262f-5fe3-4c93-9aaa-3721318dd389@70.34.255.101:80?type=ws&security=none&path=/#PL 🇵🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 70.34.255.101

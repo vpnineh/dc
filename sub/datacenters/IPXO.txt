@@ -1,1 +1,0 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@polka.stopingiphatered.shop:443?type=tcp&security=reality&sni=polka.stopingiphatered.shop&fp=chrome&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.254.153

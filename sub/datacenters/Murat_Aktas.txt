@@ -1,2 +1,2 @@
-vless://e688f2f5-ad67-4530-a3ad-8ea042171217@78.135.77.214:9090?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 78.135.77.214
 vless://e688f2f5-ad67-4530-a3ad-8ea042171217@taha2021.farshadsdrnz.ir:555?type=xhttp&security=tls&path=/nabzyzyzghsdbdbch&sni=taha2021.farshadsdrnz.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - Murat Aktas ┇ 78.135.77.214
+vless://e688f2f5-ad67-4530-a3ad-8ea042171217@78.135.77.214:9090?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 78.135.77.214

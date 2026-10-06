@@ -1,2 +1,2 @@
-vless://8a90efdc-615d-4bc8-ab74-1ad9456b4996@tor.drunex.ir:12305?type=ws&security=tls&path=/&sni=tor.drunex.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Dadeh Paydar Co (Ltd) ┇ 46.29.34.235
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBEYWRlaCBQYXlkYXIgQ28gKEx0ZCkgXHUyNTA3IDQ2LjI5LjM0LjI0NiIsImFkZCI6ImRsMS5hcm1kLmZ1biIsInBvcnQiOjQ0MywiaWQiOiI3MmVjOGVhZi02YTY3LTQwMjYtYWVhNi05NjNlM2E5Y2ExNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://8a90efdc-615d-4bc8-ab74-1ad9456b4996@tor.drunex.ir:12305?type=ws&security=tls&path=/&sni=tor.drunex.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Dadeh Paydar Co (Ltd) ┇ 46.29.34.235

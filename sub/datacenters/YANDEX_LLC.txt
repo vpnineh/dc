@@ -1,1 +1,0 @@
-vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&sni=yandex.ru&flow=xtls-rprx-vision&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a#RU 🇷🇺 ┇ VLESS-TCP-RLT - YANDEX LLC ┇ 193.163.203.253

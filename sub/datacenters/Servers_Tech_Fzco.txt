@@ -1,1 +1,1 @@
-vless://053682f4-c584-46df-ad81-069dec5f64f0@62.84.99.145:443?type=ws&security=tls&path=/cdnws&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Servers Tech Fzco ┇ 62.84.99.145
+vless://053682f4-c584-46df-ad81-069dec5f64f0@62.84.99.145:443?type=ws&security=tls&path=/cdnws&fp=safari#NL 🇳🇱 ┇ VLESS-WS-TLS - Servers Tech Fzco ┇ 62.84.99.145

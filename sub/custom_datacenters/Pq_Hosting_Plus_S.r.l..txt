@@ -1,2 +1,1 @@
-vless://d3b51264-5ac9-476b-baad-d3c23d7c4b04@138.124.249.90:2096?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.249.90
 vless://e90759b7-6454-4b3a-8453-279e6f496f3a@nl1.jetservaki.fit:443?type=grpc&security=reality&sni=nl1.jetservaki.fit&fp=chrome&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&sid=884b938083b628d2#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 171.22.183.155

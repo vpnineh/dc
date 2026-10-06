@@ -1,2 +1,1 @@
 vless://a47843cc-7583-419e-8eab-6492fa55b5cd@legenda-bm-s1518.reverseenge.sbs:443?type=tcp&security=reality&sni=legenda-bm-s1518.reverseenge.sbs&fp=chrome&flow=xtls-rprx-vision&pbk=PnJR7EWijGlzVtRNpXu74L1wTQmNr369VZCc10K-rlE#TR 🇹🇷 ┇ VLESS-TCP-RLT - Ideal Hosting Teknoloji A.S. ┇ 185.86.13.130
-vless://2f322254-c1e3-4ec1-80ac-822d44a2238a@185.87.24.179:2085?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Ideal Hosting Teknoloji A.S. ┇ 185.87.24.179

@@ -1,3 +1,4 @@
-vless://43b15d01-8cc5-40ea-b42a-cb1a727224dc@153.76.185.155:3090?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - NCR-252 ┇ 153.76.185.155
+vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@cz1.truenetvpn.ru:8443?type=ws&security=tls&path=/api/v1/events&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NCR-252 ┇ 153.52.69.67
 vless://4d08aa81-f729-4857-a2e9-06e48b8b9556@132.243.65.161:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.65.161
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOQ1ItMjUyIFx1MjUwNyAxMzIuMjQzLjIyLjgwIiwiYWRkIjoiMTMyLjI0My4yMi44MCIsInBvcnQiOjQ0MywiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ
+vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@cz1.truenetvpn.ru:2096?type=httpupgrade&security=tls&path=/tnhu&sni=cz1.truenetvpn.ru&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - NCR-252 ┇ 153.52.69.67
+vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@cz1.truenetvpn.ru:443?type=tcp&security=reality&sni=cz1.truenetvpn.ru&fp=chrome&pbk=-Kjxd5RAdwiNmiv5uuDcV7AyF9UwnXTLn-PoLavGdk4&sid=023da8c6a8c1d2c0#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 153.52.69.67

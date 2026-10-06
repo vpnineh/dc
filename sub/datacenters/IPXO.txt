@@ -1,0 +1,3 @@
+vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@nl1.truenetvpn.ru:8443?type=ws&security=tls&path=/api/v1/events&sni=nl1.truenetvpn.ru&fp=chrome#CZ 🇨🇿 ┇ VLESS-WS-TLS - IPXO ┇ 95.85.226.198
+vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@nl1.truenetvpn.ru:443?type=tcp&security=reality&sni=nl1.truenetvpn.ru&fp=chrome&pbk=-Kjxd5RAdwiNmiv5uuDcV7AyF9UwnXTLn-PoLavGdk4&sid=023da8c6a8c1d2c0#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.226.198
+vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@nl1.truenetvpn.ru:2096?type=httpupgrade&security=tls&path=/tnhu&sni=nl1.truenetvpn.ru&fp=chrome#CZ 🇨🇿 ┇ VLESS-HTTPUPGRADE-TLS - IPXO ┇ 95.85.226.198

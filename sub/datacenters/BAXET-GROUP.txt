@@ -1,0 +1,1 @@
+vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.44:2083?type=tcp&security=none&path=/vless-ws#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BAXET-GROUP ┇ 45.88.12.44

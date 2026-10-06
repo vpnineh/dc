@@ -1,1 +1,0 @@
-vless://8a90efdc-615d-4bc8-ab74-1ad9456b4996@home.drunex.ir:12304?type=ws&security=tls&path=/&sni=home.drunex.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Amir Hosein Maaref ┇ 185.215.230.5

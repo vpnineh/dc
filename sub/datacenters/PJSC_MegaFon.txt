@@ -1,1 +1,1 @@
-vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@server3.benzin.dpdns.org:443?type=xhttp&security=tls&path=/&sni=server3.benzin.dpdns.org&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - PJSC MegaFon ┇ 178.176.128.203
+vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@server3.benzin.dpdns.org:443?type=xhttp&security=tls&path=/&sni=server3.benzin.dpdns.org&fp=firefox#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - PJSC MegaFon ┇ 178.176.128.203

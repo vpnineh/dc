@@ -1,1 +1,0 @@
-vless://a44768a4-f613-4083-a76d-0df966efdd7e@194.62.105.40:21220?type=tcp&security=reality&sni=iran.panelsaz.com&fp=firefox&pbk=21eKBpFrgi_Knuo_mmEm3wUXXEi-tY2pDkf1eYM2qzQ&sid=ee814cc2887d69#IR 🇮🇷 ┇ VLESS-TCP-RLT - Sefroyek Pardaz Engineering PJSC ┇ 194.62.105.40

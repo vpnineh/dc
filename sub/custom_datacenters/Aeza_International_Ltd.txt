@@ -1,3 +1,1 @@
-vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.101.17
-vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@fl1.originmesh.online:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 176.124.206.196
-vless://89a0fe83-dcb3-4e3c-92ed-407fc668e7b1@77.110.105.102:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 77.110.105.102
+vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@geal6qyx.hivaphone.ir:2045?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 46.226.166.198

@@ -1,1 +1,0 @@
-vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@147.45.63.64:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC RTComm.RU ┇ 147.45.63.64

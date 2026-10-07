@@ -1,1 +1,1 @@
-vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@geal6qyx.hivaphone.ir:2045?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 46.226.166.198
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.101.17

@@ -1,1 +1,0 @@
-vless://6606b32b-5c56-40e8-97e3-10b1045f02fd@31.42.127.2:52228?type=tcp&security=none#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Ntte Global Network Brand Name ┇ 31.42.127.2

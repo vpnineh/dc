@@ -1,0 +1,2 @@
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?type=ws&security=none&path=/platform103#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 45.195.69.230
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@166.88.35.245:80?type=ws&security=none&path=/platform117#MY 🇲🇾 ┇ VLESS-WS-NTLS - Evoxt Enterprise ┇ 166.88.35.245

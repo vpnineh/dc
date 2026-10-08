@@ -1,2 +1,2 @@
-vless://c2bbf90c-7f13-47dd-b68d-f0bd38b6b3c8@randomquaint.net:2053?type=xhttp&security=tls&path=/api/v1/upload&sni=randomquaint.net&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 78.159.246.179
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?type=tcp&security=tls&path=/api/v1/upload#RU 🇷🇺 ┇ VLESS-TCP-TLS - Global Cloud Network LLC ┇ 185.141.227.180
 vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?type=ws&security=tls&path=/ws&sni=fbsv6.guardora.pro&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Global Cloud Network LLC ┇ 78.159.250.126

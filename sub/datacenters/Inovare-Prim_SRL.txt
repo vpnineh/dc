@@ -1,1 +1,0 @@
-vless://aa705581-4390-42e3-a53a-09d116032454@ru.srv.safes-infrastructure.com:8443?type=tcp&security=reality&sni=ru.srv.safes-infrastructure.com&fp=firefox&flow=xtls-rprx-vision&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&sid=e7d8f0aa#MD 🇲🇩 ┇ VLESS-TCP-RLT - Inovare-Prim SRL ┇ 80.66.79.19

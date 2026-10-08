@@ -1,1 +1,1 @@
-vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?type=ws&security=tls&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-AES ┇ 23.22.46.17
+vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?type=ws&security=tls&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-AES ┇ 18.214.235.106

@@ -1,3 +1,5 @@
+vless://ae1612f8-6e01-48d6-b4f7-502f233dfb33@177.3.218.181:2083?type=tcp&security=tls&sni=177.3.218.181&fp=chrome#BR 🇧🇷 ┇ VLESS-TCP-TLS - V tal ┇ 177.3.218.181
 vless://d0f0a880-0df1-0003-bdf1-5669fb9483ce@cosw.ggisopi.su:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.254.109.54
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?type=tcp&security=reality&sni=cdn6.goonars.com&fp=chrome&flow=xtls-rprx-vision&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.51.10.240
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?type=tcp&security=reality&sni=de2.srv.vbuste.ru&fp=randomized&flow=xtls-rprx-vision&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.254.166.40
+vless://ae1612f8-6e01-48d6-b4f7-502f233dfb33@177.3.218.181:8443?type=ws&security=tls&path=/ws-cdn1-vless&sni=177.3.218.181&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - V tal ┇ 177.3.218.181
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?type=tcp&security=reality&sni=cdn6.goonars.com&fp=chrome&flow=xtls-rprx-vision&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.51.10.240

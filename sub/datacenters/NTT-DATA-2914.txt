@@ -1,1 +1,0 @@
-vless://2b7117f5-a16b-42d4-aba5-bab1c6e9bbca@all2.beshdash.ir:5088?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.105.9

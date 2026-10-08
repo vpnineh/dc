@@ -1,0 +1,1 @@
+vless://d7edbdf0-11b5-4032-b9c9-3e3fc907fe4f@it.geconnecction.com:443?type=tcp&security=reality&sni=it.geconnecction.com&fp=edge&flow=xtls-rprx-vision&pbk=AFTJFoYhjhTiZSrW5v6L0FR6riLbuXwm1pTrHSG073I&sid=c5e512a8#GB 🇬🇧 ┇ VLESS-TCP-RLT - 24SHELLS ┇ 23.229.7.218

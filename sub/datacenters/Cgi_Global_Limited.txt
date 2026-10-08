@@ -1,3 +1,4 @@
-vless://2b7117f5-a16b-42d4-aba5-bab1c6e9bbca@all2.beshdash.ir:5088?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.238.151
-vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202
+vless://2b7117f5-a16b-42d4-aba5-bab1c6e9bbca@all2.beshdash.ir:5088?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.174
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQ2dpIEdsb2JhbCBMaW1pdGVkIFx1MjUwNyA0Ni44LjIzOC4yMTMiLCJhZGQiOiI0Ni44LjIzOC4yMTMiLCJwb3J0IjozNTg2MSwiaWQiOiJjYzM2Y2E0Mi0zYjIzLTRiMWItYmQ2Ny1lNTU5ZWViY2U5NDQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBDZ2kgR2xvYmFsIExpbWl0ZWQgXHUyNTA3IDE4OC4xMzAuMjA3LjEwNiIsImFkZCI6ImZyYW5jZS5wYXlkYXIuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIxMjMzYzI2ZC05NWQxLTQ1OWYtYTFiYi03Y2ExMmJkNWExMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsInBhdGgiOiJmcmFuY2UucGF5ZGFyLnNpdGUifQ
+vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202

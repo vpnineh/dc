@@ -1,2 +1,1 @@
 vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@185.237.225.47:443?type=tcp&security=none&path=t.me/TEAMNETGRATISCOL#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 185.237.225.47
-vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 195.123.235.177

@@ -1,3 +1,1 @@
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?type=grpc&security=tls&sni=xsru1.ddnsfree.com&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 147.45.175.81
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ru-test.omuservice.tech:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 83.222.8.125
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 91.210.169.181

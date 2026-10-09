@@ -1,2 +1,2 @@
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@nl2.bbobr.win:443?type=grpc&security=reality&sni=nl2.bbobr.win&pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&sid=fbe9c012125d90d2#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Starry Network Limited ┇ 185.170.211.189
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@nl6.bbobr.win:443?type=grpc&security=reality&sni=nl6.bbobr.win&pbk=eZXyfQzQgQSreAbhKSorx38cgnKmGuSOiQbthBfG5k0&sid=0e903b415d812c59#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Starry Network Limited ┇ 185.170.211.197
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@nl2.bbobr.win:443?type=grpc&security=reality&sni=nl2.bbobr.win&pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&sid=fbe9c012125d90d2#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Starry Network Limited ┇ 185.170.211.189

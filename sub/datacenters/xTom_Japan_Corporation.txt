@@ -1,2 +1,2 @@
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@103.53.80.44:443?type=tcp&security=none&path=t.me/TEAMNETGRATISCOL#JP 🇯🇵 ┇ VLESS-TCP-NTLS - xTom Japan Corporation ┇ 103.53.80.44
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSB4VG9tIEphcGFuIENvcnBvcmF0aW9uIFx1MjUwNyA4NS4xMTMuNzAuMTgxIiwiYWRkIjoidzEyLmx1b2xpLmRlIiwicG9ydCI6NDQzLCJpZCI6IjQyYTk5NjQ0LWI5MGItMzYyNy04ODA5LWEyZDZjNDA3OGI1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IncxMi5sdW9saS5kZSIsInBhdGgiOiIvdjJ3cyIsInRscyI6InRscyIsInNuaSI6IncxMi5sdW9saS5kZSJ9
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@103.53.80.44:443?type=tcp&security=none&path=t.me/TEAMNETGRATISCOL#JP 🇯🇵 ┇ VLESS-TCP-NTLS - xTom Japan Corporation ┇ 103.53.80.44

@@ -1,1 +1,1 @@
-vless://eac04622-531b-0002-b85f-3c2ee67565c6@ru-001.zapretu.net:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0#RU 🇷🇺 ┇ VLESS-TCP-RLT - Cloud.ru ┇ 82.202.138.16
+vless://eac04622-531b-0009-b85f-3c2ee67565c6@ru-001.zapretu.net:443?type=tcp&security=reality&sni=ru-001.zapretu.net&fp=chrome&flow=xtls-rprx-vision&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0#RU 🇷🇺 ┇ VLESS-TCP-RLT - Cloud.ru ┇ 213.171.26.168

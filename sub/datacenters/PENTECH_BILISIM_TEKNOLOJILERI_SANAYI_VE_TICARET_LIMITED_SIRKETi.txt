@@ -1,1 +1,0 @@
-vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@akdeta.serveroff.net:443?type=tcp&security=reality&sni=akdeta.serveroff.net&fp=chrome&flow=xtls-rprx-vision&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&sid=832d9228ddd3#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.18.107

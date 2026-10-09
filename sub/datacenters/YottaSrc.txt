@@ -1,1 +1,1 @@
-vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kostas10.api3-max.ru:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - YottaSrc ┇ 185.117.0.193
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kostas10.api3-max.ru:443?type=tcp&security=tls&sni=kostas10.api3-max.ru&fp=firefox&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - YottaSrc ┇ 185.117.0.193

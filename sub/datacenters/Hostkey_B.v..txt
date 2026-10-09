@@ -1,3 +1,2 @@
-vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?type=httpupgrade&security=tls&path=/&sni=adm.moshtaaf.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-HTTPUPGRADE-TLS - Hostkey B.v. ┇ 191.101.113.72
 vless://ce73d2b8-13ea-4b8b-b7f7-8ec9cf7efe1d@nl8.limehub.online:443?type=tcp&security=reality&sni=nl8.limehub.online&fp=chrome&flow=xtls-rprx-vision&pbk=miGe3_kafjYo0ynErSJn15jkhFwbI143sEOD823Wxjc&sid=65dc600a1bec9726#AE 🇦🇪 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 31.56.180.42
-vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 107.181.151.241
+vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?type=httpupgrade&security=tls&path=/&sni=adm.moshtaaf.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-HTTPUPGRADE-TLS - Hostkey B.v. ┇ 191.101.113.72

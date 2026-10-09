@@ -1,2 +1,3 @@
+vless://54abd374-612d-4bee-b469-f28ec3ba5632@91.107.249.108:29870?type=xhttp&security=reality&path=/&sni=play.google.com&fp=chrome&pbk=6ylQnvHKj9JnxJc0u2RdzI2HekMGnBopPlQUXISbG3k&sid=7236f35848395394#US 🇺🇸 ┇ VLESS-XHTTP-RLT - GOOGLE ┇ 91.107.249.108
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AsVURQLU5UTFMgLSBHT09HTEUgXHUyNTA3IDguOC44LjgiLCJhZGQiOiI4LjguOC44IiwicG9ydCI6NTMsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwLHVkcCIsInR5cGUiOiJodHRwIn0
-vless://a25cbf11-2908-4a1b-a3a8-9a571777dca3@google.com:80?type=---&security=none#US 🇺🇸 ┇ VLESS-----NTLS - GOOGLE ┇ 192.178.142.102
+vless://a25cbf11-2908-4a1b-a3a8-9a571777dca3@google.com:80?type=---&security=none#US 🇺🇸 ┇ VLESS-----NTLS - GOOGLE ┇ 142.250.188.174

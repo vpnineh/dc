@@ -1,0 +1,2 @@
+vless://1065fb31-6cfa-451d-bd17-e4b4e34c79a8@highspeed2.freedv2023.xyz:6666?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 213.176.6.151
+vless://8d8376fb-5328-4161-a6d7-805cc8205eb7@highspeed1.freedv2023.xyz:7777?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 213.176.6.151

@@ -1,4 +1,4 @@
-vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2053?type=tcp&security=tls&sni=95.85.253.241&fp=chrome#CZ 🇨🇿 ┇ VLESS-TCP-TLS - IPXO ┇ 95.85.253.241
 vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:8443?type=ws&security=tls&path=/ws-cdn1-vless&sni=95.85.253.241&fp=chrome#CZ 🇨🇿 ┇ VLESS-WS-TLS - IPXO ┇ 95.85.253.241
+vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2083?type=tcp&security=tls&sni=95.85.253.241&fp=chrome#CZ 🇨🇿 ┇ VLESS-TCP-TLS - IPXO ┇ 95.85.253.241
+vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2053?type=tcp&security=tls&path=/&sni=95.85.253.241&fp=chrome#CZ 🇨🇿 ┇ VLESS-TCP-TLS - IPXO ┇ 95.85.253.241
 vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2087?type=tcp&security=tls&sni=95.85.253.241&fp=chrome#CZ 🇨🇿 ┇ VLESS-TCP-TLS - IPXO ┇ 95.85.253.241
-vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2083?type=tcp&security=tls&sni=95.85.253.241#CZ 🇨🇿 ┇ VLESS-TCP-TLS - IPXO ┇ 95.85.253.241

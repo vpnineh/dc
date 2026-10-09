@@ -1,7 +1,7 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBsYXkyZ28gSW50ZXJuYXRpb25hbCBMaW1pdGVkIFx1MjUwNyA5NC4xNTYuMTc5LjEzOCIsImFkZCI6Ijk0LjE1Ni4xNzkuMTM4IiwicG9ydCI6MTEwLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:8443?type=ws&security=tls&path=/ws-cdn1-vless&sni=141.98.7.193#BG 🇧🇬 ┇ VLESS-WS-TLS - Play2go International Limited ┇ 141.98.7.193
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2053?type=tcp&security=tls&sni=141.98.7.193#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 141.98.7.193
 vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2087?type=tcp&security=tls&sni=141.98.7.193#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 141.98.7.193
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2083?type=tcp&security=tls&path=/&sni=141.98.7.193&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 141.98.7.193
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:443?type=tcp&security=tls&sni=141.98.7.193&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 141.98.7.193
+vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:443?type=tcp&security=tls&sni=141.98.7.193&fp=firefox#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 141.98.7.193
+vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2083?type=tcp&security=tls&sni=141.98.7.193&fp=chrome#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 141.98.7.193
+vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:8443?type=ws&security=tls&path=/ws-cdn1-vless&sni=141.98.7.193#BG 🇧🇬 ┇ VLESS-WS-TLS - Play2go International Limited ┇ 141.98.7.193
+vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBsYXkyZ28gSW50ZXJuYXRpb25hbCBMaW1pdGVkIFx1MjUwNyA5NC4xNTYuMTc5LjEzOCIsImFkZCI6Ijk0LjE1Ni4xNzkuMTM4IiwicG9ydCI6MTEwLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
+vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2053?type=tcp&security=tls#BG 🇧🇬 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 141.98.7.193
 vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@germanygem.site:443?type=tcp&security=reality&sni=germanygem.site&fp=chrome&flow=xtls-rprx-vision&pbk=JDkmWk05oDq9sMni-vJt_00qVhALtoQ7ynojJqnlvgg#DE 🇩🇪 ┇ VLESS-TCP-RLT - Play2go International Limited ┇ 45.133.251.231

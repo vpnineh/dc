@@ -1,0 +1,1 @@
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@cdnex.nztvpn.com:443?type=xhttp&security=tls&path=/api/v2/client/sync/database/&sni=cdnex.nztvpn.com#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

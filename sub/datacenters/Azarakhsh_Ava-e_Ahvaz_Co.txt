@@ -1,0 +1,1 @@
+vless://f5896ded-a53e-4512-adb8-61a61b030473@aslvipv2.feeliran.org:443?type=tcp&security=tls&sni=aslvipv2.feeliran.org&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Azarakhsh Ava-e Ahvaz Co ┇ 95.38.72.20

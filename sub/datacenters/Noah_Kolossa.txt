@@ -1,5 +1,1 @@
-vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@english.povrak.ir:39373?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Noah Kolossa ┇ 206.245.166.132
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5vYWggS29sb3NzYSBcdTI1MDcgMjA2LjI0NS4xNjYuMTMyIiwiYWRkIjoiZW5nbGlzaC5wb3ZyYWsuaXIiLCJwb3J0IjozNDIwNCwiaWQiOiI2NzgwYjBjNS01MjIyLTQyM2ItYjE3Mi0yMDU2NjkwNDhhMjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://588a50a7-6bbd-495c-9db2-7e2ace15f4d8@uk.1more.mobileahmadreza.ir:9093?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Noah Kolossa ┇ 206.245.166.7
-vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@english.povrak.ir:28567?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Noah Kolossa ┇ 206.245.166.132
-vless://e69dba87-f883-46a3-858e-c66defc02588@en-1.henlo.ir:31810?type=xhttp&security=none&path=/xhttp#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Noah Kolossa ┇ 206.245.166.132
+vless://588a50a7-6bbd-495c-9db2-7e2ace15f4d8@uk.1more.mobileahmadreza.ir:9093?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Noah Kolossa ┇ 206.245.166.137

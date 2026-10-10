@@ -1,1 +1,1 @@
-vless://1d943027-46ec-40ad-9d98-db8d29439d60@cdn.foxxxy.online:443?type=xhttp&security=tls&path=/cdn-assets/140b64d243b88b8aaaa0cf651c6979bf&sni=cdn.foxxxy.online&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - PJSC MegaFon ┇ 178.176.128.203
+vless://db4fb2a7-a31d-46d8-b6d2-76eafe8cfe2a@v-cdn.layeriq.ru:443?type=xhttp&security=tls&path=/api/v4/receive/9e0af01df44a11b451c83d09262e520c20707fc924c0002d/&sni=v-cdn.layeriq.ru&fp=random#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - PJSC MegaFon ┇ 178.176.128.203

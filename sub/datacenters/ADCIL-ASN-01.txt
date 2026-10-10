@@ -1,8 +1,4 @@
+vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@swidenlanzerotte.live:443?type=tcp&security=reality&sni=swidenlanzerotte.live&fp=chrome&flow=xtls-rprx-vision&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.235.114
 vless://d2519b5e-495e-462e-9703-bbf68011d2f3@ijug.jffq.electrocitymarket.ru:443?type=xhttp&security=tls&sni=ijug.jffq.electrocitymarket.ru&fp=firefox#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ADCIL-ASN-01 ┇ 144.31.150.195
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.215.227
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.162:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.62.162
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.242:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.62.242
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.195:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.62.195
-vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?type=tcp&security=reality&sni=144.31.27.215&fp=chrome&flow=xtls-rprx-vision&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&sid=568d87a47271344e#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.27.215
-vless://d7edbdf0-11b5-4032-b9c9-3e3fc907fe4f@pl1.flcplonnectius.com:443?type=tcp&security=reality&sni=pl1.flcplonnectius.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZPG8hkmuyqmv5Rlv4_04SITVHhwvtCU_2KUS41GIa2A&sid=51507bcd#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.1.62
 vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@sundaylanzgem.site:443?type=tcp&security=reality&sni=sundaylanzgem.site&fp=chrome&flow=xtls-rprx-vision&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.167.31
+vless://d7edbdf0-11b5-4032-b9c9-3e3fc907fe4f@pl1.flcplonnectius.com:443?type=tcp&security=reality&sni=pl1.flcplonnectius.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZPG8hkmuyqmv5Rlv4_04SITVHhwvtCU_2KUS41GIa2A&sid=51507bcd#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.4.41

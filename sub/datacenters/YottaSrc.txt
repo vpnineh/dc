@@ -1,2 +1,2 @@
-vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kostas10.api3-max.ru:443?type=tcp&security=tls&sni=kostas10.api3-max.ru&fp=firefox&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - YottaSrc ┇ 185.117.0.193
-vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kostav7.api3-max.ru:443?type=tcp&security=tls&sni=kostav7.api3-max.ru&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - YottaSrc ┇ 185.117.0.211
+vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@fr.haar.lol:443?type=tcp&security=reality&sni=fr.haar.lol&fp=chrome&flow=xtls-rprx-vision&pbk=cW3RMz0RQpy85wGaG0wjb8yQ3b16CtZR_fd1ktwBKFs&sid=7e833df86314b137#FR 🇫🇷 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.67.139.221
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kostas10.api3-max.ru:443?type=tcp&security=tls&sni=kostas10.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - YottaSrc ┇ 185.117.0.193

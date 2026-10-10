@@ -1,0 +1,1 @@
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi-s-1.pythonmakemigreat.wiki:443?type=tcp&security=reality&sni=fi-s-1.pythonmakemigreat.wiki&flow=xtls-rprx-vision&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6#TR 🇹🇷 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 31.56.186.115

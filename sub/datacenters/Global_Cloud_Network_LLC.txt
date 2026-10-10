@@ -1,3 +1,4 @@
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?type=tcp&security=tls&path=/api/v1/upload#RU 🇷🇺 ┇ VLESS-TCP-TLS - Global Cloud Network LLC ┇ 78.159.246.85
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?type=ws&security=tls&path=/ws&sni=fbsv6.guardora.pro&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Global Cloud Network LLC ┇ 78.159.250.126
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?type=xhttp&security=tls&path=/api/v1/upload&sni=summerculture.net#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 78.159.250.84
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?type=tcp&security=tls&path=/api/v1/upload#RU 🇷🇺 ┇ VLESS-TCP-TLS - Global Cloud Network LLC ┇ 185.141.227.180
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?type=xhttp&security=tls&path=/api/v1/upload&sni=fitindoor.net#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 78.159.246.85
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?type=ws&security=tls&path=/ws&sni=fbsv6.guardora.pro&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Global Cloud Network LLC ┇ 78.159.250.126

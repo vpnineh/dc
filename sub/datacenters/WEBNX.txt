@@ -1,0 +1,2 @@
+vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@us2.haar.lol:443?type=tcp&security=reality&sni=us2.haar.lol&fp=chrome&flow=xtls-rprx-vision&pbk=UPBhfb1CFb4UPv8f34sD6px1hlTEYEn5qrni2uYJJQQ&sid=356791b43be27f37#US 🇺🇸 ┇ VLESS-TCP-RLT - WEBNX ┇ 100.42.221.195
+vless://2f7d9a89-c3a1-4d25-9f83-380048bbb38a@unitedstates.avara.fit:443?type=grpc&security=reality&sni=unitedstates.avara.fit&fp=firefox&pbk=WxIRkeZp5fISvmcQL0ZZs-VbMoS0FDDadMKwatzwljk#US 🇺🇸 ┇ VLESS-GRPC-RLT - WEBNX ┇ 172.93.164.133

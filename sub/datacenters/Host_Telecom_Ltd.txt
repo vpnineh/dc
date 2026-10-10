@@ -1,1 +1,2 @@
 vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@aotocon.ggisopi.su:443?type=tcp&security=reality&sni=aotocon.ggisopi.su&fp=chrome&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.121.47.179
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@de-5.ardesnode.ru:443?type=tcp&security=reality&sni=de-5.ardesnode.ru&fp=chrome&flow=xtls-rprx-vision&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.121.47.114

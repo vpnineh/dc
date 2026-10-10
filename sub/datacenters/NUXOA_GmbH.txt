@@ -1,4 +1,4 @@
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@xzfp.gsgg.electrocitymarket.ru:443?type=xhttp&security=tls&sni=xzfp.gsgg.electrocitymarket.ru&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - NUXOA GmbH ┇ 185.121.133.237
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@woob.xetq.electrocitymarket.ru:443?type=xhttp&security=tls&sni=woob.xetq.electrocitymarket.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - NUXOA GmbH ┇ 185.121.133.229
 vless://d2519b5e-495e-462e-9703-bbf68011d2f3@ibmf.kkso.electrocitymarket.ru:443?type=xhttp&security=tls&sni=ibmf.kkso.electrocitymarket.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - NUXOA GmbH ┇ 185.121.133.235
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@fzjo.fbbv.electrocitymarket.ru:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - NUXOA GmbH ┇ 185.121.133.230
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@fzjo.fbbv.electrocitymarket.ru:443?type=xhttp&security=tls&sni=fzjo.fbbv.electrocitymarket.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - NUXOA GmbH ┇ 185.121.133.230
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@woob.xetq.electrocitymarket.ru:443?type=xhttp&security=tls&sni=woob.xetq.electrocitymarket.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - NUXOA GmbH ┇ 185.121.133.229
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@xzfp.gsgg.electrocitymarket.ru:443?type=xhttp&security=tls&sni=xzfp.gsgg.electrocitymarket.ru&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - NUXOA GmbH ┇ 185.121.133.237

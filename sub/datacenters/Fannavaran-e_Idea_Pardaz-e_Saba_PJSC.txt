@@ -1,2 +1,0 @@
-vless://3cdc6bec-363e-4754-9797-f0e622680198@94.183.154.216:1003?type=tcp&security=reality&sni=www.filimo.com&fp=chrome&flow=xtls-rprx-vision&pbk=r-Ewj6XI7GKX1TbyRuOCV4o7c00HATiljR-exskeIR0&sid=88f23ad5a4ea1d57#IR 🇮🇷 ┇ VLESS-TCP-RLT - Fannavaran-e Idea Pardaz-e Saba PJSC ┇ 94.183.154.216
-vless://e33e40d2-859e-471f-b7dc-6f768f7cad9c@94.183.154.216:1001?type=tcp&security=reality&sni=www.filimo.com&fp=chrome&flow=xtls-rprx-vision&pbk=KX755gv-2X6CXLfWm33OmTc3zHKHcNQK7nPZ06nki1U&sid=429e38fcd14a06a8#IR 🇮🇷 ┇ VLESS-TCP-RLT - Fannavaran-e Idea Pardaz-e Saba PJSC ┇ 94.183.154.216

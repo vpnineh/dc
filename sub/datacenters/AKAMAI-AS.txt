@@ -1,1 +1,0 @@
-vless://37a0850e-679b-4762-94b3-d2f87689e33a@fr-store.rovilo.ir:443?type=tcp&security=reality&sni=store.steampowered.com&fp=firefox&flow=xtls-rprx-vision&pbk=i_cD6qpNHvE-j2vFGxEBmXNvX5U8PE4-lBkxcti8Ry8&sid=714369014b7679bf#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 37.27.154.118

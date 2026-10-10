@@ -1,1 +1,2 @@
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.101.17
+vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@lv.haar.lol:443?type=tcp&security=reality&sni=lv.haar.lol&fp=chrome&flow=xtls-rprx-vision&pbk=H1zQhDKBw8bEzAF0hWECkSfcEu15bwKLde7Syo1YM3M&sid=a928ceb8b5001614#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.75.55

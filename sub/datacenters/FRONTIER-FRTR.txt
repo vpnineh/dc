@@ -1,1 +1,0 @@
-vless://37a0850e-679b-4762-94b3-d2f87689e33a@gr2-store.rovilo.ir:20018?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FRONTIER-FRTR ┇ 194.238.79.231

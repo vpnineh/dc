@@ -1,4 +1,3 @@
 vless://d2519b5e-495e-462e-9703-bbf68011d2f3@rohi.vdhp.electrocitymarket.ru:443?type=xhttp&security=tls&path=/&sni=rohi.vdhp.electrocitymarket.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Cyberse GmbH & Co. KG ┇ 185.230.160.113
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@cgdk.rtfa.electrocitymarket.ru:443?type=xhttp&security=tls&sni=cgdk.rtfa.electrocitymarket.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Cyberse GmbH & Co. KG ┇ 185.230.160.117
 vless://d2519b5e-495e-462e-9703-bbf68011d2f3@dbig.rdve.electrocitymarket.ru:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Cyberse GmbH & Co. KG ┇ 185.230.160.14
 vless://d2519b5e-495e-462e-9703-bbf68011d2f3@rfqo.vzse.electrocitymarket.ru:443?type=xhttp&security=tls&sni=rfqo.vzse.electrocitymarket.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Cyberse GmbH & Co. KG ┇ 185.230.160.16

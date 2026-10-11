@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWJyIEJhcmFuIEluZm9ybWF0aW9uIFRlY2hub2xvZ2lzdHMgTExDIFx1MjUwNyA2Mi42MC4xNDYuMjQxIiwiYWRkIjoicm1hNC5ybWFhY2NzaG9wLmlyIiwicG9ydCI6NDQ4MDgsImlkIjoiMGE2YzZjMTItZDRiZC00ODVlLTliZjEtNTlhY2VjNTY0ZWVmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcm1hIn0
+vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?type=ws&security=none&path=/free#IR 🇮🇷 ┇ VLESS-WS-NTLS - Abr Baran Information Technologists LLC ┇ 194.107.116.25

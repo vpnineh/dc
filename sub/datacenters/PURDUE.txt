@@ -1,1 +1,1 @@
-vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@swcdnmega.surverssss.pro:8443?type=grpc&security=reality&sni=swcdnmega.surverssss.pro&pbk=vGUZigu8NwSiqOSTu1PSfPnlXsdhpm58ZjuWvIJM81U#US 🇺🇸 ┇ VLESS-GRPC-RLT - PURDUE ┇ 163.245.43.57
+vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@swcdnmega.surverssss.pro:8443?type=grpc&security=reality&sni=swcdnmega.surverssss.pro&fp=chrome&pbk=vGUZigu8NwSiqOSTu1PSfPnlXsdhpm58ZjuWvIJM81U#US 🇺🇸 ┇ VLESS-GRPC-RLT - PURDUE ┇ 163.245.43.57

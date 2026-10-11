@@ -1,0 +1,2 @@
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=tcp&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.47.63.146
+vless://6d249067-afc2-4196-ab18-dde3d7146ca0@82.39.154.32:2084?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - Virgin Media ┇ 82.39.154.32

@@ -1,1 +1,1 @@
-vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@kinonl.torg.task-hit.ru:443?type=tcp&security=reality&sni=kinonl.torg.task-hit.ru&fp=firefox&flow=xtls-rprx-vision&pbk=nhTPWV_v_Uu-afSIea9aEs0CcjWe3VpbRZ-qPcAeJkc#US 🇺🇸 ┇ VLESS-TCP-RLT - RCN-AS ┇ 185.23.19.140
+vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@kinonl.torg.task-hit.ru:443?type=tcp&security=reality&sni=kinonl.torg.task-hit.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nhTPWV_v_Uu-afSIea9aEs0CcjWe3VpbRZ-qPcAeJkc#US 🇺🇸 ┇ VLESS-TCP-RLT - RCN-AS ┇ 185.23.19.140

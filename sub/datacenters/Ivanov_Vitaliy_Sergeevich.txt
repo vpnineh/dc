@@ -1,2 +1,1 @@
 vless://8f6f8a4a-b30b-4061-bf5f-646997a6bcc9@80.243.228.61:2085?type=grpc&security=none#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Ivanov Vitaliy Sergeevich ┇ 80.243.228.61
-vless://50cee7a2-6b1c-4935-83ad-5bbe9a86e806@80.243.228.155:2085?type=grpc&security=none#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Ivanov Vitaliy Sergeevich ┇ 80.243.228.155

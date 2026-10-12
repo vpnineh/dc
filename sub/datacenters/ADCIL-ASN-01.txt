@@ -1,2 +1,6 @@
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@ijug.jffq.electrocitymarket.ru:443?type=xhttp&security=tls&sni=ijug.jffq.electrocitymarket.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ADCIL-ASN-01 ┇ 144.31.150.195
+vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.215.227
 vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@sw1.hidenet.xyz:8443?type=grpc&security=reality&sni=sw1.hidenet.xyz&pbk=KytvB8Lzvah7cEpkRxXCWhaVAdjIrGZgZ-i_RWW8i0E#US 🇺🇸 ┇ VLESS-GRPC-RLT - ADCIL-ASN-01 ┇ 144.31.240.66
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@ijug.jffq.electrocitymarket.ru:443?type=xhttp&security=tls&sni=ijug.jffq.electrocitymarket.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ADCIL-ASN-01 ┇ 144.31.150.195
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@144.31.171.200:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.171.200
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.195:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.62.195
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.162:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.62.162

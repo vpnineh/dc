@@ -1,1 +1,1 @@
-vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@us-1-1.unturned-rust-dead.lol:443?type=tcp&security=reality&path=/&sni=us-1-1.unturned-rust-dead.lol&fp=chrome&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 216.9.226.22
+vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?type=tcp&security=none&path=/fp#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 203.202.232.211

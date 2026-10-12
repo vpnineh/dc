@@ -1,2 +1,2 @@
-vless://1f285c01-3b2d-4dfa-9e29-6fae3404956f@test.nvclud.ir:1022?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.21
 vless://4879655a-bd1c-44d7-a7d8-0207f19a823f@010uk.nimhub.ir:1024?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.24
+vless://a2d845c8-5d16-4446-8a19-c7443f37de0a@sst.talachandnimhub-net.ir:1022?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.21

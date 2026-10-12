@@ -1,0 +1,1 @@
+vless://bffafdda-4515-41f3-8744-82a94de32c6f@frinf.animereze.site:443?type=tcp&security=reality&sni=frinf.animereze.site&fp=chrome&flow=xtls-rprx-vision&pbk=Ha7J8dVphS5bF36HQ6tJnFhN1MPl9g8avFUIPaM7cXg&sid=6b8bb098363369af#DE 🇩🇪 ┇ VLESS-TCP-RLT - AOFEI DATA INTERNATIONAL COMPANY LIMITED ┇ 31.185.105.57

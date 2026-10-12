@@ -1,0 +1,2 @@
+vless://cd0bd679-5760-4dd6-9340-576dd279228f@spiderpanel-development-g5884.lucity.app:443?type=ws&security=tls&path=/ws/cd0bd679-5760-4dd6-9340-576dd279228f&sni=spiderpanel-development-g5884.lucity.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - COGENT-174 ┇ 38.142.94.218
+vless://cd0bd679-5760-4dd6-9340-576dd279228f@spiderpanel-development-g5884.lucity.app:80?type=ws&security=none&path=/http-ws/cd0bd679-5760-4dd6-9340-576dd279228f#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 38.142.94.218

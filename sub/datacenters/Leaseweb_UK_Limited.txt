@@ -1,1 +1,0 @@
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@uk.nztvpn.com:443?type=tcp&security=reality&sni=uk.nztvpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Leaseweb UK Limited ┇ 23.81.36.65

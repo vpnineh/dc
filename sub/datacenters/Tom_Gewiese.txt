@@ -1,0 +1,1 @@
+vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@gigx.rpbu.electrocitymarket.ru:443?type=xhttp&security=tls&path=/assets&sni=gigx.rpbu.electrocitymarket.ru#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Tom Gewiese ┇ 94.249.148.43

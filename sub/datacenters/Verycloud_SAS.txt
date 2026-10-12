@@ -1,1 +1,1 @@
-vless://256cd7c5-e05b-4064-9767-2f486089b50e@mzone.fr.3cloudhost.com:443?type=tcp&security=reality&sni=mzone.fr.3cloudhost.com&fp=firefox&flow=xtls-rprx-vision&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8#FR 🇫🇷 ┇ VLESS-TCP-RLT - Verycloud SAS ┇ 82.22.77.254
+vless://256cd7c5-e05b-4064-9767-2f486089b50e@mzone.fr.3cloudhost.com:443?type=tcp&security=reality&sni=mzone.fr.3cloudhost.com&fp=chrome&flow=xtls-rprx-vision&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8#FR 🇫🇷 ┇ VLESS-TCP-RLT - Verycloud SAS ┇ 82.22.77.254

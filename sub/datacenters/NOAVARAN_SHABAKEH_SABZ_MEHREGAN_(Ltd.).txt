@@ -1,0 +1,2 @@
+vless://b87f0925-9448-4a8e-b8e4-dff88ba5b2bb@185.83.112.145:8080?type=tcp&security=none&path=/root#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.112.145
+vless://b87f0925-9448-4a8e-b8e4-dff88ba5b2bb@185.83.112.145:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.112.145

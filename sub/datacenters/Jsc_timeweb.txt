@@ -1,3 +1,7 @@
-vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@tundra.venorix.online:443?type=tcp&security=reality&sni=tundra.venorix.online&fp=chrome&flow=xtls-rprx-vision&pbk=IHm9_n5a0hMAvgclNtwWpNpq68Xdj9-Q5NG3eLkcFjE&sid=52fe21c959620cd8#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 5.23.54.59
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@granite.xenovaq.store:443?type=tcp&security=reality&sni=granite.xenovaq.store&flow=xtls-rprx-vision&pbk=d4wIZq0Tvtfm8qL4i8XHF3bhhdkLBKCBYUiNynIiUR0&sid=f280eef03bb6deca#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 147.45.183.124
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?type=tcp&security=reality&sni=maple.hubnori.ink&flow=xtls-rprx-vision&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&sid=d574a560c675152e#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 94.228.120.40
 vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-1.unturned-rust-dead.lol:443?type=tcp&security=reality&sni=ru-1-1.unturned-rust-dead.lol&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 193.164.149.248
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 91.210.169.181
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@tundra.venorix.online:443?type=tcp&security=reality&sni=tundra.venorix.online&fp=firefox&flow=xtls-rprx-vision&pbk=IHm9_n5a0hMAvgclNtwWpNpq68Xdj9-Q5NG3eLkcFjE&sid=52fe21c959620cd8#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 5.23.54.59
+vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ru-test.omuservice.tech:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 83.222.8.125
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@jasper.cloudvexa.site:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 185.200.241.251
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@lumen.linqora.net:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 92.53.120.186

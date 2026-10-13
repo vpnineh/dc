@@ -1,6 +1,2 @@
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 193.164.155.71
-vless://0e961427-c505-406b-8156-fbd6c1ea2afc@api.yespanel.ir:23324?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 193.164.155.71
-vless://0e961427-c505-406b-8156-fbd6c1ea2afc@api.vofino.ir:64448?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 193.164.155.71
-vless://0e961427-c505-406b-8156-fbd6c1ea2afc@api.vofino.ir:2086?type=ws&security=none&path=/#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 193.164.155.71
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBDZ2kgR2xvYmFsIExpbWl0ZWQgXHUyNTA3IDE4OC4xMzAuMjA3LjEwNiIsImFkZCI6ImZyYW5jZS5wYXlkYXIuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIxMjMzYzI2ZC05NWQxLTQ1OWYtYTFiYi03Y2ExMmJkNWExMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsInBhdGgiOiJmcmFuY2UucGF5ZGFyLnNpdGUifQ
 vless://_id_telegram_MimiTdi@188.130.207.202:443?type=ws&security=none&path=/?ed=1024#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 188.130.207.202
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBDZ2kgR2xvYmFsIExpbWl0ZWQgXHUyNTA3IDE4OC4xMzAuMjA3LjEwNiIsImFkZCI6ImZyYW5jZS5wYXlkYXIuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIxMjMzYzI2ZC05NWQxLTQ1OWYtYTFiYi03Y2ExMmJkNWExMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsInBhdGgiOiJmcmFuY2UucGF5ZGFyLnNpdGUifQ

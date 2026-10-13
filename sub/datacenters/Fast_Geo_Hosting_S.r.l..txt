@@ -1,3 +1,4 @@
 vless://a1f00f09-80b8-415f-8258-801590975ca5@fr3.fishing-tackle.net:8443?type=tcp&security=tls&sni=fr3.fishing-tackle.net&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 194.76.155.113
-vless://a1f00f09-80b8-415f-8258-801590975ca5@fr5.fishing-tackle.net:443?type=tcp&security=tls&sni=fr5.fishing-tackle.net&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 194.124.251.221
 vless://a1f00f09-80b8-415f-8258-801590975ca5@fr4.fishing-tackle.net:443?type=tcp&security=tls&sni=fr4.fishing-tackle.net&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 194.124.251.222
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 5.253.42.164
+vless://a1f00f09-80b8-415f-8258-801590975ca5@fr5.fishing-tackle.net:443?type=tcp&security=tls&sni=fr5.fishing-tackle.net&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Fast Geo Hosting S.r.l. ┇ 194.124.251.221

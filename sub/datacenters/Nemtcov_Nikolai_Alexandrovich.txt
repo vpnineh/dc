@@ -1,1 +1,1 @@
-vless://c193cfcb-8c8b-5b8c-8964-857162bc5971@se.illusion-vpn.ru:8443?type=tcp&security=reality&sni=se.illusion-vpn.ru&flow=xtls-rprx-vision&pbk=j4xFKAF5O26vRXo4ebnV6hsHj-alYN7kbq2D6gOJ6zY&sid=c89a78fa6ca8da28#RU 🇷🇺 ┇ VLESS-TCP-RLT - Nemtcov Nikolai Alexandrovich ┇ 87.251.85.243
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Nemtcov Nikolai Alexandrovich ┇ 80.66.78.227

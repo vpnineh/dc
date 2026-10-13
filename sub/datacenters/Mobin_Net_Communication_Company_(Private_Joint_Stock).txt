@@ -1,2 +1,2 @@
-vless://3febabbb-b2da-5372-5068-992c610b0966@faramarz.keluma.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.189
 vless://3febabbb-b2da-5372-5068-992c610b0966@login.avomi.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.21
+vless://3febabbb-b2da-5372-5068-992c610b0966@faramarz.keluma.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.189

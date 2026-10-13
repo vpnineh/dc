@@ -1,4 +1,4 @@
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOQ1ItMjUyIFx1MjUwNyAxMzIuMjQzLjIyLjgwIiwiYWRkIjoiMTMyLjI0My4yMi44MCIsInBvcnQiOjQ0MywiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ
-vless://86ce1276-d2e7-4d55-bba1-e51fc4165b61@nlyosh.fastshot.net:443?type=ws&security=tls&path=/&sni=nlyosh.fastshot.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NCR-252 ┇ 153.76.122.127
+vless://6efdfe5c-b7f6-49f9-865a-8c3600330acc@153.76.185.111:3090?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - NCR-252 ┇ 153.76.185.111
 vless://4d08aa81-f729-4857-a2e9-06e48b8b9556@132.243.65.161:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.65.161
+vless://86ce1276-d2e7-4d55-bba1-e51fc4165b61@nlyosh.fastshot.net:443?type=ws&security=tls&path=/&sni=nlyosh.fastshot.net&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NCR-252 ┇ 153.76.122.127
 vless://3ed41dfc-0d38-4379-a470-c815673dc504@pubsub.m2ip-video.cloud:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NCR-252 ┇ 132.243.229.229

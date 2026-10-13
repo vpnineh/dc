@@ -1,2 +1,0 @@
-vless://b87f0925-9448-4a8e-b8e4-dff88ba5b2bb@185.83.112.145:8080?type=ws&security=tls&path=/root&sni=185.83.112.145&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.112.145
-vless://b87f0925-9448-4a8e-b8e4-dff88ba5b2bb@185.83.112.145:2053?type=xhttp&security=tls&path=/root&sni=185.83.112.145&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.112.145

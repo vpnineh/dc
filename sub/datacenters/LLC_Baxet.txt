@@ -1,0 +1,2 @@
+vless://c96f941e-dd8a-0082-89d5-740b79202ed0@185.22.152.49:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 185.22.152.49
+vless://c96f941e-dd8a-006e-89d5-740b79202ed0@185.22.153.40:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 185.22.153.40

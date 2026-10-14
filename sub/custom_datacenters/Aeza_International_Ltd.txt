@@ -1,1 +1,2 @@
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.101.17
 vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@garden.videofriend.site:443?type=grpc&security=reality&sni=garden.videofriend.site&fp=chrome&pbk=-y7TKZBvfzX4rowKfu0o7hn5U4L0H9JMixcjImIMrWA#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 150.241.82.85

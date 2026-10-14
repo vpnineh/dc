@@ -1,4 +1,1 @@
-vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@jasper.cloudvexa.site:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 109.120.152.207
 vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@tundra.venorix.online:443?type=tcp&security=reality&sni=tundra.venorix.online&fp=chrome&flow=xtls-rprx-vision&pbk=IHm9_n5a0hMAvgclNtwWpNpq68Xdj9-Q5NG3eLkcFjE&sid=52fe21c959620cd8#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 109.107.189.166
-vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@lumen.linqora.net:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 109.107.189.120
-vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@granite.xenovaq.store:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 109.120.152.199

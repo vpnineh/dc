@@ -1,1 +1,0 @@
-vless://b9d6cf69-6fd5-4689-b874-325741354aa3@193.151.155.94:30851?type=ws&security=tls&path=/&sni=185.71.219.84&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Asre Dadeha Asiatech ┇ 193.151.155.94

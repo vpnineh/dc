@@ -1,1 +1,1 @@
-vless://2f7d9a89-c3a1-4d25-9f83-380048bbb38a@unitedstates.avara.fit:443?type=grpc&security=reality&sni=unitedstates.avara.fit&fp=firefox&pbk=WxIRkeZp5fISvmcQL0ZZs-VbMoS0FDDadMKwatzwljk#US 🇺🇸 ┇ VLESS-GRPC-RLT - WEBNX ┇ 172.93.164.133
+vless://2f7d9a89-c3a1-4d25-9f83-380048bbb38a@unitedstates.avara.fit:443?type=grpc&security=reality&sni=unitedstates.avara.fit&fp=chrome&pbk=WxIRkeZp5fISvmcQL0ZZs-VbMoS0FDDadMKwatzwljk#US 🇺🇸 ┇ VLESS-GRPC-RLT - WEBNX ┇ 172.93.164.133

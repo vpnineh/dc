@@ -1,1 +1,2 @@
 vless://bae850c0-89d3-4807-be8f-7fdedc221c3c@v1.pvnetwork.ir:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.66.2
+vless://c11c9a87-ef2c-4329-adbc-3bcd8d3b4b05@01-ir.nimhubnet.ir:1001?type=tcp&security=reality&sni=myket.ir&fp=chrome&pbk=WhhDDr5dbpu-MKir-ituefFelzPYJ3aI_XUnAPItZnk&sid=9f87d005b13ec024#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asiatech Data Transmission company ┇ 85.133.207.18

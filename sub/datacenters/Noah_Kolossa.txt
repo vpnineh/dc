@@ -1,1 +1,1 @@
-vless://b8254d35-1cb0-4b74-8f7f-d2bc985196a0@laga18.api3-max.ru:443?type=tcp&security=tls&sni=laga18.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Noah Kolossa ┇ 206.245.166.249
+vless://b8254d35-1cb0-4b74-8f7f-d2bc985196a0@laga18.api3-max.ru:443?type=tcp&security=tls&path=/&sni=laga18.api3-max.ru&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Noah Kolossa ┇ 206.245.166.249

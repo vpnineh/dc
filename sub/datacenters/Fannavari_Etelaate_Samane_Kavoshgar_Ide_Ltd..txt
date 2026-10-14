@@ -1,4 +1,1 @@
 vless://8fef56ab-8ac8-4167-a5f8-21ef027c3d1c@62.60.166.65:1404?type=ws&security=tls&path=/swksjpsbsjdkdjawpeeirhenxpabqwjelfpwnbadpd&sni=62.60.166.65&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fannavari Etelaate Samane Kavoshgar Ide Ltd. ┇ 62.60.166.65
-vless://8fef56ab-8ac8-4167-a5f8-21ef027c3d1c@62.60.166.65:8585?type=tcp&security=tls&sni=62.60.166.65&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Fannavari Etelaate Samane Kavoshgar Ide Ltd. ┇ 62.60.166.65
-vless://8fef56ab-8ac8-4167-a5f8-21ef027c3d1c@62.60.166.65:3053?type=tcp&security=tls&sni=62.60.166.65&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Fannavari Etelaate Samane Kavoshgar Ide Ltd. ┇ 62.60.166.65
-vless://8fef56ab-8ac8-4167-a5f8-21ef027c3d1c@62.60.166.65:2051?type=xhttp&security=tls&path=/akapuapnslanwoakwbdpanwhsossweeudoEj&sni=62.60.166.65&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Fannavari Etelaate Samane Kavoshgar Ide Ltd. ┇ 62.60.166.65

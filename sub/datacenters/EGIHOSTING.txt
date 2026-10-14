@@ -1,0 +1,1 @@
+vless://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-RLT - EGIHOSTING ┇ 104.252.19.114

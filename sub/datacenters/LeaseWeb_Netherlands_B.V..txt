@@ -1,8 +1,7 @@
 vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@fi2.hidenet.xyz:8443?type=grpc&security=reality&sni=fi2.hidenet.xyz&pbk=Fcr_qsQtCw12qIvMiIDSnsWXAd0nk9QVP6c5hZPy0AI#FR 🇫🇷 ┇ VLESS-GRPC-RLT - LeaseWeb Netherlands B.V. ┇ 193.58.108.102
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?type=ws&security=none&path=/sync#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.201
-vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:14430?type=ws&security=false&path=/vless&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.137.43.168
 vless://71b91642-93ed-4923-8cab-877e19bfc2d6@auth.figmafound.org:443?type=tcp&security=reality&sni=auth.figmafound.org&fp=chrome&flow=xtls-rprx-vision&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=711ad7f475c35e5e#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 103.139.51.21
-vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:10443?type=tcp&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.137.43.168
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?type=httpupgrade&security=none&path=/?ed=2096#NL 🇳🇱 ┇ VLESS-HTTPUPGRADE-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.130.125.160
 vless://71b91642-93ed-4923-8cab-877e19bfc2d6@cloud.figmafound.org:443?type=tcp&security=reality&sni=cloud.figmafound.org&fp=chrome&flow=xtls-rprx-vision&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=711ad7f475c35e5e#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 103.139.51.51
+vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:10443?type=tcp&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.137.43.168

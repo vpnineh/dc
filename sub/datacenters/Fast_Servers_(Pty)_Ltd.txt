@@ -1,3 +1,1 @@
-vless://16f78e38-8df9-4658-93e8-e49feababf5b@193.233.130.119:10443?type=tcp&security=false&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Fast Servers (Pty) Ltd ┇ 193.233.130.119
-vless://cee148ae-be81-40ac-9b05-e8a342586eda@p83xvyj.videohost.shop:443?type=tcp&security=reality&sni=p83xvyj.videohost.shop&fp=firefox&flow=xtls-rprx-vision&pbk=NdId-t6iHbZMWIxnAK_Zvpc7NLSaJ3zuT39rvTESNAw&sid=626756e936a29a9d#RU 🇷🇺 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 5.183.253.31
 vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?type=tcp&security=reality&sni=maple.hubnori.ink&flow=xtls-rprx-vision&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&sid=d574a560c675152e#US 🇺🇸 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 193.233.216.60

@@ -1,2 +1,1 @@
-vless://a72b971f-2163-48d4-b3a3-6173cee58586@formatno.com:443?type=ws&security=tls&path=/nl7ws&sni=formatno.com&fp=edge#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 185.86.145.183
 vless://d1004cfe-c279-e865-d865-71964dbdf85d@video.save-files.online:443?type=ws&security=tls&path=/live/hls/channel/7c4b8e13&sni=video.save-files.online#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 95.163.182.117

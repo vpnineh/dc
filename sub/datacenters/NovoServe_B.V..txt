@@ -1,1 +1,1 @@
-vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@scores-api.lovkisport.blog:443?type=grpc&security=tls&sni=scores-api.lovkisport.blog#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.194.127
+vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - NovoServe B.V. ┇ 89.105.197.203

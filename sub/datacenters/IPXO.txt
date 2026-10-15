@@ -1,3 +1,4 @@
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.253
-vless://a5ce10af-5e95-4eb3-ab87-bf4f95cb059b@212.100.171.154:443?type=tcp&security=reality#BE 🇧🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 212.100.171.154
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.203
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - IPXO ┇ 212.100.171.203
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.109.20
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@freede.aiage.work:443?type=tcp&security=reality&sni=freede.aiage.work&fp=chrome&flow=xtls-rprx-vision&pbk=A_bQLZE6D32TJUdAf9doQTPaTUXyJjPXLSklplG4V1g&sid=57e7977c9011061c#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.102

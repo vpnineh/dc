@@ -1,1 +1,2 @@
 vless://7fdb37c3-1975-4ea8-b1bd-219d903ae9d8@91.107.162.52:443?type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=f7pRE-SaWS0yv0Cse5kK6YEWBAJYfceMcYlJWdW5NHA&sid=2333#US 🇺🇸 ┇ VLESS-TCP-RLT - APPLE-ENGINEERING ┇ 91.107.162.52
+vless://261cdc0d-9a73-4b75-b61b-e99980e3d668@51.38.127.93:8080?type=tcp&security=reality&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=vKnJBC8MN4hGDqu7_C6luBwjVnhq9Wjb6BWkuK_8_z0&sid=dee5ab9e#US 🇺🇸 ┇ VLESS-TCP-RLT - APPLE-ENGINEERING ┇ 51.38.127.93

@@ -1,7 +1,9 @@
-vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@pl.bootless.ru:443?type=xhttp&security=tls&path=/api/v2/stream&sni=pl.bootless.ru&fp=chrome#BR 🇧🇷 ┇ VLESS-XHTTP-TLS - V tal ┇ 200.169.184.97
-vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&security=tls&path=VideoRenderer&sni=renderer-bridge-2-114.mirra.now&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 200.169.181.164
-vless://61bd5829-a243-4548-97f0-a210c2069fec@179.254.109.69:443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.254.109.69
-vless://383dfafa-0700-4e4e-9bce-2dbbd04aeaa5@cl6tqh.ilovecats.space:443?type=tcp&security=reality&sni=cl6tqh.ilovecats.space&fp=chrome&flow=xtls-rprx-vision&pbk=BMQ3S7fi5YShG3gr0ATTfxAjFXQQBZ8gLdddbGXjIHA&sid=bc841c9683308194#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 191.217.245.52
-vless://9bbf927b-f950-4c67-ac8a-c6ff779ce8a2@play.paner-145.online:443?type=tcp&security=reality&sni=play.paner-145.online&fp=chrome&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 191.217.245.45
 vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?type=tcp&security=reality&sni=cdn6.goonars.com&fp=chrome&flow=xtls-rprx-vision&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.51.10.240
+vless://9bbf927b-f950-4c67-ac8a-c6ff779ce8a2@play.paner-145.online:443?type=tcp&security=reality&sni=play.paner-145.online&fp=chrome&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 191.217.245.45
+vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&security=tls&path=VideoRenderer&sni=renderer-bridge-2-114.mirra.now&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 200.169.181.164
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@179.254.71.20:52006?type=tcp&security=tls#BR 🇧🇷 ┇ VLESS-TCP-TLS - V tal ┇ 179.254.71.20
+vless://383dfafa-0700-4e4e-9bce-2dbbd04aeaa5@cl6tqh.ilovecats.space:443?type=tcp&security=reality&sni=cl6tqh.ilovecats.space&fp=chrome&flow=xtls-rprx-vision&pbk=BMQ3S7fi5YShG3gr0ATTfxAjFXQQBZ8gLdddbGXjIHA&sid=bc841c9683308194#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 191.217.245.52
+vless://61bd5829-a243-4548-97f0-a210c2069fec@179.254.109.69:443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 179.254.109.69
+vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@pl.bootless.ru:443?type=xhttp&security=tls&path=/api/v2/stream&sni=pl.bootless.ru#BR 🇧🇷 ┇ VLESS-XHTTP-TLS - V tal ┇ 200.169.184.97
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443?type=tcp&security=reality&sni=ge-s-1.pythonmakemigreat.wiki&fp=chrome&flow=xtls-rprx-vision&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.222.100
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.1.192.72

@@ -1,0 +1,1 @@
+vless://a18cd33e-c092-4cad-9533-8abbfb6e3a50@de-01.mansurchik.ru:443?type=tcp&security=reality&sni=de-01.mansurchik.ru&fp=qq&flow=xtls-rprx-vision&pbk=AEmotpXG5yIgVqV8jVdc4nFoOVM1cGbPqMXa7ALr20o&sid=9b10e3cb13b7ed#BG 🇧🇬 ┇ VLESS-TCP-RLT - Telco power Ltd ┇ 94.26.0.209

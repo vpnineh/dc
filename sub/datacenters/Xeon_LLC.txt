@@ -1,0 +1,1 @@
+vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@mobile-api-12.sova.toys:443?type=grpc&security=reality&sni=mobile-api-12.sova.toys&fp=chrome&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&sid=70c20a2f5a7d542e#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Xeon LLC ┇ 82.202.178.132

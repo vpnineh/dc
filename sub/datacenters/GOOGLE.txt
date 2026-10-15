@@ -1,3 +1,3 @@
-vless://338764e6-0e53-4d51-8057-80ce8d49a963@xray2-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 23.191.200.207
-vless://ff6ca702-5469-44a8-aca8-d87a29f08d53@wwww.qarvian.ir:443?type=ws&security=tls&path=/&sni=google.com#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 199.232.78.128
+vless://XpnTeam-13@199.232.78.170:443?type=ws&security=tls&path=/&sni=play.google.com#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 199.232.78.170
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AsVURQLU5UTFMgLSBHT09HTEUgXHUyNTA3IDguOC44LjgiLCJhZGQiOiI4LjguOC44IiwicG9ydCI6NTMsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwLHVkcCIsInR5cGUiOiJodHRwIn0
+vless://ff9053c2-3358-47e0-aa3b-72bf99e1d231@xray1-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 23.191.200.206

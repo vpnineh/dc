@@ -1,1 +1,1 @@
-vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@d0c5.khovanski.mom:443?type=tcp&security=reality&sni=d0c5.khovanski.mom&fp=chrome&flow=xtls-rprx-vision&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836#SE 🇸🇪 ┇ VLESS-TCP-RLT - Angelnet Limited ┇ 5.157.10.150
+vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@d0c5.khovanski.mom:443?type=tcp&security=reality&sni=d0c5.khovanski.mom&flow=xtls-rprx-vision&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836#SE 🇸🇪 ┇ VLESS-TCP-RLT - Angelnet Limited ┇ 5.157.10.150

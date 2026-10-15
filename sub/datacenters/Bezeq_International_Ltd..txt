@@ -1,1 +1,0 @@
-vless://05d7a479-a099-40cf-aecf-41aa934767b0@ch1.hap-plus.ru:443?type=tcp&security=reality&sni=ch1.hap-plus.ru&fp=chrome&flow=xtls-rprx-vision&pbk=NItAy5Fi072QpLZ_fscMRjXSIDpR7M3IUUlW6LvXYwE&sid=23ef2df191b16ed6#IL 🇮🇱 ┇ VLESS-TCP-RLT - Bezeq International Ltd. ┇ 109.66.233.139

@@ -1,1 +1,1 @@
-vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@de2.my-cdn.org:443?type=tcp&security=reality&sni=de2.my-cdn.org&fp=chrome&flow=xtls-rprx-vision&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&sid=adbbecad#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 84.200.62.56
+vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@de2.my-cdn.org:443?type=tcp&security=reality&sni=de2.my-cdn.org&fp=chrome&flow=xtls-rprx-vision&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&sid=adbbecad#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 84.200.62.51

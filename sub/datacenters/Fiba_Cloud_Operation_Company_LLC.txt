@@ -1,1 +1,0 @@
-vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?type=tcp&security=none&path=/fp#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 203.202.232.211

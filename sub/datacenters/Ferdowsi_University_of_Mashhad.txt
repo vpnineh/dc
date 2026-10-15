@@ -1,1 +1,0 @@
-vless://19c78abc-0f6f-4fa6-8614-0fbf0021273d@ngnix.velnix-services.ir:1081?type=tcp&security=reality#AU 🇦🇺 ┇ VLESS-TCP-RLT - Ferdowsi University of Mashhad ┇ 87.236.166.45

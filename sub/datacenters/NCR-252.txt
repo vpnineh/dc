@@ -1,2 +1,2 @@
-vless://4d08aa81-f729-4857-a2e9-06e48b8b9556@132.243.65.161:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.65.161
 vless://2040f170-de2a-49bb-a903-125f0731c54d@153.76.185.93:3090?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - NCR-252 ┇ 153.76.185.93
+vless://4d08aa81-f729-4857-a2e9-06e48b8b9556@132.243.65.161:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NCR-252 ┇ 132.243.65.161

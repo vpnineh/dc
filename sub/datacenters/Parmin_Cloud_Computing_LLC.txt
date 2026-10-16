@@ -1,0 +1,1 @@
+vless://23d6295f-0337-438f-be52-388bbe321ae4@a.samrayan.ir:443?type=tcp&security=tls&sni=a.samrayan.ir&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Parmin Cloud Computing LLC ┇ 212.80.24.8

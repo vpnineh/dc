@@ -1,0 +1,1 @@
+vless://c87f7a9d-ec5c-4e7b-a7bc-cbfd1bb3fff0@62.60.166.65:27744?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fannavari Etelaate Samane Kavoshgar Ide Ltd. ┇ 62.60.166.65

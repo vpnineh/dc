@@ -1,0 +1,1 @@
+vless://4947e8b5-3ab5-4401-96b3-866cc15f3e05@nl2.ggvpn.pro:3443?type=ws&security=tls&path=/ws&sni=nl2.ggvpn.pro&fp=chrome#IE 🇮🇪 ┇ VLESS-WS-TLS - BT Communications Ireland Limited ┇ 78.17.104.244

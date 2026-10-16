@@ -1,1 +1,1 @@
-vless://b25b2d5c-419b-483e-91c5-013beecff0da@82.40.63.90:8443?type=ws&security=tls&path=/shopino&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 82.40.63.90
+vless://28d197a1-aeb2-46fc-91f0-63ea526a89fc@82.40.63.90:8443?type=ws&security=tls&path=/shopino&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Virgin Media ┇ 82.40.63.90

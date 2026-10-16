@@ -1,1 +1,1 @@
-vless://330421e0-4c1b-4b00-afd8-e256a94b79a8@se01.lolipo.shop:443?type=tcp&security=reality&sni=se01.lolipo.shop&fp=random&flow=xtls-rprx-vision&pbk=KLusZ3FXdcwXbVrlR1gjXyA6iRWtbnO5xfw3QpnLB0U#SE 🇸🇪 ┇ VLESS-TCP-RLT - Patrik Lagerman ┇ 171.25.158.139
+vless://330421e0-4c1b-4b00-afd8-e256a94b79a8@se01.lolipo.shop:443?type=tcp&security=reality&sni=se01.lolipo.shop&fp=chrome&flow=xtls-rprx-vision&pbk=KLusZ3FXdcwXbVrlR1gjXyA6iRWtbnO5xfw3QpnLB0U#SE 🇸🇪 ┇ VLESS-TCP-RLT - Patrik Lagerman ┇ 171.25.158.139

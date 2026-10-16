@@ -1,3 +1,1 @@
-vless://16f78e38-8df9-4658-93e8-e49feababf5b@193.233.130.119:14430?type=ws&security=none&path=/vless&sni=193.233.130.119#RU 🇷🇺 ┇ VLESS-WS-NTLS - Fast Servers (Pty) Ltd ┇ 193.233.130.119
 vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?type=tcp&security=reality&sni=maple.hubnori.ink&flow=xtls-rprx-vision&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&sid=d574a560c675152e#US 🇺🇸 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 193.233.216.60
-vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@cape.flowzari.info:443?type=tcp&security=reality&sni=cape.flowzari.info&fp=chrome&flow=xtls-rprx-vision&pbk=5DdSLIpnYjqYTI4-yC-ulr8PGMA8YML_EWdKvOjdinc&sid=693e339ad3613446#US 🇺🇸 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 193.233.223.248

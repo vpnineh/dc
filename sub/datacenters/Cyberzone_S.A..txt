@@ -1,1 +1,1 @@
-vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?type=ws&security=tls&path=/api/v1/events&sni=nl5.hap-plus.ru&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Cyberzone S.A. ┇ 93.152.215.176
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?type=ws&security=tls&path=/api/v1/events&sni=nl5.hap-plus.ru&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - Cyberzone S.A. ┇ 93.152.215.176

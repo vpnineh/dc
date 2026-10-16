@@ -1,0 +1,1 @@
+vless://5de6a0ad-7d73-410b-ad50-a2bb5d47b93c@remotok.softupdatecenter.com:443?type=xhttp&security=tls&path=/stable-in-443/&sni=remotok.softupdatecenter.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Partner Hosting LTD ┇ 185.102.115.8

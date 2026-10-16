@@ -1,0 +1,1 @@
+vless://9f56bdc2-3238-4190-9b83-1c8332a7f3f8@50d9ab69755390c8.wgse.info:443?type=xhttp&security=tls&path=/xh&sni=50d9ab69755390c8.wgse.info&fp=chrome#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - DOLSAT sp. z o.o. ┇ 87.199.192.115

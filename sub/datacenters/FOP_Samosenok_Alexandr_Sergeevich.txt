@@ -1,1 +1,2 @@
+vless://71c8d2c6-a7f1-4c74-b37d-d7f06fef9c04@bg.chick-chirik.com:18569?type=tcp&security=reality&sni=bg.chick-chirik.com&fp=edge&flow=xtls-rprx-vision&pbk=6E5mOchF1kE3xeVVZmdJhmOG1K6zlrovSCvJKmCUxzY&sid=67ce41457763df90#ES 🇪🇸 ┇ VLESS-TCP-RLT - FOP Samosenok Alexandr Sergeevich ┇ 185.147.26.190
 vless://55ed97fc-77d1-4802-baf3-acef70776331@yt.orpheous.ru:443?type=tcp&security=reality&sni=yt.orpheous.ru&fp=firefox&flow=xtls-rprx-vision&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7#ES 🇪🇸 ┇ VLESS-TCP-RLT - FOP Samosenok Alexandr Sergeevich ┇ 185.147.26.175

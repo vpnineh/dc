@@ -1,1 +1,0 @@
-vless://c37e8a11-cff8-4f11-bbbb-f0f8d7cbcb0c@cdn4.papar.online:443?type=xhttp&security=tls&path=/api/v2/locale/&sni=cdn4.papar.online#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

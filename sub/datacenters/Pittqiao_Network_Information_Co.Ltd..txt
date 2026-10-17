@@ -1,1 +1,1 @@
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Pittqiao Network Information Co.,Ltd. ┇ 45.12.63.219
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?type=grpc&security=tls&sni=edge-lab-b.10media.top#FR 🇫🇷 ┇ VLESS-GRPC-TLS - Pittqiao Network Information Co.,Ltd. ┇ 45.12.63.219

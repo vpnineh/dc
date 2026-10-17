@@ -1,1 +1,0 @@
-vless://46c84693-c5ee-4b94-92db-97c0f571c9ee@fastus.panelsaaz.ir:2083?type=ws&security=tls&path=/arv&sni=fastus.panelsaaz.ir&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-WS-TLS - Sefroyek Pardaz Engineering PJSC ┇ 152.89.47.83

@@ -1,1 +1,0 @@
-vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sepanta Communication Development Co. Ltd ┇ 85.133.244.214

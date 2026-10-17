@@ -1,0 +1,2 @@
+vless://a034eba2-8b2c-40af-9233-629c45b40fc2@lit.fytpn.com:56789?type=tcp&security=reality&sni=lit.fytpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa#GB 🇬🇧 ┇ VLESS-TCP-RLT - Sky UK Limited ┇ 188.220.205.44
+vless://a034eba2-8b2c-40af-9233-629c45b40fc2@lit.fytpn.com:56791?type=grpc&security=reality&sni=lit.fytpn.com&fp=chrome&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Sky UK Limited ┇ 188.220.205.44

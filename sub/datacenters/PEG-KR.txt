@@ -1,0 +1,1 @@
+vless://a034eba2-8b2c-40af-9233-629c45b40fc2@pol4.fytpn.com:8443?type=tcp&security=reality&sni=pol4.fytpn.com&fp=chrome&flow=xtls-rprx-vision&pbk=yrMMb8_Y0VqpDqAHdAQR2ovZySZBMSCTPzuYeft8zjk&sid=a2aa#KR 🇰🇷 ┇ VLESS-TCP-RLT - PEG-KR ┇ 192.144.78.40

@@ -1,1 +1,1 @@
-vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@www.pixellow.online:443?type=tcp&security=reality&sni=www.pixellow.online&fp=chrome&flow=xtls-rprx-vision&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg#CZ 🇨🇿 ┇ VLESS-TCP-RLT - GamerHost s.r.o. ┇ 5.39.202.72
+vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@assets.pixellow.online:443?type=xhttp&security=reality&path=/media-cdn/segments&sni=assets.pixellow.online&fp=chrome&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - GamerHost s.r.o. ┇ 5.39.202.72

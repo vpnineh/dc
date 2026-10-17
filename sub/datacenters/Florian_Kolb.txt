@@ -1,2 +1,2 @@
-vless://ab7f0a2b-87ea-4bf9-8c08-3db4ff6e2980@xt.dec.toostep.top:443?type=xhttp&security=tls&path=/api/1ca227be27&sni=xt.dec.toostep.top#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Florian Kolb ┇ 45.133.74.231
 vless://ab7f0a2b-87ea-4bf9-8c08-3db4ff6e2980@xt.ded.toostep.top:443?type=xhttp&security=tls&path=/api/1d824de855&sni=xt.ded.toostep.top#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Florian Kolb ┇ 45.133.74.233
+vless://ab7f0a2b-87ea-4bf9-8c08-3db4ff6e2980@xt.dec.toostep.top:443?type=xhttp&security=tls&path=/api/1ca227be27&sni=xt.dec.toostep.top#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Florian Kolb ┇ 45.133.74.231

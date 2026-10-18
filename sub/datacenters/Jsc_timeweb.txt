@@ -1,2 +1,2 @@
-vless://ec05ad08-097f-4bb3-b65f-1806e7345c36@render.tbotapi.ru:443?type=tcp&security=reality&sni=render.tbotapi.ru&fp=chrome&flow=xtls-rprx-vision&pbk=bBTka5j8aqNSD5hl8X0YUhwYH04IrPIaeKUFkijUllg#AU 🇦🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 82.97.251.74
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?type=grpc&security=tls&sni=ru3.radiolumens.uk#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 77.232.135.122
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 91.210.169.181

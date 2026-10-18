@@ -1,1 +1,1 @@
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@m1.edgemedia.lol:443?type=xhttp&security=tls&path=/xhttppath&sni=m1.edgemedia.lol#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 89.169.90.11
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@m1.edgemedia.lol:443?type=xhttp&security=tls&path=/xhttppath&sni=m1.edgemedia.lol#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 89.169.90.10

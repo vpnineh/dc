@@ -1,1 +1,1 @@
-vless://ec05ad08-097f-4bb3-b65f-1806e7345c36@s183.cdn.tbotapi.ru:443?type=tcp&security=reality&sni=s183.cdn.tbotapi.ru&fp=firefox&flow=xtls-rprx-vision&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4#AE 🇦🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 45.135.128.6
+vless://ec05ad08-097f-4bb3-b65f-1806e7345c36@s183.cdn.tbotapi.ru:443?type=tcp&security=reality&sni=s183.cdn.tbotapi.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4#AE 🇦🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 45.135.128.6

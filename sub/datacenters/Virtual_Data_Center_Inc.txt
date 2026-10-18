@@ -1,1 +1,0 @@
-vless://130f28c7-5d89-4075-9ab4-57850216d1d2@push.fatcutecat.net:443?type=tcp&security=tls&sni=push.fatcutecat.net&fp=chrome#XX 🏳️ ┇ VLESS-TCP-TLS - Virtual Data Center Inc ┇ 176.116.0.59

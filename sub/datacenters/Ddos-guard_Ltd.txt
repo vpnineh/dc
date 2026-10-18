@@ -1,2 +1,0 @@
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?type=ws&security=tls&path=/stream/v1/session/media&sni=gpt.prem-ai.shop&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.248
-vless://d5e20bad-6779-4f16-9363-a1fc44f55e11@lk.stream-pk.online:443?type=ws&security=tls&path=/gateway/v1/ws/78c903ed62a493521f3a51df668fc042&sni=lk.stream-pk.online&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 91.215.42.205

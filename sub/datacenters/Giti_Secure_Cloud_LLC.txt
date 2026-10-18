@@ -1,2 +1,2 @@
-vless://f6400667-bf72-4a93-0cd4-40da57850d16@s2.yorqino.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s2.yorqino.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.145
 vless://2179a0fe-20ea-4f6d-9e8b-3cc6fc4b736f@bs.cexora.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=bs.cexora.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.156
+vless://f6400667-bf72-4a93-0cd4-40da57850d16@s2.yorqino.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s2.yorqino.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.145

@@ -1,2 +1,0 @@
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?type=tcp&security=reality#HK 🇭🇰 ┇ VLESS-TCP-RLT - NETLAB-SDN ┇ 154.21.203.106
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.29.149.140:41705?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NETLAB-SDN ┇ 154.29.149.140

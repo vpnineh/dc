@@ -1,2 +1,4 @@
-vless://ec05ad08-097f-4bb3-b65f-1806e7345c36@render.tbotapi.ru:443?type=tcp&security=reality&sni=render.tbotapi.ru&fp=chrome&flow=xtls-rprx-vision&pbk=bBTka5j8aqNSD5hl8X0YUhwYH04IrPIaeKUFkijUllg#AU 🇦🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 82.97.251.74
+vless://ec05ad08-097f-4bb3-b65f-1806e7345c36@render.tbotapi.ru:443?type=tcp&security=reality&sni=render.tbotapi.ru&fp=firefox&flow=xtls-rprx-vision&pbk=bBTka5j8aqNSD5hl8X0YUhwYH04IrPIaeKUFkijUllg#AU 🇦🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 82.97.251.74
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@85.193.85.231:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 85.193.85.231
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?type=grpc&security=tls&sni=xsru1.ddnsfree.com&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 147.45.175.81
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 91.210.169.181

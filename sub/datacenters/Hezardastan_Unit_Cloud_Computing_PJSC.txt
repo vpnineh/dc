@@ -1,1 +1,0 @@
-vless://bc93c8bc-2929-4865-bf2b-5c543d650c7e@199.232.20.113:443?type=xhttp&security=tls&path=/&sni=www.technolife.com&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Hezardastan Unit Cloud Computing PJSC ┇ 199.232.20.113

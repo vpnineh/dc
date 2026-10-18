@@ -1,4 +1,3 @@
 vless://a256aa26-c6ae-4abe-8594-6ed98b18bf27@213.182.201.130:3090?type=grpc&security=none#EG 🇪🇬 ┇ VLESS-GRPC-NTLS - AjyalFi Company for Information and Communication Technology LLC ┇ 213.182.201.130
-vless://a256aa26-c6ae-4abe-8594-6ed98b18bf27@213.182.201.134:3090?type=grpc&security=none#EG 🇪🇬 ┇ VLESS-GRPC-NTLS - AjyalFi Company for Information and Communication Technology LLC ┇ 213.182.201.134
 vless://1dba3505-a42f-4b59-a973-7a19aaf53446@213.182.201.131:3090?type=grpc&security=none#EG 🇪🇬 ┇ VLESS-GRPC-NTLS - AjyalFi Company for Information and Communication Technology LLC ┇ 213.182.201.131
-vless://303e1419-66cb-4fcf-bde2-88b26c0e9f67@213.182.201.138:3090?type=grpc&security=none#EG 🇪🇬 ┇ VLESS-GRPC-NTLS - AjyalFi Company for Information and Communication Technology LLC ┇ 213.182.201.138
+vless://a256aa26-c6ae-4abe-8594-6ed98b18bf27@213.182.201.134:3090?type=grpc&security=none#EG 🇪🇬 ┇ VLESS-GRPC-NTLS - AjyalFi Company for Information and Communication Technology LLC ┇ 213.182.201.134

@@ -1,2 +1,0 @@
-vless://b4090350-b91f-4920-b5c0-c3ffd2798534@176.114.86.222:8081?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 176.114.86.222
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?type=grpc&security=reality&sni=36a466g.fi1.h1clayd.click&fp=chrome&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6#RU 🇷🇺 ┇ VLESS-GRPC-RLT - JSC Selectel ┇ 45.133.151.187

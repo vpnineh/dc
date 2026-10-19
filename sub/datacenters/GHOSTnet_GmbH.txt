@@ -1,3 +1,3 @@
-vless://01113702-2775-41e4-9aab-1277c5c4fc93@pl.grizzlysite.buzz:443?type=tcp&security=tls&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - GHOSTnet GmbH ┇ 94.249.180.241
 vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?type=tcp&security=reality&sni=94.249.188.202&fp=chrome&flow=xtls-rprx-vision&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d#DE 🇩🇪 ┇ VLESS-TCP-RLT - GHOSTnet GmbH ┇ 94.249.188.202
+vless://01113702-2775-41e4-9aab-1277c5c4fc93@pl.grizzlysite.buzz:443?type=tcp&security=tls&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - GHOSTnet GmbH ┇ 94.249.180.241
 vless://b3628ed3-667a-49df-a42e-6887b19100bc@94.249.172.2:1112?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.172.2

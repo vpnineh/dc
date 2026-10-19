@@ -1,1 +1,1 @@
-vless://e3026ffb-cde6-4cfe-b4b7-f76d5264e969@tutua.azad0namah.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 185.223.77.118
+vless://f079a440-e5f6-46cc-bcaf-273c8cf4417d@tutua.azad0namah.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 185.223.77.118

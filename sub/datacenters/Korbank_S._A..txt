@@ -1,2 +1,1 @@
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Korbank S. A. ┇ 83.168.71.216
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@83.168.91.16:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Korbank S. A. ┇ 83.168.91.16

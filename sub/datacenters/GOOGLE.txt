@@ -1,5 +1,5 @@
-vless://3ca21a1e-5ec3-4724-9890-8c28e22bdbb2@146.75.59.186:443?type=xhttp&security=tls&path=/&sni=gemini.google.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - GOOGLE ┇ 146.75.59.186
-vless://d5d3b6bf-a31b-41db-af17-602aa850bcfc@195.26.26.148:23630?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=wOiCGeBUrh5RJ32-bf78duMQLJKCEXB4g9zHO-xE7UA&sid=776ef49ecba6b7#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 195.26.26.148
-vless://75ea0f06-c69f-41ed-8376-7382d0f2634f@asp.aloamin99.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=0te-XmVHa15mVZb5pKCbSiKzhpuh8-viQQGygJPVZDU&sid=da4b0f71d84859a1#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 130.185.120.57
-vless://410bc842-c3df-4fc5-9e11-0feab5c97d64@3873e70a3b17.salzivo.ir:443?type=xhttp&security=tls&path=/?ed=2048&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - GOOGLE ┇ 146.75.57.111
+vless://e0ef0fb4-f18a-4284-bcf3-f5b3e738c594@199.232.78.159:443?type=ws&security=tls&path=/&sni=google.com#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 199.232.78.159
+vless://XpnTeam-1@199.232.78.160:443?type=ws&security=tls&path=/&sni=play.google.com#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 199.232.78.160
+vless://f8e83eb9-601f-4673-a5dc-4c0b94c64d94@ir2.infoway.ir:9?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=OIAFsc58CmKZ93EE5Jdl7WeXFmUhbmzLWSE7QMS-hwY&sid=c1598eab36bed1a6#US 🇺🇸 ┇ VLESS-TCP-RLT - GOOGLE ┇ 5.202.8.215
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AsVURQLU5UTFMgLSBHT09HTEUgXHUyNTA3IDguOC44LjgiLCJhZGQiOiI4LjguOC44IiwicG9ydCI6NTMsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwLHVkcCIsInR5cGUiOiJodHRwIn0
+vless://30ed2f7b-35c1-49ca-8d9f-687983382360@199.232.20.113:443?type=xhttp&security=tls&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - GOOGLE ┇ 199.232.20.113

@@ -1,1 +1,0 @@
-vless://456ecff9-c221-4915-8aa7-2e5745a30935@fr.chick-chirik.com:443?type=tcp&security=reality&sni=fr.chick-chirik.com&fp=chrome&flow=xtls-rprx-vision&pbk=59wXm_wZ9wKYVP9Qc5WHpDkjxSqAU_N-208CJicuqH8&sid=ddfaab36dc094eef#FR 🇫🇷 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 145.223.71.220

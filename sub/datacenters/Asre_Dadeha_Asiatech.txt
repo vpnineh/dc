@@ -1,0 +1,2 @@
+vless://4ecf2fb4-ec49-478d-8c8a-5a4c3761e55b@d3.clmusic.ir:8880?type=tcp&security=tls&sni=d3.clmusic.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Dadeha Asiatech ┇ 85.198.17.207
+vless://4ecf2fb4-ec49-478d-8c8a-5a4c3761e55b@d3.clmusic.ir:8443?type=ws&security=tls&path=/api&sni=d3.clmusic.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Asre Dadeha Asiatech ┇ 85.198.17.207

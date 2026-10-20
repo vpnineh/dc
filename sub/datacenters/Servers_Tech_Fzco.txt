@@ -1,2 +1,1 @@
 vless://3c1dbb51-4160-4f9f-839e-218272142eaf@xx.soreanapanel.com:23?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 185.157.213.72
-vless://3578e2bc-a2a8-4e72-b6d2-16829acfa31c@fsqwe.subsconnect.com:443?type=xhttp&security=tls&path=/ZXlAPGZ2lQ&fp=firefox#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Servers Tech Fzco ┇ 91.84.123.102

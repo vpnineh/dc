@@ -1,4 +1,1 @@
-vless://ab834a92-3f04-4a08-a509-b651a614ff0d@de-1-tun.healingfluence.org:443?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.181
-vless://3a5862ea-f175-4d91-8e83-9918f798294e@tr-1-tun.healingfluence.org:443?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.168
-vless://490f93ab-4fd4-44ed-9c01-6ad475557316@ru-1-tuna.healingfluence.org:443?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.184
-vless://ef80e22f-7a93-4e2b-ab2a-5f9fdc3a592b@de-2-tuna.healingfluence.org:443?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.177
+vless://1526b134-fad7-4fd9-93e4-276cdc6d827b@tr-1-tun.healingfluence.org:443?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.168

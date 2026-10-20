@@ -1,4 +1,4 @@
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@lv.aiage.work:443?type=tcp&security=reality&sni=lv.aiage.work&fp=chrome&flow=xtls-rprx-vision&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&sid=3c6afdc4124d0560#AT 🇦🇹 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 185.220.223.24
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=false&path=/vless&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.70.41
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@freefl.aiage.work:443?type=tcp&security=reality&sni=freefl.aiage.work&fp=chrome&flow=xtls-rprx-vision&pbk=EqN5QtvWGccdkmL5ZNVDBRxRhWgr6g_vr3ABT8Q2dW4&sid=ff0ddf949624ef2a#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.9.0
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=false&path=/vless&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.70.41
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@cdn.bulkavpn.top:443?type=tcp&security=reality&sni=cdn.bulkavpn.top&fp=chrome&flow=xtls-rprx-vision&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&sid=94f32cfc#ES 🇪🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 185.166.154.111

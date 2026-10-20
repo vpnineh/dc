@@ -1,2 +1,1 @@
-vless://8a37900c-702b-427e-9d2a-76bb54583797@fr.3lonel.mobileahmadreza.ir:2081?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - TMN SA ┇ 217.179.6.141
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVE1OIFNBIFx1MjUwNyAyMTcuMTc5LjYuMTQxIiwiYWRkIjoiRnIuM2xvbmVsLm1vYmlsZWFobWFkcmV6YS5pciIsInBvcnQiOjEwODAsImlkIjoiMDczNzdjMzItNmU0MC00MGRjLWFhYWQtM2IzZmJmMjJiOWJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0

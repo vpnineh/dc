@@ -1,1 +1,1 @@
-vless://7538d7d6-7f4a-4eb0-ad47-559e6b3f0c88@ms-dip.xqnetwork.ir:58612?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - ID Performance ┇ 109.176.202.41
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@reqax.zqpm.ir:20727?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - ID Performance ┇ 45.65.112.17

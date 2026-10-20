@@ -1,1 +1,1 @@
-vless://43ea50cc-bcf7-4da3-8392-0fec8c16c4a4@gb.1.a.diginoisb.ir:2022?type=ws&security=tls&path=/spdpapdp&sni=91.216.104.183&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 213.176.28.22
+vless://a08bc45a-b174-4057-8d8a-dcf25da8b94d@tr.tr.1.diginoisb.ir:2022?type=ws&security=tls&path=/spdpapdp&sni=91.216.104.183&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 213.176.28.22

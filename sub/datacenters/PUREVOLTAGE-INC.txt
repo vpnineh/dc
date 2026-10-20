@@ -1,2 +1,2 @@
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?type=ws&security=none&path=/vless#RU 🇷🇺 ┇ VLESS-WS-NTLS - PUREVOLTAGE-INC ┇ 45.138.100.248
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - PUREVOLTAGE-INC ┇ 45.138.100.248
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?type=ws&security=none&path=/vless#RU 🇷🇺 ┇ VLESS-WS-NTLS - PUREVOLTAGE-INC ┇ 45.138.100.248

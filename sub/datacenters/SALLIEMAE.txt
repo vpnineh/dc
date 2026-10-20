@@ -1,1 +1,1 @@
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@nl7.brightmetric.trade:443?type=xhttp&security=tls&path=/storage/upload/session&sni=nl7.brightmetric.trade&fp=edge#US 🇺🇸 ┇ VLESS-XHTTP-TLS - SALLIEMAE ┇ 167.104.55.74
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@nl7.brightmetric.trade:443?type=xhttp&security=tls&path=/storage/upload/session&sni=nl7.brightmetric.trade&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - SALLIEMAE ┇ 167.104.55.74

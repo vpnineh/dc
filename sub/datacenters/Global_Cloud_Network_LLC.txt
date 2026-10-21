@@ -1,5 +1,5 @@
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?type=xhttp&security=tls&sni=randomquaint.net#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 78.159.246.179
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?type=xhttp&security=tls&path=/api/v1/upload&sni=fitindoor.net&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 78.159.246.85
 vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?type=ws&security=tls&path=/ws&sni=fbsv6.guardora.pro&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Global Cloud Network LLC ┇ 78.159.250.126
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?type=xhttp&security=tls&path=/api/v1/upload&sni=summerculture.net#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 37.18.14.43
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?type=xhttp&security=tls&sni=randomquaint.net#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 78.159.246.179
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@windytrout.net:8443?type=xhttp&security=tls&path=/api/v1/upload&sni=windytrout.net&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 81.94.148.232

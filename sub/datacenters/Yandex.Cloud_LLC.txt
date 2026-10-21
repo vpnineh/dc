@@ -1,1 +1,1 @@
-vless://66a27f60-3583-4d86-ab48-0f24d23bc8ca@u48030.d5.nordtile.ru:443?type=xhttp&security=tls&path=/api/v1/0g8mt5ei/sync/&sni=u48030.d5.nordtile.ru&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://66a27f60-3583-4d86-ab48-0f24d23bc8ca@3miq56.d5.nordtile.ru:443?type=xhttp&security=tls&path=/api/v1/0g8mt5ei/sync/&sni=3miq56.d5.nordtile.ru&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4

@@ -1,1 +1,2 @@
+vless://awlix_ir@85.9.194.75:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 85.9.194.75
 vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 194.113.74.166

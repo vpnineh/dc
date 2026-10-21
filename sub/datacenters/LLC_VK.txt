@@ -1,0 +1,1 @@
+vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@m-vruvc.mvpstr.com:443?type=tcp&security=reality&sni=m-vruvc.mvpstr.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZtAlhN1pU4MTmv4KaX9J_5_8KWnwy9IOnc-BLzIf234&sid=11ac376e18d20343#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 212.233.91.3

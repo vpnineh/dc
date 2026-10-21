@@ -1,1 +1,0 @@
-vless://b62e3646-b84d-443c-9c94-718b646502e0@webdisk.jaggyslawa.org:443?type=tcp&security=reality&sni=www.foxsports.com&fp=edge&flow=xtls-rprx-vision&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=dda5f542d835#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 107.181.151.128

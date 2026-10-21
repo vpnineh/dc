@@ -1,5 +1,5 @@
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&security=none&path=/platform108#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.27.80
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&security=none&path=/platform101#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.14.6
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&security=none&path=/platform108#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.27.80
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&security=none&path=/platform106#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.24.242
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?type=ws&security=none&path=/platform107#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.26.57
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&security=none&path=/platform102#CL 🇨🇱 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 64.176.25.13

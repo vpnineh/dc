@@ -1,1 +1,1 @@
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@de3.brightmetric.trade:443?type=tcp&security=tls&sni=de3.brightmetric.trade&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - MIRhosting B.V. ┇ 194.147.148.62
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@de3.brightmetric.trade:443?type=tcp&security=tls&sni=de3.brightmetric.trade&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - MIRhosting B.V. ┇ 194.147.148.91

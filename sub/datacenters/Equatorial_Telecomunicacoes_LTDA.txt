@@ -1,4 +1,4 @@
 vless://89b25f4e-8f3e-4566-b88e-005f163eeb04@206.1.98.150:8080?type=ws&security=none&path=/al#BR 🇧🇷 ┇ VLESS-WS-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.98.150
-vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVxdWF0b3JpYWwgVGVsZWNvbXVuaWNhY29lcyBMVERBIFx1MjUwNyAyMDYuMS45Ni4xODciLCJhZGQiOiIyMDYuMS45Ni4xODciLCJwb3J0Ijo0NDMsImlkIjoiMzJjMDE3ZTctMmZhNi00YTQzLTk4ZWYtYjIxYmI2M2Q5MmU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://0e961427-c505-406b-8156-fbd6c1ea2afc@api.apira98.org:57132?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.99.116
 vless://0e961427-c505-406b-8156-fbd6c1ea2afc@api.apira98.org:23324?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.99.116
+vless://0e961427-c505-406b-8156-fbd6c1ea2afc@api.apira98.org:57132?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.99.116
+vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVxdWF0b3JpYWwgVGVsZWNvbXVuaWNhY29lcyBMVERBIFx1MjUwNyAyMDYuMS45Ni4xODciLCJhZGQiOiIyMDYuMS45Ni4xODciLCJwb3J0Ijo0NDMsImlkIjoiMzJjMDE3ZTctMmZhNi00YTQzLTk4ZWYtYjIxYmI2M2Q5MmU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ

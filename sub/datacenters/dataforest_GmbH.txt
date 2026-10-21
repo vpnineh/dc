@@ -1,2 +1,2 @@
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@fert6.localip.ir:2087?type=ws&security=tls&path=/hokm&sni=fert6.localip.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 94.103.168.133
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?type=tcp&security=none&path=/hokm#DE 🇩🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 94.103.168.133
 vless://6e05822a-e9da-4135-a9db-71aa07a944af@sub.merky.top:443?type=ws&security=tls&path=/merky-connect/de6/&sni=sub.merky.top&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 94.143.231.146

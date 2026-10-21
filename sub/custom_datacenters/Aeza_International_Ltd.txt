@@ -1,3 +1,3 @@
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.101.17
 vless://6bad72da-1a41-4217-b265-9e4abdf5ae76@nl1.gramstar.online:443?type=grpc&security=reality&sni=nl1.gramstar.online&fp=chrome&pbk=njpVaVdQx4IEByPisgjjXSJGLZt5Khb8m8HC1QIBqQs&sid=b04dd3564373ba03#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 109.120.150.234
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?type=ws&security=none&path=/vless&sni=193.188.21.253#SE 🇸🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 193.188.21.253
+vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?type=ws&security=false&path=/vless&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 193.188.21.253

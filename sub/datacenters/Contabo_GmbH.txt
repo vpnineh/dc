@@ -1,4 +1,1 @@
-vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 31.220.86.213
-vless://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 161.97.92.49
-vless://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:1080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 161.97.92.49
-vless://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:8443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 161.97.92.49
+vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?type=tcp&security=reality&path=/#DE 🇩🇪 ┇ VLESS-TCP-RLT - Contabo GmbH ┇ 31.220.86.213

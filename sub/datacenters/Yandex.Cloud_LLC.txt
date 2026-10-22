@@ -1,1 +1,1 @@
-vless://66a27f60-3583-4d86-ab48-0f24d23bc8ca@3miq56.d5.nordtile.ru:443?type=xhttp&security=tls&sni=3miq56.d5.nordtile.ru&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://3b1fa839-2cb9-4511-9711-08800450aea3@cdnapiv2.streamru32.net:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 188.72.103.4

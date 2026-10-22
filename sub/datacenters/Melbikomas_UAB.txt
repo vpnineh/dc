@@ -1,1 +1,2 @@
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?type=ws&security=none&path=/vless&sni=95.174.68.188#AE 🇦🇪 ┇ VLESS-WS-NTLS - Melbikomas UAB ┇ 95.174.68.188
+vless://5e9f5002-a7ef-432b-9694-485ac20be04c@lq.mastermarly.ir:443?type=ws&security=tls&path=?ed=2560&sni=KAMANIedfa.mastermarly.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Melbikomas UAB ┇ 104.16.3.15

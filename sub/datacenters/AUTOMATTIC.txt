@@ -1,0 +1,1 @@
+vless://9bd5134a-21c6-4f4a-8e32-75b90532368f@usa.vfzq.ir:8080?type=tcp&security=reality&sni=nasa.gov&fp=chrome&pbk=H8vhn1MC9fFCErnL9_C7b_b9Wyauc4n690Wxy4gB2V4&sid=f88610dd#US 🇺🇸 ┇ VLESS-TCP-RLT - AUTOMATTIC ┇ 216.9.224.126

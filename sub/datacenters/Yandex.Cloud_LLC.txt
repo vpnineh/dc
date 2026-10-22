@@ -1,1 +1,1 @@
-vless://3b1fa839-2cb9-4511-9711-08800450aea3@cdnapiv2.streamru32.net:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://3b1fa839-2cb9-4511-9711-08800450aea3@cdnapiv.streamru39.net:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 188.72.103.4

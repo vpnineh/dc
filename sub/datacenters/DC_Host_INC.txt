@@ -1,1 +1,0 @@
-vless://9bd5134a-21c6-4f4a-8e32-75b90532368f@usa.vfzq.ir:8443?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - DC Host INC ┇ 216.9.224.126

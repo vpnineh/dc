@@ -1,2 +1,1 @@
-vless://1b2e9193-391f-4baa-a621-907c61521983@sexy.blaackgame.ir:2087?type=tcp&security=tls&sni=sexy.blaackgame.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 78.109.198.72
 vless://436899a7-965b-4e6e-8797-27f9363d812c@crm2.play98.ir:52862?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 79.175.134.39

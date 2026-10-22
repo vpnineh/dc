@@ -1,1 +1,0 @@
-vless://d4331e8b-2954-4c03-8df3-73ff7a2d73d5@finla.net-flowa.org:10001?type=tcp&security=none&path=/#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.47.190

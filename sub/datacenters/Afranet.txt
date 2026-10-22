@@ -1,0 +1,1 @@
+vless://408c504a-5995-4b0b-a38e-43a12c2d9759@dash.zeneco.ir:2052?type=ws&security=tls&sni=dash.zeneco.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 78.109.199.222

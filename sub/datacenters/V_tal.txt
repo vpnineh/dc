@@ -1,7 +1,9 @@
-vless://6e74e8ba-9f93-4229-8c3a-8132992948c9@rom.color-shop.ir:8080?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 152.237.230.30
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?type=tcp&security=reality&sni=cdn6.goonars.com&fp=chrome&flow=xtls-rprx-vision&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.51.10.240
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@fin4.himoy.space:443?type=tcp&security=reality&sni=fin4.himoy.space&fp=chrome&flow=xtls-rprx-vision&pbk=36MwbI8-ScG1RGaNp7jGe-NMOm9HfvmdMP5vfY4_P3k&sid=0c3c7a686e566de2#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.220.138
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@budulai.himoy.space:443?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 177.3.220.91
 vless://8221d527-431a-4a5d-b45a-1af799ebf5e1@api.mediaklenov.cc:443?type=grpc&security=tls&sni=api.mediaklenov.cc&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 189.74.114.118
-vless://850ec121-7788-4b15-a88a-2d32b2ecc297@ab4ffb6eec79ff99.camellora1.ir:8080?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 201.58.178.79
 vless://2b9fc113-db27-4635-86d8-fa4556a5b7ba@nl.cachevault.net:443?type=xhttp&security=reality&path=/static/&sni=nl.cachevault.net&fp=chrome&pbk=XTX6Yvtj5B4HENQbNCS0MH3jDqq5vj5gWlg2nilTviE&sid=8ba02790a1480848#BR 🇧🇷 ┇ VLESS-XHTTP-RLT - V tal ┇ 191.217.214.50
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@200.180.163.38:443?type=tcp&security=none&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=512#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 200.180.163.38
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?type=tcp&security=reality&sni=cdn6.goonars.com&fp=chrome&flow=xtls-rprx-vision&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.51.10.240
 vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&security=tls&path=VideoRenderer&sni=renderer-bridge-2-114.mirra.now&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 200.169.181.164
+vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@rpc.bixcar.online:443?type=grpc&security=reality&sni=rpc.bixcar.online&fp=chrome&pbk=IyUx2jYDP6_leRt4dvxgmK2QCWZ1m3r3jceFqFU13Fc#BR 🇧🇷 ┇ VLESS-GRPC-RLT - V tal ┇ 177.3.213.14
+vless://6e74e8ba-9f93-4229-8c3a-8132992948c9@rom.color-shop.ir:8080?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - V tal ┇ 152.237.230.30

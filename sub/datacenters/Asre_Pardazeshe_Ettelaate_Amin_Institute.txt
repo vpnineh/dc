@@ -1,1 +1,0 @@
-vless://b25b6ef7-b892-4b66-b404-e1f6d39a934d@89.42.196.211:443?type=tcp&security=tls&sni=89.42.196.211&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 89.42.196.211

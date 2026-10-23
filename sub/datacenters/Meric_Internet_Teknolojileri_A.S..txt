@@ -1,0 +1,1 @@
+vless://cacefc81-42ad-4c93-89cc-ca1f84b11bd7@212.87.198.5:5613?type=httpupgrade&security=none&path=index.php#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Meric Internet Teknolojileri A.S. ┇ 212.87.198.5

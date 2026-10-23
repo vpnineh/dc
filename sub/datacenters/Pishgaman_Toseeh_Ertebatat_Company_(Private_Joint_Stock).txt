@@ -1,2 +1,0 @@
-vless://0c82e827-c966-4f0d-b76f-d86ad939fef9@ir2.infoway.ir:180?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 5.202.8.215
-vless://0c82e827-c966-4f0d-b76f-d86ad939fef9@ir2.infoway.ir:709?type=xhttp&security=reality#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 5.202.8.215

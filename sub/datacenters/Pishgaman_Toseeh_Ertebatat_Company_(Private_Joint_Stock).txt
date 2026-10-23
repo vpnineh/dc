@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUGlzaGdhbWFuIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSAoUHJpdmF0ZSBKb2ludCBTdG9jaykgXHUyNTA3IDE4NS4xNTUuOC4xOTciLCJhZGQiOiJhbWlyLmFtaXJwb3J0LmlyIiwicG9ydCI6ODg4MCwiaWQiOiJlNjAwMjRmZC0yODdlLTQ0MGYtYTEyMS1iYjJkNWFkYTc1ZTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
+vless://4dd86f78-8202-42c2-89b6-801fd29daf45@af14ee75949b3b21.tunvi.w-ert.org:42924?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 85.9.114.70

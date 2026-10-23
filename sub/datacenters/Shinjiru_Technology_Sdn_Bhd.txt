@@ -1,1 +1,2 @@
 vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?type=ws&security=none&path=vless#MY 🇲🇾 ┇ VLESS-WS-NTLS - Shinjiru Technology Sdn Bhd ┇ 124.217.248.32
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@111.90.143.184:61111?type=tcp&security=reality#MY 🇲🇾 ┇ VLESS-TCP-RLT - Shinjiru Technology Sdn Bhd ┇ 111.90.143.184

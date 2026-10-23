@@ -1,1 +1,1 @@
-vless://9ab3a362-1518-496d-b08d-eced45cec936@gb.srv.dvzh.net:443?type=tcp&security=reality&sni=gb.srv.dvzh.net&fp=firefox&flow=xtls-rprx-vision&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=d30f9d846a7c8cba#GB 🇬🇧 ┇ VLESS-TCP-RLT - Kamatera Inc ┇ 185.237.99.228
+vless://9ab3a362-1518-496d-b08d-eced45cec936@gb.srv.dvzh.net:443?type=tcp&security=reality&sni=gb.srv.dvzh.net&fp=chrome&flow=xtls-rprx-vision&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=d30f9d846a7c8cba#GB 🇬🇧 ┇ VLESS-TCP-RLT - Kamatera Inc ┇ 185.237.99.228

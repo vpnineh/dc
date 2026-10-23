@@ -1,1 +1,0 @@
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@de14.my-cdn.org:443?type=grpc&security=tls&sni=de14.my-cdn.org&fp=chrome#DE 🇩🇪 ┇ VLESS-GRPC-TLS - firstcolo GmbH ┇ 84.200.62.236

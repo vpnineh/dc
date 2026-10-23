@@ -1,1 +1,1 @@
-vless://766f7ae4-83ce-4e25-9778-2839aa62282b@crm2.play98.ir:52862?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 79.175.134.39
+vless://436899a7-965b-4e6e-8797-27f9363d812c@crm2.play98.ir:52862?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 79.175.134.39

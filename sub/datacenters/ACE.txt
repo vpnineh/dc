@@ -1,1 +1,0 @@
-vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?type=tcp&security=none&path=/#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.174.193.1

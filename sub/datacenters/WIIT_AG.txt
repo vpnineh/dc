@@ -1,1 +1,1 @@
-vless://b1247bbd-33c5-4e00-b1b2-58dc5d8b565a@goold.zovip2.ir:443?type=ws&security=tls&path=/api/v3/pulse&sni=goold.zovip2.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - WIIT AG ┇ 109.68.217.177
+vless://c0a06843-8a72-4eca-b124-a589da434c98@goold.zovip2.ir:443?type=ws&security=tls&path=/api/v3/pulse&sni=goold.zovip2.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - WIIT AG ┇ 109.68.217.177

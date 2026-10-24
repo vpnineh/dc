@@ -1,1 +1,1 @@
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@84.32.108.3:443?type=tcp&security=tls&path=/es/?@MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-TLS - IPXO ┇ 84.32.108.3
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@pl2.himoy.space:443?type=tcp&security=reality&sni=pl2.himoy.space&fp=chrome&flow=xtls-rprx-vision&pbk=eq1GsjxpRmENTkUfjk_QPWUUqGNHwESqoJ7yFs-WpF0&sid=7f9831bb156cc9e2#CZ 🇨🇿 ┇ VLESS-TCP-RLT - IPXO ┇ 95.85.227.79

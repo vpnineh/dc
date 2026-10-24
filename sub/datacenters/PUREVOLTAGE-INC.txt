@@ -1,1 +1,0 @@
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?type=ws&security=false&path=/vless&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-NTLS - PUREVOLTAGE-INC ┇ 45.138.100.248

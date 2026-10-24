@@ -1,2 +1,2 @@
-vless://fdcb45a0-0994-4612-9f54-352752069241@dash.zeneco.ir:2052?type=ws&security=tls&sni=dash.zeneco.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 78.109.199.222
+vless://fdcb45a0-0994-4612-9f54-352752069241@dash.zeneco.ir:2052?type=ws&security=tls&path=/&sni=dash.zeneco.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 78.109.199.222
 vless://436899a7-965b-4e6e-8797-27f9363d812c@crm2.play98.ir:52862?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 79.175.134.39

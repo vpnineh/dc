@@ -1,1 +1,0 @@
-vless://3a4c521f-ac6d-4f82-ace9-2c630b8f0b9d@farce.white-aist.com:8443?type=grpc&security=reality&sni=farce.white-aist.com&pbk=tZDKPMjO2zaWuKtdwSjzj9p-E4PSuQE9yB9JFR6U_10#FR 🇫🇷 ┇ VLESS-GRPC-RLT - PETROSKY ┇ 83.136.209.11

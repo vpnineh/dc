@@ -1,1 +1,0 @@
-vless://8bd5d470-fa2e-4be4-adb0-5f42ac2b2bd6@pass.zqpm.ir:20727?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520#US 🇺🇸 ┇ VLESS-TCP-RLT - YAHOO-BF1 ┇ 45.65.112.17

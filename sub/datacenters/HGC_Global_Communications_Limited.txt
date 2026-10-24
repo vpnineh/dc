@@ -1,1 +1,1 @@
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.167
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.102

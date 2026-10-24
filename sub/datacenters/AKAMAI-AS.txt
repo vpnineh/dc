@@ -1,1 +1,0 @@
-vless://8cc7d0fc-1b83-4ee3-b51d-8a03a9b19435@webdisk.jaggyslawa.org:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=87174b37ce3b#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 107.181.151.128

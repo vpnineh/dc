@@ -1,4 +1,4 @@
-vless://f7376394-cd54-11f1-bb6a-bff6d0326f6a@194.36.37.59:10004?type=ws&security=false&path=/vpnjantit&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - Fast Geo Hosting S.r.l. ┇ 194.36.37.59
+vless://f7376394-cd54-11f1-bb6a-bff6d0326f6a@194.36.37.59:10004?type=ws&security=none&path=/vpnjantit#NL 🇳🇱 ┇ VLESS-WS-NTLS - Fast Geo Hosting S.r.l. ┇ 194.36.37.59
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?type=ws&security=false&path=/vless&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-NTLS - Fast Geo Hosting S.r.l. ┇ 5.253.29.254
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 5.253.28.240
 vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 5.253.28.224
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fast Geo Hosting S.r.l. ┇ 5.253.28.240

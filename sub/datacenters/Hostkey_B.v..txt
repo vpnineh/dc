@@ -1,1 +1,2 @@
 vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?type=httpupgrade&security=tls&path=/&sni=adm.moshtaaf.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-HTTPUPGRADE-TLS - Hostkey B.v. ┇ 191.101.113.72
+vless://b62e3646-b84d-443c-9c94-718b646502e0@webdisk.jaggyslawa.org:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 107.181.151.128

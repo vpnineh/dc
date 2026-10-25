@@ -1,1 +1,1 @@
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.140
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.140

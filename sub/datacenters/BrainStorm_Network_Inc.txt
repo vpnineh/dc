@@ -1,1 +1,2 @@
 vless://caf3d607-95c9-4ea0-98b5-864027056ba0@cz1.accessboy.com:443?type=tcp&security=reality&sni=cz1.accessboy.com&fp=chrome&flow=xtls-rprx-vision&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0#CZ 🇨🇿 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 86.54.82.50
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@w907rj.orbitacorp.dev:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.129.193

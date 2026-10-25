@@ -1,0 +1,2 @@
+vless://54f22246-cc9c-4315-907a-6c94c901d20f@h9.smart-life.agency:443?type=grpc&security=reality&sni=h9.smart-life.agency&fp=chrome&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&sid=70c20a2f5a7d542e#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Xeon LLC ┇ 82.202.178.142
+vless://54f22246-cc9c-4315-907a-6c94c901d20f@h8.smart-life.agency:443?type=grpc&security=reality&sni=h8.smart-life.agency&fp=chrome&pbk=w_hrubefrDzoh5rEB3jFTx4j-t7o1HMyyo1bAE1a8D0&sid=316d0a3751f3122d#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Xeon LLC ┇ 82.202.178.141

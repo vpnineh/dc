@@ -1,3 +1,2 @@
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.42
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@direct-nl.bachidze.com:443?type=tcp&security=reality&sni=direct-nl.bachidze.com&fp=chrome&flow=xtls-rprx-vision&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.123
 vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@50.7.216.174:443?type=tcp&security=tls&path=/es/?@MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI?ed=2048#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.216.174

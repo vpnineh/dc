@@ -1,2 +1,2 @@
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=tcp&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.47.63.48
 vless://109ce6c1-e188-44df-bf63-6795261f793b@build-de.salfetkastroy.ru:443?type=tcp&security=reality&sni=build-de.salfetkastroy.ru&fp=chrome&flow=xtls-rprx-vision&pbk=vpbcXYVYcaveSzqPtf8mkXJfdYKgR0smTDrgXo8w4F4&sid=fbf393cc6b9cfb87#GB 🇬🇧 ┇ VLESS-TCP-RLT - Virgin Media ┇ 82.39.215.42
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=tcp&security=false&path=/&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 82.47.63.224

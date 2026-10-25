@@ -1,1 +1,0 @@
-vless://02ea0d8c-de3d-4403-bc77-0c17d69b32dc@uploadtur.farsdigitalplus.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.64

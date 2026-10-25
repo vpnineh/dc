@@ -1,1 +1,1 @@
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@ee1.mycloud1.org:443?type=tcp&security=reality&sni=ee1.mycloud1.org&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 194.26.141.223
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@ee1.mycloud1.org:443?type=tcp&security=reality&path=/&sni=ee1.mycloud1.org&fp=chrome&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 194.26.141.223

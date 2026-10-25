@@ -1,2 +1,2 @@
 vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 5.22.221.127
-vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.46.104
+vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?type=tcp&security=false&path=/&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.46.104

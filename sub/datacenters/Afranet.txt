@@ -1,1 +1,2 @@
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWZyYW5ldCBcdTI1MDcgMzEuMTQuMTE2Ljc1IiwiYWRkIjoicm1hNC5ybWFhY2NzaG9wLmlyIiwicG9ydCI6NDQ4MDgsImlkIjoiMGE2YzZjMTItZDRiZC00ODVlLTliZjEtNTlhY2VjNTY0ZWVmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcm1hIn0
 vless://fdcb45a0-0994-4612-9f54-352752069241@dash.zeneco.ir:2052?type=ws&security=tls&path=/&sni=dash.zeneco.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 78.109.199.222

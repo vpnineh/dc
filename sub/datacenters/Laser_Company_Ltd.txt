@@ -1,0 +1,1 @@
+vless://e5cc9b33-27e4-4c58-a54c-8c0cae7cafe6@dl5.herewegoo.com:2057?type=tcp&security=tls&sni=dl5.herewegoo.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Laser Company Ltd ┇ 94.139.180.170

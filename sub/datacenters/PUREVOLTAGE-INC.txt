@@ -1,1 +1,2 @@
 vless://605dea9b-b485-45c9-af9b-cc2b0195023c@se1.mycloud1.org:443?type=tcp&security=reality&sni=se1.mycloud1.org&fp=chrome&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#GB 🇬🇧 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 91.242.228.25
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?type=tcp&security=false&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-NTLS - PUREVOLTAGE-INC ┇ 45.138.100.248

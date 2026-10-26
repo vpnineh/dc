@@ -1,1 +1,1 @@
-vless://3b1fa839-2cb9-4511-9711-08800450aea3@tickets.betust.net:443?type=tcp&security=reality#KR 🇰🇷 ┇ VLESS-TCP-RLT - Ntte Global Network Brand Name ┇ 88.216.70.39
+vless://3b1fa839-2cb9-4511-9711-08800450aea3@tickets.betust.net:443?type=tcp&security=reality&sni=tickets.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8#KR 🇰🇷 ┇ VLESS-TCP-RLT - Ntte Global Network Brand Name ┇ 88.216.70.39

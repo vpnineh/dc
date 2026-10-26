@@ -1,0 +1,1 @@
+vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?type=tcp&security=tls&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - CW Vodafone Group PLC ┇ 195.58.144.56

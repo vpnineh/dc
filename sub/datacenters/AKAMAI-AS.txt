@@ -1,2 +1,0 @@
-vless://8cc7d0fc-1b83-4ee3-b51d-8a03a9b19435@webdisk.jaggyslawa.org:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=87174b37ce3b#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 107.181.151.128
-vless://b38712cb-e4aa-4462-b7e3-df20508d2b39@213.152.165.201:2095?type=tcp&security=reality&path=/&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=OKksVHWL5JepTv7if7Ta_L_7vn8OxW0INwV71HJM1jI&sid=3869d49a9a79e06a#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 213.152.165.201

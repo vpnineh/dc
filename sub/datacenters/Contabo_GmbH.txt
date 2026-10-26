@@ -1,2 +1,1 @@
 vless://912ae4b3-a85a-477e-8b82-54fb8324d758@biscuits.athforce.ir:1585?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 38.242.202.36
-vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?type=tcp&security=reality&fp=chrome&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&sid=086bf957#FR 🇫🇷 ┇ VLESS-TCP-RLT - Contabo GmbH ┇ 161.97.66.16

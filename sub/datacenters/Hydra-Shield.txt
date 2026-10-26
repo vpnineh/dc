@@ -1,5 +1,1 @@
-vless://89176823-e8ee-436a-be21-0b2ebfdd8582@na.maxili.ir:3000?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hydra-Shield ┇ 45.134.38.132
-vless://89176823-e8ee-436a-be21-0b2ebfdd8582@wg.maxili.ir:8443?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hydra-Shield ┇ 45.134.38.132
-vless://89176823-e8ee-436a-be21-0b2ebfdd8582@na.maxili.ir:8080?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hydra-Shield ┇ 45.134.38.132
-vless://89176823-e8ee-436a-be21-0b2ebfdd8582@wg.maxili.ir:2083?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hydra-Shield ┇ 45.134.38.132
 vless://153e2ecd-4f02-4c88-9d78-90d26570946f@data.nightnet.ir:55863?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hydra-Shield ┇ 45.134.38.176

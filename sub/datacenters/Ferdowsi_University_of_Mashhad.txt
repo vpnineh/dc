@@ -1,1 +1,0 @@
-vless://49c3a55f-d87b-45aa-ada9-746a76fc0ba7@srv9.sitevo.ir:8080?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Ferdowsi University of Mashhad ┇ 87.236.166.124

@@ -1,2 +1,1 @@
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpcnN0IERpZ2l0YWwgVFYgTHRkIFx1MjUwNyA5NS4xODIuODAuMjQyIiwiYWRkIjoiOTUuMTgyLjgwLjI0MiIsInBvcnQiOjQ0MywiaWQiOiI4MDNjZDExNi01NmY2LTQ2ODAtOWVmNy04MmUyZGVkNTgxMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://530baed3-3c7f-4b73-b8ce-5dba0d8fddfb@mira.sheikhiedu.ir:8080?type=ws&security=none&path=/cfd&sni=mira.sheikhiedu.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-NTLS - First Digital TV Ltd ┇ 95.182.91.236

@@ -1,1 +1,1 @@
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?type=ws&security=tls&path=/A11U&sni=au2.pad-sservice.lat&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 89.58.20.210
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?type=ws&security=tls&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=au2.pad-sservice.lat#AT 🇦🇹 ┇ VLESS-WS-TLS - netcup GmbH ┇ 89.58.20.210

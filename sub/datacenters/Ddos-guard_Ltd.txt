@@ -1,0 +1,1 @@
+vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@dropstyle.lol:443?type=ws&security=tls&path=/player/metrics/97662863db53/&sni=dropstyle.lol&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 185.178.208.167

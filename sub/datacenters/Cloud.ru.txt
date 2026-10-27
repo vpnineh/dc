@@ -1,1 +1,1 @@
-vless://7c9c9b80-601f-473f-91dd-144da82eff48@thumbnail-index.pyaterkavideo.com:8443?type=tcp&security=tls&sni=thumbnail-index.pyaterkavideo.com&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 176.108.254.194
+vless://7c9c9b80-601f-473f-91dd-144da82eff48@thumbnail-index.pyaterkavideo.com:8443?type=tcp&security=tls&sni=thumbnail-index.pyaterkavideo.com&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 176.108.254.194

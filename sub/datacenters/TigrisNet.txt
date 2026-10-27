@@ -1,1 +1,1 @@
-vless://ae091bed-c397-49c9-aa28-c4a250f757c6@2.dzen-se-1.com:443?type=tcp&security=reality&sni=2.dzen-se-1.com&fp=firefox&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.21.188
+vless://ae091bed-c397-49c9-aa28-c4a250f757c6@2.dzen-se-1.com:443?type=tcp&security=reality&sni=2.dzen-se-1.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.21.188

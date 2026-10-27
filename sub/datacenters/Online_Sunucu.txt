@@ -1,2 +1,0 @@
-vless://37fc3a9f-72e0-4b15-84ab-1455f028147a@93.190.9.138:3090?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Online Sunucu ┇ 93.190.9.138
-vless://37fc3a9f-72e0-4b15-84ab-1455f028147a@93.190.9.63:3090?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Online Sunucu ┇ 93.190.9.63

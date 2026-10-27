@@ -1,0 +1,1 @@
+vless://95d31eef-d6bc-4f0e-90c5-f74851704cdd@ar.vipsharifi.ir:2084?type=ws&security=tls&path=Ed/&sni=ar.vipsharifi.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.39

@@ -1,1 +1,0 @@
-vless://4a935df7-d1d3-4097-8d14-7f52ecd9877c@ru-new.rrbs.online:443?type=grpc&security=reality&sni=ru-new.rrbs.online&fp=safari&pbk=QF_5wcsQ_BR9FiqXljw81rpsoMbFFWUwKZXALlxICj0&sid=ba5c#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Delta Ltd ┇ 45.131.186.19

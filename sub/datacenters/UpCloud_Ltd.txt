@@ -1,1 +1,1 @@
-vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?type=ws&security=false&path=/&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 95.111.195.98
+vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?type=ws&security=none#SG 🇸🇬 ┇ VLESS-WS-NTLS - UpCloud Ltd ┇ 95.111.195.98

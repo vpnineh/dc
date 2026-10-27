@@ -1,2 +1,2 @@
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?type=ws&security=tls&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=au2.pad-sservice.lat#RU 🇷🇺 ┇ VLESS-WS-TLS - DpkgSoft International Limited ┇ 147.45.67.137
 vless://345e0ef7-6861-4722-ab44-799c37507b24@friren.iki-servers.com:443?type=xhttp&security=reality&path=/shield&sni=friren.iki-servers.com&fp=chrome&pbk=iD0nfLVyK9EbtFtKZgj_UcuGINq6yTqQM4jFfuTMFSY&sid=5f5962cc9ec6b180#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - DpkgSoft International Limited ┇ 193.233.253.138
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?type=ws&security=tls&path=/A11U&sni=au2.pad-sservice.lat#RU 🇷🇺 ┇ VLESS-WS-TLS - DpkgSoft International Limited ┇ 147.45.67.137

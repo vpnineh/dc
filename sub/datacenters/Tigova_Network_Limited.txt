@@ -1,1 +1,1 @@
-vless://4b1be712-774c-4b65-8491-a3339e124a70@tr2.tv-quoralyx.top:443?type=tcp&security=reality&path=/&sni=tr2.tv-quoralyx.top&fp=chrome&flow=xtls-rprx-vision&pbk=w0yEuw7sPMCEwk9_vDVoqjBhJsGoPvR7TsxIZVJy3iw&sid=f4b2a12c#TR 🇹🇷 ┇ VLESS-TCP-RLT - Tigova Network Limited ┇ 78.135.73.168
+vless://4b1be712-774c-4b65-8491-a3339e124a70@tr2.tv-quoralyx.top:443?type=tcp&security=reality&sni=tr2.tv-quoralyx.top&fp=firefox&flow=xtls-rprx-vision&pbk=w0yEuw7sPMCEwk9_vDVoqjBhJsGoPvR7TsxIZVJy3iw&sid=f4b2a12c#TR 🇹🇷 ┇ VLESS-TCP-RLT - Tigova Network Limited ┇ 78.135.73.168

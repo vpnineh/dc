@@ -1,2 +1,2 @@
-vless://6a432d22-a5b2-41a9-b103-602f874b07bd@188.72.103.4:443?type=tcp&security=tls&path=/api/v4/uptodown/#AE 🇦🇪 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
+vless://e103bb56-7b35-48a0-8883-b4b2f2e6f82f@cdn-01.safe-connect.info:443?type=tcp&security=tls&path=/api/v1/stream/#AE 🇦🇪 ┇ VLESS-TCP-TLS - Yandex.Cloud LLC ┇ 188.72.103.4
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gWWFuZGV4LkNsb3VkIExMQyBcdTI1MDcgMTU4LjE2MC4xODAuMTY1IiwiYWRkIjoiMTU4LjE2MC4xODAuMTY1IiwicG9ydCI6MjQyMTIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMTU4LjE2MC4xODAuMTY1IiwidGxzIjoidGxzIiwic25pIjoiMTU4LjE2MC4xODAuMTY1In0

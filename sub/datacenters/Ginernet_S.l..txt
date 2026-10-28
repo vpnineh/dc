@@ -1,0 +1,1 @@
+vless://684bf9c1-c40a-42cb-b982-623982fc2732@can.kramiliantha.sbs:443?type=tcp&security=reality&sni=can.kramiliantha.sbs&flow=xtls-rprx-vision&pbk=y69l6zReCOjJrqYoDjSiBYAWP1VmFPBgS7PP5sqSaW8&sid=b6798bbbfb18587e#ES 🇪🇸 ┇ VLESS-TCP-RLT - Ginernet S.l. ┇ 45.81.154.16

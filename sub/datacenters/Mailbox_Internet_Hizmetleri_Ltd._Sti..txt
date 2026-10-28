@@ -1,0 +1,1 @@
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@flooraccount.net:443?type=tcp&security=tls&sni=flooraccount.net&fp=chrome&flow=xtls-rprx-vision#TR 🇹🇷 ┇ VLESS-TCP-TLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 31.210.43.142

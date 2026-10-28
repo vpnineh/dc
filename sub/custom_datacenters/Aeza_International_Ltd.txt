@@ -1,4 +1,2 @@
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
-vless://6bad72da-1a41-4217-b265-9e4abdf5ae76@nl1.gramstar.online:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.150.234
-vless://86a8c2dd-1d47-4006-a397-72b76f2d67c8@yandexcdn1.ookcdn.ru:8443?type=xhttp&security=reality&sni=yandexcdn1.ookcdn.ru&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#SE 🇸🇪 ┇ VLESS-XHTTP-RLT - Aeza International Ltd ┇ 91.186.216.0
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?type=ws&security=none&path=/vless&sni=193.188.21.253#SE 🇸🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 193.188.21.253
+vless://86a8c2dd-1d47-4006-a397-72b76f2d67c8@yandexcdn1.ookcdn.ru:8443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 91.186.216.0

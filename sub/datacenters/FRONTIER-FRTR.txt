@@ -1,0 +1,1 @@
+vless://2d167f8d-529b-00cb-bc0a-a01d402d9fb9@194.238.79.242:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - FRONTIER-FRTR ┇ 194.238.79.242

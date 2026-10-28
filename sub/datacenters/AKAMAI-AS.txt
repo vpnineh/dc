@@ -1,0 +1,1 @@
+vless://570775a8-9305-4768-ba9b-b78d73cf15f9@213.152.165.197:2094?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&sid=55986a94e2228791#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 213.152.165.197

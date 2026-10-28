@@ -1,2 +1,1 @@
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@lectures.blog-forme.ru:443?type=xhttp&security=reality&path=/v2/sync/af2c0c&sni=lectures.blog-forme.ru&fp=chrome&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Servers Tech Fzco ┇ 91.84.115.36
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@podcasts.blog-forme.ru:2083?type=xhttp&security=reality&path=/v2/sync/af2c0c&sni=podcasts.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Servers Tech Fzco ┇ 212.34.128.120

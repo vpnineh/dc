@@ -1,0 +1,1 @@
+vless://4b1be712-774c-4b65-8491-a3339e124a70@nl1-cl3.wir-wivelis.top:443?type=tcp&security=reality&sni=nl1-cl3.wir-wivelis.top&fp=chrome&flow=xtls-rprx-vision&pbk=-_8Oe0cbkp2IGZvfx42iVDbNPDtDe8qtIQZBgzS5hnI&sid=a2e157fe0e7d2ab5#IE 🇮🇪 ┇ VLESS-TCP-RLT - BT Communications Ireland Limited ┇ 78.17.70.173

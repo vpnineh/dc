@@ -1,1 +1,0 @@
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@initialcase.net:443?type=tcp&security=tls&sni=initialcase.net&fp=chrome&flow=xtls-rprx-vision#FI 🇫🇮 ┇ VLESS-TCP-TLS - Oc Networks Limited ┇ 83.219.97.20

@@ -1,2 +1,1 @@
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
-vless://86a8c2dd-1d47-4006-a397-72b76f2d67c8@yandexcdn1.ookcdn.ru:8443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 91.186.216.0

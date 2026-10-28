@@ -1,3 +1,4 @@
+vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:42002?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.249.175
 vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:44200?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.249.175
 vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:33390?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.249.175
-vless://a79e1125-bb50-4f11-b1bb-02149f776f58@supmci.deev-guard.ir:42002?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.249.175
+vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthb3B1IENsb3VkIEhLIExpbWl0ZWQgXHUyNTA3IDM4LjYwLjIyNC4xNzMiLCJhZGQiOiIzOC42MC4yMjQuMTczIiwicG9ydCI6MzIxNTMsImlkIjoiNWNmMWY0NzAtM2Y3MC00NTg5LWEyYTQtNDY1N2VhM2ExZWRmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ

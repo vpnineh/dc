@@ -1,1 +1,0 @@
-vless://d9d943cc-269b-4e34-9000-722f6795225d@rumos.yandex-api.com:443?type=tcp&security=reality&sni=rumos.yandex-api.com&fp=chrome&flow=xtls-rprx-vision&pbk=aacc3j_mijcn5WdrrUcMRlTV7IhTgTVawR6oK_3cJGI#RU 🇷🇺 ┇ VLESS-TCP-RLT - Cloud.ru ┇ 176.108.253.204

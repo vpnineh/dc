@@ -1,1 +1,1 @@
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru11.oshost.network:443?type=tcp&security=reality&sni=ru11.oshost.network&fp=chrome&flow=xtls-rprx-vision&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&sid=97a15f5af85c4a30#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 213.159.209.66
+vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru11.oshost.network:443?type=tcp&security=reality&sni=ru11.oshost.network&flow=xtls-rprx-vision&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&sid=97a15f5af85c4a30#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 213.159.209.66

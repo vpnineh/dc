@@ -1,1 +1,0 @@
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@loudarch.net:443?type=tcp&security=tls&sni=loudarch.net&fp=chrome&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - Esteban Roche ┇ 45.133.73.115

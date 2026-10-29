@@ -1,2 +1,1 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?type=tcp&security=tls&sni=ph001.zestapp778.com&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - BEDGE-CO-LIMITED ┇ 149.104.109.33
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?type=tcp&security=tls&path=/&sni=mx001.zestapp778.com&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - BEDGE-CO-LIMITED ┇ 149.104.90.184

@@ -1,2 +1,0 @@
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?type=xhttp&security=tls&path=/api/v1/upload&sni=randomquaint.net&fp=firefox#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 78.159.246.179
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.179:8443?type=xhttp&security=tls&path=/api/v1/upload&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 78.159.246.179

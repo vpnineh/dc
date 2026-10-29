@@ -1,2 +1,1 @@
-vless://4b1be712-774c-4b65-8491-a3339e124a70@fi1-cl3.core-mirvante.top:443?type=tcp&security=reality&sni=fi1-cl3.core-mirvante.top&fp=chrome&flow=xtls-rprx-vision&pbk=sQ5tfuCzFSQ9RRoong5dDlHRupZRNjqPoNJU9-ytpDk&sid=bb413f2d089a9654#DE 🇩🇪 ┇ VLESS-TCP-RLT - SYNLINQ ┇ 37.114.34.108
 vless://16188ecf-2dcd-40d7-898b-60461f125978@de3.onlinernet.ir:40018?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - SYNLINQ ┇ 37.114.51.114

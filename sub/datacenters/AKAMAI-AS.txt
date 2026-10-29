@@ -1,0 +1,1 @@
+vless://3e3396ce-d6ec-42ee-b854-1dca9fcb2749@38.76.180.144:443?type=ws&security=tls&path=/d4f1a9b2-ws&sni=www.microsoft.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AKAMAI-AS ┇ 38.76.180.144

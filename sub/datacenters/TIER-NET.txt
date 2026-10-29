@@ -1,1 +1,1 @@
-vless://4b1be712-774c-4b65-8491-a3339e124a70@node-usa.blok-signalon.top:443?type=tcp&security=reality&sni=node-usa.blok-signalon.top&fp=firefox&flow=xtls-rprx-vision&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&sid=336c2cff6e3717c4#US 🇺🇸 ┇ VLESS-TCP-RLT - TIER-NET ┇ 155.117.232.61
+vless://4b1be712-774c-4b65-8491-a3339e124a70@node-usa.blok-signalon.top:443?type=tcp&security=reality&sni=node-usa.blok-signalon.top&fp=chrome&flow=xtls-rprx-vision&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&sid=336c2cff6e3717c4#US 🇺🇸 ┇ VLESS-TCP-RLT - TIER-NET ┇ 155.117.232.61

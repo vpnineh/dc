@@ -1,1 +1,0 @@
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru16.oshost.network:443?type=tcp&security=reality&sni=ru16.oshost.network&fp=chrome&flow=xtls-rprx-vision&pbk=X9ghpQ7c1lgpEQjAcgx4K9eYs83PC9t9Uy6WHZvSsQY&sid=2181f7d4104207e4#FR 🇫🇷 ┇ VLESS-TCP-RLT - velia.net Internetdienste GmbH ┇ 193.5.250.131

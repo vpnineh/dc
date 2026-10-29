@@ -1,1 +1,0 @@
-vless://9098ab3f-b8b3-5094-9e69-b7162050e012@full-node.online:443?type=ws&security=tls&path=/api/v3/ws-s8-a3a96ce9&sni=full-node.online&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.7

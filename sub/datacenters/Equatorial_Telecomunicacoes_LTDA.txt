@@ -1,3 +1,2 @@
 vless://ab9e2cf5-b5f5-45d1-bddf-8ea9b6fcc48f@206.1.101.85:42654?type=ws&security=tls&path=/&sni=206.1.101.85&fp=chrome#BR 🇧🇷 ┇ VLESS-WS-TLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.101.85
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVxdWF0b3JpYWwgVGVsZWNvbXVuaWNhY29lcyBMVERBIFx1MjUwNyAyMDYuMS45Ni4xODciLCJhZGQiOiIyMDYuMS45Ni4xODciLCJwb3J0Ijo0NDMsImlkIjoiMzJjMDE3ZTctMmZhNi00YTQzLTk4ZWYtYjIxYmI2M2Q5MmU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://38d7d915-6d4f-4149-b8f3-10e4c29a9dca@trn.ulanbatur.pineaple.ir:8080?type=ws&security=none&path=/#BR 🇧🇷 ┇ VLESS-WS-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.99.224

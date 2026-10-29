@@ -1,1 +1,1 @@
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=tcp&security=false&path=/&fp=chrome#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.208
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=tcp&security=false&path=/&fp=chrome#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.208

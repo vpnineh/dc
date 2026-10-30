@@ -1,2 +1,0 @@
-vless://bf6feeab-e24d-444a-80c8-418aceabbe9f@netvia2.extraservices.ir:65018?type=tcp&security=none&path=/#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.213
-vless://bf6feeab-e24d-444a-80c8-418aceabbe9f@netvia3.extraservices.ir:10005?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - SATELIT SERVIS Ltd ┇ 87.76.154.237

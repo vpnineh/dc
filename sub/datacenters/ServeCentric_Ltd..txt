@@ -1,0 +1,1 @@
+vless://7754cb06-ca81-46c0-8d8d-801cf9e9d78c@sw--nn.bntabriz.ir:3389?type=tcp&security=none&path=/#IE 🇮🇪 ┇ VLESS-TCP-NTLS - ServeCentric Ltd. ┇ 212.147.245.144

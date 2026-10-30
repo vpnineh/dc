@@ -1,0 +1,1 @@
+vless://a06af8ae-8040-487b-b01a-dd65833c02a8@xray1-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - UNREDACTED-NOISENET ┇ 23.191.200.206

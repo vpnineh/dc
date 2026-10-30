@@ -1,1 +1,1 @@
-vless://3e3396ce-d6ec-42ee-b854-1dca9fcb2749@38.76.180.144:443?type=ws&security=tls&path=/d4f1a9b2-ws&sni=www.microsoft.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AKAMAI-AS ┇ 38.76.180.144
+vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:444?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&sid=c7#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 94.237.125.175

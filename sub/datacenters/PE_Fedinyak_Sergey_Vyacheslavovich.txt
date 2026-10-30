@@ -1,1 +1,0 @@
-vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@kz-central.v8x2b.lol:443?type=tcp&security=reality&path=/&sni=kz-central.v8x2b.lol&fp=chrome&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w#KZ 🇰🇿 ┇ VLESS-TCP-RLT - PE Fedinyak Sergey Vyacheslavovich ┇ 46.8.43.125

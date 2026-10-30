@@ -1,5 +1,2 @@
 vless://c934b37d-f794-4b7d-a590-13f736ea5cab@31.57.24.177:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NTT-DATA-2914 ┇ 31.57.24.177
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@de-2.ardesnode.ru:443?type=tcp&security=reality&sni=de-2.ardesnode.ru&fp=chrome&flow=xtls-rprx-vision&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9#FR 🇫🇷 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 64.188.83.186
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTlRULURBVEEtMjkxNCBcdTI1MDcgMTMwLjk0LjE2LjEwOSIsImFkZCI6IjEzMC45NC4xNi4xMDkiLCJwb3J0Ijo4MCwiaWQiOiJmODhjMTRiNC0wNTZkLTQ3MzEtOTNmNC02NmEyY2IwOTY3MmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92bWVzcy13cyJ9
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - NTT-DATA-2914 ┇ 130.94.53.13
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us001.zestapp778.com:54857?type=tcp&security=tls&sni=us001.zestapp778.com&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - NTT-DATA-2914 ┇ 130.94.17.194

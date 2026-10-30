@@ -1,2 +1,0 @@
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:2053?type=tcp&security=none&path=/api/v1/upload#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Global Cloud Network LLC ┇ 81.94.148.232
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Global Cloud Network LLC ┇ 81.94.148.232

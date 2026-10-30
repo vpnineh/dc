@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA0Ljc4Ljk4IiwiYWRkIjoiMTcyLjEwNC43OC45OCIsInBvcnQiOjQ0MywiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidGxzIn0
+vless://32413dda-504c-4906-b732-8ecaff901179@hiweb.my.id:443?type=tcp&security=tls&sni=hiweb.my.id&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.233.43.5

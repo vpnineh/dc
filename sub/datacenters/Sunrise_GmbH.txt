@@ -1,5 +1,4 @@
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.226
-vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTdW5yaXNlIEdtYkggXHUyNTA3IDg0Ljc1Ljc2LjE2IiwiYWRkIjoiODQuNzUuNzYuMTYiLCJwb3J0Ijo0NDMsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIn0
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=tcp&security=false&path=/&fp=chrome#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.226
 vless://93aa53ba-92a9-41ef-942d-7e8762e3ab5e@178.83.111.53:2085?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Sunrise GmbH ┇ 178.83.111.53
-vless://c6362720-0931-4b91-b187-d8ecf3149734@178.83.45.226:10002?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.226
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?type=tcp&security=false&path=/&fp=chrome#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.226
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?type=tcp&security=false&path=/&fp=chrome#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 178.83.45.226

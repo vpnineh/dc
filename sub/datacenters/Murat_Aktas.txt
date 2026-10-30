@@ -1,2 +1,2 @@
+vless://bc6b024b-34ad-4c58-b4bd-12049380d118@x.masterteam.ir:121?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 78.135.77.106
 vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@188.132.174.14:24?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.14
-vless://08abc461-ec08-4bc6-aed2-0dcf408ac053@x.masterteam.ir:121?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 78.135.77.106

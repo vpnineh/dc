@@ -1,2 +1,1 @@
 vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@flatcrest.net:8443?type=xhttp&security=tls&path=/api/v1/upload&sni=flatcrest.net&fp=ios#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 37.18.14.43
-vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@flatcrest.net:2053?type=xhttp&security=tls&path=/api/v1/upload&sni=flatcrest.net&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Global Cloud Network LLC ┇ 37.18.14.43

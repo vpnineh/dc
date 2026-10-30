@@ -1,1 +1,0 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?type=tcp&security=tls#CL 🇨🇱 ┇ VLESS-TCP-TLS - TELEFONICA CHILE S.A. ┇ 152.175.6.229

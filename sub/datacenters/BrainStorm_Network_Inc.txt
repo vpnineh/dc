@@ -1,1 +1,2 @@
 vless://caf3d607-95c9-4ea0-98b5-864027056ba0@br1.accessboy.com:443?type=tcp&security=reality&sni=br1.accessboy.com&fp=chrome&flow=xtls-rprx-vision&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0#BR 🇧🇷 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 109.104.155.121
+vless://69158986-cfae-4567-8391-0f96d9d985bd@sw.neuroniko.com:2083?type=xhttp&security=reality&sni=sw.neuroniko.com&fp=chrome&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2#SE 🇸🇪 ┇ VLESS-XHTTP-RLT - BrainStorm Network, Inc ┇ 185.186.78.170

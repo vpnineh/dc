@@ -1,1 +1,0 @@
-vless://9ea8b000-58ce-0005-b108-989dd4f248f1@146.185.197.95:443?type=ws&security=none&path=/live/ws2#RU 🇷🇺 ┇ VLESS-WS-NTLS - EdgeCenter LLC ┇ 146.185.197.95

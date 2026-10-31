@@ -1,4 +1,5 @@
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@ded.bsh-net.ru:443?type=tcp&security=reality&sni=ded.bsh-net.ru&fp=chrome&flow=xtls-rprx-vision&pbk=eGTeI8aqjoea2v_vEHimFxEuC1IA42r2tg7IcP5oq1U&sid=8e72c89e1adf4dc4#HK 🇭🇰 ┇ VLESS-TCP-RLT - HGC Global Communications Limited ┇ 96.62.224.155
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&security=false&path=/&fp=chrome#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.208
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=tcp&security=false&path=/&fp=chrome#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.208
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=tcp&security=false&path=/&fp=chrome#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.208
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?type=tcp&security=false&path=/&fp=chrome#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.208
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@155.117.5.208:10000?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - HGC Global Communications Limited ┇ 155.117.5.208
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@ded.bsh-net.ru:443?type=tcp&security=reality&sni=ded.bsh-net.ru&flow=xtls-rprx-vision&pbk=eGTeI8aqjoea2v_vEHimFxEuC1IA42r2tg7IcP5oq1U&sid=8e72c89e1adf4dc4#HK 🇭🇰 ┇ VLESS-TCP-RLT - HGC Global Communications Limited ┇ 96.62.224.155

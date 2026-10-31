@@ -1,1 +1,0 @@
-vless://34c4642c-20ff-4a74-b80d-948f508d66ba@cup.magazinetut.online:443?type=tcp&security=tls&sni=cup.magazinetut.online&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S. ┇ 139.28.169.121

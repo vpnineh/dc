@@ -1,0 +1,1 @@
+vless://cb06778c-91e6-480a-a791-a49dcfa940d5@199.127.153.13:43000?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=iLJlXL4PvOVex6GXgDLywQQ_j6_uJ7YMVlePIYwceF8&sid=1a72a06c#US 🇺🇸 ┇ VLESS-TCP-RLT - PEACEWEB ┇ 199.127.153.13

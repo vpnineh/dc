@@ -1,0 +1,1 @@
+vless://49996e29-93c5-4975-b56f-792acbbf3444@82.153.50.212:443?type=ws&security=tls&path=/jx-yjkteysq815pzp#DE 🇩🇪 ┇ VLESS-WS-TLS - Iphoster Ou ┇ 82.153.50.212

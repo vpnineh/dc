@@ -1,0 +1,1 @@
+vless://b445eb6b-783b-4ca6-a244-248a7eae40bb@tun.iranparscode.ir:42272?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 195.230.107.40

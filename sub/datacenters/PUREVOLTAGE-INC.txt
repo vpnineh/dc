@@ -1,1 +1,0 @@
-vless://683f302b-ab0f-4778-a85d-51b49ae669a1@status-us.uferbuslub.com:443?type=tcp&security=reality&sni=status-us.uferbuslub.com&fp=chrome&flow=xtls-rprx-vision&pbk=mCCfqR3tE5cx2uUUhCwmXa7b6v-RBbB6f665UoMgojQ&sid=731bd36edda3000c#RU 🇷🇺 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 213.108.3.100

@@ -1,0 +1,1 @@
+vless://49996e29-93c5-4975-b56f-792acbbf3444@45.86.228.104:443?type=ws&security=tls&path=/jx-yjkteysq815pzp#AE 🇦🇪 ┇ VLESS-WS-TLS - BlueVPS OU ┇ 45.86.228.104

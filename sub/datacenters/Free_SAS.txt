@@ -1,0 +1,1 @@
+vless://49996e29-93c5-4975-b56f-792acbbf3444@82.64.120.239:443?type=ws&security=tls&path=/jx-yjkteysq815pzp#FR 🇫🇷 ┇ VLESS-WS-TLS - Free SAS ┇ 82.64.120.239

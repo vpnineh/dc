@@ -1,1 +1,0 @@
-vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:444?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&sid=c9c3398e#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 94.237.125.175

@@ -1,0 +1,1 @@
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.52:2096?type=tcp&security=none&path=/apple-xh?ed#US 🇺🇸 ┇ VLESS-TCP-NTLS - PURDUE ┇ 163.245.41.52

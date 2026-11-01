@@ -1,1 +1,0 @@
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@45.38.190.101:443?type=tcp&security=none&path=/?Telegram#US 🇺🇸 ┇ VLESS-TCP-NTLS - EGIHOSTING ┇ 45.38.190.101

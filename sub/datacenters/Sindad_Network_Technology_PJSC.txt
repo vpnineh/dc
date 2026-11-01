@@ -1,1 +1,0 @@
-vless://ddddb239-9e8b-415b-a21a-3708c599f04b@test.configurationn.ir:2000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.149.192.137

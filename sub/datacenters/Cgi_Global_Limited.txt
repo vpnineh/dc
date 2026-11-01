@@ -1,3 +1,1 @@
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBDZ2kgR2xvYmFsIExpbWl0ZWQgXHUyNTA3IDE4OC4xMzAuMjA3LjEwNiIsImFkZCI6ImZyYW5jZS5wYXlkYXIuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIxMjMzYzI2ZC05NWQxLTQ1OWYtYTFiYi03Y2ExMmJkNWExMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsInBhdGgiOiJmcmFuY2UucGF5ZGFyLnNpdGUifQ
-vless://1564e669-1fa1-4233-876f-d6e52ad3979a@46.8.68.106:443?type=ws&security=tls&path=/api&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 46.8.68.106
-vless://1564e669-1fa1-4233-876f-d6e52ad3979a@46.8.68.106:8443?type=xhttp&security=tls&path=/api&fp=chrome#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 46.8.68.106

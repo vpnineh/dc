@@ -1,1 +1,1 @@
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?type=tcp&security=reality&sni=144.48.11.97&flow=xtls-rprx-vision&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#US 🇺🇸 ┇ VLESS-TCP-RLT - Enjoyvc Cloud Group Limited. ┇ 144.48.11.97
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?type=tcp&security=reality&path=/&sni=144.48.11.97&fp=chrome&flow=xtls-rprx-vision&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#US 🇺🇸 ┇ VLESS-TCP-RLT - Enjoyvc Cloud Group Limited. ┇ 144.48.11.97

@@ -1,2 +1,2 @@
-vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@pass.zqpm.ir:20727?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - ID Performance ┇ 45.65.112.17
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@reqax.zqpm.ir:20727?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - ID Performance ┇ 45.65.112.17
 vless://57197967-f14a-4b5b-8b75-a0c6d19db048@45.65.112.157:2276?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - ID Performance ┇ 45.65.112.157

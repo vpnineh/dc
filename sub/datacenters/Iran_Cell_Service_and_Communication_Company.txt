@@ -1,1 +1,2 @@
+vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iran Cell Service and Communication Company ┇ 2.144.29.30
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElyYW4gQ2VsbCBTZXJ2aWNlIGFuZCBDb21tdW5pY2F0aW9uIENvbXBhbnkgXHUyNTA3IDIuMTQ0LjEzLjIzMCIsImFkZCI6InN0YXIuc3Rhcm5pY2syMDQwLmlyIiwicG9ydCI6MTExMDAsImlkIjoiMGMyNjVkYzQtMmE2Ni00NTJhLWEwZDctZDU3ZWMxNjVmMDA2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ

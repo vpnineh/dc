@@ -1,2 +1,2 @@
-vless://2c9fdcf7-339b-4a31-9585-930f0bcbb0da@185.221.237.96:443?type=ws&security=tls&path=/jx-o4e0xzvx0107se?ed=2560&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 185.221.237.96
 vless://2c9fdcf7-339b-4a31-9585-930f0bcbb0da@46.249.102.151:443?type=ws&security=tls&path=/jx-o4e0xzvx0107se?ed=2560&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 46.249.102.151
+vless://2c9fdcf7-339b-4a31-9585-930f0bcbb0da@185.221.237.96:443?type=ws&security=tls&path=/jx-o4e0xzvx0107se?ed=2560&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - BitCommand LLC ┇ 185.221.237.96

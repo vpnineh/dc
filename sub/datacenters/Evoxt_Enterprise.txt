@@ -1,0 +1,1 @@
+vless://ed79c2d4-5558-428f-87f5-af4abc97a16d@23.27.20.142:48537?type=tcp&security=none&path=/@Marisa_kristi#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Evoxt Enterprise ┇ 23.27.20.142

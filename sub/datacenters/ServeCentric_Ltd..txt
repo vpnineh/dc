@@ -1,1 +1,0 @@
-vless://67c35494-76b8-48fc-8aa5-b34968ee71be@aaaa.mymuic.ir:10753?type=tcp&security=tls&sni=aaaa.mymuic.ir#IE 🇮🇪 ┇ VLESS-TCP-TLS - ServeCentric Ltd. ┇ 212.147.248.29

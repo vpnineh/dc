@@ -1,6 +1,3 @@
-vless://9db9a16c-0cce-4b67-a7cc-7bc2cbd5c7dd@ang-el.ir:8081?type=ws&security=tls&path=/&sni=ang-el.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 150.241.71.225
-vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@fin2.vpngold.ru:8443?type=tcp&security=reality&sni=fin2.vpngold.ru&fp=firefox&flow=xtls-rprx-vision&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&sid=385cb18df0892069#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 94.228.168.219
-vless://2c9fdcf7-339b-4a31-9585-930f0bcbb0da@109.120.185.201:443?type=ws&security=tls&path=/jx-o4e0xzvx0107se?ed=2560&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 109.120.185.201
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
 vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@fr1.vpngold.ru:8443?type=tcp&security=reality&sni=fr1.vpngold.ru&fp=chrome&flow=xtls-rprx-vision&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&sid=385cb18df0892069#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 138.124.58.206
 vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@cdn.izzzyvpn.space:443?type=tcp&security=reality&sni=cdn.izzzyvpn.space&fp=chrome&flow=xtls-rprx-vision&pbk=v—0dXOWcnzpJvl_6qkbWTCRLg-eWdJ6WxJsYtj9WQY&sid=f7fdf037537b8c38#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.74.29

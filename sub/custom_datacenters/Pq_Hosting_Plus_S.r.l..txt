@@ -1,4 +1,3 @@
 vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=false&path=/vless&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.70.41
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.86.60.174
-vless://4670f60e-cd56-44cc-bc22-5e2b756d62e4@1f648et.msk2.h1clayd.click:443?type=tcp&security=reality&sni=1f648et.msk2.h1clayd.click&fp=chrome&flow=xtls-rprx-vision&pbk=PlQ0HuxEpGvayFevD5vzpUF5ScieUdjJZAbFiqaEFzc&sid=6af2390f06a84fd2#GB 🇬🇧 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.91.53.246
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39

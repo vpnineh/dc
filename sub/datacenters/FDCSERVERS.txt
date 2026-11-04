@@ -1,0 +1,2 @@
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@direct-nl.bachidze.com:443?type=tcp&security=reality&sni=direct-nl.bachidze.com&fp=chrome&flow=xtls-rprx-vision&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.123
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?type=tcp&security=tls&path=/es#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.216.171

@@ -1,0 +1,1 @@
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?type=tcp&security=reality&sni=ca1.fox-lisa.ru&fp=chrome&flow=xtls-rprx-vision&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09#IE 🇮🇪 ┇ VLESS-TCP-RLT - BT Communications Ireland Limited ┇ 78.17.93.30

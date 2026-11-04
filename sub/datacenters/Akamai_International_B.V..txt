@@ -1,2 +1,3 @@
-vless://58d2fb1c-7ae2-42c8-8c0d-a393603ebc9f@199.232.78.159:443?type=ws&security=tls&sni=cdn.akamai.steamstatic.com#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai International B.V. ┇ 199.232.78.159
+vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@199.232.78.159:443?type=ws&security=tls&sni=cdn.akamai.steamstatic.com#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai International B.V. ┇ 199.232.78.159
+vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@wwww.qarvian.ir:443?type=ws&security=tls&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&sni=cdn.akamai.steamstatic.com#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai International B.V. ┇ 146.75.57.111
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgSW50ZXJuYXRpb25hbCBCLlYuIFx1MjUwNyAyMy4xMS4zMy4xNTkiLCJhZGQiOiJjYWNlcnRzLmRpZ2ljZXJ0LmNvbSIsInBvcnQiOjQ0MywiaWQiOiI0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ

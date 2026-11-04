@@ -1,1 +1,1 @@
-vless://e7a05cf9-293c-42e6-9bb6-d165df68b165@s--p.tufmuk.ir:3389?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 194.62.97.228
+vless://e7a05cf9-293c-42e6-9bb6-d165df68b165@194.62.97.228:3389?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 194.62.97.228

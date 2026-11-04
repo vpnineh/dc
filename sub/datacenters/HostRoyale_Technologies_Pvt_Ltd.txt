@@ -1,0 +1,1 @@
+vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?type=tcp&security=reality#PK 🇵🇰 ┇ VLESS-TCP-RLT - HostRoyale Technologies Pvt Ltd ┇ 156.252.229.136

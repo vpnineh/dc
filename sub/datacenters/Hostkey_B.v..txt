@@ -1,1 +1,1 @@
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?type=tcp&security=reality&sni=es1.fox-lisa.ru&fp=chrome&flow=xtls-rprx-vision&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09#NL 🇳🇱 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 152.114.194.147
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?type=tcp&security=reality&sni=es1.fox-lisa.ru&fp=firefox&flow=xtls-rprx-vision&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09#NL 🇳🇱 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 152.114.194.147

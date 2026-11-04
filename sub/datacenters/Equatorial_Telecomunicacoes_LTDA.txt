@@ -1,5 +1,4 @@
-vless://3a24f714-5585-4103-9291-6ae21f11c10d@fqwra.dtgitar.com:20201?type=ws&security=none&path=/#BR 🇧🇷 ┇ VLESS-WS-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.102.20
-vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?type=tcp&security=reality#BR 🇧🇷 ┇ VLESS-TCP-RLT - Equatorial Telecomunicacoes LTDA ┇ 206.1.97.113
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVxdWF0b3JpYWwgVGVsZWNvbXVuaWNhY29lcyBMVERBIFx1MjUwNyAyMDYuMS45Ni4xODciLCJhZGQiOiIyMDYuMS45Ni4xODciLCJwb3J0Ijo0NDMsImlkIjoiMzJjMDE3ZTctMmZhNi00YTQzLTk4ZWYtYjIxYmI2M2Q5MmU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://3a24f714-5585-4103-9291-6ae21f11c10d@torwe.dtgitar.com:6055?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.102.20
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVxdWF0b3JpYWwgVGVsZWNvbXVuaWNhY29lcyBMVERBIFx1MjUwNyAyMDYuMS45Ny4xNzgiLCJhZGQiOiJzcGFpbjIubmV0LWZsb3dhLm9yZyIsInBvcnQiOjgwLCJpZCI6ImNkOTY0NzllLTljMzktNGE3Zi1iYTBjLTgwNmE4M2FmMTljYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://3a24f714-5585-4103-9291-6ae21f11c10d@fqwra.dtgitar.com:20201?type=ws&security=none&path=/#BR 🇧🇷 ┇ VLESS-WS-NTLS - Equatorial Telecomunicacoes LTDA ┇ 206.1.102.20

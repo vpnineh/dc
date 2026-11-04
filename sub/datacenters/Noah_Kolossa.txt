@@ -1,2 +1,0 @@
-vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@pah2.vethilis.ru:443?type=tcp&security=tls&sni=pah2.vethilis.ru&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Noah Kolossa ┇ 206.245.166.44
-vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@pah1.vethilis.ru:443?type=tcp&security=tls&sni=pah1.vethilis.ru&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Noah Kolossa ┇ 206.245.166.155

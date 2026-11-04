@@ -1,6 +1,6 @@
 vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=false&path=/vless&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.70.41
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.86.60.174
 vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@ee1.vpngold.ru:8443?type=tcp&security=reality&sni=ee1.vpngold.ru&fp=chrome&flow=xtls-rprx-vision&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&sid=385cb18df0892069#CY 🇨🇾 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.86.60.102
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?type=tcp&security=false&path=/&fp=chrome#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.86.60.174
 vless://82e94483-7cda-3006-a510-7309acec2a4a@worker02-k3s-dev.dvp.weatherapi.cc:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.91.54.142
-vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@fin2.vpngold.ru:8443?type=tcp&security=reality&sni=fin2.vpngold.ru&fp=firefox&flow=xtls-rprx-vision&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&sid=385cb18df0892069#HR 🇭🇷 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 2.56.175.200
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
+vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@fin2.vpngold.ru:8443?type=tcp&security=reality&sni=fin2.vpngold.ru&fp=chrome&flow=xtls-rprx-vision&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&sid=385cb18df0892069#HR 🇭🇷 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 2.56.175.200
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39

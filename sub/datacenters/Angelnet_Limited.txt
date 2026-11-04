@@ -1,0 +1,1 @@
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@196.247.163.10:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Angelnet Limited ┇ 196.247.163.10

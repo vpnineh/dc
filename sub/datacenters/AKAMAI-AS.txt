@@ -1,1 +1,0 @@
-vless://e4d1298a-1f21-42e2-a53e-1b22c0645c48@free.vkehi.store:443?type=tcp&security=tls&sni=aka.ms&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - AKAMAI-AS ┇ 139.162.21.130

@@ -1,2 +1,2 @@
-vless://93579113-3df4-4206-8124-a75d381a3e32@31.14.116.80:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.116.80
 vless://436899a7-965b-4e6e-8797-27f9363d812c@crm2.play98.ir:52862?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 79.175.134.39
+vless://93579113-3df4-4206-8124-a75d381a3e32@31.14.116.80:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.116.80

@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOVFQtREFUQS0yOTE0IFx1MjUwNyAxNjIuMTQxLjEzNy4xNDIiLCJhZGQiOiJoay53YXdvamsuZHBkbnMub3JnIiwicG9ydCI6NTAwMDcsImlkIjoiMGQ4MjRhNzQtMTIwNy00OGM0LWE3YTAtZDI4M2Q1ZjEwYjRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvaGstdm1lc3Mtd3MtYzlmM2EyIiwidGxzIjoidGxzIn0
+vless://eabd38de-8ccd-455b-8643-e714ac86f81e@fun.zovip2.ir:443?type=ws&security=tls&path=/api/v3/pulse&sni=fun.zovip2.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NTT-DATA-2914 ┇ 31.57.29.198

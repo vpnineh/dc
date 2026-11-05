@@ -1,2 +1,2 @@
-vless://4fe83abe-48a3-41d8-b966-1c13e7cfac01@130.17.13.244:443?type=ws&security=tls&path=/jx-yu6idxjr72i2xz#US 🇺🇸 ┇ VLESS-WS-TLS - CENIC-2152 ┇ 130.17.13.244
 vless://4fe83abe-48a3-41d8-b966-1c13e7cfac01@130.17.20.158:443?type=ws&security=tls&path=/jx-yu6idxjr72i2xz#US 🇺🇸 ┇ VLESS-WS-TLS - CENIC-2152 ┇ 130.17.20.158
+vless://4fe83abe-48a3-41d8-b966-1c13e7cfac01@130.17.13.244:443?type=ws&security=tls&path=/jx-yu6idxjr72i2xz#US 🇺🇸 ┇ VLESS-WS-TLS - CENIC-2152 ┇ 130.17.13.244

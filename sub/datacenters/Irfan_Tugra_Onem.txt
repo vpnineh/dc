@@ -1,1 +1,1 @@
-vless://eabd38de-8ccd-455b-8643-e714ac86f81e@berlin.zovip2.ir:443?type=ws&security=tls&path=/api/v3/pulse&sni=berlin.zovip2.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Irfan Tugra Onem ┇ 31.56.117.180
+vless://c0a06843-8a72-4eca-b124-a589da434c98@goold.zovip2.ir:443?type=tcp&security=none&path=/api/v3/pulse?ed#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Irfan Tugra Onem ┇ 31.56.117.180

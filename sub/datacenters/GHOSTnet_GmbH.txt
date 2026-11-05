@@ -1,10 +1,9 @@
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5051?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5055?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
 vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?type=tcp&security=reality&sni=94.249.188.202&fp=chrome&flow=xtls-rprx-vision&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d#DE 🇩🇪 ┇ VLESS-TCP-RLT - GHOSTnet GmbH ┇ 94.249.188.202
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5071?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5068?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
-vless://d6f6e995-c088-458f-aaa6-50096327b4b4@94.249.180.253:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - GHOSTnet GmbH ┇ 94.249.180.253
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5066?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5059?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
 vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5061?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5059?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5066?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
 vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
+vless://d6f6e995-c088-458f-aaa6-50096327b4b4@94.249.180.253:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - GHOSTnet GmbH ┇ 94.249.180.253
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5071?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5055?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5068?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 94.249.186.50

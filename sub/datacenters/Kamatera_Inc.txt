@@ -1,2 +1,2 @@
-vless://4fe83abe-48a3-41d8-b966-1c13e7cfac01@113.30.191.181:443?type=ws&security=tls&path=/jx-yu6idxjr72i2xz#DE 🇩🇪 ┇ VLESS-WS-TLS - Kamatera Inc ┇ 113.30.191.181
 vless://4fe83abe-48a3-41d8-b966-1c13e7cfac01@113.30.190.30:443?type=ws&security=tls&path=/jx-yu6idxjr72i2xz#DE 🇩🇪 ┇ VLESS-WS-TLS - Kamatera Inc ┇ 113.30.190.30
+vless://4fe83abe-48a3-41d8-b966-1c13e7cfac01@113.30.191.181:443?type=ws&security=tls&path=/jx-yu6idxjr72i2xz#DE 🇩🇪 ┇ VLESS-WS-TLS - Kamatera Inc ┇ 113.30.191.181

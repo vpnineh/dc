@@ -1,0 +1,1 @@
+vless://d91151dd-b82d-44b0-802e-d3ae7acd94a1@82.152.132.211:8020?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - X-zone It Srl ┇ 82.152.132.211

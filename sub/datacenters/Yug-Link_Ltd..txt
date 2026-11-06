@@ -1,1 +1,0 @@
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@pl3.japancase.site:443?type=tcp&security=reality&sni=pl3.japancase.site&flow=xtls-rprx-vision&pbk=COvqGpB7lUdZshmbn5zdqiVi81n8Iyha8RbEHtK93xc&sid=5037f0423dc4e4ff#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yug-Link Ltd. ┇ 185.138.90.78

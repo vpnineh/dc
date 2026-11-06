@@ -1,1 +1,0 @@
-vless://e1acad9b-e14e-4995-b2d6-5721823cb0a7@mein-1.octavia.dpdns.org:6600?type=tcp&security=reality&sni=www.semiconductor.samsung.com&fp=chrome&pbk=boqqUp4qxwRfu_Wp3QB4m1rLyeWh2NA7C7uEV3nq_go&sid=cb#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 13.50.5.211

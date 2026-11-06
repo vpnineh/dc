@@ -1,1 +1,0 @@
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=tcp&security=none&path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Bharti Airtel Ltd., Telemedia Services ┇ 122.176.216.52

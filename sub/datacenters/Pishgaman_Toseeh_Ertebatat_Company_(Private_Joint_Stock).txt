@@ -1,2 +1,0 @@
-vless://857ad7aa-8775-472e-b5bf-1456b1d259ae@vip.skplshop.ir:35454?type=ws&security=tls&path=/&sni=vip.skplshop.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 5.202.5.146
-vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 5.202.8.5

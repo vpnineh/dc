@@ -1,1 +1,1 @@
-vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 45.90.57.119
+vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 46.28.71.135

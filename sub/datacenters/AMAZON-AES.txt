@@ -1,1 +1,2 @@
 vless://e4d1298a-1f21-42e2-a53e-1b22c0645c48@free.vkehi.store:443?type=tcp&security=tls&sni=zoom.com&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - AMAZON-AES ┇ 139.162.21.130
+vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?type=ws&security=tls&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-AES ┇ 44.210.60.20

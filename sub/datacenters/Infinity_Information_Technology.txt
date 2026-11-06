@@ -1,1 +1,0 @@
-vless://01868cd8-7316-45c2-bc72-62e847e41b81@goold.zovip2.ir:443?type=ws&security=tls&path=/api/v3/pulse&sni=goold.zovip2.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Infinity Information Technology ┇ 31.57.158.87

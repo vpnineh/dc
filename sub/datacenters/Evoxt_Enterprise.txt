@@ -1,1 +1,0 @@
-vless://e8a346c2-e14c-4f82-876f-367dc19ee541@23.27.11.86:443?type=tcp&security=tls#JP 🇯🇵 ┇ VLESS-TCP-TLS - Evoxt Enterprise ┇ 23.27.11.86

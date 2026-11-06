@@ -1,2 +1,1 @@
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@main.jarbook.net:443?type=tcp&security=reality&sni=main.jarbook.net&fp=chrome&flow=xtls-rprx-vision&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&sid=d889ac17#SE 🇸🇪 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.38.245
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?type=tcp&security=reality&sni=prime.jarbook.net&fp=chrome&flow=xtls-rprx-vision&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.193.132
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?type=tcp&security=reality&sni=prime.jarbook.net&fp=chrome&flow=xtls-rprx-vision&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.193.133

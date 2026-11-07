@@ -1,1 +1,0 @@
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?type=ws&security=tls&path=/static/js/runtime.9d03c7.js&sni=lte-v2-ws.gacvpn.site&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - UIDAHO ┇ 129.101.100.126

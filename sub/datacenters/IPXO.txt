@@ -1,1 +1,2 @@
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?type=tcp&security=reality&sni=app26.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.151.159
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?type=grpc&security=reality&sni=reg.jarbook.net&fp=chrome&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&sid=dceb4214#LT 🇱🇹 ┇ VLESS-GRPC-RLT - IPXO ┇ 84.32.96.250

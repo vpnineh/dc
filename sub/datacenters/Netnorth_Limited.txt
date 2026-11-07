@@ -1,0 +1,1 @@
+vless://8f719b99-8ee2-4402-8dc0-b37ad5b49ee1@devlayer.ru:8444?type=grpc&security=reality&sni=devlayer.ru&fp=chrome&pbk=itcnYaywQAH3lmUITBTSInap8hSw53mx8sA-TDwRU0c&sid=c46a27f4595db3d4#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Netnorth Limited ┇ 82.148.255.251

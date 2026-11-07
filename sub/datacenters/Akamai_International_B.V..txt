@@ -1,1 +1,4 @@
+vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@wwww.qarvian.ir:443?type=ws&security=tls&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&sni=cdn.akamai.steamstatic.com#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai International B.V. ┇ 146.75.57.111
+vless://72881b3f-76f7-4cae-912d-e95e602a5ca4@199.232.78.159:443?type=ws&security=tls&path=/?TELEGRAM-----TOOTFFARANGI&sni=cdn.akamai.steamstatic.com#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai International B.V. ┇ 199.232.78.159
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgSW50ZXJuYXRpb25hbCBCLlYuIFx1MjUwNyAyMy4xMS4zMy4xNTkiLCJhZGQiOiJjYWNlcnRzLmRpZ2ljZXJ0LmNvbSIsInBvcnQiOjQ0MywiaWQiOiI0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vless://6ca4b5d8-dcd4-40ef-be8f-84c6f171c3a2@104.64.219.12:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai International B.V. ┇ 104.64.219.12

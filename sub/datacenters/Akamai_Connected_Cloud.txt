@@ -1,7 +1,7 @@
-vless://326f28ad-30b8-4c02-9d1f-2db2969c8a69@172.235.199.46:2095?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.235.199.46
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA0Ljc4Ljk4IiwiYWRkIjoiMTcyLjEwNC43OC45OCIsInBvcnQiOjQ0MywiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidGxzIn0
-vless://8ff025cd-b86a-4b95-8adf-f0d25e48cbfc@173.230.131.24:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 173.230.131.24
-vless://76e78631-279f-48e9-9ad5-63f3d7bf044b@173.230.131.43:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 173.230.131.43
-vless://f3456af0-b6bf-4fd9-953f-e493392f6c50@172.104.17.151:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.17.151
-vless://81020b4f-612c-43ea-8a43-967c6b8ac9d3@172.104.17.119:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.17.119
+vless://326f28ad-30b8-4c02-9d1f-2db2969c8a69@172.235.199.46:2095?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.235.199.46
 vless://53c227af-5f60-4a81-a301-26ab4d7fb02b@172.233.176.150:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.176.150
+vless://76e78631-279f-48e9-9ad5-63f3d7bf044b@173.230.131.43:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 173.230.131.43
+vless://8ff025cd-b86a-4b95-8adf-f0d25e48cbfc@173.230.131.24:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 173.230.131.24
+vless://81020b4f-612c-43ea-8a43-967c6b8ac9d3@172.104.17.119:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.17.119
+vless://f3456af0-b6bf-4fd9-953f-e493392f6c50@172.104.17.151:2095?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.17.151

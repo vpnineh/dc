@@ -1,1 +1,0 @@
-vless://b2ee4a4e-eb20-4bb4-956c-dc0f5187633e@vpn.noxtem.cc:2020?type=tcp&security=tls&sni=vpn.noxtem.cc&fp=chrome&flow=xtls-rprx-vision#OM 🇴🇲 ┇ VLESS-TCP-TLS - Omani Qatari Telecommunication Company SAOC ┇ 5.21.83.146

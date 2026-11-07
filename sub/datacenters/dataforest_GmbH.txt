@@ -1,1 +1,0 @@
-vless://36a1c787-fb9e-4fea-ba54-5cb33255d4de@freetg.ghost-service.cc:9443?type=ws&security=tls&path=/live.stream.v1.Broadcast/&sni=freetg.ghost-service.cc#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 45.145.43.151

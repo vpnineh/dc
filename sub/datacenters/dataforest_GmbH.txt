@@ -1,1 +1,1 @@
-vless://94042dd1-d32a-4797-b88c-dc48459e2b34@ac3f32g.de18.h1clayd.click:443?type=grpc&security=reality&sni=ac3f32g.de18.h1clayd.click&fp=chrome&pbk=cO2bNRZvYDit8UqQk_zc6BaSBA7LiLMSmMHTwjU531Q&sid=051e90ed3d657158#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 45.157.235.170
+vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de18.h1clayd.click:443?type=tcp&security=reality&path=/&sni=100497t.de18.h1clayd.click&fp=chrome&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 45.157.235.170

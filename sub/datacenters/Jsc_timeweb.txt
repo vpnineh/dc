@@ -1,4 +1,5 @@
-vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-129.mirra.now:443?type=grpc&security=tls&path=VideoRenderer&sni=renderer-bridge-2-129.mirra.now&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 83.217.220.237
-vless://c04522c4-3d53-4eab-b5b5-25385d5f11b1@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/&sni=193.160.208.240&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?type=grpc&security=tls&sni=ru3.radiolumens.uk#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 77.232.135.122
+vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@kz-cdn-prsv-forum.keno.su:443?type=tcp&security=reality&path=/&sni=kz-cdn-prsv-forum.keno.su&fp=chrome&flow=xtls-rprx-vision&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&sid=14324280#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 90.156.230.179
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?type=tcp&security=reality&sni=yoy-api.bachidze.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 217.25.93.165
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-129.mirra.now:443?type=grpc&security=tls&path=VideoRenderer&sni=renderer-bridge-2-129.mirra.now&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 83.217.220.237
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?type=grpc&security=tls&sni=ru3.radiolumens.uk#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 77.232.135.122
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/&sni=193.160.208.240&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240

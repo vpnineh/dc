@@ -1,0 +1,2 @@
+vless://3374d2ed-0dc3-404d-adfd-414b55b3dc9b@poll--an.bntabriz.ir:3389?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 5.22.222.90
+vless://3374d2ed-0dc3-404d-adfd-414b55b3dc9b@uk--a.bntabriz.ir:3389?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.59.30

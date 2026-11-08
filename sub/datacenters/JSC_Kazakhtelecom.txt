@@ -1,1 +1,0 @@
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@kz1.japancase.site:443?type=tcp&security=reality&sni=kz1.japancase.site&fp=chrome&flow=xtls-rprx-vision&pbk=eV6ewGF7oTHf2pTQHKYvwJt-vU8hUC-1CjiUl20HtXE&sid=4000cdda6278d236#KZ 🇰🇿 ┇ VLESS-TCP-RLT - JSC Kazakhtelecom ┇ 95.57.50.87

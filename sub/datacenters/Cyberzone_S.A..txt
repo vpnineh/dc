@@ -1,3 +1,2 @@
 vless://73a0f995-f2f1-4d47-a99d-a6dcc1952bf9@de-4.it-crp.ru:443?type=tcp&security=reality&sni=de-4.it-crp.ru&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#KR 🇰🇷 ┇ VLESS-TCP-RLT - Cyberzone S.A. ┇ 93.152.212.153
-vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@parad2.vethilis.ru:443?type=tcp&security=tls&sni=parad2.vethilis.ru&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Cyberzone S.A. ┇ 93.152.206.144
 vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@papad1.vethilis.ru:443?type=tcp&security=tls&sni=papad1.vethilis.ru&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Cyberzone S.A. ┇ 93.152.205.236

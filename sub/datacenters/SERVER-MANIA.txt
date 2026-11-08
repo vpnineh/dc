@@ -1,1 +1,0 @@
-vless://e7e8f531-d60e-4a78-ad15-c63a01b425b8@1.canconnecction.com:443?type=tcp&security=reality&sni=1.canconnecction.com&fp=chrome&flow=xtls-rprx-vision&pbk=V-We2B9zcEUru60vy2yV8s787ezXet7wUoEBVsuMj00&sid=3139c392#CA 🇨🇦 ┇ VLESS-TCP-RLT - SERVER-MANIA ┇ 23.229.49.124

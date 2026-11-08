@@ -1,2 +1,1 @@
-vless://e7e8f531-d60e-4a78-ad15-c63a01b425b8@1.frconnectiusmeow.com:443?type=tcp&security=reality&sni=1.frconnectiusmeow.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ce4KmSc_2Eh5HwOAw81Vh1LwFVagxb_mPJ8h-1uLFGg&sid=677541a1#FR 🇫🇷 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 198.16.113.93
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart2.khinikadze.com:443?type=tcp&security=reality&sni=smart2.khinikadze.com&fp=chrome&flow=xtls-rprx-vision&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.65

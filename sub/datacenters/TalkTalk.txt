@@ -1,0 +1,1 @@
+vless://e7e8f531-d60e-4a78-ad15-c63a01b425b8@pl2.flcplonnectius.com:443?type=tcp&security=reality&sni=pl2.flcplonnectius.com&fp=chrome&flow=xtls-rprx-vision&pbk=jfNUe-iefSxW2G-Ms9eIRmhMM3p0K_UCY9v7stRIb3U&sid=575b46e5#GB 🇬🇧 ┇ VLESS-TCP-RLT - TalkTalk ┇ 80.47.19.124

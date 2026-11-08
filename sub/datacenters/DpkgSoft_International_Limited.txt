@@ -1,2 +1,1 @@
 vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15#DE 🇩🇪 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 147.45.66.60
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?type=tcp&security=reality&sni=tr3.japancase.site&flow=xtls-rprx-vision&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&sid=071c3bd86b0c3c73#DE 🇩🇪 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 147.45.66.62

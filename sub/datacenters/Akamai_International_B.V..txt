@@ -1,2 +1,2 @@
-vless://780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7@wwww.qarvian.ir:443?type=ws&security=tls&sni=cdn.akamai.steamstatic.com#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai International B.V. ┇ 146.75.57.111
+vless://e9a9d2ba-8c33-4e5e-a903-efa595db2fff@wwww.qarvian.ir:443?type=ws&security=tls&sni=cdn.akamai.steamstatic.com#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai International B.V. ┇ 146.75.57.111
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgSW50ZXJuYXRpb25hbCBCLlYuIFx1MjUwNyAyMy4xMS4zMy4xNTkiLCJhZGQiOiJjYWNlcnRzLmRpZ2ljZXJ0LmNvbSIsInBvcnQiOjQ0MywiaWQiOiI0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ

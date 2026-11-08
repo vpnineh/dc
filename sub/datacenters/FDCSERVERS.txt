@@ -1,4 +1,1 @@
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?type=tcp&security=reality&sni=prime.jarbook.net&fp=firefox&flow=xtls-rprx-vision&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.193.133
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart2.khinikadze.com:443?type=tcp&security=reality&sni=smart2.khinikadze.com&fp=chrome&flow=xtls-rprx-vision&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.65
-vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@nl-ded1-2.gamma-kvn.com:443?type=tcp&security=tls&sni=nl-ded1-2.gamma-kvn.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.210.83
-vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@nl-ded2-2.gamma-kvn.com:443?type=tcp&security=tls&sni=nl-ded2-2.gamma-kvn.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.220.107

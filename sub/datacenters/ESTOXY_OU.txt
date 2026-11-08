@@ -1,1 +1,1 @@
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@one.bitstore.casa:443?type=tcp&security=tls&path=/api/v3/assets/preview#NL 🇳🇱 ┇ VLESS-TCP-TLS - ESTOXY OU ┇ 117.55.203.253
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@one.bitstore.casa:443?type=tcp&security=tls&sni=one.bitstore.casa&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - ESTOXY OU ┇ 117.55.203.253

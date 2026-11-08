@@ -1,2 +1,1 @@
-vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@selek3.gamma-kvn.com:443?type=tcp&security=tls&sni=selek3.gamma-kvn.com&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 176.114.85.131
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?type=xhttp&security=none&path=/#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - JSC Selectel ┇ 5.53.124.191

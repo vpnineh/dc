@@ -1,0 +1,1 @@
+vless://a8cc75e9-0768-48df-ad25-75b6b8891176@ir.panel.studebaker.ir:35142?type=tcp&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Parsway Shomal Company Ltd ┇ 213.176.120.8

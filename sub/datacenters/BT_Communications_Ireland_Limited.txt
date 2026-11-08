@@ -1,0 +1,1 @@
+vless://ead9f716-0131-4c16-a107-6b9b16090961@78.17.39.129:443?type=xhttp&security=tls&path=/assets/finvip02/&sni=78.17.39.129&fp=chrome#IE 🇮🇪 ┇ VLESS-XHTTP-TLS - BT Communications Ireland Limited ┇ 78.17.39.129

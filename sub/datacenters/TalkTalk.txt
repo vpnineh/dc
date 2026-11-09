@@ -1,0 +1,1 @@
+vless://95f85937-7b95-45c4-8d69-95da6a978569@dl.megadrishto.com:443?type=grpc&security=tls&sni=dl.megadrishto.com&fp=edge#GB 🇬🇧 ┇ VLESS-GRPC-TLS - TalkTalk ┇ 80.47.13.182

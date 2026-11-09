@@ -1,0 +1,1 @@
+vless://616f823c-dec8-450e-8312-349d41fb240e@suq.deev-guard.ir:5444?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Zomro B.V. ┇ 185.224.215.67

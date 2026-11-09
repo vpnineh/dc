@@ -1,1 +1,14 @@
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:10835?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:11101?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231
 vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 194.113.74.166
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:39486?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:55334?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVQQ0xPVURVU0EgXHUyNTA3IDE1Mi40NC40My4yMzEiLCJhZGQiOiJGYXN0LmpleG11ay5pciIsInBvcnQiOjE2MTc2LCJpZCI6ImIyOGJmZDA0LTBiOTEtNGJmYi1hYjg4LTRkNWMzM2ZkMTEzMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:36439?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:20836?type=tcp&security=tls&sni=Fast.jexmuk.ir&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - UPCLOUDUSA ┇ 152.44.43.231
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:33027?type=tcp&security=tls&sni=Fast.jexmuk.ir&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - UPCLOUDUSA ┇ 152.44.43.231
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:18165?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:48795?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVQQ0xPVURVU0EgXHUyNTA3IDE1Mi40NC40My4yMzEiLCJhZGQiOiJGYXN0LmpleG11ay5pciIsInBvcnQiOjE1NTI2LCJpZCI6ImIyOGJmZDA0LTBiOTEtNGJmYi1hYjg4LTRkNWMzM2ZkMTEzMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:15346?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231
+vless://b28bfd04-0b91-4bfb-ab88-4d5c33fd1131@fast.jexmuk.ir:52940?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UPCLOUDUSA ┇ 152.44.43.231

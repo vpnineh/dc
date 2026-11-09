@@ -1,0 +1,2 @@
+vless://901c1ed2-be44-4c97-843e-7bcdcce28e04@usa.amosh.sbs:2053?type=xhttp&security=tls&path=/&sni=usa.amosh.sbs&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ROUTERHOSTING ┇ 172.86.112.136
+vless://901c1ed2-be44-4c97-843e-7bcdcce28e04@usa.amosh.sbs:46539?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - ROUTERHOSTING ┇ 172.86.112.136

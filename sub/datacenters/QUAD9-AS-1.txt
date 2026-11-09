@@ -1,1 +1,0 @@
-vless://8373f47d-5059-4ef5-90a6-aaff48572dd7@mhzedir.qzz.io:2059?type=tcp&security=reality&sni=dns.resolver.quad9.net&flow=xtls-rprx-vision&pbk=R2iGvGK6SSncoLARMZHWZ4_p8XAmjGf0mxvbFfw6Rm0&sid=0217548b15#US 🇺🇸 ┇ VLESS-TCP-RLT - QUAD9-AS-1 ┇ 177.202.71.55

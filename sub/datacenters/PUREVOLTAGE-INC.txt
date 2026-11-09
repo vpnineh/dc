@@ -1,2 +1,1 @@
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?type=tcp&security=reality&sni=no.gacvpn.site&fp=chrome&flow=xtls-rprx-vision&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&sid=08d12dce#IL 🇮🇱 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 193.203.10.188
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?type=ws&security=none&path=/vless#RU 🇷🇺 ┇ VLESS-WS-NTLS - PUREVOLTAGE-INC ┇ 45.138.100.248

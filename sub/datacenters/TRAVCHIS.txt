@@ -1,1 +1,1 @@
-vless://3b1fa839-2cb9-4511-9711-08800450aea3@tickets.betust.net:443?type=tcp&security=reality&sni=tickets.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8#DE 🇩🇪 ┇ VLESS-TCP-RLT - TRAVCHIS ┇ 88.216.182.59
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@tickets.betust.net:443?type=tcp&security=reality&sni=tickets.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8#DE 🇩🇪 ┇ VLESS-TCP-RLT - TRAVCHIS ┇ 88.216.182.59

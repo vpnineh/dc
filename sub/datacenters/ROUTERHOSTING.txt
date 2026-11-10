@@ -1,1 +1,2 @@
+vless://38de3363-7945-402e-9a9b-6f2f9015a44e@uuss2.qik-server.uk:443?type=xhttp&security=tls&path=/static/js/chunk&sni=uuss2.qik-server.uk#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ROUTERHOSTING ┇ 172.86.118.100
 vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@us2.qik-fin.uk:443?type=xhttp&security=tls&path=/static/js/chunk&sni=us2.qik-fin.uk&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - ROUTERHOSTING ┇ 172.86.86.21

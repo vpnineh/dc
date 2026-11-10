@@ -1,0 +1,1 @@
+vless://53555197-bf0a-49e6-bea1-211fcfc1d962@germany3.banovano.space:2053?type=grpc&security=tls&sni=germany3.banovano.space#LT 🇱🇹 ┇ VLESS-GRPC-TLS - MB Redfox Cloud ┇ 45.81.252.143

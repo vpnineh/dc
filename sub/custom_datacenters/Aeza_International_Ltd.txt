@@ -1,2 +1,1 @@
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
-vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@cdn.izzzyvpn.space:443?type=tcp&security=reality&sni=cdn.izzzyvpn.space&fp=chrome&flow=xtls-rprx-vision&pbk=v—0dXOWcnzpJvl_6qkbWTCRLg-eWdJ6WxJsYtj9WQY&sid=f7fdf037537b8c38#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.74.29

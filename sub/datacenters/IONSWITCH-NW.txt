@@ -1,0 +1,1 @@
+vless://461a5e99-c932-449c-9516-853fd0fade7a@uuuss2.qiksme.com:443?type=tcp&security=tls&sni=uuuss2.qiksme.com&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - IONSWITCH-NW ┇ 45.61.144.142

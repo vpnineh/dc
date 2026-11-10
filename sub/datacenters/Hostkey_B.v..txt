@@ -1,1 +1,0 @@
-vless://c3734677-b690-42b6-ab76-84cc7dd14c22@node2.shakalchk.ru:443?type=tcp&security=reality&sni=node2.shakalchk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 31.192.106.192

@@ -1,2 +1,2 @@
-vless://6a145f16-2c66-46da-a6b9-f1bb7227c3cc@m1.mincreaft.com:443?type=tcp&security=reality&sni=m1.mincreaft.com&fp=chrome&flow=xtls-rprx-vision&pbk=3PgtDLnBNACvK6rlJp-DxJNte_BxQejuc4ueN2t-IDA#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 45.145.40.112
 vless://6a145f16-2c66-46da-a6b9-f1bb7227c3cc@m1.mincreaft.com:8443?type=grpc&security=reality&sni=m1.mincreaft.com&fp=chrome&pbk=NHK9GcL1JoWXCrEQxQcW04s3gFhgGHjQGnNIo_p1ZB0&sid=aef7563bd3ea5562#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 45.145.40.112
+vless://6a145f16-2c66-46da-a6b9-f1bb7227c3cc@m1.mincreaft.com:443?type=tcp&security=reality&sni=m1.mincreaft.com&fp=chrome&flow=xtls-rprx-vision&pbk=3PgtDLnBNACvK6rlJp-DxJNte_BxQejuc4ueN2t-IDA#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 45.145.40.112

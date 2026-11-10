@@ -1,0 +1,1 @@
+vless://86bd4592-b750-4ab8-bd59-e4c81543f84c@145.79.187.50:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HVC-AS ┇ 145.79.187.50

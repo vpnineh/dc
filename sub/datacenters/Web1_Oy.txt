@@ -1,0 +1,1 @@
+vless://233f47f0-7fb5-47eb-9741-8d93a48a9829@fl2.rushoppingforwomen.com:443?type=tcp&security=reality&sni=fl2.rushoppingforwomen.com&fp=chrome&flow=xtls-rprx-vision&pbk=GJz9oM-JrAgC_A6CSuL59T0gP8B3Rjbz-dZXMd5ZxkE&sid=c343c3af6e2fa22f#FI 🇫🇮 ┇ VLESS-TCP-RLT - Web1 Oy ┇ 185.188.30.221

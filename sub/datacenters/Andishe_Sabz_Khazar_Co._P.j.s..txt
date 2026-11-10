@@ -1,1 +1,1 @@
-vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@cape.flowzari.info:443?type=tcp&security=reality&sni=cape.flowzari.info&fp=firefox&flow=xtls-rprx-vision&pbk=5DdSLIpnYjqYTI4-yC-ulr8PGMA8YML_EWdKvOjdinc&sid=693e339ad3613446#IR 🇮🇷 ┇ VLESS-TCP-RLT - Andishe Sabz Khazar Co. P.j.s. ┇ 176.12.66.2
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@cape.flowzari.info:443?type=tcp&security=reality&sni=cape.flowzari.info&fp=chrome&flow=xtls-rprx-vision&pbk=5DdSLIpnYjqYTI4-yC-ulr8PGMA8YML_EWdKvOjdinc&sid=693e339ad3613446#IR 🇮🇷 ┇ VLESS-TCP-RLT - Andishe Sabz Khazar Co. P.j.s. ┇ 176.12.66.2

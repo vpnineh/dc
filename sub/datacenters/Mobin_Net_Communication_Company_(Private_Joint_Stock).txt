@@ -1,2 +1,2 @@
+vless://8077b2a0-8230-46d1-941d-b709f8f1c764@dns4.dnsgamezz.ir:443?type=httpupgrade&security=tls&path=/drbmi6x92&sni=dns4.dnsgamezz.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.238
 vless://8077b2a0-8230-46d1-941d-b709f8f1c764@dns6.mizdomaingame.ir:443?type=ws&security=tls&path=/25qxao9a6&sni=dns6.mizdomaingame.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.128
-vless://8077b2a0-8230-46d1-941d-b709f8f1c764@dns4.dnsgamezz.ir:443?type=httpupgrade&security=tls&path=/drbmi6x92&sni=dns4.dnsgamezz.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.233

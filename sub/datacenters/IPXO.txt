@@ -1,2 +1,2 @@
 vless://5e9f6c74-27b5-42a1-a771-83370905256b@217.179.5.49:8080?type=ws&security=none&path=/real#GB 🇬🇧 ┇ VLESS-WS-NTLS - IPXO ┇ 217.179.5.49
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?type=tcp&security=reality&sni=admin.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.151.190
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?type=tcp&security=reality&sni=admin.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.151.141

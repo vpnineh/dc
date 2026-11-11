@@ -1,2 +1,0 @@
-vless://2234c7db-d327-4c3c-a249-257de071684b@31.57.185.67:443?type=xhttp&security=reality&path=/&sni=aparat.com&fp=chrome&sid=75#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Fannavaran-e Idea Pardaz-e Saba PJSC ┇ 31.57.185.67
-vless://5b129671-ef53-3373-5149-de23a65606e9@ir-irn.maxuup.ir.maxuup.fun:48736?type=tcp&security=reality&sni=www.aparat.com&fp=chrome&pbk=YfHSYoUGAuTwCab4F65ymIQQTBSPuk9C5RX6rvg-KkM&sid=fbd534db#IR 🇮🇷 ┇ VLESS-TCP-RLT - Fannavaran-e Idea Pardaz-e Saba PJSC ┇ 109.122.244.186

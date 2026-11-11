@@ -1,2 +1,1 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgNS4xNjAuMTQ0LjQ1IiwiYWRkIjoidmlwNi5lejA1MzUuY29tIiwicG9ydCI6NDQzLCJpZCI6ImQ3MDQ1MTVhLTg0NjYtNDBkMi1iOTAyLWNjOGZlYWZjMDFhNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir1.immahan.ir:16000?type=xhttp&security=none&path=/assets#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.47

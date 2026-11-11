@@ -1,2 +1,2 @@
 vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@b998f03d.de-p2.h1clayd.click:443?type=tcp&security=reality&sni=b998f03d.de-p2.h1clayd.click&fp=chrome&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&sid=c10f4100fa3a8d47#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 45.133.151.164
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?type=xhttp&security=none&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - JSC Selectel ┇ 5.53.124.191
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?type=xhttp&security=none&path=/#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - JSC Selectel ┇ 5.53.124.191

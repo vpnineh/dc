@@ -1,0 +1,1 @@
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.56:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - PURDUE ┇ 163.245.42.56

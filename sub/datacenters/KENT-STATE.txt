@@ -1,1 +1,1 @@
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@bg2.gacvpn.site:443?type=tcp&security=reality&sni=bg2.gacvpn.site&flow=xtls-rprx-vision&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg&sid=1f8bab7ad81089f2#US 🇺🇸 ┇ VLESS-TCP-RLT - KENT-STATE ┇ 131.123.43.103
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - KENT-STATE ┇ 131.123.43.103

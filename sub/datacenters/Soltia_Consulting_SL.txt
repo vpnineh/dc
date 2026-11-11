@@ -1,1 +1,0 @@
-vless://ed1d539a-8507-45de-8253-cbc272161473@canwec.kramiliantha.sbs:443?type=tcp&security=reality&sni=canwec.kramiliantha.sbs&fp=chrome&flow=xtls-rprx-vision&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&sid=be7d0c9dda4dd4e6#ES 🇪🇸 ┇ VLESS-TCP-RLT - Soltia Consulting SL ┇ 185.218.17.172

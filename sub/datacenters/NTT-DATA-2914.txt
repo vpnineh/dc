@@ -1,1 +1,2 @@
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?type=tcp&security=reality&sni=music.3apes.online&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT-DATA-2914 ┇ 217.60.27.108
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&sni=in001.zestapp778.com&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - NTT-DATA-2914 ┇ 130.94.95.198

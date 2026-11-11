@@ -1,2 +1,1 @@
 vless://dab01384-03dc-4055-b6fc-c28172763849@subgift.r7vx4-shadow-matrix.space:8462?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=5KEkOEvoxN8p1MgV3AHYHxZYc-wRj4iyB38NnJNsDlU&sid=9d21f1c4ad6e#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 13.53.91.116
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.111.23:48158?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 39.109.111.23

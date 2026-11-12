@@ -1,2 +1,1 @@
-vless://ab044ce9-1eef-47fd-8cbd-32310f96f66b@velvetwormhole.space:443?type=xhttp&security=tls&sni=velvetwormhole.space&fp=chrome#BG 🇧🇬 ┇ VLESS-XHTTP-TLS - Play2go International Limited ┇ 94.156.102.226
 vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBsYXkyZ28gSW50ZXJuYXRpb25hbCBMaW1pdGVkIFx1MjUwNyA5NC4xNTYuMTc5LjEzOCIsImFkZCI6Ijk0LjE1Ni4xNzkuMTM4IiwicG9ydCI6MTEwLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9

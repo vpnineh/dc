@@ -1,1 +1,0 @@
-vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?type=tcp&security=reality&sni=md.flicker.work&fp=chrome&flow=xtls-rprx-vision&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA#MD 🇲🇩 ┇ VLESS-TCP-RLT - Inovare-Prim SRL ┇ 194.33.40.68

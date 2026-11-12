@@ -1,5 +1,4 @@
-vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-133.mirra.now:443?type=grpc&security=tls&sni=renderer-bridge-2-133.mirra.now&fp=chrome#CZ 🇨🇿 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 194.87.190.163
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?type=tcp&security=reality&sni=yoy-api.bachidze.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 217.25.93.165
 vless://c04522c4-3d53-4eab-b5b5-25385d5f11b1@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/&sni=193.160.208.240&fp=ios#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@cryptoventura.online:443?type=ws&security=tls&path=/api/de3/live&sni=cryptoventura.online&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 188.225.37.175
 vless://4b50270b-5caf-4c34-b3da-17b4525604a6@astravellion.xyz:443?type=grpc&security=tls&sni=astravellion.xyz&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 5.129.193.120
+vless://2e21c00d-b328-4edf-bc9f-fde9d13209f5@welhost.stream:443?type=tcp&security=reality&sni=welhost.stream&fp=chrome&flow=xtls-rprx-vision&pbk=Qf9CWbOfKH2uAbdDNTe1wAP_2JMgqWny1ECjiDIT_iE&sid=0d33c71ac8351b68#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 89.169.3.149
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?type=tcp&security=reality&sni=yoy-api.bachidze.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 217.25.93.165

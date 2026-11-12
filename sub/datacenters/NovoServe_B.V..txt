@@ -1,7 +1,6 @@
-vless://1653818d-532e-46be-b825-384107fb7c3a@tracker.mediacorphub.org:443?type=grpc&security=tls&sni=tracker.mediacorphub.org&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.147
-vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?type=grpc&security=tls&sni=edge.mediacorphub.org&fp=firefox#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.151
-vless://1653818d-532e-46be-b825-384107fb7c3a@fetch.mediacorphub.org:443?type=grpc&security=tls&sni=fetch.mediacorphub.org#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.152
-vless://1653818d-532e-46be-b825-384107fb7c3a@get.mediacorphub.org:443?type=grpc&security=tls&sni=get.mediacorphub.org&fp=firefox#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.148
 vless://1653818d-532e-46be-b825-384107fb7c3a@data.mediacorphub.org:443?type=grpc&security=tls&sni=data.mediacorphub.org#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.149
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - NovoServe B.V. ┇ 89.105.197.203
-vless://1653818d-532e-46be-b825-384107fb7c3a@app.mediacorphub.org:443?type=grpc&security=tls&sni=app.mediacorphub.org#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.150
+vless://1653818d-532e-46be-b825-384107fb7c3a@rpc.mediacorphub.org:443?type=grpc&security=tls&sni=rpc.mediacorphub.org#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.152
+vless://1653818d-532e-46be-b825-384107fb7c3a@tracker.mediacorphub.org:443?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - NovoServe B.V. ┇ 89.105.195.147
+vless://1653818d-532e-46be-b825-384107fb7c3a@api.mediacorphub.org:443?type=grpc&security=tls&sni=api.mediacorphub.org&fp=firefox#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.148
+vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?type=grpc&security=tls&sni=assets.mediacorphub.org&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.151
+vless://1653818d-532e-46be-b825-384107fb7c3a@cdn.mediacorphub.org:443?type=grpc&security=tls&sni=cdn.mediacorphub.org&fp=firefox#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.150

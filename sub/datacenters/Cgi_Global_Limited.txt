@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBDZ2kgR2xvYmFsIExpbWl0ZWQgXHUyNTA3IDE4OC4xMzAuMjA3LjEwNiIsImFkZCI6ImZyYW5jZS5wYXlkYXIuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIxMjMzYzI2ZC05NWQxLTQ1OWYtYTFiYi03Y2ExMmJkNWExMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsInBhdGgiOiJmcmFuY2UucGF5ZGFyLnNpdGUifQ
+vless://01868cd8-7316-45c2-bc72-62e847e41b81@goold.zovip2.ir:443?type=ws&security=tls&path=/api/v3/pulse&sni=goold.zovip2.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 95.182.115.150

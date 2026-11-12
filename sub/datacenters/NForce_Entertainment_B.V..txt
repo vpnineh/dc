@@ -1,1 +1,2 @@
 vless://1cf64114-6c65-4d6a-8a09-0c20fc7551f3@141.11.187.196:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 141.11.187.196
+vless://fdb8b6ce-cc8a-4d84-86de-22b8ee30307c@5febc5g.fi16.h1clayd.click:443?type=grpc&security=reality&sni=5febc5g.fi16.h1clayd.click&fp=chrome&pbk=Q8ahFoY3Ki5gO37-y_q5oG1-EAcCFAvwU2VBQB6euEE&sid=a6dc47e87ba10b83#RU 🇷🇺 ┇ VLESS-GRPC-RLT - NForce Entertainment B.V. ┇ 83.171.241.210

@@ -1,1 +1,0 @@
-vless://95f85937-7b95-45c4-8d69-95da6a978569@chat.gpt.prem-ai.shop:443?type=ws&security=tls&path=/gateway/v1/ws/791f9a4d19f715c2ffaedfbaf99d88bd&sni=chat.gpt.prem-ai.shop&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.248

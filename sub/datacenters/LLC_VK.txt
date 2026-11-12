@@ -1,0 +1,1 @@
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?type=ws&security=tls&path=/service/telemetry/0294da469190/&sni=nguyxejonb.flowersgood.top&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 185.86.147.175

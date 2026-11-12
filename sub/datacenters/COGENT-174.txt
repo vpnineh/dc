@@ -1,2 +1,0 @@
-vless://cf1b08a7-55b7-4241-b80a-c59116272b43@beck.mossgill.top:443?type=xhttp&security=reality&path=/&sni=beck.mossgill.top&fp=chrome&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&sid=c4f0253a#AT 🇦🇹 ┇ VLESS-XHTTP-RLT - COGENT-174 ┇ 50.7.115.245
-vless://cf1b08a7-55b7-4241-b80a-c59116272b43@tarn.hazelmoor.top:443?type=tcp&security=reality&sni=tarn.hazelmoor.top&fp=chrome&flow=xtls-rprx-vision&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&sid=7d1c7473#AT 🇦🇹 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 50.7.115.242

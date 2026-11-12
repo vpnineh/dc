@@ -1,1 +1,1 @@
-vless://fbdfc018-466d-4f29-a164-f80920774eee@raven91.fars-remen.ir:32545?type=tcp&security=none&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Weridata LLC ┇ 31.57.225.107
+vless://5ea68468-d58b-42e6-b433-9ea9cfbcac09@raven91.fars-remen.ir:32545?type=tcp&security=none&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Weridata LLC ┇ 31.57.225.107

@@ -1,2 +1,2 @@
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@nl-balancer.peregrine-sub.net:443?type=tcp&security=reality&sni=nl-balancer.peregrine-sub.net&fp=firefox&flow=xtls-rprx-vision&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 192.109.200.234
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@nl-balancer.peregrine-sub.net:443?type=tcp&security=reality&sni=nl-balancer.peregrine-sub.net&fp=chrome&flow=xtls-rprx-vision&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 192.109.200.234

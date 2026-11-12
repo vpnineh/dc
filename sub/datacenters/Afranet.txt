@@ -1,0 +1,2 @@
+vless://7fe7a38c-1644-4174-9c0a-60037fd4415b@giti.molipen.ir:21187?type=ws&security=tls&path=/pen&sni=giti.molipen.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 31.14.116.106
+vless://7fe7a38c-1644-4174-9c0a-60037fd4415b@giti.molipen.ir:21138?type=ws&security=tls&path=/pen&sni=giti.molipen.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 31.14.116.106

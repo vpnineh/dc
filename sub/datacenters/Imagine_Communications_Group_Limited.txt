@@ -1,2 +1,1 @@
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@api-austria.locallynet.org:6443?type=tcp&security=tls&sni=api-austria.locallynet.org&fp=chrome&flow=xtls-rprx-vision#IE 🇮🇪 ┇ VLESS-TCP-TLS - Imagine Communications Group Limited ┇ 83.141.81.118
-vless://8f719b99-8ee2-4402-8dc0-b37ad5b49ee1@devlayer.ru:8444?type=grpc&security=reality&sni=devlayer.ru&fp=chrome&pbk=itcnYaywQAH3lmUITBTSInap8hSw53mx8sA-TDwRU0c&sid=c46a27f4595db3d4#IE 🇮🇪 ┇ VLESS-GRPC-RLT - Imagine Communications Group Limited ┇ 83.141.71.200

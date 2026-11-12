@@ -1,2 +1,0 @@
-vless://72881b3f-76f7-4cae-912d-e95e602a5ca4@wwww.qarvian.ir:443?type=ws&security=tls&sni=cdn.akamai.steamstatic.com#US 🇺🇸 ┇ VLESS-WS-TLS - AKAMAI-AS ┇ 146.75.57.111
-vless://dab01384-03dc-4055-b6fc-c28172763849@subgift.r7vx4-shadow-matrix.space:8462?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=5KEkOEvoxN8p1MgV3AHYHxZYc-wRj4iyB38NnJNsDlU&sid=9d21f1c4ad6e#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 13.53.91.116

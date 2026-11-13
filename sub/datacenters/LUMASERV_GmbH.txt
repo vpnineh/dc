@@ -1,0 +1,1 @@
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@zug-net.locallynet.org:6443?type=tcp&security=tls&sni=zug-net.locallynet.org&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUMASERV GmbH ┇ 45.67.138.221

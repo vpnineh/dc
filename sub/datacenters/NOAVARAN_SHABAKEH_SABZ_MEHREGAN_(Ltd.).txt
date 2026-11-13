@@ -1,0 +1,1 @@
+vless://abd56c8f-21df-4727-8280-751749b9a27b@hostca2.shop-goldserver.shop:443?type=tcp&security=tls&path=/wp-content/assetsca2/#IR 🇮🇷 ┇ VLESS-TCP-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 5.144.130.116

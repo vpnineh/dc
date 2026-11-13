@@ -1,6 +1,5 @@
-vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?type=grpc&security=tls&sni=edge.mediacorphub.org&fp=firefox#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.151
 vless://1653818d-532e-46be-b825-384107fb7c3a@net.mediacorphub.org:443?type=grpc&security=tls&sni=net.mediacorphub.org#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.149
-vless://1653818d-532e-46be-b825-384107fb7c3a@cdn.mediacorphub.org:443?type=grpc&security=tls&sni=cdn.mediacorphub.org&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.150
-vless://1653818d-532e-46be-b825-384107fb7c3a@tracker.mediacorphub.org:443?type=grpc&security=tls&sni=tracker.mediacorphub.org&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.147
+vless://1653818d-532e-46be-b825-384107fb7c3a@images.mediacorphub.org:443?type=grpc&security=tls&sni=images.mediacorphub.org&fp=firefox#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.150
+vless://1653818d-532e-46be-b825-384107fb7c3a@relay.mediacorphub.org:443?type=grpc&security=tls&sni=relay.mediacorphub.org&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.152
+vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?type=grpc&security=tls&sni=hub.mediacorphub.org&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.151
 vless://1653818d-532e-46be-b825-384107fb7c3a@api.mediacorphub.org:443?type=grpc&security=tls&sni=api.mediacorphub.org&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.148
-vless://1653818d-532e-46be-b825-384107fb7c3a@rpc.mediacorphub.org:443?type=grpc&security=tls&sni=rpc.mediacorphub.org&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - NovoServe B.V. ┇ 89.105.195.152

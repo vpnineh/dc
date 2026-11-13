@@ -1,0 +1,2 @@
+vless://393f7488-378f-4c3c-98af-702db5f869e3@30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir:80?type=httpupgrade&security=none&path=/phpMyAdmin?q=一位處女在孫先生的農場工作。#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Virtua Systems SAS ┇ 45.157.117.68
+vless://393f7488-378f-4c3c-98af-702db5f869e3@30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir:443?type=ws&security=tls&path=/&sni=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Virtua Systems SAS ┇ 45.157.117.68

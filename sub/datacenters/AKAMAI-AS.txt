@@ -1,2 +1,3 @@
-vless://1d5a458b-8bfb-4041-bc2a-b3450014ff37@vpn.fundexo.ir:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=CHN3_b5B8NJWm1xW2JaD68gh0_fVSSopO6_q3Nlz_Ec&sid=3551b4f622310fd1#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 176.65.151.59
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?type=ws&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=ios#US 🇺🇸 ┇ VLESS-WS-TLS - AKAMAI-AS ┇ 199.232.78.159
 vless://1d5a458b-8bfb-4041-bc2a-b3450014ff37@vpn.fundexo.ir:8443?type=xhttp&security=reality&path=/assets/v1&sni=www.samsung.com&fp=chrome&pbk=Ffz06kxEjNs04z6YbwENUqACXLJL1YzFpjjiY6CIsCc&sid=87bcd21847f4e08a#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AKAMAI-AS ┇ 176.65.151.59
+vless://1d5a458b-8bfb-4041-bc2a-b3450014ff37@vpn.fundexo.ir:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=CHN3_b5B8NJWm1xW2JaD68gh0_fVSSopO6_q3Nlz_Ec&sid=3551b4f622310fd1#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 176.65.151.59

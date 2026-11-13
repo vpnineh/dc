@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgQWJyIFRvc2VlaCBFcnRlYmF0YXQgQ29tcGFueSBcdTI1MDcgNS4xNjAuMTQ0LjQ1IiwiYWRkIjoidmlwNi5lejA1MzUuY29tIiwicG9ydCI6NDQzLCJpZCI6ImQ3MDQ1MTVhLTg0NjYtNDBkMi1iOTAyLWNjOGZlYWZjMDFhNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://d6b34c88-26a8-436d-8a4b-0a196d24f5ec@ip2.immahan.ir:443?type=tcp&security=none&path=/?Telegram#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Abr Toseeh Ertebatat Company ┇ 85.133.221.44

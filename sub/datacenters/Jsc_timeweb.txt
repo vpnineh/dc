@@ -1,1 +1,2 @@
 vless://2e21c00d-b328-4edf-bc9f-fde9d13209f5@welhost.stream:443?type=tcp&security=reality&sni=welhost.stream&fp=firefox&flow=xtls-rprx-vision&pbk=Qf9CWbOfKH2uAbdDNTe1wAP_2JMgqWny1ECjiDIT_iE&sid=0d33c71ac8351b68#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 89.169.3.149
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240

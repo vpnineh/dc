@@ -1,2 +1,2 @@
-vless://2e21c00d-b328-4edf-bc9f-fde9d13209f5@welhost.stream:443?type=tcp&security=reality&sni=welhost.stream&fp=firefox&flow=xtls-rprx-vision&pbk=Qf9CWbOfKH2uAbdDNTe1wAP_2JMgqWny1ECjiDIT_iE&sid=0d33c71ac8351b68#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 89.169.3.149
-vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@grove.moltex.click:443?type=ws&security=tls&path=/api/de6/stream&sni=grove.moltex.click&fp=safari#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 147.45.245.241
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?type=tcp&security=tls&sni=mx.bexumconnect.ltd&fp=qq&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 109.196.101.145

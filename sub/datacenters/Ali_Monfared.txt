@@ -1,0 +1,1 @@
+vless://afdf3eae-510d-547a-9c7c-7921d9bcaccf@de-fr.hyperlinkbt.com:11134?type=tcp&security=tls&sni=de-fr.hyperlinkbt.com&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Ali Monfared ┇ 185.124.175.250

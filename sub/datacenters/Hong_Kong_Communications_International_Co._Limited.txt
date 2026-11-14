@@ -1,0 +1,1 @@
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.47.220.144:443?type=tcp&security=none&path=/#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Hong Kong Communications International Co., Limited ┇ 38.47.220.144

@@ -1,1 +1,0 @@
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@lolikop.site:443?type=tcp&security=reality&sni=lolikop.site&fp=chrome&flow=xtls-rprx-vision&pbk=wsANtibRnxmTtHeR-xwPiWdTah0jOIicP4RKPfhbOXQ&sid=13c2bc3667b876b8#RU 🇷🇺 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 193.233.245.140

@@ -1,2 +1,2 @@
-vless://226498aa-adf7-4077-a099-d44e8be694f8@216.24.57.1:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RENDER ┇ 216.24.57.1
+vless://fc17b2ae-137c-431a-9637-1eec14fae4c4@216.24.57.1:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RENDER ┇ 216.24.57.1
 vless://1d71b9b4-1e47-4b39-9d12-4c37652306c4@zasd2.conectbsh.group:2086?type=httpupgrade&security=none&path=/?ed=2086#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RENDER ┇ 216.24.57.1

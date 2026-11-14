@@ -1,0 +1,1 @@
+vless://977312ed-ee57-4abc-b56a-8cddc5a58323@p1.alonex.cc.cd:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=BN3_Ot9hYKOH2NLFyYA4fgyTZuMUac_ICL24sU9O4zU&sid=494018ae#US 🇺🇸 ┇ VLESS-TCP-RLT - AKAMAI-AS ┇ 16.170.35.103

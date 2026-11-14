@@ -1,1 +1,1 @@
-vless://60054261-299d-40ac-8b82-b76c29cb2d56@static.66.192.105.178.clients.your-server.de.savfasf.ir:443?type=tcp&security=tls&sni=tcptlsdigikala.savfasf.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Noavaran Fan Avazeh Co. PJS ┇ 178.105.192.66
+vless://8733d1e5-6f6e-49bc-8c04-079ec4a8da64@static.66.192.105.178.clients.your-server.de.savfasf.ir:443?type=tcp&security=tls&sni=TcpTlsDigikaLa.SavfaSf.iR.&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Noavaran Fan Avazeh Co. PJS ┇ 178.105.192.66

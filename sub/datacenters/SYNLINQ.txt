@@ -1,0 +1,2 @@
+vless://0cc6c31c-e606-4099-86ed-1710ca2cd532@fi.vz-or.com:443?type=ws&security=none&path=/api#DE 🇩🇪 ┇ VLESS-WS-NTLS - SYNLINQ ┇ 89.106.86.220
+vless://0cc6c31c-e606-4099-86ed-1710ca2cd532@de.vz-or.com:443?type=ws&security=none&path=/api#DE 🇩🇪 ┇ VLESS-WS-NTLS - SYNLINQ ┇ 89.106.86.241

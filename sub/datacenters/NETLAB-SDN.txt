@@ -1,1 +1,1 @@
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.40.36.220:443?type=tcp&security=none&path=/tyxyws#US 🇺🇸 ┇ VLESS-TCP-NTLS - NETLAB-SDN ┇ 154.40.36.220
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.40.36.220:443?type=tcp&security=tls&path=/tyxyws#US 🇺🇸 ┇ VLESS-TCP-TLS - NETLAB-SDN ┇ 154.40.36.220

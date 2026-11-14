@@ -1,1 +1,0 @@
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.66.129.12:443?type=tcp&security=none&path=/tyxyws#JP 🇯🇵 ┇ VLESS-TCP-NTLS - xTom Japan Corporation ┇ 45.66.129.12

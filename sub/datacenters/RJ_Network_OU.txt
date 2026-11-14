@@ -1,3 +1,2 @@
-vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.50:443?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.184.50
 vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.79:443?type=tcp&security=reality&sni=185.215.184.79&fp=chrome&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.184.79
-vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.86:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.184.86
+vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.50:443?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.184.50

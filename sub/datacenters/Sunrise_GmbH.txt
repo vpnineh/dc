@@ -1,1 +1,2 @@
+vless://00f7637c-acab-465b-933a-727becde5c1b@cdn.cloudof1.ir:443?type=ws&security=none&path=/vcffrt#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.170
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTdW5yaXNlIEdtYkggXHUyNTA3IDg0Ljc1Ljc2LjE2IiwiYWRkIjoiODQuNzUuNzYuMTYiLCJwb3J0Ijo0NDMsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIn0

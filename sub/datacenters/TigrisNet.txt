@@ -1,0 +1,1 @@
+vless://a5a8ffd9-17b9-0007-840d-bb69289f94fc@cdn0-01.cdn-vkvideo.com:443?type=tcp&security=reality&sni=cdn0-01.cdn-vkvideo.com&fp=chrome&flow=xtls-rprx-vision&pbk=cf7j5G-01AQB0n1WWdVnviRnG32BCLdCMdEe9-s3BA0&sid=b0d8f264b7ac8ac0#IQ 🇮🇶 ┇ VLESS-TCP-RLT - TigrisNet ┇ 81.90.24.207

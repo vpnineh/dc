@@ -1,1 +1,0 @@
-vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?type=httpupgrade&security=tls&path=/&sni=adm.moshtaaf.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - DEDICATED-FIBER-COMMUNICATIONS ┇ 107.181.112.120

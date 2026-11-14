@@ -1,5 +1,4 @@
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=false&path=/vless&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.70.41
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?type=tcp&security=false&path=/&fp=chrome#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.86.60.174
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.86.60.190
-vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.86.61.133
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
+vless://a5a8ffd9-17b9-000a-840d-bb69289f94fc@lywd3zccl0w7a4ih.customer.velacdn.com:443?type=tcp&security=reality&sni=lywd3zccl0w7a4ih.customer.velacdn.com&fp=chrome&flow=xtls-rprx-vision&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9#LT 🇱🇹 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.254.116
+vless://a5a8ffd9-17b9-000a-840d-bb69289f94fc@i9opm01r3dlmnajh.customer.velacdn.com:2053?type=xhttp&security=reality&path=/api/v1/video/chunk&sni=i9opm01r3dlmnajh.customer.velacdn.com&fp=chrome&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=8096b8ec0b504d8f#LT 🇱🇹 ┇ VLESS-XHTTP-RLT - Pq Hosting Plus S.r.l. ┇ 138.124.254.116
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39

@@ -1,1 +1,2 @@
-vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@pebble.gerqix.online:443?type=grpc&security=tls&sni=pebble.gerqix.online&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 91.198.220.117
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@linen.gerqix.online:443?type=grpc&security=tls&sni=linen.gerqix.online&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 91.198.220.117

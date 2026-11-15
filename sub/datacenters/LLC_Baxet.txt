@@ -1,1 +1,1 @@
-vless://FastKey_245891@46.29.161.126:8080?type=ws&security=none&path=/api#RU 🇷🇺 ┇ VLESS-WS-NTLS - LLC Baxet ┇ 46.29.161.126
+vless://FastKey_632672@46.29.161.126:8080?type=ws&security=none&path=/api#RU 🇷🇺 ┇ VLESS-WS-NTLS - LLC Baxet ┇ 46.29.161.126

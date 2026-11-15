@@ -1,2 +1,3 @@
 vless://683680cc-7de6-40a1-80ae-acfb02b16100@so8.fereshtehagonahnemikonnad.ir:18444?type=tcp&security=tls&sni=so8.fereshtehagonahnemikonnad.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Jisc Services Limited ┇ 136.148.64.50
 vless://683680cc-7de6-40a1-80ae-acfb02b16100@so8.fereshtehagonahnemikonnad.ir:8081?type=tcp&security=none&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Jisc Services Limited ┇ 136.148.64.50
+vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&sni=3eebf4b1.plp1.h1cloud.net&fp=chrome&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1#GB 🇬🇧 ┇ VLESS-TCP-RLT - Jisc Services Limited ┇ 136.148.208.218

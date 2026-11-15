@@ -1,2 +1,1 @@
-vless://a52ac672-0f5f-4070-b8fd-6b5685fc8004@199.7.140.201:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - NETLAB-SDN ┇ 199.7.140.201
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.40.36.220:443?type=tcp&security=tls&path=/tyxyws#US 🇺🇸 ┇ VLESS-TCP-TLS - NETLAB-SDN ┇ 154.40.36.220

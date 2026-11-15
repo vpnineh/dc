@@ -1,1 +1,2 @@
-vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?type=tcp&security=tls#GB 🇬🇧 ┇ VLESS-TCP-TLS - Jisc Services Limited ┇ 136.148.213.96
+vless://683680cc-7de6-40a1-80ae-acfb02b16100@so8.fereshtehagonahnemikonnad.ir:18444?type=tcp&security=tls&sni=so8.fereshtehagonahnemikonnad.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Jisc Services Limited ┇ 136.148.64.50
+vless://683680cc-7de6-40a1-80ae-acfb02b16100@so8.fereshtehagonahnemikonnad.ir:8081?type=tcp&security=none&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Jisc Services Limited ┇ 136.148.64.50

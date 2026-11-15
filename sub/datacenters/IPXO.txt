@@ -1,3 +1,3 @@
 vless://00f7637c-acab-465b-933a-727becde5c1b@cdn.cloudof1.ir:443?type=ws&security=none&path=/vcffrt#BE 🇧🇪 ┇ VLESS-WS-NTLS - IPXO ┇ 212.100.171.189
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@summit.blog-forme.ru:2087?type=xhttp&security=reality&path=/v2/sync/6e9367&sni=summit.blog-forme.ru&fp=chrome&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - IPXO ┇ 95.85.231.3
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:2087?type=xhttp&security=reality&path=/v2/sync/6e9367&sni=guide.blog-forme.ru&fp=edge&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - IPXO ┇ 95.85.231.3
 vless://a94d8907-6bbb-4570-80d3-dfdc314c1e7a@lt.t1n2.com:443?type=tcp&security=tls&sni=lt.t1n2.com&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - IPXO ┇ 84.32.51.250

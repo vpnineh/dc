@@ -1,1 +1,1 @@
-vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?type=grpc&security=reality&sni=362c1eg.se1.h1clayd.click&fp=chrome&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Servers Tech Fzco ┇ 89.110.127.54
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@5.35.44.218:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 5.35.44.218

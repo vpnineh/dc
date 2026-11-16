@@ -1,1 +1,2 @@
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 147.45.108.45
 vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240

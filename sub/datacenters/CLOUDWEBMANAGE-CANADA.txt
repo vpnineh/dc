@@ -1,0 +1,1 @@
+vless://8415d003-15be-4f6d-b452-b5b5bdc187e6@78.138.17.65:443?type=tcp&security=reality#CA 🇨🇦 ┇ VLESS-TCP-RLT - CLOUDWEBMANAGE-CANADA ┇ 78.138.17.65

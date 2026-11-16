@@ -1,2 +1,2 @@
-vless://683680cc-7de6-40a1-80ae-acfb02b16100@so9.fereshtehagonahnemikonnad.ir:8081?type=tcp&security=none&flow=xtls-rprx-vision#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TENNANT-SOFTWARE ┇ 64.49.15.167
-vless://683680cc-7de6-40a1-80ae-acfb02b16100@so9.fereshtehagonahnemikonnad.ir:18444?type=tcp&security=tls&sni=so9.fereshtehagonahnemikonnad.ir&fp=chrome#CA 🇨🇦 ┇ VLESS-TCP-TLS - TENNANT-SOFTWARE ┇ 64.49.15.167
+vless://683680cc-7de6-40a1-80ae-acfb02b16100@so9.fereshtehagonahnemikonnad.ir:8081?type=tcp&security=none&flow=xtls-rprx-vision#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TENNANT-SOFTWARE ┇ 64.49.15.113
+vless://683680cc-7de6-40a1-80ae-acfb02b16100@so9.fereshtehagonahnemikonnad.ir:18444?type=tcp&security=tls&sni=so9.fereshtehagonahnemikonnad.ir&fp=chrome#CA 🇨🇦 ┇ VLESS-TCP-TLS - TENNANT-SOFTWARE ┇ 64.49.15.113

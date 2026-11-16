@@ -1,4 +1,2 @@
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.streamru4.net:443?type=tcp&security=tls&sni=app.streamru4.net&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - UAB Cherry Servers ┇ 84.32.100.247
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 88.216.220.88
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?type=grpc&security=reality&sni=api.noneok.com&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#DE 🇩🇪 ┇ VLESS-GRPC-RLT - UAB Cherry Servers ┇ 88.216.220.87
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?type=tcp&security=reality&sni=admin.betust.net&fp=chrome&flow=xtls-rprx-vision&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Cherry Servers ┇ 5.199.171.123

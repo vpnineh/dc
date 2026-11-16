@@ -1,2 +1,2 @@
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 147.45.108.45
 vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240
+vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@newerson.online:443?type=tcp&security=reality&sni=newerson.online&fp=chrome&flow=xtls-rprx-vision&pbk=TiKF_6UGMtWhgDiAGLsAtyYwyv-s3HxG6F0P9ltyf1U&sid=8888265ef63fba6d#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 89.169.3.149

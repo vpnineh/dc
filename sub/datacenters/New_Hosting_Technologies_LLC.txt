@@ -1,0 +1,1 @@
+vless://df03600f-f20a-4b8c-955c-cdcf96b1a4b2@7xncdn.shardtech.pro:443?type=tcp&security=reality&sni=7xncdn.shardtech.pro&fp=firefox&flow=xtls-rprx-vision&pbk=exMJ2DIglSgZ7Ly4qR83kRJs6RGzVk-qJMg7Qz-kCRs&sid=55901e05c3d5dfd3#RU 🇷🇺 ┇ VLESS-TCP-RLT - New Hosting Technologies LLC ┇ 194.55.239.51

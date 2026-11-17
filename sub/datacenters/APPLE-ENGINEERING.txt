@@ -1,1 +1,0 @@
-vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?type=tcp&security=reality&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&sid=b10dd5#US 🇺🇸 ┇ VLESS-TCP-RLT - APPLE-ENGINEERING ┇ 57.131.21.102

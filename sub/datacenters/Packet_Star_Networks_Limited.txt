@@ -1,2 +1,2 @@
-vless://0ad875ef-b751-46e3-aa89-e1ae20e43bcc@us.onecloudtraining.com:443?type=xhttp&security=tls&path=/media/v1/push/NKdRufUu3q&sni=us.onecloudtraining.com&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Packet Star Networks Limited ┇ 194.46.58.133
 vless://0ad875ef-b751-46e3-aa89-e1ae20e43bcc@proxy.onecloudtraining.com:443?type=xhttp&security=tls&path=/assets/v1/segment/tNDnAEKWSp&sni=proxy.onecloudtraining.com#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Packet Star Networks Limited ┇ 194.46.58.130
+vless://0ad875ef-b751-46e3-aa89-e1ae20e43bcc@us.onecloudtraining.com:443?type=xhttp&security=tls&path=/media/v1/push/NKdRufUu3q&sni=us.onecloudtraining.com&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Packet Star Networks Limited ┇ 194.46.58.133

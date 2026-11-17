@@ -1,1 +1,2 @@
-vless://666804a9-d60b-4145-8767-e9e1b0eef266@v55.nimbaha2.ir:51724?type=ws&security=none&path=/GHFVT#CH 🇨🇭 ┇ VLESS-WS-NTLS - Sunrise GmbH ┇ 178.83.45.219
+vless://01868cd8-7316-45c2-bc72-62e847e41b81@goold.zovip2.ir:443?type=ws&security=tls&path=/api/v3/pulse&sni=goold.zovip2.ir&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-TLS - Sunrise GmbH ┇ 178.83.46.138
+vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTdW5yaXNlIEdtYkggXHUyNTA3IDg0Ljc1Ljc2LjE2IiwiYWRkIjoiODQuNzUuNzYuMTYiLCJwb3J0Ijo0NDMsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIn0

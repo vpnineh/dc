@@ -1,2 +1,2 @@
-vless://683680cc-7de6-40a1-80ae-acfb02b16100@so8.fereshtehagonahnemikonnad.ir:18444?type=tcp&security=tls&sni=so8.fereshtehagonahnemikonnad.ir&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - CRUNCHBITS ┇ 64.49.13.54
 vless://683680cc-7de6-40a1-80ae-acfb02b16100@so8.fereshtehagonahnemikonnad.ir:8081?type=tcp&security=none&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-NTLS - CRUNCHBITS ┇ 64.49.13.54
+vless://683680cc-7de6-40a1-80ae-acfb02b16100@so8.fereshtehagonahnemikonnad.ir:18444?type=tcp&security=tls&sni=so8.fereshtehagonahnemikonnad.ir&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - CRUNCHBITS ┇ 64.49.13.54

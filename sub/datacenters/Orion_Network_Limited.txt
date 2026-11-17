@@ -1,2 +1,1 @@
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?type=tcp&security=reality#LY 🇱🇾 ┇ VLESS-TCP-RLT - Orion Network Limited ┇ 196.199.122.2
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@3b3377x.es5.h1clayd.click:443?type=xhttp&security=reality&path=/&sni=3b3377x.es5.h1clayd.click&fp=firefox&pbk=N4cPAkl5hvo7SchiN_WHEwLBLICAXGtq85BP7S_6ORI&sid=dfd8d9d06bd8ce60#NG 🇳🇬 ┇ VLESS-XHTTP-RLT - Orion Network Limited ┇ 196.196.149.22
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@3b3377x.es5.h1clayd.click:443?type=xhttp&security=reality&path=/&sni=3b3377x.es5.h1clayd.click&fp=firefox&pbk=N4cPAkl5hvo7SchiN_WHEwLBLICAXGtq85BP7S_6ORI&sid=dfd8d9d06bd8ce60#LY 🇱🇾 ┇ VLESS-XHTTP-RLT - Orion Network Limited ┇ 196.199.122.3

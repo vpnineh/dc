@@ -1,1 +1,0 @@
-vless://0052b8de-48bc-4cfa-b8a1-13678bd560ce@dl.clts.ir:443?type=xhttp&security=tls&path=/de/api/v5/stream&sni=dl.clts.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.43

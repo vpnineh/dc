@@ -1,1 +1,1 @@
-vless://3dbd9377-43cc-46c3-b32c-2605908024eb@czechia.richforever.ru:443?type=xhttp&security=reality&path=/49b9f446&sni=czechia.richforever.ru&fp=chrome&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f#CN 🇨🇳 ┇ VLESS-XHTTP-RLT - rainbow network limited ┇ 103.118.211.38
+vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-NTLS - rainbow network limited ┇ 103.118.211.38

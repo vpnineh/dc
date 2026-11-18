@@ -1,1 +1,2 @@
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@suh.cryptofront.uk:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 158.220.113.176
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - Contabo GmbH ┇ 213.136.92.67

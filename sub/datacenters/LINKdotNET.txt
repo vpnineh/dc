@@ -1,0 +1,1 @@
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?type=tcp&security=reality#EG 🇪🇬 ┇ VLESS-TCP-RLT - LINKdotNET ┇ 41.196.0.128

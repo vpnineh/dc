@@ -1,1 +1,0 @@
-vless://683680cc-7de6-40a1-80ae-acfb02b16100@so7.fereshtehagonahnemikonnad.ir:8081?type=tcp&security=none&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Jisc Services Limited ┇ 136.148.64.110

@@ -1,1 +1,0 @@
-vless://fbc56397-8a6e-4f05-bc18-70d232905632@taj.blaackgame.ir:2087?type=tcp&security=tls&sni=taj.blaackgame.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 78.109.198.72

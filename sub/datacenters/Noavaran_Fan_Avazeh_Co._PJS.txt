@@ -1,2 +1,1 @@
 vless://8733d1e5-6f6e-49bc-8c04-079ec4a8da64@static.66.192.105.178.clients.your-server.de.savfasf.ir:443?type=tcp&security=tls&sni=TcpTlsDigikaLa.SavfaSf.iR.&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Noavaran Fan Avazeh Co. PJS ┇ 178.105.192.66
-vless://4e3ac448-714d-47ee-a9ca-7fb4e0271de3@fr.pasmazy1.ir:2499?type=grpc&security=reality&sni=digikala.com&fp=firefox&pbk=cVQrvE1AqQyjH5c1LLmOE6-ZTd9nkxEKZiO8Nw_mYUw&sid=e025f93a8def23e5#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Noavaran Fan Avazeh Co. PJS ┇ 152.89.253.51

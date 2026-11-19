@@ -1,0 +1,1 @@
+vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?type=tcp&security=tls&sni=cdn4.velmoradigital.store&fp=firefox&flow=xtls-rprx-vision#RO 🇷🇴 ┇ VLESS-TCP-TLS - Tennet Telecom Srl ┇ 89.41.182.79

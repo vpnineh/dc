@@ -1,1 +1,2 @@
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?type=grpc&security=reality&sni=api.noneok.com&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#DE 🇩🇪 ┇ VLESS-GRPC-RLT - UAB Cherry Servers ┇ 88.216.220.87
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.209.118

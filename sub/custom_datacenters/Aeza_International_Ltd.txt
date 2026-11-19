@@ -1,3 +1,1 @@
-vless://04cbe9ea-9791-4195-827f-5d4cabbdba10@95.163.153.141:8443?type=tcp&security=none&path=/#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 95.163.153.141
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
-vless://3dbd9377-43cc-46c3-b32c-2605908024eb@u1de.richforever.ru:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.239.123.49

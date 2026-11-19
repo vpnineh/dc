@@ -1,0 +1,1 @@
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@185.86.147.211:443?type=ws&security=tls&path=/assets/chunk/AFaAJmUwqcwd&sni=185.86.147.211&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 185.86.147.211

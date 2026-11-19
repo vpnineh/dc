@@ -1,0 +1,1 @@
+vless://019832a7-9376-445a-ba66-76ee9df0685d@185.112.56.83:8443?type=tcp&security=none&path=/48hvv8hg7bnJhg71xcdRE32?ed#JP 🇯🇵 ┇ VLESS-TCP-NTLS - WS Telecom Inc ┇ 185.112.56.83

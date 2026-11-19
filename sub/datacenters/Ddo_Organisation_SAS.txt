@@ -1,2 +1,1 @@
 vless://f24e8412-9d11-49db-9736-edab5d6fb707@141.0.187.5:11443?type=tcp&security=reality&sni=141.0.187.4&fp=chrome&flow=xtls-rprx-vision&pbk=GPz7dacpjZ5iHT5pbZfYap1vpyt85mNKV7BVW3R92hE&sid=26ca0f0ba115925d#FR 🇫🇷 ┇ VLESS-TCP-RLT - Ddo Organisation SAS ┇ 141.0.187.5
-vless://568e8786-99b5-4a26-b3af-a90e86ee0223@141.0.187.237:11443?type=tcp&security=reality&sni=141.0.187.20&fp=chrome&flow=xtls-rprx-vision&pbk=hEf0Dx035SZMYkAAst1XKk-a2qNeCx78HKoKHvvEiHE&sid=fac7f49ce084bb51#FR 🇫🇷 ┇ VLESS-TCP-RLT - Ddo Organisation SAS ┇ 141.0.187.237

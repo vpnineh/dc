@@ -1,4 +1,3 @@
 vless://7090ac99-6356-47e7-b046-814c4f8b7bff@iroo5.netbazshop.ir:2053?type=xhttp&security=tls&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Web Gostaran Bandar Company (PJS) ┇ 37.32.44.145
-vless://7090ac99-6356-47e7-b046-814c4f8b7bff@iroo6.netbazshop.ir:2087?type=xhttp&security=tls&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Web Gostaran Bandar Company (PJS) ┇ 37.32.44.146
 vless://7090ac99-6356-47e7-b046-814c4f8b7bff@iroo4.netbazshop.ir:2083?type=xhttp&security=tls&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Web Gostaran Bandar Company (PJS) ┇ 37.32.44.144
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBHb3N0YXJhbiBCYW5kYXIgQ29tcGFueSAoUEpTKSBcdTI1MDcgMzcuMzIuNDQuMjA0IiwiYWRkIjoic3ItdmlwNS5hcndhbmRwaW5nLmNvbSIsInBvcnQiOjgwODAsImlkIjoiNzZjY2IxNjQtZjk0MS00Y2M1LWIwZDQtYTczZWVhYzgzOWI5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ

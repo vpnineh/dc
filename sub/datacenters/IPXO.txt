@@ -1,2 +1,2 @@
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:2087?type=xhttp&security=reality&path=/v2/sync/6e9367&sni=guide.blog-forme.ru&fp=chrome&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23#CZ 🇨🇿 ┇ VLESS-XHTTP-RLT - IPXO ┇ 95.85.231.3
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru14.net:443?type=tcp&security=tls&path=/&sni=app.streamru14.net&fp=chrome&flow=xtls-rprx-vision#LT 🇱🇹 ┇ VLESS-TCP-TLS - IPXO ┇ 84.32.98.168
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru14.net:443?type=tcp&security=tls&sni=app.streamru14.net&fp=chrome&flow=xtls-rprx-vision#LT 🇱🇹 ┇ VLESS-TCP-TLS - IPXO ┇ 84.32.98.168

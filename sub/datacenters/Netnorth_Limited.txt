@@ -1,1 +1,2 @@
 vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@asure.win:443?type=tcp&security=reality&sni=asure.win&fp=chrome&flow=xtls-rprx-vision&pbk=hWCFExEaWdK89gLmGDQagZd2mlwOWLTcx38DlyNeShQ&sid=de1d5c00b48cb395#GB 🇬🇧 ┇ VLESS-TCP-RLT - Netnorth Limited ┇ 82.148.242.194
+vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@d58daft.plp1.h1cloud.net:443?type=tcp&security=reality&sni=d58daft.plp1.h1cloud.net&fp=chrome&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&sid=a91531ad58c8611c#GB 🇬🇧 ┇ VLESS-TCP-RLT - Netnorth Limited ┇ 82.148.242.8

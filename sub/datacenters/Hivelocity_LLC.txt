@@ -1,1 +1,1 @@
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.streamru10.net:443?type=tcp&security=tls&sni=app.streamru10.net&fp=chrome&flow=xtls-rprx-vision#LT 🇱🇹 ┇ VLESS-TCP-TLS - Hivelocity LLC ┇ 84.32.154.74
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.streamru10.net:443?type=tcp&security=tls&sni=app.streamru10.net&fp=chrome&flow=xtls-rprx-vision#LT 🇱🇹 ┇ VLESS-TCP-TLS - Hivelocity LLC ┇ 84.32.154.75

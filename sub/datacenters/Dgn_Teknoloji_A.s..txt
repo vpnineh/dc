@@ -1,5 +1,0 @@
-vless://e1eaef08-e4ff-4843-9926-c0c84a034bad@185.71.216.95:2089?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Dgn Teknoloji A.s. ┇ 185.71.216.95
-vless://74821d64-581c-4461-b92d-d61827ab7452@185.71.216.94:2088?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Dgn Teknoloji A.s. ┇ 185.71.216.94
-vless://e1eaef08-e4ff-4843-9926-c0c84a034bad@185.71.216.94:2089?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Dgn Teknoloji A.s. ┇ 185.71.216.94
-vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.95:2092?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Dgn Teknoloji A.s. ┇ 185.71.216.95
-vless://74821d64-581c-4461-b92d-d61827ab7452@185.71.216.95:2088?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-RLT - Dgn Teknoloji A.s. ┇ 185.71.216.95

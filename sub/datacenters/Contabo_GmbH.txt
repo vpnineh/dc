@@ -1,1 +1,2 @@
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@suh.cryptofront.uk:80?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Contabo GmbH ┇ 158.220.113.176
+vless://b004e898-f6cf-54a5-d281-f063d741ad53@xray-ckc68nno-swift-harbor-8.cloady.io:443?type=ws&security=tls&path=/3e0261245277336d&sni=xray-ckc68nno-swift-harbor-8.cloady.io&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Contabo GmbH ┇ 94.72.100.12

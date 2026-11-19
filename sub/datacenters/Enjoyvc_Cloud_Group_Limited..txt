@@ -1,0 +1,1 @@
+vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?type=tcp&security=reality&sni=144.48.11.146&fp=chrome&flow=xtls-rprx-vision&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980#US 🇺🇸 ┇ VLESS-TCP-RLT - Enjoyvc Cloud Group Limited. ┇ 144.48.11.146

@@ -1,0 +1,1 @@
+vless://fbe13da8-ed47-4a95-a894-269ae0b26839@nt2.jetgemini.ir:5051?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 148.135.207.231

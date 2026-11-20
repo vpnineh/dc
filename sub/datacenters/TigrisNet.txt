@@ -1,0 +1,1 @@
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?type=tcp&security=none&path=/cdn/v3/live?ed#IQ 🇮🇶 ┇ VLESS-TCP-NTLS - TigrisNet ┇ 81.90.21.163

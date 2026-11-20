@@ -1,1 +1,0 @@
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl11.h1clayd.click:443?type=tcp&security=reality&sni=8a2e72t.nl11.h1clayd.click&fp=chrome&flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98#IL 🇮🇱 ┇ VLESS-TCP-RLT - Bezeq International Ltd. ┇ 79.182.70.245

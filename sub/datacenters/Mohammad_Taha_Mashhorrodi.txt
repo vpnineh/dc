@@ -1,0 +1,2 @@
+vless://78135704-67f9-4586-8ffd-d1fe541b3c6d@tunir.helpower.ir:9444?type=tcp&security=tls&sni=tunir.helpower.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.204
+vless://78135704-67f9-4586-8ffd-d1fe541b3c6d@tunir.helpower.ir:9443?type=tcp&security=tls&sni=tunir.helpower.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.204

@@ -1,1 +1,1 @@
-vless://9a2ae733-250c-447f-9ef3-ab9c7bd97999@77.90.10.180:8080?type=tcp&security=reality&path=/b4920d9c064cfe38c0021723#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.10.180
+vless://9a2ae733-250c-447f-9ef3-ab9c7bd97999@01adaca48c7b018301adaca48c7b018301adaca48c7b0183.poeq.ir:8080?type=tcp&security=reality&path=/b4920d9c064cfe38c0021723#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.10.180

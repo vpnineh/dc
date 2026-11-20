@@ -1,0 +1,1 @@
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?type=tcp&security=none#IL 🇮🇱 ┇ VLESS-TCP-NTLS - Partner Communications Ltd. ┇ 185.95.231.156

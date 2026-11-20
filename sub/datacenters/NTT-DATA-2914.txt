@@ -1,2 +1,2 @@
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?type=tcp&security=tls&sni=app.streamru1.com&fp=firefox&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - NTT-DATA-2914 ┇ 31.58.213.201
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru3.net:443?type=tcp&security=tls&sni=app.streamru3.net&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - NTT-DATA-2914 ┇ 31.58.213.235
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?type=tcp&security=tls&sni=app.streamru1.com&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - NTT-DATA-2914 ┇ 31.58.213.201

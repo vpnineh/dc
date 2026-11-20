@@ -1,0 +1,1 @@
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@folio.basterdym.asia:443?type=xhttp&security=tls&sni=folio.basterdym.asia&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - BROWN ┇ 138.16.249.177

@@ -1,1 +1,1 @@
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r5.pythonmakemigreat.wiki:8443?type=tcp&security=reality&path=/#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 77.221.151.153
+vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@asure.win:443?type=tcp&security=reality&sni=asure.win&fp=chrome&flow=xtls-rprx-vision&pbk=hWCFExEaWdK89gLmGDQagZd2mlwOWLTcx38DlyNeShQ&sid=de1d5c00b48cb395#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 85.192.30.15

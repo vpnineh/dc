@@ -1,1 +1,1 @@
-vless://4a923161-156f-4914-8cac-762fb2433bfb@116.206.95.231:43000?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980#JP 🇯🇵 ┇ VLESS-TCP-RLT - rainbow network limited ┇ 116.206.95.231
+vless://3dbd9377-43cc-46c3-b32c-2605908024eb@czechia.richforever.ru:443?type=xhttp&security=reality&path=/49b9f446&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f#CN 🇨🇳 ┇ VLESS-XHTTP-RLT - rainbow network limited ┇ 103.118.211.38

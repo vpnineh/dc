@@ -1,2 +1,0 @@
-vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - COGENT-174 ┇ 86.54.28.75
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@154.12.49.239:80?type=ws&security=none&path=/platform103#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 154.12.49.239

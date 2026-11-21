@@ -1,1 +1,0 @@
-vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?type=tcp&security=tls&sni=157.228.172.4&fp=firefox#GB 🇬🇧 ┇ VLESS-TCP-TLS - Jisc Services Limited ┇ 157.228.172.4

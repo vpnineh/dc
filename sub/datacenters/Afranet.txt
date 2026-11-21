@@ -1,2 +1,0 @@
-vless://a24cd01e-e3d6-4b33-b3c4-69c2bdaa8a68@shop.ritmexo.ir:53231?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.199.222
-vless://970909e2-ec2b-4ac9-8b76-a2845d43676e@31.14.116.124:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.116.124

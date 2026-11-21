@@ -1,1 +1,1 @@
-vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@ec7a81g.de15.h1clayd.click:443?type=grpc&security=reality&sni=ec7a81g.de15.h1clayd.click&fp=edge&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&sid=7a8e24da4eb2c1b5#BG 🇧🇬 ┇ VLESS-GRPC-RLT - RELIABLESITE ┇ 193.148.253.92
+vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@ec7a81g.de15.h1clayd.click:443?type=grpc&security=reality&sni=ec7a81g.de15.h1clayd.click&fp=chrome&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&sid=7a8e24da4eb2c1b5#BG 🇧🇬 ┇ VLESS-GRPC-RLT - RELIABLESITE ┇ 193.148.253.92

@@ -1,3 +1,4 @@
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@foliose.merlano.monster:443?type=ws&security=tls&path=/api/de2/stream&sni=foliose.merlano.monster&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 81.200.158.26
 vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240
+vless://c9dcf142-10a2-4864-8359-71d4a211b512@188.225.36.108:443?type=tcp&security=reality&sni=188.225.36.108&fp=chrome&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 188.225.36.108
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@quay.gerqix.online:443?type=ws&security=tls&path=/api/de2/stream&sni=quay.gerqix.online&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 194.87.131.9
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@foliose.merlano.monster:443?type=ws&security=tls&path=/api/de2/stream&sni=foliose.merlano.monster&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 81.200.158.26

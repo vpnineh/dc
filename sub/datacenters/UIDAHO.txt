@@ -1,4 +1,2 @@
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@copperleaf.gerqix.online:443?type=grpc&security=tls&sni=copperleaf.gerqix.online&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - UIDAHO ┇ 129.101.109.102
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@sunfield.moltex.click:443?type=xhttp&security=tls&path=/api/de1/sync&sni=sunfield.moltex.click&fp=ios#US 🇺🇸 ┇ VLESS-XHTTP-TLS - UIDAHO ┇ 129.101.109.232
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@ru7e2bab87cc39.eu-cdn539.com:443?type=tcp&security=reality&sni=ru7e2bab87cc39.eu-cdn539.com&fp=chrome&flow=xtls-rprx-vision&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&sid=3992cc7fb9fcbe58#US 🇺🇸 ┇ VLESS-TCP-RLT - UIDAHO ┇ 129.101.98.60
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@riverside.elvano.website:443?type=xhttp&security=tls&sni=riverside.elvano.website&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - UIDAHO ┇ 129.101.108.34
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@sketch.merlano.monster:443?type=xhttp&security=tls&path=/api/de1/sync&sni=sketch.merlano.monster&fp=firefox#US 🇺🇸 ┇ VLESS-XHTTP-TLS - UIDAHO ┇ 129.101.109.129

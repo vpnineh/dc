@@ -1,1 +1,1 @@
-vless://2ef30a82-2f35-42a7-8908-da4b6124f293@8.6.112.0:443?type=ws&security=tls&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.0
+vless://4f5deb9f-3354-45ec-8f55-b2c6b4cb149a@8.6.112.0:443?type=ws&security=tls&fp=firefox#AT 🇦🇹 ┇ VLESS-WS-TLS - LEVEL3 ┇ 8.6.112.0

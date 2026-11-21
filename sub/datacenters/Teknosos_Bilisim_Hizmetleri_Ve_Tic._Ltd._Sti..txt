@@ -1,0 +1,1 @@
+vless://6401d88e-b24c-4497-95db-fe26f7b772dd@193.31.117.190:8443?type=httpupgrade&security=none&path=/#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 193.31.117.190

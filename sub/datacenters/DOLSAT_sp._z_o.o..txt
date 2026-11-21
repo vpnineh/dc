@@ -1,1 +1,0 @@
-vless://FastKey_925294@vaa.fastcdn2.com:443?type=xhttp&security=tls&path=/api&sni=vaa.fastcdn2.com&fp=chrome#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - DOLSAT sp. z o.o. ┇ 87.199.201.155

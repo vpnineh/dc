@@ -1,2 +1,2 @@
-vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@nl.point.cookie-line.cc:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - TDC Holding A/S ┇ 87.58.201.5
 vless://awlix_ir@87.58.159.20:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - TDC Holding A/S ┇ 87.58.159.20
+vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@nl.point.cookie-line.cc:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - TDC Holding A/S ┇ 87.58.201.5

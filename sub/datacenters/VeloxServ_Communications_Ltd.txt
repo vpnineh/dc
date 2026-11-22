@@ -1,1 +1,0 @@
-vless://afbbd053-3c90-43e2-9d6a-5b942ae2a9ab@fr.pasmazy1.ir:43433?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - VeloxServ Communications Ltd ┇ 152.89.253.51

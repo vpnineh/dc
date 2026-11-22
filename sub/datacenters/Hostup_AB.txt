@@ -1,1 +1,1 @@
-vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?type=tcp&security=tls&sni=lodizu.hagrid-connected.com&fp=chrome&flow=xtls-rprx-vision#SE 🇸🇪 ┇ VLESS-TCP-TLS - Hostup AB ┇ 103.177.249.143
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?type=tcp&security=tls&sni=lodizu.hagrid-connected.com&fp=chrome&flow=xtls-rprx-vision#SE 🇸🇪 ┇ VLESS-TCP-TLS - Hostup AB ┇ 206.168.213.117

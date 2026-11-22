@@ -1,2 +1,1 @@
-vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@94.249.198.124:31652?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IS-AS-1 ┇ 94.249.198.124
 vless://97462b18-1836-4e4f-b0fb-5c84d38a2e9d@94.249.198.211:43000?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=QaPoY-5W4Z7NA_LUG37yjYNy3JWg53Ru7eWLTzec-nE&sid=b62ac375#DE 🇩🇪 ┇ VLESS-TCP-RLT - IS-AS-1 ┇ 94.249.198.211

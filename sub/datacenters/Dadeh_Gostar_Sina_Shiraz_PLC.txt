@@ -1,2 +1,1 @@
 vless://b856294d-5767-4878-8cf5-c1d5ffbfb284@dl3.mbndadwsdf132131.torkey.ir:8443?type=xhttp&security=tls&path=/assets/v1&sni=dl3.mbndadwsdf132131.torkey.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.177
-vless://b856294d-5767-4878-8cf5-c1d5ffbfb284@dl2.mbndadwsdf132131.torkey.ir:2096?type=ws&security=tls&path=/assets/ws&sni=dl2.mbndadwsdf132131.torkey.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.177

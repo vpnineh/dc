@@ -1,1 +1,1 @@
-vless://03786aa4-21a5-4e7c-83d6-873aafc41217@nl-06.neverspy.tech:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.112.59.157
+vless://03786aa4-21a5-4e7c-83d6-873aafc41217@nl-06.neverspy.tech:443?type=tcp&security=reality&sni=nl-06.neverspy.tech&fp=chrome&flow=xtls-rprx-vision&pbk=sZXAejndrxL9cgna_fPXmbSB28y8yAJ9Ln6hRzy5TV0&sid=86af85a72387ef02#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.112.59.157

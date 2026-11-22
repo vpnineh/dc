@@ -1,2 +1,2 @@
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
-vless://3dbd9377-43cc-46c3-b32c-2605908024eb@77.239.102.240:443?type=tcp&security=reality&path=/74a885a9#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.239.102.240
+vless://7d714031-76a9-4500-a132-27dd3307b16e@kinonl5.boevik-tut.org:443?type=tcp&security=tls&sni=kinonl5.boevik-tut.org#NL 🇳🇱 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 138.124.52.47

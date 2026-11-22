@@ -1,1 +1,2 @@
+vless://4dde0df3-aa67-417c-882e-28beb3886961@ge.pinkweb.one:443?type=tcp&security=reality&sni=ge.pinkweb.one&fp=chrome&flow=xtls-rprx-vision&pbk=Zzl9Tz58jFMTnqHQPnQk9AQ4p05Jurdhk3opFRgZ22U&sid=5931256bb93953af#UA 🇺🇦 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 46.28.65.153
 vless://1b4b11d5-4c2d-4533-9a55-636757cdee94@195.211.98.43:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 195.211.98.43

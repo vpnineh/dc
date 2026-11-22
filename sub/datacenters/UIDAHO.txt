@@ -1,2 +1,1 @@
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@ru7e2bab87cc39.eu-cdn539.com:443?type=tcp&security=reality&sni=ru7e2bab87cc39.eu-cdn539.com&fp=chrome&flow=xtls-rprx-vision&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&sid=3992cc7fb9fcbe58#US 🇺🇸 ┇ VLESS-TCP-RLT - UIDAHO ┇ 129.101.98.60
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@sunfield.moltex.click:443?type=xhttp&security=tls&path=/api/de1/sync&sni=sunfield.moltex.click&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - UIDAHO ┇ 129.101.109.232

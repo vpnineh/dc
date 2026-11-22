@@ -1,0 +1,1 @@
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@94.26.35.240:25035?type=tcp&security=none&path=/astral-edge-h1#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Euro Crypt EOOD ┇ 94.26.35.240

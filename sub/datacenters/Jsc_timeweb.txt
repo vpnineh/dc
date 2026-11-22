@@ -1,3 +1,6 @@
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@olvento.space:443?type=grpc&security=tls&sni=olvento.space&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 188.225.36.219
+vless://5ed71633-f82e-4def-b936-3283d20f321e@ru-manage.nodexphere.net:443?type=tcp&security=reality&sni=ru-manage.nodexphere.net&fp=chrome&flow=xtls-rprx-vision&pbk=lDbTuU4-pEAkxizbdrurcjz3eXq0AgECd0hEh0sL0zM#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 217.18.60.161
 vless://37fc45b0-be4d-4920-a0f7-7389e406f5f3@mimowhat.online:443?type=ws&security=tls&path=/content/session/24143d1e15019b9c79a3b463/&sni=mimowhat.online&fp=firefox#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 188.225.35.3
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@hemlock.elvano.website:443?type=grpc&security=tls&sni=hemlock.elvano.website&fp=firefox#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 188.225.78.178
-vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?type=ws&security=tls&path=/wsru&sni=xsru2.freeddns.org&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 147.45.175.81
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@hemlock.elvano.website:443?type=grpc&security=tls&sni=hemlock.elvano.website&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 188.225.78.178
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/&sni=193.160.208.240&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240

@@ -1,0 +1,1 @@
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@195.209.217.111:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Mastertel ┇ 195.209.217.111

@@ -1,3 +1,2 @@
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.178.249:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FDCSERVERS ┇ 50.7.178.249
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru13.net:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FDCSERVERS ┇ 50.7.95.222
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - FDCSERVERS ┇ 66.90.104.42
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart2.khinikadze.com:443?type=tcp&security=reality&sni=smart2.khinikadze.com&fp=chrome&flow=xtls-rprx-vision&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.65

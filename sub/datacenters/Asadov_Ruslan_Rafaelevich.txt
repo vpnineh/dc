@@ -1,1 +1,0 @@
-vless://e3479472-3d5d-4142-842a-44a32b501bd7@es1.cvs-a.com:443?type=tcp&security=reality&sni=es1.cvs-a.com&fp=chrome&flow=xtls-rprx-vision&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#GB 🇬🇧 ┇ VLESS-TCP-RLT - Asadov Ruslan Rafaelevich ┇ 138.124.181.221

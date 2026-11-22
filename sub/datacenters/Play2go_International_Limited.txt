@@ -1,3 +1,3 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBsYXkyZ28gSW50ZXJuYXRpb25hbCBMaW1pdGVkIFx1MjUwNyA5NC4xNTYuMTc5LjEzOCIsImFkZCI6Ijk0LjE1Ni4xNzkuMTM4IiwicG9ydCI6MTEwLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
-vless://8e9aeb50-7ac2-4855-9dfd-399418f190f4@a9.dl6movis.ir:80?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 193.222.99.148
 vless://8e9aeb50-7ac2-4855-9dfd-399418f190f4@app.dl6movis.ir:810?type=xhttp&security=none#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Play2go International Limited ┇ 193.222.99.148
+vless://8e9aeb50-7ac2-4855-9dfd-399418f190f4@a9.dl6movis.ir:80?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 193.222.99.148

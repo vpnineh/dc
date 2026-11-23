@@ -1,4 +1,3 @@
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@grovewood.moltex.click:443?type=xhttp&security=tls&path=/api/de5/sync&sni=grovewood.moltex.click&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 176.98.178.177
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?type=grpc&security=tls&sni=xsru1.ddnsfree.com&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 147.45.175.81
-vless://37fc45b0-be4d-4920-a0f7-7389e406f5f3@mimowhat.online:443?type=ws&security=tls&path=/content/session/24143d1e15019b9c79a3b463/&sni=mimowhat.online&fp=firefox#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 188.225.35.3
-vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/&sni=193.160.208.240&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240

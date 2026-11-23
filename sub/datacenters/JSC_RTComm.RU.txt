@@ -1,1 +1,0 @@
-vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@488e167c4c27.vps.myjino.ru:443?type=xhttp&security=tls&path=/5a4d38a091f7202f6a0b6faa&sni=488e167c4c27.vps.myjino.ru&fp=edge#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - JSC RTComm.RU ┇ 195.161.55.25

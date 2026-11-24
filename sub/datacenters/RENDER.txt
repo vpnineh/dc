@@ -1,1 +1,1 @@
-vless://7ee2a33c-94c0-4af7-8f86-f42bef3e9e02@render.com:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RENDER ┇ 216.24.57.1
+vless://517c786d-84cd-4401-b638-d3c63c739a2b@render.com:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RENDER ┇ 216.24.57.1

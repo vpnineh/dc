@@ -1,4 +1,1 @@
-vless://fdbd8fb8-7d27-4bd8-9da1-1e42c4876835@finlandnovemberone.best:443?type=xhttp&security=reality&path=/1269af64dcc9/726643dd&sni=finlandnovemberone.best&pbk=5INjcaKWv9Yfn62Igz2_xfw1PNgEtroCkKqd0c-wMA4&sid=a8329724e1e60d85#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Aeza International Ltd ┇ 150.241.71.0
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
-vless://8850dcb3-3978-488e-899c-18def71e1ad9@pl.galacticworld.online:443?type=tcp&security=reality&sni=pl.galacticworld.online&fp=chrome&flow=xtls-rprx-vision&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.87.52
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 213.176.92.168

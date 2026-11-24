@@ -1,2 +1,2 @@
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru14.net:443?type=tcp&security=tls&sni=app.streamru14.net&fp=chrome&flow=xtls-rprx-vision#KR 🇰🇷 ┇ VLESS-TCP-TLS - Ntte Global Network Brand Name ┇ 88.216.70.62
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@o685y.save-node.com:443?type=tcp&security=none&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Ntte Global Network Brand Name ┇ 88.216.70.125
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@o685y.save-node.com:443?type=ws&security=tls&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&sni=o685y.save-node.com&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Ntte Global Network Brand Name ┇ 88.216.70.125

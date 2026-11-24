@@ -1,1 +1,1 @@
-vless://6b1607f1-3a08-4681-8abd-83663a8155e7@185.14.29.29:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 185.14.29.29
+vless://ce18d0eb-5c71-41f9-96e5-1632e22456e4@195.123.240.65:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 195.123.240.65

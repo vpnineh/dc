@@ -1,2 +1,0 @@
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?type=tcp&security=reality#IL 🇮🇱 ┇ VLESS-TCP-RLT - Bezeq International Ltd. ┇ 79.182.70.232
-vless://26843758-24de-4f76-b5d0-624038e353c4@79.182.70.192:443?type=tcp&security=reality#IL 🇮🇱 ┇ VLESS-TCP-RLT - Bezeq International Ltd. ┇ 79.182.70.192

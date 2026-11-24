@@ -1,1 +1,1 @@
-vless://92a188aa-2e86-4557-bd30-b2079a70f824@uuyjnfbv.localip.ir:2087?type=tcp&security=tls&path=/&sni=uuyjnfbv.localip.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - dataforest GmbH ┇ 94.103.168.62
+vless://92a188aa-2e86-4557-bd30-b2079a70f824@uuyjnfbv.localip.ir:2087?type=tcp&security=tls&sni=uuyjnfbv.localip.ir&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - dataforest GmbH ┇ 94.103.168.62

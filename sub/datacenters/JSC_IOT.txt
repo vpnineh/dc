@@ -1,3 +1,2 @@
 vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@msk-01.freegate.win:443?type=tcp&security=reality&sni=msk-01.freegate.win&fp=chrome&flow=xtls-rprx-vision&pbk=wDDyZZJfgJHB6OOrdpLgAk18P2j9tZrxgOxOB_s7Sws#GB 🇬🇧 ┇ VLESS-TCP-RLT - JSC IOT ┇ 91.107.120.65
-vless://db89d2f0-fda5-40fa-b1e4-3a405624ff28@ventio.ferreo.sbs:443?type=tcp&security=reality&sni=ventio.ferreo.sbs&fp=chrome&flow=xtls-rprx-vision&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 188.120.244.3
-vless://04aaff13-ffc2-4b31-a2e7-bd4292a45d26@riskfreewayoveruse.ferreo.sbs:443?type=tcp&security=reality&sni=riskfreewayoveruse.ferreo.sbs&fp=firefox&flow=xtls-rprx-vision&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC IOT ┇ 62.181.44.178
+vless://9d249510-b47e-4b3e-a2d7-b188065a259f@79.174.12.251:8407?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC IOT ┇ 79.174.12.251

@@ -1,4 +1,5 @@
-vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.91.54.162
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=none&path=/vless#CH 🇨🇭 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 138.124.70.41
+vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?type=tcp&security=reality&sni=45.91.54.162&fp=firefox&flow=xtls-rprx-vision&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980#GB 🇬🇧 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.91.54.162
 vless://511bd682-3bd7-49be-a227-7fe9c6c81d85@dl.se.cardplaystore.com:8080?type=tcp&security=none&path=/#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 2.56.119.163
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.144.28.39
 vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.88.176.223

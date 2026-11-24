@@ -1,1 +1,1 @@
-vless://65b31077-472d-418d-97fc-9172db5cb3e0@helsolutai.company:443?type=ws&security=tls&path=/bot-e9093ef3ee&sni=helsolutai.company&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.232.27
+vless://00000000-0000-0001-0000-000000000000@api.14887277.xyz:443?type=tcp&security=none&path=/session#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Ddos-guard Ltd ┇ 185.178.208.167

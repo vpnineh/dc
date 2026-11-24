@@ -1,0 +1,1 @@
+vless://d81db550-4787-467e-b98a-579ee9d41999@138.16.206.147:9114?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - BROWN ┇ 138.16.206.147

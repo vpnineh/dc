@@ -1,1 +1,2 @@
+vless://a346c521-7a7f-452b-9356-a4893feb5982@78.17.215.141:443?type=tcp&security=reality#IE 🇮🇪 ┇ VLESS-TCP-RLT - BT Communications Ireland Limited ┇ 78.17.215.141
 vless://cfacbb6f-967c-43d9-b8f6-2c137150946c@static.152.3.18.78.clients.your-server.de:8443?type=tcp&security=tls#IE 🇮🇪 ┇ VLESS-TCP-TLS - BT Communications Ireland Limited ┇ 78.18.3.152

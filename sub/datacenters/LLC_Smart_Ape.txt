@@ -1,1 +1,0 @@
-vless://fdd8114b-977d-4bb1-b675-a20af8ad41f5@alt.edge-assets.ru:443?type=http&security=tls&path=/e/82tjjqcl-zc2ywbqi-6v0lp8td-u9yssr5w/api/v1/nhde5se4/sync/&sni=alt.edge-assets.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - LLC Smart Ape ┇ 31.177.111.225

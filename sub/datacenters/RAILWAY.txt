@@ -1,11 +1,4 @@
-vless://53659727-926e-422b-a9e4-080a6aba6ff9@junction.proxy.rlwy.net:31887?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.241
-vless://50b9f590-3c14-46dc-ad40-cf693a80b3eb@zephyr.proxy.rlwy.net:25358?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.227
-vless://27741db3-6d21-4965-97a0-be171b635986@switchback.proxy.rlwy.net:37106?type=httpupgrade&security=none#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.230
-vless://b1102e09-f8ad-4cb7-9070-1f1f2a7bced1@mainline.proxy.rlwy.net:41469?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.234
-vless://3e9ca8ee-497e-4c4a-9162-aebb7dcfa785@caboose.proxy.rlwy.net:23550?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.253
-vless://ad9a39c7-00ca-4ba5-b232-1e9bd9aee957@sakura.proxy.rlwy.net:31992?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RAILWAY ┇ 66.33.22.221
-vless://0d93e96f-8415-47af-b600-7d22d3231daa@66.33.22.226:42699?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.226
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIzNSIsImFkZCI6InlhbWFiaWtvLnByb3h5LnJsd3kubmV0IiwicG9ydCI6NDkyMzIsImlkIjoiNzk3YjRlNmQtMGQyNC00OGFlLThmMTAtMzUxZWFhYThlZDg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://0d93e96f-8415-47af-b600-7d22d3231daa@66.33.22.226:42699?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.226
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFJBSUxXQVkgXHUyNTA3IDY2LjMzLjIyLjIyMCIsImFkZCI6ImFsdGFyaWEucHJveHkucmx3eS5uZXQiLCJwb3J0Ijo0NDUxOCwiaWQiOiI2ODUyODQ0OC01YzIzLTRhZGYtOGI5Zi1jMThmZDg4YTQxZGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://aaf616f4-5401-471a-b9c9-d2709e8404c9@66.33.22.234:12403?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RAILWAY ┇ 66.33.22.234
-vless://2dc4a365-8176-4e39-97fd-21c8b3a2b286@viaduct.proxy.rlwy.net:20231?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RAILWAY ┇ 66.33.22.243

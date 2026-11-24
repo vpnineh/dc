@@ -1,0 +1,1 @@
+vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@ch.mntw.lol:443?type=tcp&security=reality&sni=ch.mntw.lol&fp=chrome&flow=xtls-rprx-vision&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&sid=76d0389e457fcba0#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 195.15.207.252

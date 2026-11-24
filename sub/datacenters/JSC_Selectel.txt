@@ -1,0 +1,1 @@
+vless://57d5014c-9eba-4289-bacd-bdd28d51001c@ruselec-38466e.atlanta-games.com:443?type=tcp&security=tls&sni=ruselec-38466e.atlanta-games.com&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC Selectel ┇ 46.182.24.24

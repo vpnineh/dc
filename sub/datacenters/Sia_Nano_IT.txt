@@ -1,3 +1,3 @@
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@lt.3apes.pro:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - Sia Nano IT ┇ 185.81.129.162
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@lite.3apes.pro:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - Sia Nano IT ┇ 185.81.129.161
+vless://13908eee-ea78-4363-adab-6cca98ecfce3@lt.3apes.pro:443?type=tcp&security=reality&sni=lt.3apes.pro&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ#LV 🇱🇻 ┇ VLESS-TCP-RLT - Sia Nano IT ┇ 185.81.129.162
 vless://13908eee-ea78-4363-adab-6cca98ecfce3@lites.3apes.pro:443?type=tcp&security=reality&sni=lites.3apes.pro&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ#LV 🇱🇻 ┇ VLESS-TCP-RLT - Sia Nano IT ┇ 185.81.129.197
+vless://13908eee-ea78-4363-adab-6cca98ecfce3@lite.3apes.pro:443?type=tcp&security=reality&sni=lite.3apes.pro&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ#LV 🇱🇻 ┇ VLESS-TCP-RLT - Sia Nano IT ┇ 185.81.129.161

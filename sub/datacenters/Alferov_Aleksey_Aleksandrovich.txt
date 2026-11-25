@@ -1,0 +1,1 @@
+vless://4eb87bcf-713a-4abc-9aea-e5840309161c@antizapnet.com:443?type=tcp&security=reality&sni=antizapnet.com&fp=firefox&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505#GB 🇬🇧 ┇ VLESS-TCP-RLT - Alferov Aleksey Aleksandrovich ┇ 88.210.62.147

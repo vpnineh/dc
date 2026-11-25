@@ -1,3 +1,2 @@
-vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 193.160.208.240
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?type=grpc&security=tls&sni=xssite.webredirect.org&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Jsc timeweb ┇ 147.45.175.81
-vless://a077dc9a-712f-48ea-b75c-d94af64011ec@188.225.46.6:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 188.225.46.6
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?type=xhttp&security=tls&path=/assets/twru01/#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 193.160.208.240

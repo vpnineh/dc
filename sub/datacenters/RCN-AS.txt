@@ -1,1 +1,1 @@
-vless://86420b69-84f9-4726-ab17-fb0a7bc05d8f@195.226.93.224:443?type=xhttp&security=reality&path=/&sni=n2.fernstatic.com&fp=chrome&pbk=xRIN4AZSp2c_yaCurN9DNoh0q8zSj-AlMCflpb1pwBA&sid=00a9d4acc75cf31c#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RCN-AS ┇ 195.226.93.224
+vless://ad295072-0049-4981-a9aa-6314c43e87e5@n2.fernstatic.com:443?type=xhttp&security=reality&path=/&sni=n2.fernstatic.com&fp=firefox&pbk=xRIN4AZSp2c_yaCurN9DNoh0q8zSj-AlMCflpb1pwBA&sid=00a9d4acc75cf31c#US 🇺🇸 ┇ VLESS-XHTTP-RLT - RCN-AS ┇ 195.226.93.224

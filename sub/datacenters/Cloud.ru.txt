@@ -1,3 +1,1 @@
-vless://59db3b91-48e2-405f-a9a1-7ef11c957104@web.belka.tv:443?type=tcp&security=reality&sni=web.belka.tv&fp=firefox&flow=xtls-rprx-vision&pbk=D0VJmmIifi3bUyMzYYNwEU0X28N4JK-jDAmCCf8hZEo&sid=26e2b503fada0e3a#RU 🇷🇺 ┇ VLESS-TCP-RLT - Cloud.ru ┇ 176.108.243.168
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@213.171.24.52:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Cloud.ru ┇ 213.171.24.52
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@87.242.94.43:443?type=ws&security=tls&path=/api/v2/session/CAgikYAkk4z7&sni=87.242.94.43#RU 🇷🇺 ┇ VLESS-WS-TLS - Cloud.ru ┇ 87.242.94.43

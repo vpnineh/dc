@@ -1,1 +1,0 @@
-vless://511bd682-3bd7-49be-a227-7fe9c6c81d85@dl.us.cardplaystore.com:8080?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - WINDSTREAM ┇ 104.252.77.84

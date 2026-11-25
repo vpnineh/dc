@@ -1,1 +1,0 @@
-vless://9d249510-b47e-4b3e-a2d7-b188065a259f@79.174.12.251:8407?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC IOT ┇ 79.174.12.251

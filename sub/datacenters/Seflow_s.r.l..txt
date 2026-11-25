@@ -1,1 +1,0 @@
-vless://b4738e59-2113-48a1-9ca5-c7c83b56378c@5.104.74.48:8443?type=tcp&security=reality&sni=forum-nl-p1.ovchinkasp.ru&fp=chrome&flow=xtls-rprx-vision&pbk=kJsnrk06lPN3juIX5zXm1Sc_LUQcM5ueZ0l2HC6HEjI&sid=9ae55c76092c774a#IT 🇮🇹 ┇ VLESS-TCP-RLT - Seflow s.r.l. ┇ 5.104.74.48

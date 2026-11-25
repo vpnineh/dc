@@ -1,0 +1,2 @@
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?type=ws&security=tls&sni=matrix.learnpodedu.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - LEASEWEB-USA-SFO ┇ 141.193.213.21
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?type=ws&security=tls&path=/&sni=matrix.learnpodedu.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - LEASEWEB-USA-SFO ┇ 141.193.213.20

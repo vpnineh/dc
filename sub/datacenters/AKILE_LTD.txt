@@ -1,0 +1,1 @@
+vless://bf14dc50-e9f2-49fd-8642-620446edeafb@83.147.14.62:8443?type=ws&security=tls&fp=chrome#TW 🇹🇼 ┇ VLESS-WS-TLS - AKILE LTD ┇ 83.147.14.62

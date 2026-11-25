@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBEYWRlaCBQYXlkYXIgQ28gKEx0ZCkgXHUyNTA3IDQ2LjI5LjM0LjI0NiIsImFkZCI6ImRsMS5hcm1kLmZ1biIsInBvcnQiOjQ0MywiaWQiOiI5MjI2MmE0ZC0xZDViLTQ3NDEtYTJkMC03YjMxNjllOTYzZWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://e7e0da99-901a-4b1e-9f5c-17d5d0923edd@cdn.shop.mygharehshop.ir:41230?type=tcp&security=tls&sni=cdn.shop.mygharehshop.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Web Dadeh Paydar Co (Ltd) ┇ 194.146.69.18

@@ -1,1 +1,0 @@
-vless://4552418c-4088-47e3-8ff5-6b73dda98b14@185.138.90.27:8443?type=tcp&security=reality&sni=77.88.8.8&fp=chrome&flow=xtls-rprx-vision&pbk=tm1f7W3RTgSx1F6NsoE32TborUxVe1udZQr4LhDAIio&sid=2556e81dea7c03c3#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yug-Link Ltd. ┇ 185.138.90.27

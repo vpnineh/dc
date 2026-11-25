@@ -1,2 +1,0 @@
-vless://13315c16-d89c-4f99-9ff9-72f3f0bdc0a4@dl2.mbndadwsdf132131.torkey.ir:443?type=ws&security=tls&path=/games/fortnite&sni=dl2.mbndadwsdf132131.torkey.ir&fp=edge#IR 🇮🇷 ┇ VLESS-WS-TLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.177
-vless://b1b32a4a-eafd-4deb-baa0-c380189c3dcc@dl3.mbndadwsdf132131.torkey.ir:8443?type=xhttp&security=tls&path=/assets/v1&sni=dl3.mbndadwsdf132131.torkey.ir#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.177

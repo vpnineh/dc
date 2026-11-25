@@ -1,0 +1,2 @@
+vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.249:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 176.114.95.249
+vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.245:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 176.114.95.245

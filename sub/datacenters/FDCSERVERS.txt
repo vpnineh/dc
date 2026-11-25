@@ -1,2 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@dedic-nl-new.failspace.top:443?type=tcp&security=tls&sni=dedic-nl-new.failspace.top&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - FDCSERVERS ┇ 50.7.120.164
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart2.khinikadze.com:443?type=tcp&security=reality&sni=smart2.khinikadze.com&fp=chrome&flow=xtls-rprx-vision&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8#US 🇺🇸 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 50.7.176.65

@@ -1,3 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdpdGkgU2VjdXJlIENsb3VkIExMQyBcdTI1MDcgMjE3LjYwLjI0My41NSIsImFkZCI6IjIubWFkb3ZwLmNvbS50ciIsInBvcnQiOjIwNTMsImlkIjoiNWEzYTllMjItNzY4ZC00YWVlLWEzM2EtZGVhOTcyNDk0NGQ0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://f140f9ea-af8b-4924-64e1-f5557c0bfb19@bs.cexora.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=bs.cexora.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.156
 vless://f8a8b40d-a714-43bf-022a-8b3e3ff2e642@s2.zynetraq.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s2.zynetraq.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.145
-vless://9c5e958d-8963-4fd2-4932-e77a5ac7492e@bs.cexora.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=bs.cexora.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.156
+vless://3c100886-f0c3-49da-9b0d-626201511d35@sos.zompen.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=sos.zompen.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.143
+vless://cc947cb5-518f-4946-654f-a815d388dbe5@s10.memqexa.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=s10.memqexa.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 212.80.9.148

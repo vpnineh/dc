@@ -1,2 +1,2 @@
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@178.236.240.66:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Pronet LLC ┇ 178.236.240.66
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@94.228.167.18:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Pronet LLC ┇ 94.228.167.18
+vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@178.236.240.66:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Pronet LLC ┇ 178.236.240.66

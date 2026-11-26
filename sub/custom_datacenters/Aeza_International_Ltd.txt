@@ -1,2 +1,2 @@
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?type=grpc&security=reality&sni=15b171g.nl7.h1clayd.click&fp=chrome&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 89.169.54.244
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@e60833x.nl7.h1clayd.click:443?type=xhttp&security=reality&path=/d20896a4ce30&sni=e60833x.nl7.h1clayd.click&fp=chrome&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&sid=2d2598d60447a967#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Aeza International Ltd ┇ 89.169.54.244
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16

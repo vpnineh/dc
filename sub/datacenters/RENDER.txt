@@ -1,2 +1,2 @@
-vless://eb6ba095-8184-4a85-992f-7a42049124cc@render.com:2087?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RENDER ┇ 216.24.57.1
-vless://ed809ef1-338d-4355-b9e8-2de0e522202f@render.com:2095?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - RENDER ┇ 216.24.57.1
+vless://37e9cb9d-4e0c-47a1-956e-41a6998ea4e7@render.com:2053?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RENDER ┇ 216.24.57.1
+vless://c348f38e-0963-4469-9fe6-db26a8c261ca@216.24.57.1:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RENDER ┇ 216.24.57.1

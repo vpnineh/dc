@@ -1,1 +1,0 @@
-vless://2ae0670d-0bdf-409e-9a55-4e970252d378@37.235.247.81:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - LANTA Ltd ┇ 37.235.247.81

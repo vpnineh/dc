@@ -1,1 +1,0 @@
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@folio.basterdym.asia:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Netnorth Limited ┇ 82.148.242.107

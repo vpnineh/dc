@@ -1,2 +1,3 @@
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@e60833x.nl7.h1clayd.click:443?type=xhttp&security=reality&path=/d20896a4ce30&sni=e60833x.nl7.h1clayd.click&fp=chrome&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&sid=2d2598d60447a967#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Aeza International Ltd ┇ 89.169.54.244
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 89.208.113.16
+vless://f2d2907c-1d74-43eb-8fd2-fc55dfd92427@194.26.229.207:2200?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 194.26.229.207
+vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?type=ws&security=none&path=/v1#RU 🇷🇺 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 194.26.229.207

@@ -1,1 +1,2 @@
+vless://0ed9418b-e687-4c2d-8869-7e368c44887e@191.101.8.41:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NexonHost Srl ┇ 191.101.8.41
 vless://0ed9418b-e687-4c2d-8869-7e368c44887e@nl40.homelab-cdn.cloud:8443?type=grpc&security=reality&sni=nl40.homelab-cdn.cloud&fp=chrome&pbk=NW2c4t6gXODenb0_Mo5Qf-1nrJr5xFQm30zf-IVfHjY&sid=08#AE 🇦🇪 ┇ VLESS-GRPC-RLT - NexonHost Srl ┇ 191.101.8.40

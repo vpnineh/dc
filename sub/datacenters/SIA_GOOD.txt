@@ -1,1 +1,1 @@
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ru1.japancase.site:443?type=tcp&security=reality&sni=ru1.japancase.site&flow=xtls-rprx-vision&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&sid=5b555442d5975d6b#RU 🇷🇺 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.76.241.241
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ru1.japancase.site:443?type=tcp&security=reality&sni=ru1.japancase.site&fp=edge&flow=xtls-rprx-vision&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&sid=5b555442d5975d6b#RU 🇷🇺 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.76.241.241

@@ -1,3 +1,0 @@
-vless://13bda8f2-02af-475f-a9b6-2dbc7f023ab5@199.232.78.159:443?type=xhttp&security=tls&path=/gxh&sni=cdn.akamai.steamstatic.com&fp=ios#IT 🇮🇹 ┇ VLESS-XHTTP-TLS - TELECOM ITALIA SPARKLE S.p.A. ┇ 199.232.78.159
-vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@wwww.qarvian.ir:443?type=ws&security=tls&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&sni=cdn.akamai.steamstatic.com#IT 🇮🇹 ┇ VLESS-WS-TLS - TELECOM ITALIA SPARKLE S.p.A. ┇ 146.75.57.111
-vless://7e8c5916-2070-4013-864d-be767d4e2fd7@167.82.64.46:443?type=xhttp&security=tls&path=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&sni=cdn.akamai.steamstatic.com&fp=chrome#IT 🇮🇹 ┇ VLESS-XHTTP-TLS - TELECOM ITALIA SPARKLE S.p.A. ┇ 167.82.64.46

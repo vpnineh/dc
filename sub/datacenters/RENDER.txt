@@ -1,1 +1,1 @@
-vless://ed809ef1-338d-4355-b9e8-2de0e522202f@render.com:2095?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - RENDER ┇ 216.24.57.1
+vless://ed809ef1-338d-4355-b9e8-2de0e522202f@render.com:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RENDER ┇ 216.24.57.1

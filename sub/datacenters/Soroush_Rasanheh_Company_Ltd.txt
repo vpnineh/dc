@@ -1,0 +1,5 @@
+vless://a69b35e6-7eb2-ba17-0a16-bf4e65fc440f@fr.hyperlinkbt.com:11107?type=tcp&security=tls&sni=fr.hyperlinkbt.com&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Soroush Rasanheh Company Ltd ┇ 62.220.121.197
+vless://a69b35e6-7eb2-ba17-0a16-bf4e65fc440f@mse.hyperlinkbt.com:11150?type=tcp&security=tls&sni=mse.hyperlinkbt.com&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Soroush Rasanheh Company Ltd ┇ 62.220.121.196
+vless://a69b35e6-7eb2-ba17-0a16-bf4e65fc440f@mtr.hyperlinkbt.com:11113?type=tcp&security=tls&sni=mtr.hyperlinkbt.com&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Soroush Rasanheh Company Ltd ┇ 62.220.121.197
+vless://a69b35e6-7eb2-ba17-0a16-bf4e65fc440f@mch.hyperlinkbt.com:11101?type=tcp&security=tls&sni=mch.hyperlinkbt.com&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Soroush Rasanheh Company Ltd ┇ 62.220.121.197
+vless://a69b35e6-7eb2-ba17-0a16-bf4e65fc440f@de-br.hyperlinkbt.com:11152?type=tcp&security=tls&sni=de-br.hyperlinkbt.com&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Soroush Rasanheh Company Ltd ┇ 62.220.121.198

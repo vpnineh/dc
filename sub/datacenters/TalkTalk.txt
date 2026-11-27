@@ -1,1 +1,0 @@
-vless://52e854c3-f891-4eb5-943a-fe385f59e8fb@80.47.13.56:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - TalkTalk ┇ 80.47.13.56

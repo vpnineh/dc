@@ -1,1 +1,1 @@
-vless://633abdfb-ccea-4e59-a062-fc8698512467@highspeed.sahanwickramasinghe.com:443?type=tcp&security=tls&sni=aka.ms&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - AKAMAI-AS ┇ 142.91.103.108
+vless://9afdc92d-4e88-4787-8d75-c95f7685d294@free-server.techsonic.dev:443?type=tcp&security=tls&sni=aka.ms&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - AKAMAI-AS ┇ 83.149.90.223

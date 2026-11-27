@@ -1,1 +1,2 @@
+vless://1c942ed7-fef9-45c6-9873-91f93075185d@v1.nimbaha13.ir:8880?type=ws&security=none&path=/dcfrtt#TR 🇹🇷 ┇ VLESS-WS-NTLS - Murat Aktas ┇ 78.135.77.88
 vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@188.132.174.14:24?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Murat Aktas ┇ 188.132.174.14

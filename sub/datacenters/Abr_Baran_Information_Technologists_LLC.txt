@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWJyIEJhcmFuIEluZm9ybWF0aW9uIFRlY2hub2xvZ2lzdHMgTExDIFx1MjUwNyA2Mi42MC4xNDYuMjQxIiwiYWRkIjoicm1hMi5ybWFhY2NzaG9wLmlyIiwicG9ydCI6MTIxNDYsImlkIjoiODNjMjE3MzUtMjJhMi00YjkwLTg0NTctMzY1YTZlN2ZlZjE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii9ybWEifQ
+vless://19e4c137-a062-4392-a484-ccc1297fa86e@a.spidermobile.ir:8880?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Abr Baran Information Technologists LLC ┇ 194.107.116.22

@@ -1,1 +1,1 @@
-vless://e0d0a99b-0c54-4e82-8ed4-5761e6f21b72@ne2.zovpn.pro:443?type=tcp&security=reality&path=/germany-xhttp#CH 🇨🇭 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 138.124.79.67
+vless://8fe5187b-f767-47ea-889e-946268b993f1@ne2.zovpn.pro:443?type=xhttp&security=reality&path=/germany-xhttp&sni=ne2.zovpn.pro&fp=chrome&pbk=ucleuGPWvBGG_8cIjDdymbz6IBpFb052qfITM9EXA3k&sid=4be3b5e3#CH 🇨🇭 ┇ VLESS-XHTTP-RLT - Host Telecom Ltd ┇ 138.124.79.67

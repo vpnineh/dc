@@ -1,0 +1,1 @@
+vless://c3d91e48-6d7c-406d-aea3-b99c575dcd80@id1vpn.jagoanip.my.id:443?type=ws&security=tls&path=/vless&sni=id1vpn.jagoanip.my.id#ID 🇮🇩 ┇ VLESS-WS-TLS - PT. Media Antar Nusa ┇ 110.232.84.214

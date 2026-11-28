@@ -1,1 +1,0 @@
-vless://66cbe61c-33eb-4f3c-a71f-f00afb1e7130@tablet.samesung.tr:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-AES ┇ 3.94.150.102

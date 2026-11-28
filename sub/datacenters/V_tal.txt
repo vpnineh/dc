@@ -1,8 +1,8 @@
-vless://e8b7abeb-98d4-44b6-ba91-3adae6086108@eu121.cdn77.icu:443?type=tcp&security=reality&sni=eu121.cdn77.icu&fp=chrome&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.58.133.77
-vless://259ec8bc-5a6b-4b33-8a71-c40e8d150c24@191.217.253.11:443?type=tcp&security=reality&sni=1.4.8.8&fp=chrome&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 191.217.253.11
 vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?type=tcp&security=reality&sni=cdn6.goonars.com&fp=chrome&flow=xtls-rprx-vision&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.51.10.240
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2053?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#BR 🇧🇷 ┇ VLESS-TCP-TLS - V tal ┇ 191.217.215.228
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?type=grpc&security=tls&sni=vps3.nemnogogo.com&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 201.51.12.98
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.186:2053?type=tcp&security=tls&sni=191.217.215.186&fp=chrome&flow=xtls-rprx-vision#BR 🇧🇷 ┇ VLESS-TCP-TLS - V tal ┇ 191.217.215.186
 vless://6dd17e9f-5b7c-466d-a53a-7c30f5dc8338@191.217.253.12:443?type=tcp&security=reality&sni=191.217.253.12&flow=xtls-rprx-vision&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 191.217.253.12
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@swo2.nexfile.net:4443?type=xhttp&security=tls&path=/api/v1/sync/&sni=swo2.nexfile.net&fp=chrome#BR 🇧🇷 ┇ VLESS-XHTTP-TLS - V tal ┇ 179.253.80.175
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?type=grpc&security=tls&sni=vps3.nemnogogo.com&fp=chrome#BR 🇧🇷 ┇ VLESS-GRPC-TLS - V tal ┇ 201.51.12.98
+vless://259ec8bc-5a6b-4b33-8a71-c40e8d150c24@h-pl.ok-habits.xyz:443?type=tcp&security=reality&sni=1.4.8.8&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 191.217.253.11
+vless://e8b7abeb-98d4-44b6-ba91-3adae6086108@eu121.cdn77.icu:443?type=tcp&security=reality&sni=eu121.cdn77.icu&fp=chrome&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#BR 🇧🇷 ┇ VLESS-TCP-RLT - V tal ┇ 201.58.133.77
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.186:2053?type=tcp&security=tls&sni=191.217.215.186&fp=chrome&flow=xtls-rprx-vision#BR 🇧🇷 ┇ VLESS-TCP-TLS - V tal ┇ 191.217.215.186
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2053?type=tcp&security=tls&sni=191.217.215.228&fp=chrome&flow=xtls-rprx-vision#BR 🇧🇷 ┇ VLESS-TCP-TLS - V tal ┇ 191.217.215.228

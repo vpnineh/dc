@@ -1,0 +1,1 @@
+vless://9c69546a-e435-4037-bc63-f9e5829a8be3@static.lormit.digital:443?type=tcp&security=reality&sni=static.lormit.digital&flow=xtls-rprx-vision&pbk=k_DjUz2cP6QGuDVwyvTrk3QTuJVntXCPjxJmO-UZchI&sid=9f07e56cfce2b9a3#TR 🇹🇷 ┇ VLESS-TCP-RLT - Dgn Teknoloji A.s. ┇ 185.141.34.93

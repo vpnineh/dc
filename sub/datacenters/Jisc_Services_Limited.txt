@@ -1,0 +1,1 @@
+vless://5195d9f5-450b-4e7a-a4e2-d39ce746fec7@shafterckbar.ticklitickli.ir:2087?type=ws&security=tls&path=/&sni=shafterckbar.ticklitickli.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Jisc Services Limited ┇ 136.148.77.181
